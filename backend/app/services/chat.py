@@ -50,6 +50,116 @@ def _normalize_text(text: str) -> str:
     return s
 
 
+_cutoff_rows_cache: list[dict] | None = None
+
+
+def _load_cutoff_rows() -> list[dict]:
+    global _cutoff_rows_cache
+    if _cutoff_rows_cache is not None:
+        return _cutoff_rows_cache
+
+    candidates = [
+        Path(settings.data_dir) / "diem_chuan_THPT.json",
+        Path("data") / "diem_chuan_THPT.json",
+        Path("../data") / "diem_chuan_THPT.json",
+    ]
+    for p in candidates:
+        if not p.exists():
+            continue
+        try:
+            raw = json.loads(p.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+        if isinstance(raw, list):
+            _cutoff_rows_cache = [r for r in raw if isinstance(r, dict)]
+            return _cutoff_rows_cache
+
+    _cutoff_rows_cache = []
+    return _cutoff_rows_cache
+
+
+def _is_cutoff_query(query: str) -> bool:
+    qn = _normalize_text(query)
+    return "diem chuan" in qn or "lay bao nhieu diem" in qn
+
+
+def _query_tokens(query: str) -> set[str]:
+    stop = {
+        "diem",
+        "chuan",
+        "nganh",
+        "truong",
+        "dai",
+        "hoc",
+        "hoc",
+        "vien",
+        "bao",
+        "nhieu",
+        "la",
+        "nam",
+        "tuyen",
+        "sinh",
+        "tai",
+        "cua",
+        "va",
+    }
+    return {t for t in _normalize_text(query).split() if len(t) >= 2 and t not in stop}
+
+
+def _lookup_cutoff_from_clean_data(query: str, university_code: str | None) -> str | None:
+    if not university_code or not _is_cutoff_query(query):
+        return None
+
+    rows = [
+        r
+        for r in _load_cutoff_rows()
+        if str(r.get("ma-truong") or "").strip().upper() == university_code.upper()
+    ]
+    if not rows:
+        return None
+
+    q_tokens = _query_tokens(query)
+    if not q_tokens:
+        return None
+
+    scored: list[tuple[float, dict]] = []
+    for row in rows:
+        major = str(row.get("ten-nganh") or "")
+        major_tokens = {t for t in _normalize_text(major).split() if len(t) >= 2}
+        if not major_tokens:
+            continue
+        overlap = len(q_tokens & major_tokens)
+        if overlap <= 0:
+            continue
+        score = overlap + overlap / max(1, len(major_tokens))
+        scored.append((score, row))
+
+    if not scored:
+        return None
+
+    scored.sort(key=lambda x: x[0], reverse=True)
+    top = [row for _, row in scored[:5]]
+
+    lines = []
+    for row in top:
+        major = str(row.get("ten-nganh") or "").strip()
+        major_code = str(row.get("ma-nganh") or "").strip()
+        combo = str(row.get("to-hop") or "").strip()
+        score = row.get("diem-chuan")
+        note = str(row.get("ghi-chu") or "").strip()
+        line = f"- {major}"
+        if major_code:
+            line += f" ({major_code})"
+        line += f": {score}"
+        if combo:
+            line += f" | Tổ hợp: {combo}"
+        if note:
+            line += f" | Ghi chú: {note}"
+        lines.append(line)
+
+    return "Mình có thông tin điểm chuẩn gần nhất như sau:\n" + "\n".join(lines)
+
+
 def _load_school_records() -> list[dict[str, str]]:
     candidates = [
         Path(settings.data_dir) / "truong.json",
@@ -219,11 +329,23 @@ class ChatService:
     ) -> ChatResponse:
         session = self._ensure_session_id(session_id)
         recent_queries = self._get_recent_queries(session)
-        resolved_code = university_code or _detect_school_code_from_query(query)
+        resolved_code = retrieval_service._resolve_university_code(query, university_code)
         hits = retrieval_service.search(
             query=query,
             university_code=resolved_code,
         )
+
+        direct_cutoff_answer = _lookup_cutoff_from_clean_data(query, resolved_code)
+        if direct_cutoff_answer and len(hits) <= 1:
+            self._push_query(session, query)
+            return ChatResponse(
+                answer=direct_cutoff_answer,
+                session_id=session,
+                used_chunks=len(hits),
+                data_sufficient=True,
+                note="direct-cutoff-clean-data",
+            )
+
         answer, sufficient, note = _render_answer_from_hits(
             query=query,
             hits=hits,
