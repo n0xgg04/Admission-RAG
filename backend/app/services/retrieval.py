@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 import math
+import logging
 import re
 import unicodedata
 from difflib import SequenceMatcher, get_close_matches
@@ -14,6 +15,8 @@ from app.core.config import settings
 from app.models.search import SearchHit
 from app.services.embedding import embedding_service
 from app.services.store import vector_store
+
+logger = logging.getLogger(__name__)
 
 
 def _first_row(value: Any) -> list[Any]:
@@ -36,6 +39,7 @@ class RetrievalService:
     @staticmethod
     def _norm(text: str) -> str:
         s = unicodedata.normalize("NFD", text or "")
+        s = s.replace("đ", "d").replace("Đ", "D")
         s = "".join(ch for ch in s if unicodedata.category(ch) != "Mn")
         s = s.lower()
         s = re.sub(r"[^a-z0-9\s]", " ", s)
@@ -343,6 +347,24 @@ class RetrievalService:
             return [0.0 for _ in scores]
         return [s / mx for s in scores]
 
+    @staticmethod
+    def _is_fact_query(query: str) -> bool:
+        q = RetrievalService._norm(query)
+        markers = [
+            "diem chuan",
+            "diem nganh",
+            "ma nganh",
+            "to hop",
+            "hoc phi",
+            "chi phi",
+            "phuong thuc",
+            "xet tuyen",
+            "o dau",
+            "dia chi",
+            "ma truong",
+        ]
+        return any(m in q for m in markers)
+
     def search(
         self,
         query: str,
@@ -391,11 +413,49 @@ class RetrievalService:
         if not hits:
             return []
 
+        # Prefer QA-pair text as display context for question-only chunks.
+        pair_map: dict[str, str] = {}
+        for h in hits:
+            gid = str(h.metadata.get("qa_group_id") or "")
+            ctype = str(h.metadata.get("chunk_type") or "")
+            if gid and ctype == "qa_pair" and h.text:
+                pair_map[gid] = h.text
+        for h in hits:
+            gid = str(h.metadata.get("qa_group_id") or "")
+            ctype = str(h.metadata.get("chunk_type") or "")
+            if gid and ctype == "qa_question" and gid in pair_map:
+                h.text = pair_map[gid]
+
+        # Merge per QA group, keep best hit.
+        grouped: dict[str, SearchHit] = {}
+        for h in hits:
+            gid = str(h.metadata.get("qa_group_id") or "")
+            key = gid if gid else h.chunk_id
+            old = grouped.get(key)
+            if old is None or h.score > old.score:
+                grouped[key] = h
+        hits = list(grouped.values())
+
         bm25_scores = self._bm25_score(query, [h.text for h in hits])
+        fact_query = self._is_fact_query(query)
+        w_vec, w_bm25 = (0.55, 0.45) if fact_query else (0.7, 0.3)
         for h, b in zip(hits, bm25_scores, strict=False):
-            h.score = min(1.0, 0.7 * h.score + 0.3 * b)
+            h.score = min(1.0, w_vec * h.score + w_bm25 * b)
 
         hits.sort(key=lambda h: h.score, reverse=True)
+
+        # Scientific debug: top-20 retrieval trace.
+        for i, h in enumerate(hits[:20], start=1):
+            preview = " ".join(h.text.split())[:220]
+            logger.info(
+                "[retrieval-debug] rank=%d chunk_id=%s score=%.4f u=%s type=%s text=%s",
+                i,
+                h.chunk_id,
+                h.score,
+                str(h.metadata.get("university_code") or ""),
+                str(h.metadata.get("chunk_type") or ""),
+                preview,
+            )
         return hits[:k]
 
 

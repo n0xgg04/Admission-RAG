@@ -44,6 +44,7 @@ def _year_scope_notice(query: str) -> str | None:
 
 def _normalize_text(text: str) -> str:
     s = unicodedata.normalize("NFD", text or "")
+    s = s.replace("đ", "d").replace("Đ", "D")
     s = "".join(ch for ch in s if unicodedata.category(ch) != "Mn")
     s = s.lower()
     s = re.sub(r"[^a-z0-9\s]", " ", s)
@@ -51,33 +52,7 @@ def _normalize_text(text: str) -> str:
     return s
 
 
-_cutoff_rows_cache: list[dict] | None = None
 _school_rows_cache: list[dict] | None = None
-
-
-def _load_cutoff_rows() -> list[dict]:
-    global _cutoff_rows_cache
-    if _cutoff_rows_cache is not None:
-        return _cutoff_rows_cache
-
-    candidates = [
-        Path(settings.data_dir) / "diem_chuan_THPT.json",
-        Path("data") / "diem_chuan_THPT.json",
-        Path("../data") / "diem_chuan_THPT.json",
-    ]
-    for p in candidates:
-        if not p.exists():
-            continue
-        try:
-            raw = json.loads(p.read_text(encoding="utf-8"))
-        except Exception:
-            continue
-        if isinstance(raw, list):
-            _cutoff_rows_cache = [r for r in raw if isinstance(r, dict)]
-            return _cutoff_rows_cache
-
-    _cutoff_rows_cache = []
-    return _cutoff_rows_cache
 
 
 def _load_school_rows() -> list[dict]:
@@ -103,149 +78,6 @@ def _load_school_rows() -> list[dict]:
 
     _school_rows_cache = []
     return _school_rows_cache
-
-
-def _is_cutoff_query(query: str) -> bool:
-    qn = _normalize_text(query)
-    if "diem chuan" in qn or "lay bao nhieu diem" in qn:
-        return True
-    # Support common shorthand queries without the word "chuẩn"
-    # e.g. "diem nganh cong nghe thong tin cua ptit"
-    if "diem" in qn and any(k in qn for k in ["nganh", "ma nganh", "to hop", "xet tuyen"]):
-        return True
-    # Also support natural phrasing:
-    # "điểm của ... là bao nhiêu"
-    if "diem" in qn and "bao nhieu" in qn:
-        return True
-    return False
-
-
-def _is_admission_query(query: str) -> bool:
-    qn = _normalize_text(query)
-    keywords = [
-        "tuyen sinh",
-        "phuong thuc",
-        "xet tuyen",
-        "ho so",
-        "dieu kien",
-        "dang ky",
-    ]
-    return any(k in qn for k in keywords)
-
-
-def _is_tuition_query(query: str) -> bool:
-    qn = _normalize_text(query)
-    return any(k in qn for k in ["hoc phi", "chi phi", "hoc phi bao nhieu", "muc phi"])
-
-
-def _is_profile_query(query: str) -> bool:
-    qn = _normalize_text(query)
-    return any(
-        k in qn
-        for k in [
-            "thong tin co ban",
-            "gioi thieu",
-            "o dau",
-            "dia chi",
-            "ma truong",
-            "viet tat",
-            "ten truong",
-        ]
-    )
-
-
-def _lookup_admission_from_school_data(query: str, university_code: str | None) -> str | None:
-    if not university_code or not _is_admission_query(query):
-        return None
-
-    rows = _load_school_rows()
-    school = next(
-        (r for r in rows if str(r.get("ma-truong") or "").strip().upper() == university_code.upper()),
-        None,
-    )
-    if not school:
-        return None
-
-    school_name = str(school.get("ten-truong") or university_code).strip()
-    plan = str(school.get("de-an-tuyen-sinh") or "").strip()
-    if not plan:
-        return None
-
-    # Keep concise, prioritize method lines.
-    lines = [ln.strip(" -•\t") for ln in plan.splitlines() if ln.strip()]
-    method_lines = [ln for ln in lines if "phương thức" in ln.lower() or "xét tuyển" in ln.lower()][:6]
-    intro = lines[0] if lines else ""
-
-    bullets: list[str] = []
-    if intro:
-        bullets.append(f"- {intro}")
-    for ln in method_lines:
-        if ln == intro:
-            continue
-        bullets.append(f"- {ln}")
-
-    if not bullets:
-        preview = " ".join(lines[:4])
-        if not preview:
-            return None
-        bullets = [f"- {preview}"]
-
-    return (
-        f"Thông tin tuyển sinh của {school_name} (2025):\n"
-        + "\n".join(bullets)
-        + "\n\nNếu bạn muốn, mình có thể tra cứu tiếp theo ngành cụ thể để lấy điểm chuẩn và tổ hợp."
-    )
-
-
-def _lookup_tuition_from_school_data(query: str, university_code: str | None) -> str | None:
-    if not university_code or not _is_tuition_query(query):
-        return None
-
-    rows = _load_school_rows()
-    school = next(
-        (r for r in rows if str(r.get("ma-truong") or "").strip().upper() == university_code.upper()),
-        None,
-    )
-    if not school:
-        return None
-
-    school_name = str(school.get("ten-truong") or university_code).strip()
-    tuition = str(school.get("hoc-phi") or "").strip()
-    if not tuition:
-        return None
-
-    return f"Học phí của {school_name} (2025):\n{tuition}"
-
-
-def _lookup_profile_from_school_data(query: str, university_code: str | None) -> str | None:
-    if not university_code or not _is_profile_query(query):
-        return None
-
-    rows = _load_school_rows()
-    school = next(
-        (r for r in rows if str(r.get("ma-truong") or "").strip().upper() == university_code.upper()),
-        None,
-    )
-    if not school:
-        return None
-
-    school_name = str(school.get("ten-truong") or university_code).strip()
-    code = str(school.get("ma-truong") or "").strip()
-    short = str(school.get("ten-viet-tat") or "").strip()
-    province = str(school.get("dia-chi-tinh") or "").strip()
-    address = str(school.get("dia-chi-cu-the") or "").strip()
-
-    lines = [f"Thông tin cơ bản của {school_name}:"]
-    if code:
-        lines.append(f"- Mã trường: {code}")
-    if short:
-        lines.append(f"- Tên viết tắt: {short}")
-    if province:
-        lines.append(f"- Tỉnh/thành: {province}")
-    if address:
-        lines.append(f"- Địa chỉ: {address}")
-
-    return "\n".join(lines)
 
 
 def _resolve_university_code_loose(query: str) -> str | None:
@@ -274,6 +106,18 @@ def _resolve_university_code_loose(query: str) -> str | None:
 
     # 1) Alias phrase match first (deterministic, stronger than fuzzy score)
     phrase_to_code: dict[str, str] = {}
+    phrase_collisions: set[str] = set()
+
+    def add_phrase(phrase: str, code: str) -> None:
+        p = _normalize_text(phrase)
+        if len(p.split()) < 2:
+            return
+        old = phrase_to_code.get(p)
+        if old is None:
+            phrase_to_code[p] = code
+            return
+        if old != code:
+            phrase_collisions.add(p)
     for r in _load_school_rows():
         code = str(r.get("ma-truong") or "").strip().upper()
         name = str(r.get("ten-truong") or "").strip()
@@ -284,7 +128,7 @@ def _resolve_university_code_loose(query: str) -> str | None:
         name_norm = _normalize_text(name)
         short_norm = _normalize_text(short)
         if name_norm:
-            phrase_to_code[name_norm] = code
+            add_phrase(name_norm, code)
 
             # remove common prefixes to build natural alias phrase
             compact = name_norm
@@ -292,10 +136,18 @@ def _resolve_university_code_loose(query: str) -> str | None:
                 if compact.startswith(prefix):
                     compact = compact[len(prefix) :].strip()
             if compact:
-                phrase_to_code[compact] = code
+                add_phrase(compact, code)
+                toks = compact.split()
+                # Add suffix phrases to catch natural mentions like
+                # "trường bưu chính viễn thông" without full official name.
+                for n in range(2, min(5, len(toks)) + 1):
+                    add_phrase(" ".join(toks[-n:]), code)
 
         if short_norm:
-            phrase_to_code[short_norm] = code
+            add_phrase(short_norm, code)
+
+    for p in phrase_collisions:
+        phrase_to_code.pop(p, None)
 
     best_phrase_code = None
     best_phrase_len = 0
@@ -334,142 +186,6 @@ def _resolve_university_code_loose(query: str) -> str | None:
             best_code = code
 
     return best_code if best_score >= 1.15 else None
-
-
-def _query_tokens(query: str) -> set[str]:
-    stop = {
-        "diem",
-        "chuan",
-        "nganh",
-        "truong",
-        "dai",
-        "hoc",
-        "hoc",
-        "vien",
-        "bao",
-        "nhieu",
-        "la",
-        "nam",
-        "tuyen",
-        "sinh",
-        "tai",
-        "cua",
-        "va",
-    }
-    return {t for t in _normalize_text(query).split() if len(t) >= 2 and t not in stop}
-
-
-def _extract_target_major(query: str) -> str | None:
-    q = _normalize_text(query)
-    patterns = [
-        r"(?:diem chuan\s+)?nganh\s+([a-z0-9\s\-\+]{4,120})",
-        r"chuyen nganh\s+([a-z0-9\s\-\+]{4,120})",
-        r"diem\s+cua\s+([a-z0-9\s\-\+]{4,120})",
-    ]
-    for pattern in patterns:
-        m = re.search(pattern, q)
-        if not m:
-            continue
-        candidate = re.split(
-            r"\b(cua|truong|tai|la bao nhieu|nam|xet tuyen|2025|2026)\b", m.group(1)
-        )[0]
-        candidate = re.sub(r"\s+", " ", candidate).strip()
-        if len(candidate) >= 4:
-            return candidate
-    return None
-
-
-def _major_match_strength(target_major: str | None, row_major: str) -> float:
-    if not target_major:
-        return 0.0
-    t_norm = _normalize_text(target_major)
-    r_norm = _normalize_text(row_major)
-    if not t_norm or not r_norm:
-        return 0.0
-    if t_norm in r_norm:
-        return 1.0
-    t_tokens = {t for t in t_norm.split() if len(t) >= 2}
-    r_tokens = {t for t in r_norm.split() if len(t) >= 2}
-    if not t_tokens or not r_tokens:
-        return 0.0
-    overlap = len(t_tokens & r_tokens)
-    if overlap == 0:
-        return 0.0
-    coverage = overlap / max(1, len(t_tokens))
-    precision = overlap / max(1, len(r_tokens))
-    return 0.7 * coverage + 0.3 * precision
-
-
-def _lookup_cutoff_from_clean_data(
-    query: str, university_code: str | None
-) -> tuple[str, bool] | None:
-    if not university_code or not _is_cutoff_query(query):
-        return None
-
-    rows = [
-        r
-        for r in _load_cutoff_rows()
-        if str(r.get("ma-truong") or "").strip().upper() == university_code.upper()
-    ]
-    if not rows:
-        return None
-
-    q_tokens = _query_tokens(query)
-    if not q_tokens:
-        return None
-
-    target_major = _extract_target_major(query)
-
-    scored: list[tuple[float, float, float, dict]] = []
-    for row in rows:
-        major = str(row.get("ten-nganh") or "")
-        major_tokens = {t for t in _normalize_text(major).split() if len(t) >= 2}
-        if not major_tokens:
-            continue
-        overlap = len(q_tokens & major_tokens)
-        if overlap <= 0:
-            continue
-        recall = overlap / max(1, len(major_tokens))
-        precision = overlap / max(1, len(q_tokens))
-        major_strength = _major_match_strength(target_major, major)
-        score = overlap + recall + 2.0 * major_strength
-        scored.append((score, precision, major_strength, row))
-
-    if not scored:
-        return None
-
-    scored.sort(key=lambda x: x[0], reverse=True)
-    top = [row for _, _, _, row in scored[:5]]
-
-    best_score, best_precision, best_major_strength, best_row = scored[0]
-    best_major_tokens = {
-        t for t in _normalize_text(str(best_row.get("ten-nganh") or "")).split() if len(t) >= 2
-    }
-    matched_tokens = len(q_tokens & best_major_tokens)
-    has_exact_major_match = (
-        best_major_strength >= 0.7
-        or (matched_tokens >= 2 and best_precision >= 0.5 and best_score >= 2.2)
-    )
-
-    lines = []
-    for row in top:
-        major = str(row.get("ten-nganh") or "").strip()
-        major_code = str(row.get("ma-nganh") or "").strip()
-        combo = str(row.get("to-hop") or "").strip()
-        score = row.get("diem-chuan")
-        note = str(row.get("ghi-chu") or "").strip()
-        line = f"- {major}"
-        if major_code:
-            line += f" ({major_code})"
-        line += f": {score}"
-        if combo:
-            line += f" | Tổ hợp: {combo}"
-        if note:
-            line += f" | Ghi chú: {note}"
-        lines.append(line)
-
-    answer = "Mình có thông tin điểm chuẩn gần nhất như sau:\n" + "\n".join(lines)
-    return answer, has_exact_major_match
 
 
 def _load_school_records() -> list[dict[str, str]]:
@@ -641,76 +357,14 @@ class ChatService:
     ) -> ChatResponse:
         session = self._ensure_session_id(session_id)
         recent_queries = self._get_recent_queries(session)
-        resolved_code = retrieval_service._resolve_university_code(query, university_code)
-        if not resolved_code:
-            resolved_code = _resolve_university_code_loose(query)
-
-        direct_profile_answer = _lookup_profile_from_school_data(query, resolved_code)
-        if direct_profile_answer:
-            self._push_query(session, query)
-            return ChatResponse(
-                answer=direct_profile_answer,
-                session_id=session,
-                used_chunks=0,
-                data_sufficient=True,
-                note="direct-profile-school-data",
-            )
-
-        direct_tuition_answer = _lookup_tuition_from_school_data(query, resolved_code)
-        if direct_tuition_answer:
-            self._push_query(session, query)
-            return ChatResponse(
-                answer=direct_tuition_answer,
-                session_id=session,
-                used_chunks=0,
-                data_sufficient=True,
-                note="direct-tuition-school-data",
-            )
-
-        direct_admission_answer = _lookup_admission_from_school_data(query, resolved_code)
-        if direct_admission_answer:
-            self._push_query(session, query)
-            return ChatResponse(
-                answer=direct_admission_answer,
-                session_id=session,
-                used_chunks=0,
-                data_sufficient=True,
-                note="direct-admission-school-data",
-            )
+        resolved_code_main = retrieval_service._resolve_university_code(query, university_code)
+        resolved_code_loose = _resolve_university_code_loose(query)
+        resolved_code = resolved_code_main or resolved_code_loose
 
         hits = retrieval_service.search(
             query=query,
             university_code=resolved_code,
         )
-
-        direct_cutoff_result = _lookup_cutoff_from_clean_data(query, resolved_code)
-        if direct_cutoff_result:
-            direct_cutoff_answer, has_exact_match = direct_cutoff_result
-        else:
-            direct_cutoff_answer, has_exact_match = None, False
-
-        # If we can deterministically match the asked major in clean cutoff data,
-        # return it directly (do not let LLM override with a softer fallback).
-        if direct_cutoff_answer and has_exact_match:
-            self._push_query(session, query)
-            return ChatResponse(
-                answer=direct_cutoff_answer,
-                session_id=session,
-                used_chunks=len(hits),
-                data_sufficient=True,
-                note="direct-cutoff-clean-data-exact-major",
-            )
-
-        # Secondary fallback only when retrieval signal is weak.
-        if direct_cutoff_answer and len(hits) <= 1:
-            self._push_query(session, query)
-            return ChatResponse(
-                answer=direct_cutoff_answer,
-                session_id=session,
-                used_chunks=len(hits),
-                data_sufficient=True,
-                note="direct-cutoff-clean-data-weak-retrieval",
-            )
 
         answer, sufficient, note = _render_answer_from_hits(
             query=query,

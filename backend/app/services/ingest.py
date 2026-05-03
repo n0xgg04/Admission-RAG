@@ -21,7 +21,7 @@ def _compact_text(value: Any) -> str:
     return " ".join(str(value).split())
 
 
-def _qa_to_document(qa: dict[str, Any], idx: int) -> tuple[str, str, Metadata]:
+def _qa_to_documents(qa: dict[str, Any], idx: int) -> list[tuple[str, str, Metadata]]:
     question = _compact_text(qa.get("question"))
     answer = _compact_text(qa.get("answer"))
     university_code = _compact_text(qa.get("university_code")).upper()
@@ -40,8 +40,10 @@ def _qa_to_document(qa: dict[str, Any], idx: int) -> tuple[str, str, Metadata]:
     is_global = university_code == "ALL"
     is_hard_negative = intent.startswith("hard_negative") or "hard_negative" in tags_text
 
-    doc_id = f"{university_code or 'UNK'}:qa:{idx}"
-    doc_text = f"Hỏi: {question}\nĐáp: {answer}"
+    base_id = f"{university_code or 'UNK'}:qa:{idx}"
+    pair_id = f"{base_id}:pair"
+    q_id = f"{base_id}:q"
+    pair_text = f"Hỏi: {question}\nĐáp: {answer}"
 
     def infer_scope() -> str:
         return "global" if is_global else "local"
@@ -80,11 +82,20 @@ def _qa_to_document(qa: dict[str, Any], idx: int) -> tuple[str, str, Metadata]:
         "scope": infer_scope(),
         "domain": infer_domain(),
         "source_dataset": "qa_2025_clean",
+        "qa_group_id": base_id,
         "chunk_type": "qa_pair",
     }
     if isinstance(confidence, int | float):
         metadata_dict["confidence"] = float(confidence)
-    return doc_id, doc_text, cast(Metadata, metadata_dict)
+
+    question_meta = dict(metadata_dict)
+    question_meta["chunk_type"] = "qa_question"
+    question_meta["answer_text"] = answer
+
+    return [
+        (pair_id, pair_text, cast(Metadata, metadata_dict)),
+        (q_id, question, cast(Metadata, question_meta)),
+    ]
 
 
 def _is_valid_qa(qa: dict[str, Any]) -> bool:
@@ -154,14 +165,15 @@ class IngestService:
             if not isinstance(qa, dict) or not _is_valid_qa(qa):
                 skipped += 1
                 continue
-            doc_id, doc_text, metadata = _qa_to_document(qa, idx)
-            ids.append(doc_id)
-            docs.append(doc_text)
-            metadatas.append(metadata)
-            code = str(metadata.get("university_code") or "")
-            if code:
-                schools.add(code)
-            processed += 1
+            docs_for_qa = _qa_to_documents(qa, idx)
+            for doc_id, doc_text, metadata in docs_for_qa:
+                ids.append(doc_id)
+                docs.append(doc_text)
+                metadatas.append(metadata)
+                code = str(metadata.get("university_code") or "")
+                if code:
+                    schools.add(code)
+                processed += 1
 
             if len(ids) >= batch_size:
                 flush_batch()
