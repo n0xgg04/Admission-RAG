@@ -21,7 +21,9 @@ class EmbeddingService:
         if self.device_pref in {"cpu", "cuda", "mps"}:
             return self.device_pref
         if self.device_pref != "auto":
-            logger.warning("[embedding] invalid EMBEDDING_DEVICE=%s, fallback to auto", self.device_pref)
+            logger.warning(
+                "[embedding] invalid EMBEDDING_DEVICE=%s, fallback to auto", self.device_pref
+            )
 
         if torch.cuda.is_available():
             return "cuda"

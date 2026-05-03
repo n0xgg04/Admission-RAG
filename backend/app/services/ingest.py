@@ -42,6 +42,7 @@ def _qa_to_document(qa: dict[str, Any], idx: int) -> tuple[str, str, Metadata]:
 
     doc_id = f"{university_code or 'UNK'}:qa:{idx}"
     doc_text = f"Hỏi: {question}\nĐáp: {answer}"
+
     def infer_scope() -> str:
         return "global" if is_global else "local"
 

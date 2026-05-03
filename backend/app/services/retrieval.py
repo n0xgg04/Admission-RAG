@@ -49,8 +49,17 @@ def _query_intent_where_hint(query: str) -> dict | None:
     is_global_query = any(k in q_norm for k in global_markers)
 
     # Compare two schools explicitly: "giữa A và B"
-    if "giua" in q_norm and " va " in f" {q_norm} " and any(k in q for k in ["điểm chuẩn", "so sánh", "so sanh"]):
-        return {"$or": [{"intent": "cutoff_compare_two_schools"}, {"intent": "cutoff_compare_same_major_two_schools"}]}
+    if (
+        "giua" in q_norm
+        and " va " in f" {q_norm} "
+        and any(k in q for k in ["điểm chuẩn", "so sánh", "so sanh"])
+    ):
+        return {
+            "$or": [
+                {"intent": "cutoff_compare_two_schools"},
+                {"intent": "cutoff_compare_same_major_two_schools"},
+            ]
+        }
 
     # Global same-major subject-group comparison
     if "cung nganh" in q_norm and any(k in q for k in ["tổ hợp", "to hop"]):
@@ -127,7 +136,11 @@ def _query_intent_where_hint(query: str) -> dict | None:
             ]
         }
     if any(k in q for k in ["so sánh", "so sanh"]):
-        if "giua" in q_norm and " va " in f" {q_norm} " and any(k in q for k in ["điểm chuẩn", "diem chuan"]):
+        if (
+            "giua" in q_norm
+            and " va " in f" {q_norm} "
+            and any(k in q for k in ["điểm chuẩn", "diem chuan"])
+        ):
             return {"intent": "cutoff_compare_two_schools"}
         return {
             "$or": [
@@ -180,7 +193,20 @@ class RetrievalService:
 
     @staticmethod
     def _tokens(text: str) -> set[str]:
-        stop = {"truong", "dai", "hoc", "vien", "cong", "nghe", "va", "tai", "tp", "phan", "co", "so"}
+        stop = {
+            "truong",
+            "dai",
+            "hoc",
+            "vien",
+            "cong",
+            "nghe",
+            "va",
+            "tai",
+            "tp",
+            "phan",
+            "co",
+            "so",
+        }
         return {t for t in RetrievalService._norm(text).split() if len(t) >= 2 and t not in stop}
 
     @staticmethod
@@ -328,7 +354,9 @@ class RetrievalService:
                 bonus += 0.12
             if intent == "cutoff_compare_subject_groups_same_major":
                 bonus -= 0.06
-            if intent == "cutoff_compare_subject_groups_global" and any(k in q for k in ["cùng ngành", "to hop", "tổ hợp"]):
+            if intent == "cutoff_compare_subject_groups_global" and any(
+                k in q for k in ["cùng ngành", "to hop", "tổ hợp"]
+            ):
                 bonus += 0.12
         if any(k in q for k in ["những ngành gì", "ngành nào", "danh sách ngành"]):
             if intent == "school_programs_top5":
@@ -422,8 +450,14 @@ class RetrievalService:
         candidate_k = max(settings.retrieval_candidate_k, k)
         resolved_code = self._resolve_university_code(query, university_code)
         qlow = query.lower()
-        is_global_query = any(x in qlow for x in ["trường nào", "goi y truong", "gợi ý trường", "chọn trường", "học ở đâu"])
-        is_local_program_query = any(x in qlow for x in ["có những ngành gì", "ngành nào", "danh sách ngành"]) and not is_global_query
+        is_global_query = any(
+            x in qlow
+            for x in ["trường nào", "goi y truong", "gợi ý trường", "chọn trường", "học ở đâu"]
+        )
+        is_local_program_query = (
+            any(x in qlow for x in ["có những ngành gì", "ngành nào", "danh sách ngành"])
+            and not is_global_query
+        )
         if is_global_query:
             resolved_code = None
         include_hard_negative = self._query_wants_negative(query)
@@ -442,7 +476,9 @@ class RetrievalService:
             where = self._and_where(where, {"intent": "school_programs_top5"})
 
         normalized = self._normalize_query(query)
-        base_hits = self._query_once(query=query, k=max(candidate_k, 8), where=where if where else None)
+        base_hits = self._query_once(
+            query=query, k=max(candidate_k, 8), where=where if where else None
+        )
         if normalized != query:
             base_hits.extend(
                 self._query_once(
@@ -482,9 +518,7 @@ class RetrievalService:
             overlap = self._token_overlap(normalized, hit.text)
             hit.score = min(
                 1.0,
-                hit.score
-                + 0.12 * overlap
-                + self._intent_bonus(normalized, hit.metadata),
+                hit.score + 0.12 * overlap + self._intent_bonus(normalized, hit.metadata),
             )
             reranked.append(hit)
 
