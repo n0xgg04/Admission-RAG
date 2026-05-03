@@ -3,7 +3,10 @@ from __future__ import annotations
 import json
 import re
 import unicodedata
+from collections import deque
 from pathlib import Path
+from threading import Lock
+from uuid import uuid4
 
 from app.core.config import settings
 from app.models.chat import ChatResponse
@@ -14,8 +17,9 @@ from app.services.retrieval import retrieval_service
 def _build_fallback_hint(university_code: str | None) -> str:
     school = university_code.upper() if university_code else "trường bạn đang hỏi"
     return (
-        f"Nếu dữ liệu chưa đủ cho {school}, hãy trả lời lịch sự rằng hiện chưa có đủ thông tin "
-        "trong bộ dữ liệu hiện tại. Dữ liệu chỉ áp dụng cho mùa tuyển sinh 2025. Không bịa số liệu."
+        f"Nếu thông tin chưa đủ cho {school}, hãy nói tự nhiên rằng hiện chưa có đủ thông tin "
+        "để trả lời chính xác. "
+        "Thông tin chỉ áp dụng cho mùa tuyển sinh 2025. Không bịa số liệu."
     )
 
 
@@ -34,7 +38,7 @@ def _year_scope_notice(query: str) -> str | None:
         return None
     if all(y == 2025 for y in years):
         return None
-    return "Lưu ý: bộ dữ liệu hiện tại chỉ bao phủ thông tin tuyển sinh năm 2025."
+    return "Lưu ý: thông tin hiện có chỉ áp dụng cho tuyển sinh năm 2025."
 
 
 def _normalize_text(text: str) -> str:
@@ -127,6 +131,7 @@ def _render_answer_from_hits(
     query: str,
     hits: list,
     university_code: str | None,
+    recent_user_queries: list[str] | None = None,
 ) -> tuple[str, bool, str | None]:
     year_notice = _year_scope_notice(query)
 
@@ -138,7 +143,7 @@ def _render_answer_from_hits(
             return (answer, False, "no-hit")
         except Exception:
             return (
-                "Xin lỗi, hiện chưa đủ dữ liệu trong bộ crawl để trả lời chính xác câu hỏi này.",
+                "Xin lỗi, hiện mình chưa có đủ thông tin để trả lời chính xác câu hỏi này.",
                 False,
                 "no-hit-fallback",
             )
@@ -157,7 +162,7 @@ def _render_answer_from_hits(
             return (answer, False, "empty-hit")
         except Exception:
             return (
-                "Xin lỗi, hiện chưa đủ dữ liệu trong bộ crawl để trả lời chính xác câu hỏi này.",
+                "Xin lỗi, hiện mình chưa có đủ thông tin để trả lời chính xác câu hỏi này.",
                 False,
                 "empty-hit-fallback",
             )
@@ -167,6 +172,7 @@ def _render_answer_from_hits(
         answer = openrouter_service.generate(
             query=query,
             context_blocks=lines,
+            recent_user_queries=recent_user_queries,
             fallback_hint=fallback_hint,
         )
     except Exception:
@@ -181,12 +187,38 @@ def _render_answer_from_hits(
 
 
 class ChatService:
+    def __init__(self) -> None:
+        self._sessions: dict[str, deque[str]] = {}
+        self._lock = Lock()
+
+    def _ensure_session_id(self, session_id: str | None) -> str:
+        if session_id and session_id.strip():
+            return session_id.strip()
+        return f"sess-{uuid4().hex[:12]}"
+
+    def _get_recent_queries(self, session_id: str) -> list[str]:
+        with self._lock:
+            turns = self._sessions.get(session_id)
+            if not turns:
+                return []
+            return list(turns)
+
+    def _push_query(self, session_id: str, query: str) -> None:
+        with self._lock:
+            turns = self._sessions.get(session_id)
+            if turns is None:
+                turns = deque(maxlen=5)
+                self._sessions[session_id] = turns
+            turns.append(query)
+
     def answer(
         self,
         query: str,
         session_id: str | None = None,
         university_code: str | None = None,
     ) -> ChatResponse:
+        session = self._ensure_session_id(session_id)
+        recent_queries = self._get_recent_queries(session)
         resolved_code = university_code or _detect_school_code_from_query(query)
         hits = retrieval_service.search(
             query=query,
@@ -196,11 +228,13 @@ class ChatService:
             query=query,
             hits=hits,
             university_code=resolved_code,
+            recent_user_queries=recent_queries,
         )
+        self._push_query(session, query)
 
         return ChatResponse(
             answer=answer,
-            session_id=session_id,
+            session_id=session,
             used_chunks=len(hits),
             data_sufficient=sufficient,
             note=note,
