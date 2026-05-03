@@ -97,7 +97,7 @@ QUY TẮC LINH HOẠT KHI KHÔNG KHỚP TUYỆT ĐỐI
                 recent_user_queries=recent_user_queries,
                 fallback_hint=fallback_hint,
             ),
-            "temperature": 0.1,
+            "temperature": 0.5,
         }
         headers = {
             "Authorization": f"Bearer {settings.openrouter_api_key}",
