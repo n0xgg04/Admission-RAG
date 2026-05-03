@@ -106,6 +106,46 @@ def _query_tokens(query: str) -> set[str]:
     return {t for t in _normalize_text(query).split() if len(t) >= 2 and t not in stop}
 
 
+def _extract_target_major(query: str) -> str | None:
+    q = _normalize_text(query)
+    patterns = [
+        r"(?:diem chuan\s+)?nganh\s+([a-z0-9\s\-\+]{4,120})",
+        r"chuyen nganh\s+([a-z0-9\s\-\+]{4,120})",
+    ]
+    for pattern in patterns:
+        m = re.search(pattern, q)
+        if not m:
+            continue
+        candidate = re.split(
+            r"\b(cua|truong|tai|la bao nhieu|nam|xet tuyen|2025|2026)\b", m.group(1)
+        )[0]
+        candidate = re.sub(r"\s+", " ", candidate).strip()
+        if len(candidate) >= 4:
+            return candidate
+    return None
+
+
+def _major_match_strength(target_major: str | None, row_major: str) -> float:
+    if not target_major:
+        return 0.0
+    t_norm = _normalize_text(target_major)
+    r_norm = _normalize_text(row_major)
+    if not t_norm or not r_norm:
+        return 0.0
+    if t_norm in r_norm:
+        return 1.0
+    t_tokens = {t for t in t_norm.split() if len(t) >= 2}
+    r_tokens = {t for t in r_norm.split() if len(t) >= 2}
+    if not t_tokens or not r_tokens:
+        return 0.0
+    overlap = len(t_tokens & r_tokens)
+    if overlap == 0:
+        return 0.0
+    coverage = overlap / max(1, len(t_tokens))
+    precision = overlap / max(1, len(r_tokens))
+    return 0.7 * coverage + 0.3 * precision
+
+
 def _lookup_cutoff_from_clean_data(
     query: str, university_code: str | None
 ) -> tuple[str, bool] | None:
@@ -124,7 +164,9 @@ def _lookup_cutoff_from_clean_data(
     if not q_tokens:
         return None
 
-    scored: list[tuple[float, float, dict]] = []
+    target_major = _extract_target_major(query)
+
+    scored: list[tuple[float, float, float, dict]] = []
     for row in rows:
         major = str(row.get("ten-nganh") or "")
         major_tokens = {t for t in _normalize_text(major).split() if len(t) >= 2}
@@ -135,21 +177,25 @@ def _lookup_cutoff_from_clean_data(
             continue
         recall = overlap / max(1, len(major_tokens))
         precision = overlap / max(1, len(q_tokens))
-        score = overlap + recall
-        scored.append((score, precision, row))
+        major_strength = _major_match_strength(target_major, major)
+        score = overlap + recall + 2.0 * major_strength
+        scored.append((score, precision, major_strength, row))
 
     if not scored:
         return None
 
     scored.sort(key=lambda x: x[0], reverse=True)
-    top = [row for _, _, row in scored[:5]]
+    top = [row for _, _, _, row in scored[:5]]
 
-    best_score, best_precision, best_row = scored[0]
+    best_score, best_precision, best_major_strength, best_row = scored[0]
     best_major_tokens = {
         t for t in _normalize_text(str(best_row.get("ten-nganh") or "")).split() if len(t) >= 2
     }
     matched_tokens = len(q_tokens & best_major_tokens)
-    has_exact_major_match = matched_tokens >= 2 and best_precision >= 0.5 and best_score >= 2.2
+    has_exact_major_match = (
+        best_major_strength >= 0.7
+        or (matched_tokens >= 2 and best_precision >= 0.5 and best_score >= 2.2)
+    )
 
     lines = []
     for row in top:
@@ -353,14 +399,27 @@ class ChatService:
         else:
             direct_cutoff_answer, has_exact_match = None, False
 
-        if direct_cutoff_answer and (has_exact_match or len(hits) <= 1):
+        # If we can deterministically match the asked major in clean cutoff data,
+        # return it directly (do not let LLM override with a softer fallback).
+        if direct_cutoff_answer and has_exact_match:
             self._push_query(session, query)
             return ChatResponse(
                 answer=direct_cutoff_answer,
                 session_id=session,
                 used_chunks=len(hits),
                 data_sufficient=True,
-                note="direct-cutoff-clean-data",
+                note="direct-cutoff-clean-data-exact-major",
+            )
+
+        # Secondary fallback only when retrieval signal is weak.
+        if direct_cutoff_answer and len(hits) <= 1:
+            self._push_query(session, query)
+            return ChatResponse(
+                answer=direct_cutoff_answer,
+                session_id=session,
+                used_chunks=len(hits),
+                data_sufficient=True,
+                note="direct-cutoff-clean-data-weak-retrieval",
             )
 
         answer, sufficient, note = _render_answer_from_hits(
