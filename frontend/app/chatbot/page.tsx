@@ -168,6 +168,22 @@ export default function ChatbotPage() {
                             ul: ({ children }) => <ul className="list-disc pl-5">{children}</ul>,
                             ol: ({ children }) => <ol className="list-decimal pl-5">{children}</ol>,
                             li: ({ children }) => <li className="mb-1">{children}</li>,
+                            table: ({ children }) => (
+                              <div className="my-2 overflow-x-auto rounded-lg border border-slate-200">
+                                <table className="min-w-full border-collapse text-xs sm:text-sm">{children}</table>
+                              </div>
+                            ),
+                            thead: ({ children }) => <thead className="bg-slate-100">{children}</thead>,
+                            tbody: ({ children }) => <tbody>{children}</tbody>,
+                            tr: ({ children }) => <tr className="odd:bg-white even:bg-slate-50/60">{children}</tr>,
+                            th: ({ children }) => (
+                              <th className="border-b border-slate-200 px-2 py-1.5 text-left font-semibold text-slate-800">
+                                {children}
+                              </th>
+                            ),
+                            td: ({ children }) => (
+                              <td className="border-b border-slate-100 px-2 py-1.5 align-top text-slate-700">{children}</td>
+                            ),
                             strong: ({ children }) => <strong className="font-semibold text-slate-900">{children}</strong>,
                             a: ({ href, children }) => (
                               <a href={href} target="_blank" rel="noreferrer" className="text-teal-700 underline">
