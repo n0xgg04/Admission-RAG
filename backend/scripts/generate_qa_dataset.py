@@ -20,6 +20,12 @@ class QAItem:
     data_status: str
     confidence: float
     tags: list[str]
+    method_id: str | None = None
+    program_code: str | None = None
+    program_type: str | None = None
+    entity_type: str | None = None
+    entity_field: str | None = None
+    is_contrastive: bool = False
 
 
 def compact_text(value: Any) -> str:
@@ -112,6 +118,12 @@ def qa_item(
     data_status: str,
     confidence: float,
     tags: list[str],
+    method_id: str | None = None,
+    program_code: str | None = None,
+    program_type: str | None = None,
+    entity_type: str | None = None,
+    entity_field: str | None = None,
+    is_contrastive: bool = False,
 ) -> QAItem:
     return QAItem(
         question=question,
@@ -123,6 +135,12 @@ def qa_item(
         data_status=data_status,
         confidence=confidence,
         tags=tags,
+        method_id=method_id,
+        program_code=program_code,
+        program_type=program_type,
+        entity_type=entity_type,
+        entity_field=entity_field,
+        is_contrastive=is_contrastive,
     )
 
 
@@ -134,6 +152,9 @@ def school_aliases(name: str, short_name: str, code: str) -> list[str]:
     aliases.add(name.replace("Học viện", "HV"))
     aliases.add(name.replace("Trường Đại Học", "ĐH"))
     aliases.add(name.replace("Trường Đại học", "ĐH"))
+    aliases.add(name.replace("Học Viện", "" ).strip())
+    aliases.add(name.replace("Học viện", "" ).strip())
+    aliases.add(name.replace("Trường", "" ).strip())
     return [a for a in aliases if compact_text(a)]
 
 
@@ -614,6 +635,95 @@ def qa_profile(record: dict[str, Any], aliases: list[str]) -> list[QAItem]:
         ):
             items.append(qa_item(q, answer, "university_profile", code, name, "complete", 0.95, ["profile", "address", "code"]))
 
+    # Canonical fact-lookup (structured by field)
+    if address:
+        for alias in aliases:
+            for q in variants(
+                f"{alias} ở đâu?",
+                f"Địa chỉ của {alias} là gì?",
+                f"{alias} nằm ở đâu?",
+            ):
+                items.append(
+                    qa_item(
+                        q,
+                        f"{name} có địa chỉ: {address}.",
+                        "fact_address",
+                        code,
+                        name,
+                        "complete",
+                        0.99,
+                        ["fact", "address", "lookup"],
+                        entity_type="fact",
+                        entity_field="address",
+                    )
+                )
+
+    if code:
+        for alias in aliases:
+            for q in variants(
+                f"Mã trường của {alias} là gì?",
+                f"{alias} mã trường là gì?",
+                f"Code trường {alias} là gì?",
+            ):
+                items.append(
+                    qa_item(
+                        q,
+                        f"Mã trường của {name} là: {code}.",
+                        "fact_code",
+                        code,
+                        name,
+                        "complete",
+                        0.99,
+                        ["fact", "code", "lookup"],
+                        entity_type="fact",
+                        entity_field="code",
+                    )
+                )
+
+    if short_name:
+        for alias in aliases:
+            for q in variants(
+                f"Tên viết tắt của {alias} là gì?",
+                f"{alias} viết tắt là gì?",
+                f"{alias} gọi tắt là gì?",
+            ):
+                items.append(
+                    qa_item(
+                        q,
+                        f"Tên viết tắt của {name} là: {short_name}.",
+                        "fact_short_name",
+                        code,
+                        name,
+                        "complete",
+                        0.99,
+                        ["fact", "short_name", "lookup"],
+                        entity_type="fact",
+                        entity_field="short_name",
+                    )
+                )
+
+    if province:
+        for alias in aliases:
+            for q in variants(
+                f"{alias} thuộc tỉnh/thành nào?",
+                f"{alias} ở tỉnh nào?",
+                f"{alias} ở thành phố nào?",
+            ):
+                items.append(
+                    qa_item(
+                        q,
+                        f"{name} thuộc khu vực/tỉnh-thành: {province}.",
+                        "fact_province",
+                        code,
+                        name,
+                        "complete",
+                        0.99,
+                        ["fact", "province", "lookup"],
+                        entity_type="fact",
+                        entity_field="province",
+                    )
+                )
+
     if code:
         items.append(
             qa_item(
@@ -627,6 +737,30 @@ def qa_profile(record: dict[str, Any], aliases: list[str]) -> list[QAItem]:
                 ["lookup", "code"],
             )
         )
+
+    # Contrastive negatives for fact lookup
+    contrastive_provinces = ["Hồ Chí Minh", "Hà Nội", "Đà Nẵng", "Cần Thơ"]
+    for wp in contrastive_provinces:
+        if province and wp.lower() in province.lower():
+            continue
+        for alias in aliases[:2]:
+            items.append(
+                qa_item(
+                    f"{alias} ở {wp} đúng không?",
+                    f"Không. Theo dữ liệu hiện tại, {name} thuộc khu vực: {province or 'chưa rõ'}.",
+                    "fact_province_contrastive_negative",
+                    code,
+                    name,
+                    "complete" if province else "partial",
+                    0.93,
+                    ["fact", "province", "contrastive", "negative"],
+                    entity_type="fact",
+                    entity_field="province",
+                    is_contrastive=True,
+                )
+            )
+        break
+
     return items
 
 
@@ -1226,12 +1360,34 @@ def qa_cross_field(record: dict[str, Any], aliases: list[str]) -> list[QAItem]:
     return items
 
 
-def qa_program_school_level(record: dict[str, Any], aliases: list[str]) -> list[QAItem]:
+def qa_program_school_level(
+    record: dict[str, Any],
+    aliases: list[str],
+    cutoff_index: dict[str, list[dict[str, Any]]],
+) -> list[QAItem]:
     code = compact_text(record.get("ma-truong")).upper() or "UNK"
     name = compact_text(record.get("ten-truong")) or "Trường chưa rõ tên"
     plan = preserve_text(record.get("de-an-tuyen-sinh"))
 
     programs = extract_program_candidates(plan)
+    # Bổ sung ngành từ file điểm chuẩn THPT để tăng độ phủ thực tế
+    cutoff_rows = cutoff_index.get(code, [])
+    cutoff_programs: list[str] = []
+    for row in cutoff_rows:
+        p = compact_text(row.get("ten-nganh"))
+        if p:
+            cutoff_programs.append(p)
+    if cutoff_programs:
+        merged = programs + cutoff_programs
+        seen: set[str] = set()
+        programs = []
+        for p in merged:
+            k = compact_text(p).lower()
+            if not k or k in seen:
+                continue
+            seen.add(k)
+            programs.append(compact_text(p))
+
     items: list[QAItem] = []
 
     if not programs:
@@ -1328,7 +1484,7 @@ def generate_for_school(record: dict[str, Any], cutoff_index: dict[str, list[dic
     items.extend(qa_admission(record, aliases))
     items.extend(qa_cutoff_school_level(record, aliases, cutoff_index))
     items.extend(qa_tuition(record, aliases))
-    items.extend(qa_program_school_level(record, aliases))
+    items.extend(qa_program_school_level(record, aliases, cutoff_index))
     items.extend(qa_cross_field(record, aliases))
     return unique_qa(items)
 

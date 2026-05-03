@@ -32,6 +32,9 @@ def _qa_to_document(qa: dict[str, Any], idx: int) -> tuple[str, str, Metadata]:
     method_id = _compact_text(qa.get("method_id"))
     program_code = _compact_text(qa.get("program_code"))
     program_type = _compact_text(qa.get("program_type"))
+    entity_type = _compact_text(qa.get("entity_type"))
+    entity_field = _compact_text(qa.get("entity_field"))
+    is_contrastive = bool(qa.get("is_contrastive") or False)
     tags = qa.get("tags") or []
     tags_text = ", ".join([_compact_text(t) for t in tags if _compact_text(t)])
     is_global = university_code == "ALL"
@@ -49,6 +52,9 @@ def _qa_to_document(qa: dict[str, Any], idx: int) -> tuple[str, str, Metadata]:
         "intent": intent,
         "data_status": data_status,
         "tags": tags_text,
+        "entity_type": entity_type,
+        "entity_field": entity_field,
+        "is_contrastive": is_contrastive,
         "is_global": is_global,
         "is_hard_negative": is_hard_negative,
         "source_dataset": "qa_2025_clean",

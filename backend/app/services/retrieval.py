@@ -15,6 +15,7 @@ def _where_filter(
     method_id: str | None,
     program_code: str | None,
     program_type: str | None,
+    include_hard_negative: bool = False,
 ) -> dict:
     clauses = []
     if university_code:
@@ -25,6 +26,8 @@ def _where_filter(
         clauses.append({"program_code": program_code})
     if program_type:
         clauses.append({"program_type": program_type})
+    if not include_hard_negative:
+        clauses.append({"is_hard_negative": False})
     clauses.append({"chunk_type": "qa_pair"})
 
     if not clauses:
@@ -32,6 +35,62 @@ def _where_filter(
     if len(clauses) == 1:
         return clauses[0]
     return {"$and": clauses}
+
+
+def _query_intent_where_hint(query: str) -> dict | None:
+    q = query.lower()
+    # Ưu tiên fact ngành khi hỏi "có những ngành gì"
+    if any(k in q for k in ["những ngành gì", "ngành nào", "danh sách ngành", "đào tạo ngành"]):
+        return {"$or": [{"intent": "school_programs_top5"}, {"intent": "program_to_schools_top5"}]}
+    if any(k in q for k in ["ở đâu", "địa chỉ", "thuộc tỉnh", "viết tắt", "mã trường"]):
+        return {
+            "$or": [
+                {"intent": "fact_address"},
+                {"intent": "fact_province"},
+                {"intent": "fact_short_name"},
+                {"intent": "fact_code"},
+                {"intent": "university_profile"},
+            ]
+        }
+    if any(k in q for k in ["điểm chuẩn", "lấy bao nhiêu điểm"]):
+        return {
+            "$or": [
+                {"intent": "cutoff_major_detail"},
+                {"intent": "cutoff_school_top5"},
+                {"intent": "cutoff_compare_two_schools"},
+                {"intent": "cutoff_compare_same_major_two_schools"},
+                {"intent": "cutoff_compare_subject_groups_same_major"},
+                {"intent": "cutoff_compare_subject_groups_global"},
+            ]
+        }
+    if any(k in q for k in ["ielts", "sat", "act", "hsa", "tsa", "v-act", "học bạ", "hoc ba"]):
+        return {
+            "$or": [
+                {"intent": "global_method_keyword"},
+                {"intent": "admission_method_detail"},
+                {"intent": "negative_hoc_ba_not_found"},
+            ]
+        }
+    if any(k in q for k in ["học phí", "hoc phi", "chi phí", "duoi", "không quá", "khong qua"]):
+        return {
+            "$or": [
+                {"intent": "tuition_full"},
+                {"intent": "tuition_detail"},
+                {"intent": "global_tuition_under_threshold"},
+                {"intent": "global_tuition_y_major"},
+            ]
+        }
+    if any(k in q for k in ["so sánh", "so sanh"]):
+        return {
+            "$or": [
+                {"intent": "cutoff_compare_two_schools"},
+                {"intent": "cutoff_compare_two_majors_same_school"},
+                {"intent": "cutoff_compare_same_major_two_schools"},
+                {"intent": "cutoff_compare_subject_groups_same_major"},
+                {"intent": "cutoff_compare_subject_groups_global"},
+            ]
+        }
+    return None
 
 
 def _first_row(value: Any) -> list[Any]:
@@ -67,6 +126,35 @@ class RetrievalService:
             return 0.0
         return len(ta & tb) / max(1, len(ta))
 
+    @staticmethod
+    def _intent_bonus(query: str, metadata: dict[str, Any]) -> float:
+        q = query.lower()
+        intent = str(metadata.get("intent") or "").lower()
+        bonus = 0.0
+        if any(k in q for k in ["ở đâu", "địa chỉ", "địa điểm", "nằm ở", "ở tỉnh"]):
+            if intent in {"university_profile", "lookup_by_code"}:
+                bonus += 0.08
+        if any(k in q for k in ["điểm chuẩn", "lấy bao nhiêu điểm", "to-hop", "tổ hợp"]):
+            if "cutoff" in intent:
+                bonus += 0.08
+        if any(k in q for k in ["học phí", "chi phí"]):
+            if "tuition" in intent:
+                bonus += 0.08
+        return bonus
+
+    @staticmethod
+    def _query_wants_negative(query: str) -> bool:
+        q = query.lower()
+        negative_markers = [
+            "không có",
+            "chưa có",
+            "có xét",
+            "đúng không",
+            "có phải",
+            "hay không",
+        ]
+        return any(m in q for m in negative_markers)
+
     def _query_once(
         self,
         query: str,
@@ -100,6 +188,16 @@ class RetrievalService:
             )
         return hits
 
+    @staticmethod
+    def _and_where(base: dict | None, hint: dict | None) -> dict | None:
+        if not base and not hint:
+            return None
+        if base and not hint:
+            return base
+        if hint and not base:
+            return hint
+        return {"$and": [base, hint]}
+
     def search(
         self,
         query: str,
@@ -110,9 +208,16 @@ class RetrievalService:
         program_type: str | None = None,
     ) -> list[SearchHit]:
         k = top_k or settings.top_k
-        where = _where_filter(
-            university_code, method_id, program_code, program_type
+        include_hard_negative = self._query_wants_negative(query)
+        base_where = _where_filter(
+            university_code,
+            method_id,
+            program_code,
+            program_type,
+            include_hard_negative=include_hard_negative,
         )
+        hint_where = _query_intent_where_hint(query)
+        where = self._and_where(base_where if base_where else None, hint_where)
 
         normalized = self._normalize_query(query)
         base_hits = self._query_once(query=query, k=max(k, 8), where=where if where else None)
@@ -136,7 +241,12 @@ class RetrievalService:
         reranked: list[SearchHit] = []
         for hit in merged.values():
             overlap = self._token_overlap(normalized, hit.text)
-            hit.score = min(1.0, hit.score + 0.12 * overlap)
+            hit.score = min(
+                1.0,
+                hit.score
+                + 0.12 * overlap
+                + self._intent_bonus(normalized, hit.metadata),
+            )
             reranked.append(hit)
 
         reranked.sort(key=lambda h: h.score, reverse=True)

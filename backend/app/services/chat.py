@@ -1,7 +1,11 @@
 from __future__ import annotations
 
+import json
 import re
+import unicodedata
+from pathlib import Path
 
+from app.core.config import settings
 from app.models.chat import ChatResponse
 from app.services.llm import openrouter_service
 from app.services.retrieval import retrieval_service
@@ -31,6 +35,85 @@ def _year_scope_notice(query: str) -> str | None:
     if all(y == 2025 for y in years):
         return None
     return "Lưu ý: bộ dữ liệu hiện tại chỉ bao phủ thông tin tuyển sinh năm 2025."
+
+
+def _normalize_text(text: str) -> str:
+    s = unicodedata.normalize("NFD", text or "")
+    s = "".join(ch for ch in s if unicodedata.category(ch) != "Mn")
+    s = s.lower()
+    s = re.sub(r"[^a-z0-9\s]", " ", s)
+    s = re.sub(r"\s+", " ", s).strip()
+    return s
+
+
+def _load_school_records() -> list[dict[str, str]]:
+    candidates = [
+        Path(settings.data_dir) / "truong.json",
+        Path("data") / "truong.json",
+        Path("../data") / "truong.json",
+    ]
+    for p in candidates:
+        if not p.exists():
+            continue
+        try:
+            raw = json.loads(p.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+        if not isinstance(raw, list):
+            continue
+        rows: list[dict[str, str]] = []
+        for r in raw:
+            if not isinstance(r, dict):
+                continue
+            rows.append(
+                {
+                    "code": str(r.get("ma-truong") or "").strip().upper(),
+                    "name": str(r.get("ten-truong") or "").strip(),
+                    "short": str(r.get("ten-viet-tat") or "").strip(),
+                }
+            )
+        return rows
+    return []
+
+
+def _detect_school_code_from_query(query: str) -> str | None:
+    qn = _normalize_text(query)
+    if not qn:
+        return None
+    schools = _load_school_records()
+    if not schools:
+        return None
+
+    stop = {"truong", "dai", "hoc", "hoc", "vien", "cong", "nghe", "va", "tai", "tp"}
+    q_tokens = {t for t in qn.split() if len(t) >= 2 and t not in stop}
+
+    best_code = None
+    best_score = 0.0
+    for s in schools:
+        code = s.get("code", "")
+        name = s.get("name", "")
+        short = s.get("short", "")
+        if not code:
+            continue
+
+        exact = 0.0
+        for k in [code, short, name]:
+            nk = _normalize_text(k)
+            if nk and nk in qn:
+                exact = max(exact, 10.0 + len(nk) / 100.0)
+
+        nt = {_normalize_text(t) for t in name.split()}
+        nt = {t for t in nt if t and t not in stop}
+        overlap = len(q_tokens & nt)
+        token_score = overlap + (overlap / max(1, len(nt)))
+        score = max(exact, token_score)
+        if score > best_score:
+            best_score = score
+            best_code = code
+
+    if best_score >= 2.0:
+        return best_code
+    return None
 
 
 def _soft_insufficient_answer(query: str, university_code: str | None) -> str:
@@ -104,14 +187,15 @@ class ChatService:
         session_id: str | None = None,
         university_code: str | None = None,
     ) -> ChatResponse:
+        resolved_code = university_code or _detect_school_code_from_query(query)
         hits = retrieval_service.search(
             query=query,
-            university_code=university_code,
+            university_code=resolved_code,
         )
         answer, sufficient, note = _render_answer_from_hits(
             query=query,
             hits=hits,
-            university_code=university_code,
+            university_code=resolved_code,
         )
 
         return ChatResponse(
