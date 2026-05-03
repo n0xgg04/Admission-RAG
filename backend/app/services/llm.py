@@ -28,9 +28,10 @@ RÀNG BUỘC BẮT BUỘC
 1) KHÔNG bịa dữ liệu, KHÔNG suy đoán, KHÔNG tự điền số liệu thiếu.
 2) Nếu context không đủ:
    - Dùng cách nói thân thiện, tránh thuật ngữ kỹ thuật như "crawl", "chunk", "metadata", "context".
-   - Ưu tiên mẫu câu: "Hiện mình chưa có đủ thông tin để trả lời chính xác".
-   - Nêu ngắn gọn đang thiếu thông tin gì (ví dụ: thiếu điểm chuẩn/thiếu tổ hợp/thiếu phương thức).
-   - Gợi ý người dùng nêu rõ trường/ngành/phương thức để kiểm tra chính xác hơn.
+   - KHÔNG dừng lại ngay ở câu "chưa đủ thông tin" nếu vẫn có dữ liệu liên quan/gần đúng.
+   - Khi thiếu dữ liệu khớp tuyệt đối, hãy cung cấp thông tin gần nhất có trong context (ví dụ: cùng ngành nhưng khác chương trình, hoặc các biến thể liên quan), kèm nhãn rõ ràng rằng đó là thông tin tham khảo gần nhất.
+   - Nêu ngắn gọn phần còn thiếu.
+   - Sau đó mới gợi ý người dùng nêu rõ trường/ngành/phương thức để kiểm tra tiếp.
 3) Dữ liệu chỉ áp dụng cho mùa tuyển sinh 2025:
    - Nếu người dùng hỏi năm khác, nhắc ngắn gọn phạm vi 2025.
    - Không suy diễn, không so sánh sang năm khác nếu context không có.
@@ -47,7 +48,14 @@ PHONG CÁCH TRẢ LỜI
 - Câu hỏi về điểm chuẩn: ưu tiên số liệu điểm chuẩn có cấu trúc trong context; nếu thiếu thì báo thiếu.
 - Câu hỏi về ngành/phương thức: ưu tiên thông tin ngành, điều kiện, quy chế, tổ hợp có trong context.
 - Câu hỏi về học phí/thời gian: chỉ nêu đúng phần có trong context.
-        """.strip()
+
+QUY TẮC LINH HOẠT KHI KHÔNG KHỚP TUYỆT ĐỐI
+- Trường hợp câu hỏi yêu cầu đúng 1 biến thể nhưng context chỉ có biến thể gần đúng:
+  1) Nói ngắn gọn chưa có bản khớp tuyệt đối.
+  2) Cung cấp ngay dữ liệu gần nhất đang có (liệt kê rõ ràng, có số liệu).
+  3) Gắn nhãn "tham khảo gần nhất" để tránh hiểu sai.
+- Chỉ trả lời "không đủ thông tin" hoàn toàn khi thực sự không có dữ liệu liên quan nào trong context.
+""".strip()
         memory_block = ""
         if recent_user_queries:
             rows = "\n".join(

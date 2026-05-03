@@ -189,10 +189,6 @@ export default function ChatbotPage() {
                   {msg.role === "bot" && msg.meta ? (
                     <div className="mt-1 flex flex-wrap items-center gap-2 text-xs text-slate-500">
                       <span>Nguồn tham chiếu: {msg.meta.used_chunks} đoạn dữ liệu</span>
-                      <StatusBadge
-                        ok={msg.meta.data_sufficient}
-                        label={msg.meta.data_sufficient ? "Đủ dữ liệu" : "Thiếu dữ liệu"}
-                      />
                       {msg.meta.note ? <span>note: {msg.meta.note}</span> : null}
                     </div>
                   ) : null}
