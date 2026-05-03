@@ -3,6 +3,7 @@ from __future__ import annotations
 import json
 import re
 import unicodedata
+from difflib import SequenceMatcher
 from collections import deque
 from pathlib import Path
 from threading import Lock
@@ -51,6 +52,7 @@ def _normalize_text(text: str) -> str:
 
 
 _cutoff_rows_cache: list[dict] | None = None
+_school_rows_cache: list[dict] | None = None
 
 
 def _load_cutoff_rows() -> list[dict]:
@@ -78,6 +80,31 @@ def _load_cutoff_rows() -> list[dict]:
     return _cutoff_rows_cache
 
 
+def _load_school_rows() -> list[dict]:
+    global _school_rows_cache
+    if _school_rows_cache is not None:
+        return _school_rows_cache
+
+    candidates = [
+        Path(settings.data_dir) / "truong.json",
+        Path("data") / "truong.json",
+        Path("../data") / "truong.json",
+    ]
+    for p in candidates:
+        if not p.exists():
+            continue
+        try:
+            raw = json.loads(p.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+        if isinstance(raw, list):
+            _school_rows_cache = [r for r in raw if isinstance(r, dict)]
+            return _school_rows_cache
+
+    _school_rows_cache = []
+    return _school_rows_cache
+
+
 def _is_cutoff_query(query: str) -> bool:
     qn = _normalize_text(query)
     if "diem chuan" in qn or "lay bao nhieu diem" in qn:
@@ -91,6 +118,222 @@ def _is_cutoff_query(query: str) -> bool:
     if "diem" in qn and "bao nhieu" in qn:
         return True
     return False
+
+
+def _is_admission_query(query: str) -> bool:
+    qn = _normalize_text(query)
+    keywords = [
+        "tuyen sinh",
+        "phuong thuc",
+        "xet tuyen",
+        "ho so",
+        "dieu kien",
+        "dang ky",
+    ]
+    return any(k in qn for k in keywords)
+
+
+def _is_tuition_query(query: str) -> bool:
+    qn = _normalize_text(query)
+    return any(k in qn for k in ["hoc phi", "chi phi", "hoc phi bao nhieu", "muc phi"])
+
+
+def _is_profile_query(query: str) -> bool:
+    qn = _normalize_text(query)
+    return any(
+        k in qn
+        for k in [
+            "thong tin co ban",
+            "gioi thieu",
+            "o dau",
+            "dia chi",
+            "ma truong",
+            "viet tat",
+            "ten truong",
+        ]
+    )
+
+
+def _lookup_admission_from_school_data(query: str, university_code: str | None) -> str | None:
+    if not university_code or not _is_admission_query(query):
+        return None
+
+    rows = _load_school_rows()
+    school = next(
+        (r for r in rows if str(r.get("ma-truong") or "").strip().upper() == university_code.upper()),
+        None,
+    )
+    if not school:
+        return None
+
+    school_name = str(school.get("ten-truong") or university_code).strip()
+    plan = str(school.get("de-an-tuyen-sinh") or "").strip()
+    if not plan:
+        return None
+
+    # Keep concise, prioritize method lines.
+    lines = [ln.strip(" -•\t") for ln in plan.splitlines() if ln.strip()]
+    method_lines = [ln for ln in lines if "phương thức" in ln.lower() or "xét tuyển" in ln.lower()][:6]
+    intro = lines[0] if lines else ""
+
+    bullets: list[str] = []
+    if intro:
+        bullets.append(f"- {intro}")
+    for ln in method_lines:
+        if ln == intro:
+            continue
+        bullets.append(f"- {ln}")
+
+    if not bullets:
+        preview = " ".join(lines[:4])
+        if not preview:
+            return None
+        bullets = [f"- {preview}"]
+
+    return (
+        f"Thông tin tuyển sinh của {school_name} (2025):\n"
+        + "\n".join(bullets)
+        + "\n\nNếu bạn muốn, mình có thể tra cứu tiếp theo ngành cụ thể để lấy điểm chuẩn và tổ hợp."
+    )
+
+
+def _lookup_tuition_from_school_data(query: str, university_code: str | None) -> str | None:
+    if not university_code or not _is_tuition_query(query):
+        return None
+
+    rows = _load_school_rows()
+    school = next(
+        (r for r in rows if str(r.get("ma-truong") or "").strip().upper() == university_code.upper()),
+        None,
+    )
+    if not school:
+        return None
+
+    school_name = str(school.get("ten-truong") or university_code).strip()
+    tuition = str(school.get("hoc-phi") or "").strip()
+    if not tuition:
+        return None
+
+    return f"Học phí của {school_name} (2025):\n{tuition}"
+
+
+def _lookup_profile_from_school_data(query: str, university_code: str | None) -> str | None:
+    if not university_code or not _is_profile_query(query):
+        return None
+
+    rows = _load_school_rows()
+    school = next(
+        (r for r in rows if str(r.get("ma-truong") or "").strip().upper() == university_code.upper()),
+        None,
+    )
+    if not school:
+        return None
+
+    school_name = str(school.get("ten-truong") or university_code).strip()
+    code = str(school.get("ma-truong") or "").strip()
+    short = str(school.get("ten-viet-tat") or "").strip()
+    province = str(school.get("dia-chi-tinh") or "").strip()
+    address = str(school.get("dia-chi-cu-the") or "").strip()
+
+    lines = [f"Thông tin cơ bản của {school_name}:"]
+    if code:
+        lines.append(f"- Mã trường: {code}")
+    if short:
+        lines.append(f"- Tên viết tắt: {short}")
+    if province:
+        lines.append(f"- Tỉnh/thành: {province}")
+    if address:
+        lines.append(f"- Địa chỉ: {address}")
+
+    return "\n".join(lines)
+
+
+def _resolve_university_code_loose(query: str) -> str | None:
+    qn = _normalize_text(query)
+    if not qn:
+        return None
+
+    tokens = {t for t in qn.split() if len(t) >= 2}
+    stop = {
+        "truong",
+        "dai",
+        "hoc",
+        "vien",
+        "cua",
+        "la",
+        "bao",
+        "nhieu",
+        "diem",
+        "chuan",
+        "cong",
+        "nghe",
+        "thong",
+        "tin",
+    }
+    tokens = {t for t in tokens if t not in stop}
+
+    # 1) Alias phrase match first (deterministic, stronger than fuzzy score)
+    phrase_to_code: dict[str, str] = {}
+    for r in _load_school_rows():
+        code = str(r.get("ma-truong") or "").strip().upper()
+        name = str(r.get("ten-truong") or "").strip()
+        short = str(r.get("ten-viet-tat") or "").strip()
+        if not code:
+            continue
+
+        name_norm = _normalize_text(name)
+        short_norm = _normalize_text(short)
+        if name_norm:
+            phrase_to_code[name_norm] = code
+
+            # remove common prefixes to build natural alias phrase
+            compact = name_norm
+            for prefix in ["truong dai hoc ", "dai hoc ", "hoc vien ", "truong "]:
+                if compact.startswith(prefix):
+                    compact = compact[len(prefix) :].strip()
+            if compact:
+                phrase_to_code[compact] = code
+
+        if short_norm:
+            phrase_to_code[short_norm] = code
+
+    best_phrase_code = None
+    best_phrase_len = 0
+    for phrase, code in phrase_to_code.items():
+        if not phrase:
+            continue
+        if re.search(rf"\b{re.escape(phrase)}\b", qn):
+            plen = len(phrase.split())
+            if plen > best_phrase_len:
+                best_phrase_len = plen
+                best_phrase_code = code
+    if best_phrase_code and best_phrase_len >= 2:
+        return best_phrase_code
+
+    best_code = None
+    best_score = 0.0
+    for r in _load_school_rows():
+        code = str(r.get("ma-truong") or "").strip().upper()
+        name = str(r.get("ten-truong") or "").strip()
+        short = str(r.get("ten-viet-tat") or "").strip()
+        if not code:
+            continue
+
+        name_norm = _normalize_text(name)
+        short_norm = _normalize_text(short)
+        name_tokens = {t for t in name_norm.split() if len(t) >= 2 and t not in stop}
+
+        overlap = len(tokens & name_tokens)
+        overlap_score = overlap + overlap / max(1, len(name_tokens)) if name_tokens else 0.0
+        sim_name = SequenceMatcher(None, qn, name_norm).ratio() if name_norm else 0.0
+        sim_short = SequenceMatcher(None, qn, short_norm).ratio() if short_norm else 0.0
+        score = max(overlap_score, 1.6 * max(sim_name, sim_short))
+
+        if score > best_score:
+            best_score = score
+            best_code = code
+
+    return best_code if best_score >= 1.15 else None
 
 
 def _query_tokens(query: str) -> set[str]:
@@ -121,6 +364,7 @@ def _extract_target_major(query: str) -> str | None:
     patterns = [
         r"(?:diem chuan\s+)?nganh\s+([a-z0-9\s\-\+]{4,120})",
         r"chuyen nganh\s+([a-z0-9\s\-\+]{4,120})",
+        r"diem\s+cua\s+([a-z0-9\s\-\+]{4,120})",
     ]
     for pattern in patterns:
         m = re.search(pattern, q)
@@ -398,6 +642,42 @@ class ChatService:
         session = self._ensure_session_id(session_id)
         recent_queries = self._get_recent_queries(session)
         resolved_code = retrieval_service._resolve_university_code(query, university_code)
+        if not resolved_code:
+            resolved_code = _resolve_university_code_loose(query)
+
+        direct_profile_answer = _lookup_profile_from_school_data(query, resolved_code)
+        if direct_profile_answer:
+            self._push_query(session, query)
+            return ChatResponse(
+                answer=direct_profile_answer,
+                session_id=session,
+                used_chunks=0,
+                data_sufficient=True,
+                note="direct-profile-school-data",
+            )
+
+        direct_tuition_answer = _lookup_tuition_from_school_data(query, resolved_code)
+        if direct_tuition_answer:
+            self._push_query(session, query)
+            return ChatResponse(
+                answer=direct_tuition_answer,
+                session_id=session,
+                used_chunks=0,
+                data_sufficient=True,
+                note="direct-tuition-school-data",
+            )
+
+        direct_admission_answer = _lookup_admission_from_school_data(query, resolved_code)
+        if direct_admission_answer:
+            self._push_query(session, query)
+            return ChatResponse(
+                answer=direct_admission_answer,
+                session_id=session,
+                used_chunks=0,
+                data_sufficient=True,
+                note="direct-admission-school-data",
+            )
+
         hits = retrieval_service.search(
             query=query,
             university_code=resolved_code,
