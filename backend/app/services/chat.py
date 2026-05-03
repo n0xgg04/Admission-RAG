@@ -80,7 +80,17 @@ def _load_cutoff_rows() -> list[dict]:
 
 def _is_cutoff_query(query: str) -> bool:
     qn = _normalize_text(query)
-    return "diem chuan" in qn or "lay bao nhieu diem" in qn
+    if "diem chuan" in qn or "lay bao nhieu diem" in qn:
+        return True
+    # Support common shorthand queries without the word "chuẩn"
+    # e.g. "diem nganh cong nghe thong tin cua ptit"
+    if "diem" in qn and any(k in qn for k in ["nganh", "ma nganh", "to hop", "xet tuyen"]):
+        return True
+    # Also support natural phrasing:
+    # "điểm của ... là bao nhiêu"
+    if "diem" in qn and "bao nhieu" in qn:
+        return True
+    return False
 
 
 def _query_tokens(query: str) -> set[str]:
