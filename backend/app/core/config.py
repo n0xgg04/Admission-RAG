@@ -19,9 +19,12 @@ class Settings(BaseSettings):
     openrouter_model: str = "openai/gpt-oss-120b:free"
     openrouter_base_url: str = "https://openrouter.ai/api/v1"
     top_k: int = 8
+    retrieval_candidate_k: int = 40
     embedding_provider: str = "sentence_transformers"
     embedding_model: str = "paraphrase-multilingual-MiniLM-L12-v2"
     embedding_device: str = "auto"
+    reranker_enabled: bool = True
+    reranker_model: str = "BAAI/bge-reranker-v2-m3"
 
     model_config = SettingsConfigDict(
         env_file=".env",

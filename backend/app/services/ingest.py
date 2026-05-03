@@ -42,6 +42,25 @@ def _qa_to_document(qa: dict[str, Any], idx: int) -> tuple[str, str, Metadata]:
 
     doc_id = f"{university_code or 'UNK'}:qa:{idx}"
     doc_text = f"Hỏi: {question}\nĐáp: {answer}"
+    def infer_scope() -> str:
+        return "global" if is_global else "local"
+
+    def infer_domain() -> str:
+        s = intent.lower()
+        if s.startswith("fact_"):
+            return "fact"
+        if "cutoff" in s:
+            return "cutoff"
+        if "tuition" in s:
+            return "tuition"
+        if "compare" in s:
+            return "compare"
+        if "admission" in s or "method" in s:
+            return "admission"
+        if "program" in s:
+            return "program"
+        return "general"
+
     metadata_dict: dict[str, str | int | float | bool] = {
         "university_code": university_code,
         "university_name": university_name,
@@ -57,6 +76,8 @@ def _qa_to_document(qa: dict[str, Any], idx: int) -> tuple[str, str, Metadata]:
         "is_contrastive": is_contrastive,
         "is_global": is_global,
         "is_hard_negative": is_hard_negative,
+        "scope": infer_scope(),
+        "domain": infer_domain(),
         "source_dataset": "qa_2025_clean",
         "chunk_type": "qa_pair",
     }

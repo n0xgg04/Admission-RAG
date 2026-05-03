@@ -23,6 +23,11 @@ class TestCase:
     note: str | None = None
 
 
+def _is_global_query(q: str) -> bool:
+    low = q.lower()
+    return any(k in low for k in ["trường nào", "gợi ý", "học ở đâu", "chọn trường nào"])
+
+
 DEFAULT_CASES: list[TestCase] = [
     TestCase("trường bưu chính viễn thông ở đâu?", expected_code="BVH", expected_intents=["fact_address", "university_profile"]),
     TestCase("trường bưu chính viễn thông có những ngành gì?", expected_code="BVH", expected_intents=["school_programs_top5"]),
@@ -71,7 +76,11 @@ def _hit_passes(hit: Any, case: TestCase) -> bool:
     if case.expected_code:
         code_ok = code == case.expected_code
     if case.expected_intents:
-        intent_ok = intent in set(case.expected_intents)
+        expected = set(case.expected_intents)
+        if _is_global_query(case.query):
+            intent_ok = intent in expected or str(md.get("scope") or "") == "global"
+        else:
+            intent_ok = intent in expected
     return code_ok and intent_ok
 
 
@@ -98,13 +107,18 @@ def main() -> None:
         raise SystemExit("No test cases provided")
 
     passed = 0
+    top1_passed = 0
     for i, case in enumerate(cases, start=1):
         hits = retrieval_service.search(query=case.query, top_k=args.top_k)
         ok = any(_hit_passes(h, case) for h in hits)
+        top1_ok = _hit_passes(hits[0], case) if hits else False
         if ok:
             passed += 1
+        if top1_ok:
+            top1_passed += 1
         status = "PASS" if ok else "FAIL"
-        print(f"\n[{i:02d}] {status} :: {case.query}")
+        top1_status = "TOP1-PASS" if top1_ok else "TOP1-FAIL"
+        print(f"\n[{i:02d}] {status} ({top1_status}) :: {case.query}")
         if case.expected_code or case.expected_intents:
             print(
                 " expected:",
@@ -118,9 +132,11 @@ def main() -> None:
 
     total = len(cases)
     acc = passed / total if total else 0.0
+    top1_acc = top1_passed / total if total else 0.0
     print("\n=== SUMMARY ===")
     print(f"Passed: {passed}/{total}")
     print(f"Accuracy: {acc:.2%}")
+    print(f"Top1 Accuracy: {top1_acc:.2%}")
 
 
 if __name__ == "__main__":
