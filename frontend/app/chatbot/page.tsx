@@ -1,6 +1,8 @@
 "use client";
 
 import { FormEvent, useMemo, useState } from "react";
+import ReactMarkdown from "react-markdown";
+import remarkGfm from "remark-gfm";
 import { Shell } from "@/components/Shell";
 import { StatusBadge } from "@/components/StatusBadge";
 import { api, ChatResponse } from "@/lib/api";
@@ -157,7 +159,32 @@ export default function ChatbotPage() {
                         : "rounded-2xl rounded-tl-sm border border-slate-200 bg-white px-3 py-2 text-sm text-slate-800"
                     }
                   >
-                    <p className="whitespace-pre-wrap leading-relaxed">{msg.text}</p>
+                    {msg.role === "bot" ? (
+                      <div className="space-y-2 leading-relaxed">
+                        <ReactMarkdown
+                          remarkPlugins={[remarkGfm]}
+                          components={{
+                            p: ({ children }) => <p className="whitespace-pre-wrap">{children}</p>,
+                            ul: ({ children }) => <ul className="list-disc pl-5">{children}</ul>,
+                            ol: ({ children }) => <ol className="list-decimal pl-5">{children}</ol>,
+                            li: ({ children }) => <li className="mb-1">{children}</li>,
+                            strong: ({ children }) => <strong className="font-semibold text-slate-900">{children}</strong>,
+                            a: ({ href, children }) => (
+                              <a href={href} target="_blank" rel="noreferrer" className="text-teal-700 underline">
+                                {children}
+                              </a>
+                            ),
+                            code: ({ children }) => (
+                              <code className="rounded bg-slate-100 px-1 py-0.5 font-mono text-xs">{children}</code>
+                            )
+                          }}
+                        >
+                          {msg.text}
+                        </ReactMarkdown>
+                      </div>
+                    ) : (
+                      <p className="whitespace-pre-wrap leading-relaxed">{msg.text}</p>
+                    )}
                   </div>
                   {msg.role === "bot" && msg.meta ? (
                     <div className="mt-1 flex flex-wrap items-center gap-2 text-xs text-slate-500">
