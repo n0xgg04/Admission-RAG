@@ -13,6 +13,8 @@ class RerankerService:
     def __init__(self) -> None:
         self.enabled = bool(settings.reranker_enabled)
         self.model_name = settings.reranker_model
+        self.device = settings.reranker_device
+        self.batch_size = max(1, int(settings.reranker_batch_size))
         self._model: CrossEncoder | None = None
 
     def _ensure_model(self) -> CrossEncoder | None:
@@ -21,7 +23,7 @@ class RerankerService:
         if self._model is None:
             try:
                 logger.info("[reranker] loading model: %s", self.model_name)
-                self._model = CrossEncoder(self.model_name)
+                self._model = CrossEncoder(self.model_name, device=self.device)
             except Exception as exc:
                 logger.warning("[reranker] disabled due to load error: %s", exc)
                 self.enabled = False
@@ -34,7 +36,7 @@ class RerankerService:
             return [0.0 for _ in docs]
         pairs = [(query, d) for d in docs]
         try:
-            scores = model.predict(pairs)
+            scores = model.predict(pairs, batch_size=self.batch_size, show_progress_bar=False)
             return [float(s) for s in scores]
         except Exception as exc:
             logger.warning("[reranker] predict failed: %s", exc)

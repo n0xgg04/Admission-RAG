@@ -45,26 +45,29 @@ def _query_intent_where_hint(query: str) -> dict | None:
     q = query.lower()
     q_norm = RetrievalService._norm(query)
 
+    global_markers = ["trường nào", "goi y", "gợi ý", "học ở đâu", "chon truong", "chọn trường"]
+    is_global_query = any(k in q_norm for k in global_markers)
+
     # Compare two schools explicitly: "giữa A và B"
     if "giua" in q_norm and " va " in f" {q_norm} " and any(k in q for k in ["điểm chuẩn", "so sánh", "so sanh"]):
-        return {"intent": "cutoff_compare_two_schools"}
+        return {"$or": [{"intent": "cutoff_compare_two_schools"}, {"intent": "cutoff_compare_same_major_two_schools"}]}
 
     # Global same-major subject-group comparison
     if "cung nganh" in q_norm and any(k in q for k in ["tổ hợp", "to hop"]):
-        return {
-            "$or": [
-                {"intent": "cutoff_compare_subject_groups_global"},
-                {"intent": "cutoff_compare_subject_groups_same_major"},
-            ]
-        }
+        return {"intent": "cutoff_compare_subject_groups_global"}
     # Ưu tiên fact ngành khi hỏi "có những ngành gì"
     if any(k in q for k in ["những ngành gì", "ngành nào", "danh sách ngành", "đào tạo ngành"]):
-        if any(k in q for k in ["trường nào", "hoc o dau", "học ở đâu", "goi y", "gợi ý"]):
+        if is_global_query:
             return {
-                "$or": [
-                    {"intent": "program_to_schools_top5"},
-                    {"intent": "global_program_keyword"},
-                    {"intent": "global_recommend_by_province_program"},
+                "$and": [
+                    {"scope": "global"},
+                    {
+                        "$or": [
+                            {"intent": "program_to_schools_top5"},
+                            {"intent": "global_program_keyword"},
+                            {"intent": "global_recommend_by_province_program"},
+                        ]
+                    },
                 ]
             }
         return {
@@ -107,6 +110,13 @@ def _query_intent_where_hint(query: str) -> dict | None:
             ]
         }
     if any(k in q for k in ["học phí", "hoc phi", "chi phí", "duoi", "không quá", "khong qua"]):
+        if is_global_query or any(k in q_norm for k in ["duoi", "khong qua", "không quá"]):
+            return {
+                "$and": [
+                    {"scope": "global"},
+                    {"intent": "global_tuition_under_threshold"},
+                ]
+            }
         return {
             "$or": [
                 {"intent": "tuition_full"},
@@ -117,6 +127,8 @@ def _query_intent_where_hint(query: str) -> dict | None:
             ]
         }
     if any(k in q for k in ["so sánh", "so sanh"]):
+        if "giua" in q_norm and " va " in f" {q_norm} " and any(k in q for k in ["điểm chuẩn", "diem chuan"]):
+            return {"intent": "cutoff_compare_two_schools"}
         return {
             "$or": [
                 {"intent": "cutoff_compare_two_schools"},
@@ -129,12 +141,7 @@ def _query_intent_where_hint(query: str) -> dict | None:
         }
     if any(k in q for k in ["đề án tuyển sinh", "tuyển sinh", "phương thức xét tuyển", "học bạ"]):
         if any(k in q for k in ["như thế nào", "ra sao", "thông tin"]):
-            return {
-                "$or": [
-                    {"intent": "admission_full"},
-                    {"intent": "admission_method_detail"},
-                ]
-            }
+            return {"intent": "admission_full"}
         return {
             "$or": [
                 {"intent": "admission_full"},
@@ -201,8 +208,31 @@ class RetrievalService:
                         "code": str(r.get("ma-truong") or "").strip().upper(),
                         "name": str(r.get("ten-truong") or "").strip(),
                         "short": str(r.get("ten-viet-tat") or "").strip(),
+                        "aliases": "",
                     }
                 )
+            # enrich aliases automatically from school name patterns
+            for row in out:
+                name = row.get("name", "")
+                aliases: set[str] = set()
+                n = RetrievalService._norm(name)
+                if n:
+                    aliases.add(n)
+                # remove common prefixes
+                for prefix in ["truong dai hoc", "dai hoc", "hoc vien", "truong"]:
+                    if n.startswith(prefix + " "):
+                        aliases.add(n[len(prefix) + 1 :].strip())
+                # add tail bigrams/trigrams for natural queries
+                toks = [t for t in n.split() if len(t) >= 2]
+                if len(toks) >= 2:
+                    aliases.add(" ".join(toks[-2:]))
+                if len(toks) >= 3:
+                    aliases.add(" ".join(toks[-3:]))
+                if row.get("short"):
+                    aliases.add(RetrievalService._norm(row["short"]))
+                if row.get("code"):
+                    aliases.add(RetrievalService._norm(row["code"]))
+                row["aliases"] = " | ".join(sorted(a for a in aliases if a))
             return out
         return []
 
@@ -214,17 +244,30 @@ class RetrievalService:
         if not qn:
             return None
 
+        # Common aliases that users ask naturally
+        hard_alias_to_code = {
+            "buu chinh vien thong": "BVH",
+            "ngoai thuong": "NTH",
+            "bach khoa ha noi": "BKA",
+            "kinh te quoc dan": "KHA",
+            "hoc vien ngan hang": "NHH",
+        }
+        for alias, code in hard_alias_to_code.items():
+            if alias in qn:
+                return code
+
         best_code = None
         best_score = 0.0
         for s in self._load_school_records():
             code = s.get("code", "")
             name = s.get("name", "")
             short = s.get("short", "")
+            aliases = s.get("aliases", "")
             if not code:
                 continue
 
             exact = 0.0
-            for k in [code, short, name]:
+            for k in [code, short, name, aliases]:
                 nk = self._norm(k)
                 if nk and nk in qn:
                     exact = max(exact, 10.0 + len(nk) / 100.0)
@@ -276,9 +319,17 @@ class RetrievalService:
         if any(k in q for k in ["đề án", "tuyển sinh", "phương thức"]):
             if intent == "admission_full":
                 bonus += 0.12
+            if intent in {"admission_method_detail", "admission_segment"}:
+                bonus -= 0.04
         if any(k in q for k in ["so sánh", "so sanh", "giữa", " va "]):
             if "compare" in intent:
                 bonus += 0.08
+            if intent == "cutoff_compare_two_schools" and ("giữa" in q or " va " in q):
+                bonus += 0.12
+            if intent == "cutoff_compare_subject_groups_same_major":
+                bonus -= 0.06
+            if intent == "cutoff_compare_subject_groups_global" and any(k in q for k in ["cùng ngành", "to hop", "tổ hợp"]):
+                bonus += 0.12
         if any(k in q for k in ["những ngành gì", "ngành nào", "danh sách ngành"]):
             if intent == "school_programs_top5":
                 bonus += 0.10
@@ -286,6 +337,20 @@ class RetrievalService:
                 bonus += 0.08
             if intent == "global_program_keyword":
                 bonus += 0.08
+            if intent == "admission_segment":
+                bonus -= 0.05
+        if any(k in q for k in ["học bạ", "hoc ba"]) and ("không" in q or "khong" in q):
+            if intent == "negative_hoc_ba_not_found":
+                bonus += 0.12
+            if intent == "admission_segment":
+                bonus -= 0.05
+            if intent == "admission_method_detail":
+                bonus += 0.04
+        if any(k in q for k in ["đề án", "tuyển sinh", "như thế nào", "ra sao"]):
+            if intent == "admission_full":
+                bonus += 0.12
+            if intent in {"admission_method_detail", "admission_segment"}:
+                bonus -= 0.08
         return bonus
 
     @staticmethod
@@ -358,6 +423,7 @@ class RetrievalService:
         resolved_code = self._resolve_university_code(query, university_code)
         qlow = query.lower()
         is_global_query = any(x in qlow for x in ["trường nào", "goi y truong", "gợi ý trường", "chọn trường", "học ở đâu"])
+        is_local_program_query = any(x in qlow for x in ["có những ngành gì", "ngành nào", "danh sách ngành"]) and not is_global_query
         if is_global_query:
             resolved_code = None
         include_hard_negative = self._query_wants_negative(query)
@@ -370,6 +436,10 @@ class RetrievalService:
         )
         hint_where = _query_intent_where_hint(query)
         where = self._and_where(base_where if base_where else None, hint_where)
+
+        # For local program list queries, enforce school_programs_top5 strongly.
+        if is_local_program_query and resolved_code:
+            where = self._and_where(where, {"intent": "school_programs_top5"})
 
         normalized = self._normalize_query(query)
         base_hits = self._query_once(query=query, k=max(candidate_k, 8), where=where if where else None)
@@ -424,7 +494,7 @@ class RetrievalService:
         for h, ce in zip(reranked, ce_scores, strict=False):
             # CE score scale depends on model; normalize lightly by tanh-like clip.
             ce_norm = max(0.0, min(1.0, (ce + 5.0) / 10.0))
-            h.score = min(1.0, 0.75 * h.score + 0.25 * ce_norm)
+            h.score = min(1.0, 0.70 * h.score + 0.30 * ce_norm)
 
         reranked.sort(key=lambda h: h.score, reverse=True)
         return reranked[:k]

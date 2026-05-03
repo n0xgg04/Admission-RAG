@@ -25,6 +25,8 @@ class Settings(BaseSettings):
     embedding_device: str = "auto"
     reranker_enabled: bool = True
     reranker_model: str = "BAAI/bge-reranker-v2-m3"
+    reranker_device: str = "cpu"
+    reranker_batch_size: int = 8
 
     model_config = SettingsConfigDict(
         env_file=".env",
