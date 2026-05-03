@@ -106,7 +106,9 @@ def _query_tokens(query: str) -> set[str]:
     return {t for t in _normalize_text(query).split() if len(t) >= 2 and t not in stop}
 
 
-def _lookup_cutoff_from_clean_data(query: str, university_code: str | None) -> str | None:
+def _lookup_cutoff_from_clean_data(
+    query: str, university_code: str | None
+) -> tuple[str, bool] | None:
     if not university_code or not _is_cutoff_query(query):
         return None
 
@@ -122,7 +124,7 @@ def _lookup_cutoff_from_clean_data(query: str, university_code: str | None) -> s
     if not q_tokens:
         return None
 
-    scored: list[tuple[float, dict]] = []
+    scored: list[tuple[float, float, dict]] = []
     for row in rows:
         major = str(row.get("ten-nganh") or "")
         major_tokens = {t for t in _normalize_text(major).split() if len(t) >= 2}
@@ -131,14 +133,23 @@ def _lookup_cutoff_from_clean_data(query: str, university_code: str | None) -> s
         overlap = len(q_tokens & major_tokens)
         if overlap <= 0:
             continue
-        score = overlap + overlap / max(1, len(major_tokens))
-        scored.append((score, row))
+        recall = overlap / max(1, len(major_tokens))
+        precision = overlap / max(1, len(q_tokens))
+        score = overlap + recall
+        scored.append((score, precision, row))
 
     if not scored:
         return None
 
     scored.sort(key=lambda x: x[0], reverse=True)
-    top = [row for _, row in scored[:5]]
+    top = [row for _, _, row in scored[:5]]
+
+    best_score, best_precision, best_row = scored[0]
+    best_major_tokens = {
+        t for t in _normalize_text(str(best_row.get("ten-nganh") or "")).split() if len(t) >= 2
+    }
+    matched_tokens = len(q_tokens & best_major_tokens)
+    has_exact_major_match = matched_tokens >= 2 and best_precision >= 0.5 and best_score >= 2.2
 
     lines = []
     for row in top:
@@ -157,7 +168,8 @@ def _lookup_cutoff_from_clean_data(query: str, university_code: str | None) -> s
             line += f" | Ghi chú: {note}"
         lines.append(line)
 
-    return "Mình có thông tin điểm chuẩn gần nhất như sau:\n" + "\n".join(lines)
+    answer = "Mình có thông tin điểm chuẩn gần nhất như sau:\n" + "\n".join(lines)
+    return answer, has_exact_major_match
 
 
 def _load_school_records() -> list[dict[str, str]]:
@@ -335,8 +347,13 @@ class ChatService:
             university_code=resolved_code,
         )
 
-        direct_cutoff_answer = _lookup_cutoff_from_clean_data(query, resolved_code)
-        if direct_cutoff_answer and len(hits) <= 1:
+        direct_cutoff_result = _lookup_cutoff_from_clean_data(query, resolved_code)
+        if direct_cutoff_result:
+            direct_cutoff_answer, has_exact_match = direct_cutoff_result
+        else:
+            direct_cutoff_answer, has_exact_match = None, False
+
+        if direct_cutoff_answer and (has_exact_match or len(hits) <= 1):
             self._push_query(session, query)
             return ChatResponse(
                 answer=direct_cutoff_answer,
