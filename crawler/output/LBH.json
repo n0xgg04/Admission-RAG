@@ -1,0 +1,448 @@
+{
+  "university": {
+    "code": "LBH",
+    "name": "Trường Sĩ quan Lục quân 2",
+    "short_name": "LBH",
+    "location": [
+      "Đồng Nai"
+    ],
+    "address": "Xã Tam Phước, thành phố Biên Hoà, Đồng Nai.",
+    "website": "http://www dhnh.lucquan2.com",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": 742,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/truong-si-quan-luc-quan-2-dai-hoc-nguyen-hue-LBH.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2025/0725/thong-tin-tuyen-sinh-truong-si-quan-luc-quan-1-nam-2025.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG SĨ QUAN LỤC QUÂN 2 - ĐẠI HỌC NGUYỄN HUỆ 2026 Thông tin tuyển sinh trường Sĩ quan Lục Quân 2 năm 2026 Năm 2026, Trường Sĩ quan Lục quân 2 thông báo tuyển sinh 742 chỉ tiêu với 4 phương thức xét tuyển, cụ thể: Phương thức 1: Xét tuyển thẳng, ưu tiên xét tuyển theo quy chế tuyển sinh đại học của Bộ Giáo dục và Đào tạo và quy định của Bộ Quốc phòng. Phương thức 2: Xét tuyển từ kết quả thi đánh giá năng lực của Đại học Quốc gia TP. Hồ Chí Minh và Đại học Quốc gia Hà Nội năm 2026. Phương thức 3: Xét tuyển từ kết quả thi tốt nghiệp THPT năm 2026. Phương thức 4: Xét tuyển từ kết quả thi đánh giá năng lực do Bộ Quốc phòng tổ chức năm 2026. Xem thời gian và hồ sơ đăng ký xét tuyển năm 2026 TẠI ĐÂY Tuyển thí sinh Nam (không tuyển Nữ) có đủ tiêu chuẩn theo quy định của Bộ Quốc phòng. Thanh niên ngoài Quân đội không quá 21 tuổi, quân nhân tại ngũ không quá 23 tuổi. Về thể lực, thí sinh phải có chiều cao từ 1,65m, cân nặng từ 50kg trở lên (riêng thí sinh có hộ khẩu thường trú từ 3 năm trở lên tại khu vực 1, hải đảo hoặc là người dân tộc thiểu số có chiều cao từ 1,60m, cân nặng từ 48kg trở lên). Về mắt: Không tuyển thí sinh mắc tật khúc xạ cận thị. - Khu vực tuyển sinh: Tuyển thí sinh có hộ khẩu thường trú phía Nam (từ tỉnh Quảng Trị trở vào), thời gian thường trú phía Nam phải đủ 03 năm liên tục trở lên (tính đến tháng 9 năm 2026), có ít nhất năm lớp 12 học và dự thi tốt nghiệp THPT tại các tỉnh phía Nam.",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt---2025",
+      "method_name": "1 ĐIỂM THI THPT - 2025",
+      "description": "1.1 QUY CHẾ Thí sinh được cộng điểm khuyến khích nếu đủ điều kiện xét tuyển thẳng và ưu tiên xét tuyển nhưng không dùng đến, mà đăng ký xét từ kết quả thi. Nhóm được điểm cộng còn gồm những em đạt học lực giỏi, hạnh kiểm tốt ba năm, đồng thời đạt một trong các tiêu chí: - Giải ba thi học sinh giỏi cấp tỉnh - Có IELTS 5.5 hoặc tương đương - Điểm SAT 1.068/1.600 hoặc ACT 18 trở lên. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM THI THPT STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7860201 Chỉ huy Tham ",
+      "eligibility": null,
+      "rules": "QUY CHẾ Thí sinh được cộng điểm khuyến khích nếu đủ điều kiện xét tuyển thẳng và ưu tiên xét tuyển nhưng không dùng đến, mà đăng ký xét từ kết quả thi. Nhóm được điểm cộng còn gồm những em đạt học lực giỏi, hạnh kiểm tốt ba năm, đồng thời đạt một trong các tiêu chí: - Giải ba thi học sinh giỏi cấp tỉnh - Có IELTS 5.5 hoặc tương đương - Điểm SAT 1.068/1.600 hoặc ACT 18 trở lên.",
+      "programs": [
+        {
+          "program_code": "7860201",
+          "program_name": "Chỉ huy Tham mưu Lục quân (QK4)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7860201",
+          "program_name": "Chỉ huy Tham mưu Lục quân (QK5)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7860201",
+          "program_name": "Chỉ huy Tham mưu Lục quân (QK7)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7860201",
+          "program_name": "Chỉ huy Tham mưu Lục quân (QK9)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-gnl-hn---2025",
+      "method_name": "2 ĐIỂM ĐGNL HN - 2025",
+      "description": "2.1 QUY CHẾ Thí sinh được cộng điểm khuyến khích nếu đủ điều kiện xét tuyển thẳng và ưu tiên xét tuyển nhưng không dùng đến, mà đăng ký xét từ kết quả thi. Nhóm được điểm cộng còn gồm những em đạt học lực giỏi, hạnh kiểm tốt ba năm, đồng thời đạt một trong các tiêu chí: - Giải ba thi học sinh giỏi cấp tỉnh - Có IELTS 5.5 hoặc tương đương - Điểm SAT 1.068/1.600 hoặc ACT 18 trở lên. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐGNL HN STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7860201 Chỉ huy Tham m",
+      "eligibility": null,
+      "rules": "QUY CHẾ Thí sinh được cộng điểm khuyến khích nếu đủ điều kiện xét tuyển thẳng và ưu tiên xét tuyển nhưng không dùng đến, mà đăng ký xét từ kết quả thi. Nhóm được điểm cộng còn gồm những em đạt học lực giỏi, hạnh kiểm tốt ba năm, đồng thời đạt một trong các tiêu chí: - Giải ba thi học sinh giỏi cấp tỉnh - Có IELTS 5.5 hoặc tương đương - Điểm SAT 1.068/1.600 hoặc ACT 18 trở lên.",
+      "programs": [
+        {
+          "program_code": "7860201",
+          "program_name": "Chỉ huy Tham mưu Lục quân (QK4)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7860201",
+          "program_name": "Chỉ huy Tham mưu Lục quân (QK5)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7860201",
+          "program_name": "Chỉ huy Tham mưu Lục quân (QK7)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7860201",
+          "program_name": "Chỉ huy Tham mưu Lục quân (QK9)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        }
+      ]
+    },
+    {
+      "method_id": "3-iem-gnl-hcm---2025",
+      "method_name": "3 ĐIỂM ĐGNL HCM - 2025",
+      "description": "3.1 QUY CHẾ Thí sinh được cộng điểm khuyến khích nếu đủ điều kiện xét tuyển thẳng và ưu tiên xét tuyển nhưng không dùng đến, mà đăng ký xét từ kết quả thi. Nhóm được điểm cộng còn gồm những em đạt học lực giỏi, hạnh kiểm tốt ba năm, đồng thời đạt một trong các tiêu chí: - Giải ba thi học sinh giỏi cấp tỉnh - Có IELTS 5.5 hoặc tương đương - Điểm SAT 1.068/1.600 hoặc ACT 18 trở lên. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐGNL HCM STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7860201 Chỉ huy Tham ",
+      "eligibility": null,
+      "rules": "QUY CHẾ Thí sinh được cộng điểm khuyến khích nếu đủ điều kiện xét tuyển thẳng và ưu tiên xét tuyển nhưng không dùng đến, mà đăng ký xét từ kết quả thi. Nhóm được điểm cộng còn gồm những em đạt học lực giỏi, hạnh kiểm tốt ba năm, đồng thời đạt một trong các tiêu chí: - Giải ba thi học sinh giỏi cấp tỉnh - Có IELTS 5.5 hoặc tương đương - Điểm SAT 1.068/1.600 hoặc ACT 18 trở lên.",
+      "programs": [
+        {
+          "program_code": "7860201",
+          "program_name": "Chỉ huy Tham mưu Lục quân (QK4)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7860201",
+          "program_name": "Chỉ huy Tham mưu Lục quân (QK5)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7860201",
+          "program_name": "Chỉ huy Tham mưu Lục quân (QK7)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7860201",
+          "program_name": "Chỉ huy Tham mưu Lục quân (QK9)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        }
+      ]
+    },
+    {
+      "method_id": "4-utxt-xt-thang---2025",
+      "method_name": "4 ƯTXT, XT THẲNG - 2025",
+      "description": "4.1 QUY CHẾ Thí sinh được cộng điểm khuyến khích nếu đủ điều kiện xét tuyển thẳng và ưu tiên xét tuyển nhưng không dùng đến, mà đăng ký xét từ kết quả thi. Nhóm được điểm cộng còn gồm những em đạt học lực giỏi, hạnh kiểm tốt ba năm, đồng thời đạt một trong các tiêu chí: - Giải ba thi học sinh giỏi cấp tỉnh - Có IELTS 5.5 hoặc tương đương - Điểm SAT 1.068/1.600 hoặc ACT 18 trở lên. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ƯTXT, XT THẲNG STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7860201 Chỉ huy Tham",
+      "eligibility": null,
+      "rules": "QUY CHẾ Thí sinh được cộng điểm khuyến khích nếu đủ điều kiện xét tuyển thẳng và ưu tiên xét tuyển nhưng không dùng đến, mà đăng ký xét từ kết quả thi. Nhóm được điểm cộng còn gồm những em đạt học lực giỏi, hạnh kiểm tốt ba năm, đồng thời đạt một trong các tiêu chí: - Giải ba thi học sinh giỏi cấp tỉnh - Có IELTS 5.5 hoặc tương đương - Điểm SAT 1.068/1.600 hoặc ACT 18 trở lên.",
+      "programs": [
+        {
+          "program_code": "7860201",
+          "program_name": "Chỉ huy Tham mưu Lục quân (QK4)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7860201",
+          "program_name": "Chỉ huy Tham mưu Lục quân (QK5)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7860201",
+          "program_name": "Chỉ huy Tham mưu Lục quân (QK7)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7860201",
+          "program_name": "Chỉ huy Tham mưu Lục quân (QK9)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7860201",
+          "program_name": "Chỉ huy Tham mưu Lục quân (QK4)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7860201",
+          "program_name": "Chỉ huy Tham mưu Lục quân (QK4)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7860201",
+          "program_name": "Chỉ huy Tham mưu Lục quân (QK4)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7860201",
+          "program_name": "Chỉ huy Tham mưu Lục quân (QK5)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7860201",
+          "program_name": "Chỉ huy Tham mưu Lục quân (QK5)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7860201",
+          "program_name": "Chỉ huy Tham mưu Lục quân (QK5)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7860201",
+          "program_name": "Chỉ huy Tham mưu Lục quân (QK7)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7860201",
+          "program_name": "Chỉ huy Tham mưu Lục quân (QK7)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7860201",
+          "program_name": "Chỉ huy Tham mưu Lục quân (QK7)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7860201",
+          "program_name": "Chỉ huy Tham mưu Lục quân (QK9)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7860201",
+          "program_name": "Chỉ huy Tham mưu Lục quân (QK9)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7860201",
+          "program_name": "Chỉ huy Tham mưu Lục quân (QK9)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn của Trường Sĩ quan Lục quân 2 các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": "- Đăng kí sơ tuyển: Thanh niên ngoài Quân đội sơ tuyển tại Ban Tuyển sinh quân sự cấp xã (phường, đặc khu). Quân nhân tại ngũ sơ tuyển tại Ban Tuyển sinh quân sự đơn vị cấp trung đoàn. Thời gian: Từ 10/02 đến 15/04/2026 - Đăng kí xét tuyển: Thí sinh được đăng ký một hoặc nhiều phương thức xét tuyển của Trường. Khi có nhiều thí sinh cùng bằng điểm, xét tiêu chí phụ theo quy định của Bộ Quốc phòng",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/truong-si-quan-luc-quan-2-dai-hoc-nguyen-hue-LBH.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860201",
+            "program_name": "Chỉ huy Tham mưu Lục quân (QK4)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01"
+            ],
+            "score": 21.85,
+            "note": null
+          },
+          {
+            "program_code": "7860201",
+            "program_name": "Chỉ huy Tham mưu Lục quân (QK5)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01"
+            ],
+            "score": 21.75,
+            "note": null
+          },
+          {
+            "program_code": "7860201",
+            "program_name": "Chỉ huy Tham mưu Lục quân (QK7)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01"
+            ],
+            "score": 23.72,
+            "note": null
+          },
+          {
+            "program_code": "7860201",
+            "program_name": "Chỉ huy Tham mưu Lục quân (QK9)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01"
+            ],
+            "score": 21.85,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860201",
+            "program_name": "Chỉ huy Tham mưu Lục quân (QK4)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 86,
+            "note": null
+          },
+          {
+            "program_code": "7860201",
+            "program_name": "Chỉ huy Tham mưu Lục quân (QK5)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 86,
+            "note": null
+          },
+          {
+            "program_code": "7860201",
+            "program_name": "Chỉ huy Tham mưu Lục quân (QK7)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 92,
+            "note": null
+          },
+          {
+            "program_code": "7860201",
+            "program_name": "Chỉ huy Tham mưu Lục quân (QK9)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 86,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860201",
+            "program_name": "Chỉ huy Tham mưu Lục quân (QK4)",
+            "subject_groups": [],
+            "score": 755,
+            "note": null
+          },
+          {
+            "program_code": "7860201",
+            "program_name": "Chỉ huy Tham mưu Lục quân (QK5)",
+            "subject_groups": [],
+            "score": 750,
+            "note": null
+          },
+          {
+            "program_code": "7860201",
+            "program_name": "Chỉ huy Tham mưu Lục quân (QK7)",
+            "subject_groups": [],
+            "score": 825,
+            "note": null
+          },
+          {
+            "program_code": "7860201",
+            "program_name": "Chỉ huy Tham mưu Lục quân (QK9)",
+            "subject_groups": [],
+            "score": 755,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

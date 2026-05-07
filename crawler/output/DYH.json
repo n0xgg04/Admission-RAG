@@ -1,0 +1,182 @@
+{
+  "university": {
+    "code": "DYH",
+    "name": "Học viện Quân y",
+    "short_name": "VMMU",
+    "location": [
+      "Hà Nội"
+    ],
+    "address": "Phường Phúc La, Hà Đông, Hà Nội",
+    "website": "http://www.hocvienquany.vn",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": 250,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/hoc-vien-quan-y-he-dan-su-DYH.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0130/thong-tin-tuyen-sinh-hoc-vien-quan-y-2026.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH HỌC VIỆN QUÂN Y - HỆ DÂN SỰ 2026 Thông tin tuyển sinh Học Viện Quân Y - Hệ Dân sự năm 2026 Năm 2026, Học viện Quân Y sử dụng 4 phương thức xét tuyển như sau: Phương thức 1: Xét tuyển thẳng, ưu tiên xét tuyển (nữ hệ Quân đội không quá 50% chỉ tiêu) Phương thức 2: Xét tuyển từ kết quả thi đánh giá năng lực của ĐH Quốc gia Hà nội và ĐH Quốc gia TP.Hồ Chí Minh. Phương thức 3: Xét tuyển dựa vào kết quả thi THPT. Phương thức 4: Xét tuyển từ kết quả thi đánh giá năng lực do Bộ Quốc phòng tổ chức (dành cho thí sinh đăng ký xét tuyển hệ Quân sự có đăng ký sơ tuyển) Tuyển sinh quân sự: Chỉ tiêu theo quy định của Bộ Quốc phòng, phân theo vùng miền và giới tính (10% nữ). Y khoa (7720101): Tổ hợp A00 (Toán, Lý, Hóa); B00 (Toán, Hóa, Sinh); D07 (Toán, Hóa, Tiếng Anh). Dược sĩ đại học (7720201); A00 (Toán, Lý, Hóa); D07 (Toán, Hóa, Tiếng Anh). Tuyển sinh dân sự: khoảng 250 chỉ tiêu. Y khoa (7720101): Tổ hợp A00 (Toán, Lý, Hóa); B00 (Toán, Hóa, Sinh); D07 (Toán, Hóa, Tiếng Anh). Dược sĩ đại học (7720201); A00 (Toán, Lý, Hóa); D07 (Toán, Hóa, Tiếng Anh). Đối tượng: Tuyển thí sinh nam, nữ trong cả nước, trong và ngoài Quân đội; qua sơ tuyển, đủ tiêu chuẩn theo quy định của Bộ Quốc phòng và Bộ Giáo dục và Đào tạo Khám phá thêm khoá học Tài nguyên giáo dục Giáo dục",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 ĐỐI TƯỢNG Phương thức 1: Xét tuyển thẳng, ưu tiên xét tuyển DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM THI THPT STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7720101 Y khoa A00; B00; D07 2 7720201 Dược sĩ đại học A00; D07",
+      "eligibility": "ĐỐI TƯỢNG Phương thức 1: Xét tuyển thẳng, ưu tiên xét tuyển",
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược sĩ đại học",
+          "subject_groups": [
+            "A00",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-gnl-hn",
+      "method_name": "2 ĐIỂM ĐGNL HN",
+      "description": "2.1 ĐỐI TƯỢNG Phương thức 2: Xét tuyển từ kết quả thi đánh giá năng lực của ĐH Quốc gia Hà Nội. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐGNL HN STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7720101 Y khoa 2 7720201 Dược sĩ đại học",
+      "eligibility": "ĐỐI TƯỢNG Phương thức 2: Xét tuyển từ kết quả thi đánh giá năng lực của ĐH Quốc gia Hà Nội.",
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược sĩ đại học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    },
+    {
+      "method_id": "3-iem-gnl-hcm",
+      "method_name": "3 ĐIỂM ĐGNL HCM",
+      "description": "3.1 ĐỐI TƯỢNG Phương thức 2: Xét tuyển từ kết quả thi đánh giá năng lực của ĐH Quốc gia TP.Hồ Chí Minh. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐGNL HCM STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7720101 Y khoa 2 7720201 Dược sĩ đại học",
+      "eligibility": "ĐỐI TƯỢNG Phương thức 2: Xét tuyển từ kết quả thi đánh giá năng lực của ĐH Quốc gia TP.Hồ Chí Minh.",
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược sĩ đại học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    },
+    {
+      "method_id": "4-iem-thi-rieng",
+      "method_name": "4 ĐIỂM THI RIÊNG",
+      "description": "4.1 ĐỐI TƯỢNG Phương thức 4: Xét tuyển từ kết quả thi đánh giá năng lực do Bộ Quốc phòng tổ chức (dành cho thí sinh đăng ký xét tuyển hệ Quân sự có đăng ký sơ tuyển)",
+      "eligibility": "ĐỐI TƯỢNG Phương thức 4: Xét tuyển từ kết quả thi đánh giá năng lực do Bộ Quốc phòng tổ chức (dành cho thí sinh đăng ký xét tuyển hệ Quân sự có đăng ký sơ tuyển)",
+      "rules": null,
+      "programs": []
+    },
+    {
+      "method_id": "5-iem-thi-thpt",
+      "method_name": "5 ĐIỂM THI THPT",
+      "description": "5.1 ĐỐI TƯỢNG Phương thức 3: Xét tuyển dựa vào kết quả thi THPT. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM THI THPT STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7720101 Y khoa A00; B00; D07 2 7720201 Dược sĩ đại học A00; D07",
+      "eligibility": "ĐỐI TƯỢNG Phương thức 3: Xét tuyển dựa vào kết quả thi THPT.",
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược sĩ đại học",
+          "subject_groups": [
+            "A00",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược sĩ đại học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược sĩ đại học",
+          "subject_groups": [
+            "A00",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": null,
+  "tuition_text": null,
+  "timeline_text": null
+}

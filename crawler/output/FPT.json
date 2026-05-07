@@ -1,0 +1,209 @@
+{
+  "university": {
+    "code": "FPT",
+    "name": "Trường Đại Học FPT",
+    "short_name": "FPT",
+    "location": [
+      "Hà Nội"
+    ],
+    "address": "Khu Giáo dục và Đào tạo – Khu Công nghệ cao Hòa Lạc – Km29 Đại lộ Thăng Long, H. Thạch Thất, TP. Hà Nội",
+    "website": "http://www.fpt.edu.vn",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-fpt-FPT.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2025/1229/thong-tin-tuyen-sinh-truong-dh-fpt-2025.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC FPT 2026 Thông tin tuyển sinh Đại học FPT năm 2026 Năm 2026, Trường Đại học FPT công bố phương thức tuyển sinh: - Phương thức 1: Xét tuyển thẳng, ưu tiên xét tuyển - Phương thức 2: Xét tuyển kết hợp (Xét tuyển dựa trên kết quả kỳ thi tốt nghiệp THPT kết hợp với kết quả học tập THPT, cùng với điểm ưu tiên theo quy định, nhằm đánh giá toàn diện quá trình học tập của thí sinh thay vì chỉ dựa trên một tiêu chí đơn lẻ.) Xem thời gian và hồ sơ đăng ký xét tuyển FPT năm 2026 TẠI ĐÂY Khám phá thêm Giáo dục Khóa học giáo dục Trên đây là thông tin tuyển sinh 2026 dự kiến của trường Đại học FPT. Đề án tuyển sinh 2026 của trường sẽ được cập nhật trong thời gian tới, các em có thể tham khảo đề án 2025 đăng tải bên dưới.",
+  "admission_methods": [
+    {
+      "method_id": "1-xet-tuyen-thang",
+      "method_name": "1 XÉT TUYỂN THẲNG",
+      "description": "1.1 ĐỐI TƯỢNG Người đã được công nhận tốt nghiệp trung học phổ thông (THPT) của Việt Nam hoặc có bằng tốt nghiệp của nước ngoài được công nhận trình độ tương đương; Người đã có bằng tốt nghiệp trung cấp ngành nghề thuộc cùng nhóm ngành dự tuyển và đã hoàn thành đủ yêu cầu khối lượng kiến thức văn hóa cấp THPT theo quy định của pháp luật. 1.2 QUY CHẾ Áp dụng cho thí sinh thuộc diện xét tuyển thẳng theo quy định hiện hành của Bộ Giáo dục và Đào tạo. Áp dụng đối với các nhóm thí sinh có nền tảng họ",
+      "eligibility": "ĐỐI TƯỢNG Người đã được công nhận tốt nghiệp trung học phổ thông (THPT) của Việt Nam hoặc có bằng tốt nghiệp của nước ngoài được công nhận trình độ tương đương; Người đã có bằng tốt nghiệp trung cấp ngành nghề thuộc cùng nhóm ngành dự tuyển và đã hoàn thành đủ yêu cầu khối lượng kiến thức văn hóa cấp THPT theo quy định của pháp luật. 1.2",
+      "rules": "QUY CHẾ Áp dụng cho thí sinh thuộc diện xét tuyển thẳng theo quy định hiện hành của Bộ Giáo dục và Đào tạo. Áp dụng đối với các nhóm thí sinh có nền tảng học tập hoặc quá trình đào tạo phù hợp, bao gồm: Thí sinh tốt nghiệp THPT nước ngoài, tốt nghiệp THPT các trường thuộc Tổ chức giáo dục FPT; Thí sinh có các chứng chỉ hoặc văn bằng: Chứng chỉ APTECH HDSE/ADSE, ARENA ADIM, SKILLKING, JETKING; Tốt nghiệp chương trình BTEC HND, Melbourne Polytechnic, FUNiX Software Engineering, Cao đẳng FPT Polytechnic.",
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7220204",
+          "program_name": "Ngôn ngữ Trung Quốc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7220209",
+          "program_name": "Ngôn ngữ Nhật",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7220210",
+          "program_name": "Ngôn ngữ Hàn Quốc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7320106",
+          "program_name": "Công nghệ truyền thông",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-xet-tuyen-ket-hop",
+      "method_name": "2 ĐIỂM XÉT TUYỂN KẾT HỢP",
+      "description": "2.1 QUY CHẾ Trường Đại học FPT xét tuyển theo phương thức kết hợp kết quả kỳ thi tốt nghiệp THPT với kết quả học tập THPT. Điểm xét tuyển được xác định như sau: Điểm xét tuyển = Tổng điểm đạt được + [Tổng Điểm ƯT và Điểm KK] Điểm xét tuyển làm tròn đến hàng phần trăm. Tổng điểm đạt được = (Điểm thi THPT + (Điểm trung bình lớp 12) x 3)/2 Điểm thi THPT quy định như sau: Tổ hợp Axx = Điểm Toán + Điểm môn 2 + Điểm môn 3; áp dụng đối với thí sinh đăng ký vào tất cả các ngành. Tổ hợp Cxx = Điểm Văn + ",
+      "eligibility": "đối tượng thí sinh có chứng chỉ ngoại ngữ áp dụng theo PHỤ LỤC – BẢNG THAM CHIẾU QUY ĐỔI TƯƠNG ĐƯƠNG CÁC CHỨNG CHỈ NGOẠI NGỮ. Với thí sinh có Tổng điểm đạt được từ 22,5 trở lên thì [Tổng Điểm ƯT và Điểm KK] sẽ giảm dần để đảm bảo quy tắc Điểm xét tuyển không vượt quá 30 theo quy định tại điểm d khoản 2 Điều 6",
+      "rules": "QUY CHẾ Trường Đại học FPT xét tuyển theo phương thức kết hợp kết quả kỳ thi tốt nghiệp THPT với kết quả học tập THPT. Điểm xét tuyển được xác định như sau: Điểm xét tuyển = Tổng điểm đạt được + [Tổng Điểm ƯT và Điểm KK] Điểm xét tuyển làm tròn đến hàng phần trăm. Tổng điểm đạt được = (Điểm thi THPT + (Điểm trung bình lớp 12) x 3)/2 Điểm thi THPT quy định như sau: Tổ hợp Axx = Điểm Toán + Điểm môn 2 + Điểm môn 3; áp dụng đối với thí sinh đăng ký vào tất cả các ngành. Tổ hợp Cxx = Điểm Văn + Điểm môn 2 + Điểm môn 3; áp dụng đối với thí sinh đăng ký vào các ngành ngoài các ngành Công nghệ thông tin và Khoa học máy tính. Trường hợp thí sinh sử dụng chứng chỉ ngoại ngữ (để miễn thi tốt nghiệp môn ngoại ngữ) đăng ký xét tuyển đại học, điểm quy đổi kết quả chứng chỉ ngoại ngữ và điểm xét môn ngoại ngữ áp dụng theo PHỤ LỤC – BẢNG THAM CHIẾU QUY ĐỔI TƯƠNG ĐƯƠNG CÁC CHỨNG CHỈ NGOẠI NGỮ. Điểm trung bình lớp 12 là điểm trung bình cộng của tất cả môn học được đánh giá bằng điểm số của năm học lớp 12. Điểm ƯT (Điểm ưu tiên) theo quy định tại Điều 7 Quy chế tuyển sinh của Bộ GDĐT. Điểm KK (Điểm khuyến khích) dành cho các",
+      "programs": [
+        {
+          "program_code": "IELTS",
+          "program_name": "Điểm KK thang 30",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "Điểm quy đổi Academic"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Trường Đại Học FPT các năm Tại đây",
+  "tuition_text": "Từ năm 2026, Trường Đại học FPT triển khai các chính sách ưu đãi học phí nhằm hỗ trợ người học và góp phần phát triển nguồn nhân lực chất lượng cao cho các vùng kinh tế trọng điểm của đất nước: Ưu đãi 30% học phí cho tất cả thí sinh thuộc Khu vực 1, hỗ trợ các em có điều kiện kinh tế khó khăn tiếp cận môi trường giáo dục tiên tiến. Ưu đãi 30% học phí toàn khóa cho sinh viên học tập tại campus Cần Thơ và Đà Nẵng. Ưu đãi 50% học phí toàn khóa cho sinh viên học tập tại campus Quy Nhơn.",
+  "timeline_text": "Thời gian dự kiến tuyển sinh các đợt trong năm: Đợt 1: theo lịch trình chung của Bộ Giáo dục và Đào tạo. Các đợt tuyển bổ sung (nếu có) căn cứ vào kết quả đợt tuyển sinh trước đó và sẽ được thông báo khi trường chưa tuyển đủ số lượng",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-fpt-FPT.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2024",
+        "year": 2024,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "A",
+              "B",
+              "C01",
+              "C02",
+              "C03",
+              "C04"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "A",
+              "B",
+              "C01",
+              "C02",
+              "C03",
+              "C04"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7220209",
+            "program_name": "Ngôn ngữ Nhật",
+            "subject_groups": [
+              "A",
+              "B",
+              "C01",
+              "C02",
+              "C03",
+              "C04"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7220210",
+            "program_name": "Ngôn ngữ Hàn Quốc",
+            "subject_groups": [
+              "A",
+              "B",
+              "C01",
+              "C02",
+              "C03",
+              "C04"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7320106",
+            "program_name": "Công nghệ truyền thông",
+            "subject_groups": [
+              "A",
+              "B",
+              "C01",
+              "C02",
+              "C03",
+              "C04"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A",
+              "B",
+              "C01",
+              "C02",
+              "C03",
+              "C04"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A",
+              "B",
+              "C01",
+              "C02",
+              "C03",
+              "C04"
+            ],
+            "score": 21,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

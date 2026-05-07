@@ -1,0 +1,433 @@
+{
+  "university": {
+    "code": "DHE",
+    "name": "Khoa Kỹ thuật và Công nghệ - Đại học Huế",
+    "short_name": "HUET",
+    "location": [
+      "Huế"
+    ],
+    "address": "Khoa Kỹ Thuật và Công Nghệ, phòng II.14, Tầng 2, số 01 Điện Biên Phủ, Thành phố Huế",
+    "website": "http://huet.hueuni.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/khoa-ky-thuat-va-cong-nghe-dai-hoc-hue-DHE.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2025/0715/thong-tin-tuyen-sinh-khoa-ky-thuat-va-cong-nghe-dh-hue-2025.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH KHOA KỸ THUẬT VÀ CÔNG NGHỆ - ĐẠI HỌC HUẾ 2026 Thông tin tuyển sinh Khoa Kỹ thuật và Công nghệ - Đại học Huế 2026 Năm 2026, Khoa Kỹ Thuật và Công Nghệ – Đại học Huế (HUET) thực hiện 05 phương thức tuyển sinh cho 07 ngành đào tạo trình độ Đại học chính quy . Phương thức 1: Xét tuyển thẳng và ưu tiên xét tuyển theo quy chế tuyển sinh hiện hành (Phương thức 301) Phương thức 2: Xét tuyển dựa vào học bạ THPT (Phương thức 200) Phương thức 3: Xét tuyển theo phương thức xét tuyển dựa vào kết quả kỳ thi tốt nghiệp trung học phổ thông (điểm thi TN THPT) năm 2026 (Phương thức 100) Phương thức 4: Xét tuyển theo phương thức xét tuyển dựa vào kết quả kỳ thi tốt nghiệp trung học phổ thông (điểm thi TN THPT) năm 2026 hoặc kết quả học tập cấp THPT (học bạ) kết hợp chứng chỉ ngoại ngữ Phương thức 5: Xét tuyển sử dụng kết quả thi đánh giá năng lực năm 2026 của Đại học quốc gia TP.HCM (Điểm ĐGNL) Khám phá thêm giáo dục Hướng dẫn và thông tin du lịch Khóa học",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 ĐIỀU KIỆN XÉT TUYỂN Nguồn xét tuyển vào chương trình đào tạo trình độ đại học là thí sinh có tổng điểm 03 môn thi kỳ thi tốt nghiệp THPT (kỳ thi trung học nghề đối với đối tượng trung học nghề) các năm theo tổ hợp xét tuyển đạt tối thiểu 15,00 điểm theo thang điểm 30, áp dụng đối với thí sinh thi tốt nghiệp từ năm 2026. Quy định này không áp dụng đối với thí sinh được đặc cách xét tốt nghiệp THPT và thí sinh quy định tại khoản 1, khoản 2 (điểm a, c, d, đ), khoản 3, khoản 4 Điều 8 của Quy chế",
+      "eligibility": "đối tượng trung học nghề) các năm theo tổ hợp xét tuyển đạt tối thiểu 15,00 điểm theo thang điểm 30, áp dụng đối với thí sinh thi tốt nghiệp từ năm 2026. Quy định này không áp dụng đối với thí sinh được đặc cách xét tốt nghiệp THPT và thí sinh quy định tại khoản 1, khoản 2 (điểm a, c, d, đ), khoản 3, khoản 4 Điều 8 của",
+      "rules": "Quy chế tuyển sinh đại học hiện hành. – Đối với Phương thức xét tuyển sử dụng kết quả học tập cấp trung học phổ thông (điểm học bạ): Đã tốt nghiệp THPT, ngưỡng đảm bảo chất lượng đầu vào là 18 điểm áp dụng đối với tất cả tổ hợp đăng ký xét tuyển (không tính điểm ưu tiên). – Đối với các phương thức xét tuyển còn lại: Khoa KT&CN sẽ xác định ngưỡng đảm bảo chất lượng đầu vào và công bố trên trang thông tin điện tử của Khoa. 1.2 QUY CHẾ Khoa KT&CN xét tuyển sử dụng kết quả của kỳ thi tốt nghiệp THPT năm 2026 cho tất cả các ngành đào tạo. – Điểm các môn trong tổ hợp môn xét tuyển được lấy từ kết quả thi tốt nghiệp THPT năm 2026. – Khoa KT&CN không sử dụng kết quả miễn thi bài thi môn ngoại ngữ của kỳ thi tốt nghiệp THPT. – Điểm xét tuyển làm tròn đến 02 chữ số thập phân, tối đa là 30 điểm và tính như sau: Điểm xét tuyển = (Môn 1 + Môn 2 + Môn 3) + Điểm cộng (nếu có) + Điểm ưu tiên (nếu có) trong đó, + ĐXT: Điểm xét tuyển; + ĐƯT: Điểm ưu tiên theo khu vực,",
+      "programs": [
+        {
+          "program_code": "7580201",
+          "program_name": "Kỹ thuật xây dựng (hệ kỹ sư)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "D01",
+            "X07"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-hoc-ba",
+      "method_name": "2 ĐIỂM HỌC BẠ",
+      "description": "2.1 ĐIỀU KIỆN XÉT TUYỂN – Nguồn xét tuyển vào chương trình đào tạo trình độ đại học là thí sinh có tổng điểm 03 môn thi kỳ thi tốt nghiệp THPT (kỳ thi trung học nghề đối với đối tượng trung học nghề) các năm theo tổ hợp xét tuyển đạt tối thiểu 15,00 điểm theo thang điểm 30, áp dụng đối với thí sinh thi tốt nghiệp từ năm 2026. Quy định này không áp dụng đối với thí sinh được đặc cách xét tốt nghiệp THPT và thí sinh quy định tại khoản 1, khoản 2 (điểm a, c, d, đ), khoản 3, khoản 4 Điều 8 của Quy c",
+      "eligibility": "đối tượng trung học nghề) các năm theo tổ hợp xét tuyển đạt tối thiểu 15,00 điểm theo thang điểm 30, áp dụng đối với thí sinh thi tốt nghiệp từ năm 2026. Quy định này không áp dụng đối với thí sinh được đặc cách xét tốt nghiệp THPT và thí sinh quy định tại khoản 1, khoản 2 (điểm a, c, d, đ), khoản 3, khoản 4 Điều 8 của",
+      "rules": "Quy chế tuyển sinh đại học hiện hành. – Đối với Phương thức xét tuyển sử dụng kết quả học tập cấp trung học phổ thông (điểm học bạ): Đã tốt nghiệp THPT, ngưỡng đảm bảo chất lượng đầu vào là 18 điểm áp dụng đối với tất cả tổ hợp đăng ký xét tuyển (không tính điểm ưu tiên). – Đối với các phương thức xét tuyển còn lại: Khoa KT&CN sẽ xác định ngưỡng đảm bảo chất lượng đầu vào và công bố trên trang thông tin điện tử của Khoa. 2.2 QUY CHẾ – Khoa KT&CN sử dụng kết quả học tập cấp trung học phổ thông để xét tuyển cho tất cả các ngành đào tạo. – Điểm các môn trong tổ hợp môn xét tuyển là điểm trung bình chung kết quả học tập cả năm các lớp 10, 11, 12 của mỗi môn học (làm tròng đến 01 chữ số thập phân). – Điểm xét tuyển làm tròn đến 02 chữ số thập phân, tối đa là 30 điểm và tính như sau: Điểm xét tuyển = (Môn 1 + Môn 2 + Môn 3) quy đổi tương đương + Điểm cộng (nếu có) + Điểm ưu tiên (Nếu có) trong đó, + ĐXT: Điểm xét tuyển; + Quy tắc quy đổi tương đương thực hiện theo quy định chung của Đại học Huế; + ĐƯT: Điểmưu tiên theo khu vực,",
+      "programs": [
+        {
+          "program_code": "7580201",
+          "program_name": "Kỹ thuật xây dựng (hệ kỹ sư)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "D01",
+            "X07"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        }
+      ]
+    },
+    {
+      "method_id": "3-iem-xet-tuyen-ket-hop",
+      "method_name": "3 ĐIỂM XÉT TUYỂN KẾT HỢP",
+      "description": "3.1 QUY CHẾ – Điểm chứng chỉ ngoại ngữ được quy đổi thành điểm 1 môn tương ứng môn ngoại ngữ trong tổ hợp môn xét tuyển (bảng quy đổi tại mục 5). STT Chứng chỉ Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam Khung tham chiếu Châu Âu Mức điểm Điểm quy đổi sang thang điểm 10 1 VSTEP Bậc 3 B1 5,5 8 Bậc 4 B2 6,0 – 6,5 8,5 7,0 – 7,5 9 8 9,5 Bậc 5 C1 >=8,5 10 2 IELTS Bậc 3 B1 5 8 Bậc 4 B2 5,5 8,5 6 9 6,5 9,5 Bậc 5 – Bậc 6 C1 – C2 >=7,0 10 3 TOEFL iBT Bậc 3 B1 35 – 45 8 Bậc 4 B2 46 – 59 8,5 60 – 78 9 ",
+      "eligibility": "đối tượng ưu tiên (Theo",
+      "rules": "QUY CHẾ – Điểm chứng chỉ ngoại ngữ được quy đổi thành điểm 1 môn tương ứng môn ngoại ngữ trong tổ hợp môn xét tuyển (bảng quy đổi tại mục 5). STT Chứng chỉ Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam Khung tham chiếu Châu Âu Mức điểm Điểm quy đổi sang thang điểm 10 1 VSTEP Bậc 3 B1 5,5 8 Bậc 4 B2 6,0 – 6,5 8,5 7,0 – 7,5 9 8 9,5 Bậc 5 C1 >=8,5 10 2 IELTS Bậc 3 B1 5 8 Bậc 4 B2 5,5 8,5 6 9 6,5 9,5 Bậc 5 – Bậc 6 C1 – C2 >=7,0 10 3 TOEFL iBT Bậc 3 B1 35 – 45 8 Bậc 4 B2 46 – 59 8,5 60 – 78 9 79 – 93 9,5 Bậc 5 – Bậc 6 C1 – C2 >=94 10 4 TOEIC (4 kỹ năng) Bậc 3 B1 Nghe: 275 – 325 Đọc: 275 – 325 Nói: 120 – 130 Viết: 120 – 130 8 Nghe: 330 – 395 Đọc: 330 – 385 Nói: 140 – 150 Viết: 140 8,5 Bậc 4 B2 Nghe: 400 – 445 Đọc: 390 – 420 Nói: 160 – 170 Viết: 150 – 160 9 Nghe: 450 – 490 Đọc: 425 – 450 Nói: 180 Viết: 170 9,5 Bậc 5 – Bậc 6 C1 – C2 Nghe: 495 Đọc: 455 – 495 Nói: 190 – 200 Viết: 180 – 200 10 – Điểm xét tuyển Đối với xét tuyển dựa vào học bạ THPT (Phương thức 200) – Khoa KT&CN sử dụng kết quả học tập cấp trung học phổ thông để xét tuyển cho tất cả các ngành đào tạo. – Điểm các môn trong tổ hợp môn xét tuyển là điểm trung bình chung kết quả học tập cả năm các lớp 10, 11, 12 của mỗi môn học (làm tròng đến 01 chữ số thập phân). – Điểm xét tuyển làm tròn đến 02 chữ số thập phân, tối đa là 30 điểm và tính như sau: Điểm xét tuyển = (Môn 1 + Môn 2 + Môn 3) quy đổi tương đương + Điểm cộng (nếu có) + Điểm ưu tiên (Nếu có) trong đó, + ĐXT: Điểm xét tuyển; + Quy tắc quy đổi tương đương thực hiện theo quy định chung của Đại học Huế; + ĐƯT: Điểmưu tiên theo khu vực,",
+      "programs": [
+        {
+          "program_code": "VSTEP",
+          "program_name": "6,0 – 6,5",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "VSTEP",
+          "program_name": "7,0 – 7,5",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "IELTS",
+          "program_name": "Bậc 5 – Bậc 6",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    },
+    {
+      "method_id": "4-iem-gnl-hcm",
+      "method_name": "4 ĐIỂM ĐGNL HCM",
+      "description": "4.1 ĐIỀU KIỆN XÉT TUYỂN – Nguồn xét tuyển vào chương trình đào tạo trình độ đại học là thí sinh có tổng điểm 03 môn thi kỳ thi tốt nghiệp THPT (kỳ thi trung học nghề đối với đối tượng trung học nghề) các năm theo tổ hợp xét tuyển đạt tối thiểu 15,00 điểm theo thang điểm 30, áp dụng đối với thí sinh thi tốt nghiệp từ năm 2026. Quy định này không áp dụng đối với thí sinh được đặc cách xét tốt nghiệp THPT và thí sinh quy định tại khoản 1, khoản 2 (điểm a, c, d, đ), khoản 3, khoản 4 Điều 8 của Quy c",
+      "eligibility": "đối tượng trung học nghề) các năm theo tổ hợp xét tuyển đạt tối thiểu 15,00 điểm theo thang điểm 30, áp dụng đối với thí sinh thi tốt nghiệp từ năm 2026. Quy định này không áp dụng đối với thí sinh được đặc cách xét tốt nghiệp THPT và thí sinh quy định tại khoản 1, khoản 2 (điểm a, c, d, đ), khoản 3, khoản 4 Điều 8 của",
+      "rules": "Quy chế tuyển sinh đại học hiện hành. – Đối với Phương thức xét tuyển sử dụng kết quả học tập cấp trung học phổ thông (điểm học bạ): Đã tốt nghiệp THPT, ngưỡng đảm bảo chất lượng đầu vào là 18 điểm áp dụng đối với tất cả tổ hợp đăng ký xét tuyển (không tính điểm ưu tiên). – Đối với các phương thức xét tuyển còn lại: Khoa KT&CN sẽ xác định ngưỡng đảm bảo chất lượng đầu vào và công bố trên trang thông tin điện tử của Khoa. 4.2 QUY CHẾ – Điểm xét tuyển làm tròn đến 02 chữ số thập phân, tối đa là 30 điểm và tính như sau: Điểm xét tuyển = (Điểm ĐGNL) Quy đổi tương đương + Điểm cộng (nếu có) + Điểm ưu tiên (nếu có) trong đó, + Điểm ĐGNL: Điểm đánh giá năng lực; + Quy tắc quy đổi tương đương thực hiện theo quy định chung của Đại học Huế; + ĐƯT: Điểmưu tiên theo khu vực,",
+      "programs": [
+        {
+          "program_code": "7580201",
+          "program_name": "Kỹ thuật xây dựng (hệ kỹ sư)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "D01",
+            "X07"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        }
+      ]
+    },
+    {
+      "method_id": "5-utxt-xt-thang",
+      "method_name": "5 ƯTXT, XT THẲNG",
+      "description": "5.1 ĐỐI TƯỢNG Khoa KT&CN xét tuyển thẳng và ưu tiên xét tuyển vào đại học hệ chính quy năm 2026 với thí sinh là đối tượng được quy định tại Điều 8 của Quy chế tuyển sinh hiện hành. Thông tin chi tiết sẽ được quy định cụ thể tại Thông báo về việc xét tuyển thẳng, ưu tiên xét tuyển của Đại học Huế DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ƯTXT, XT THẲNG STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7480112KS Khoa học dữ liệu và Trí tuệ nhân tạo (hệ kỹ sư)(03 chuyên ngành: Khoa học dữ liệu; Trí tuệ nhân t",
+      "eligibility": "ĐỐI TƯỢNG Khoa KT&CN xét tuyển thẳng và ưu tiên xét tuyển vào đại học hệ chính quy năm 2026 với thí sinh là đối tượng được quy định tại Điều 8 của",
+      "rules": "Quy chế tuyển sinh hiện hành. Thông tin chi tiết sẽ được quy định cụ thể tại Thông báo về việc xét tuyển thẳng, ưu tiên xét tuyển của Đại học Huế",
+      "programs": []
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7480106",
+          "program_name": "ĐT THPTĐGNL HCMHọc BạKết HợpCCQT",
+          "subject_groups": [
+            "Kỹ thuật máy tính (Dự kiến mở) (2 chương trình đào tạo: Khoa học dữ liệu và Trí tuệ nhân tạo",
+            "Kỹ thuật máy tính )"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7510205",
+          "program_name": "ĐT THPTĐGNL HCMHọc BạKết Hợp",
+          "subject_groups": [
+            "Công nghệ kỹ thuật ô tô (hệ kỹ sư và cử nhân) (3 chuyên ngành: Công nghệ ô tô điện",
+            "Kiểm định và dịch vụ ô tô",
+            "Thiết kế ô tô)"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7510301",
+          "program_name": "ĐT THPTĐGNL HCMHọc BạKết Hợp",
+          "subject_groups": [
+            "Công nghệ kỹ thuật điện",
+            "điện tử (hệ kỹ sư và cử nhân) (2 chương trình đào tạo: Công nghệ thiết kế vi mạch",
+            "Công nghệ kỹ thuật điện",
+            "điện tử)"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "ĐT THPTĐGNL HCMHọc BạKết HợpV-SAT",
+          "subject_groups": [
+            "Kỹ thuật điện (hệ kỹ sư và cử nhân) (03 chuyên ngành: Năng lượng tái tạo",
+            "Tòa nhà thông minh",
+            "Điện công nghiệp)"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "ĐT THPTĐGNL HCMHọc BạKết HợpXét TN THPT",
+          "subject_groups": [
+            "Kỹ thuật điều khiển và tự động hóa (hệ kỹ sư và cử nhân) (03 chuyên ngành:Hệ thống nhúng",
+            "Tự động hóa công nghiệp",
+            "Kỹ thuật Robot)"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Kỹ thuật xây dựng (hệ kỹ sư)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "D01",
+            "X07"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn các năm của khoa Kỹ thuật và Công nghệ - ĐH Huế Tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/khoa-ky-thuat-va-cong-nghe-dai-hoc-hue-DHE.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7480112KS",
+            "program_name": "Khoa học dữ liệu và trí tuệ nhân tạo",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X07",
+              "X26"
+            ],
+            "score": 19.6,
+            "note": null
+          },
+          {
+            "program_code": "7510205",
+            "program_name": "Công nghệ kỹ thuật ô tô",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A10",
+              "C01",
+              "D01",
+              "X05",
+              "X07"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ kỹ thuật điện, điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "X07"
+            ],
+            "score": 18.2,
+            "note": null
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ kỹ thuật điện, điện tử (Chương trình đào tạo Công nghệ thiết kế vi mạch)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "X07"
+            ],
+            "score": 24.05,
+            "note": null
+          },
+          {
+            "program_code": "7520201",
+            "program_name": "Kỹ thuật điện",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "X07"
+            ],
+            "score": 17.2,
+            "note": null
+          },
+          {
+            "program_code": "7520216",
+            "program_name": "Kỹ thuật điều kiển và tự động hoá",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "X07"
+            ],
+            "score": 18.5,
+            "note": null
+          },
+          {
+            "program_code": "7580201",
+            "program_name": "Kỹ thuật xây dựng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A04",
+              "C01",
+              "C02",
+              "D01"
+            ],
+            "score": 16,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7480112KS",
+            "program_name": "Khoa học dữ liệu và trí tuệ nhân tạo",
+            "subject_groups": [],
+            "score": 22.05,
+            "note": null
+          },
+          {
+            "program_code": "7510205",
+            "program_name": "Công nghệ kỹ thuật ô tô",
+            "subject_groups": [],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ kỹ thuật điện, điện tử",
+            "subject_groups": [],
+            "score": 20.47,
+            "note": null
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ kỹ thuật điện, điện tử (Chương trình đào tạo Công nghệ thiết kế vi mạch)",
+            "subject_groups": [],
+            "score": 24.64,
+            "note": null
+          },
+          {
+            "program_code": "7520201",
+            "program_name": "Kỹ thuật điện",
+            "subject_groups": [],
+            "score": 19.35,
+            "note": null
+          },
+          {
+            "program_code": "7520216",
+            "program_name": "Kỹ thuật điều kiển và tự động hoá",
+            "subject_groups": [],
+            "score": 20.81,
+            "note": null
+          },
+          {
+            "program_code": "7580201",
+            "program_name": "Kỹ thuật xây dựng",
+            "subject_groups": [],
+            "score": 18.3,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7480112KS",
+            "program_name": "Khoa học dữ liệu và trí tuệ nhân tạo",
+            "subject_groups": [],
+            "score": 784,
+            "note": null
+          },
+          {
+            "program_code": "7510205",
+            "program_name": "Công nghệ kỹ thuật ô tô",
+            "subject_groups": [],
+            "score": 800,
+            "note": null
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ kỹ thuật điện, điện tử",
+            "subject_groups": [],
+            "score": 728,
+            "note": null
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ kỹ thuật điện, điện tử (Chương trình đào tạo Công nghệ thiết kế vi mạch)",
+            "subject_groups": [],
+            "score": 962,
+            "note": null
+          },
+          {
+            "program_code": "7520201",
+            "program_name": "Kỹ thuật điện",
+            "subject_groups": [],
+            "score": 688,
+            "note": null
+          },
+          {
+            "program_code": "7520216",
+            "program_name": "Kỹ thuật điều kiển và tự động hoá",
+            "subject_groups": [],
+            "score": 740,
+            "note": null
+          },
+          {
+            "program_code": "7580201",
+            "program_name": "Kỹ thuật xây dựng",
+            "subject_groups": [],
+            "score": 640,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

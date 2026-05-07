@@ -1,0 +1,3567 @@
+{
+  "university": {
+    "code": "BVH",
+    "name": "Học viện Công nghệ Bưu chính Viễn thông",
+    "short_name": "PTIT",
+    "location": [
+      "Hà Nội"
+    ],
+    "address": "Km10 Đường Nguyễn Trãi, Phường Mộ Lao, Quận Hà Đông, Hà Nội.",
+    "website": "https://ptit.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/hoc-vien-cong-nghe-buu-chinh-vien-thong-phia-bac-BVH.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2025/0530/hoc-vien-cong-nghe-buu-chinh-vien-thong-2025.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG 2026 Thông tin tuyển sinh Học viện Công nghệ Bưu chính Viễn thông (PTIT) năm 2026 Năm 2026, Học viện Công nghệ Bưu chính Viễn thông dự kiến tuyển sinh khoảng 8.000 sinh viên, giữ ổn định 05 phương thức tuyển sinh: Phương thức 1: PHƯƠNG THỨC XÉT TUYỂN TÀI NĂNG Phương thức 2: XÉT TUYỂN DỰA VÀO KẾT QUẢ CHỨNG CHỈ ĐÁNH GIÁ NĂNG LỰC QUỐC TẾ (CHỨNG CHỈ SAT/ACT) Phương thức 3: XÉT TUYỂN DỰA VÀO KẾT QUẢ TRONG CÁC KỲ THI ĐÁNH GIÁ NĂNG LỰC (ĐGNL), ĐÁNH GIÁ TƯ DUY (ĐGTD) của các đơn vị: Đại học Quốc gia Hà Nội, Đại học Quốc gia Tp. Hồ Chí Minh, Đại học Bách khoa Hà Nội và Trường Đại học Sư phạm Hà Nội tổ chức. Phương thức 4: XÉT TUYỂN KẾT HỢP GIỮA CHỨNG CHỈ TIẾNG ANH QUỐC TẾ (CHỨNG CHỈ IELTS, TOEFL) VỚI KẾT QUẢ HỌC TẬP Ở BẬC THPT Phương thức 5: XÉT TUYỂN DỰA VÀO KẾT QUẢ THI TỐT NGHIỆP THPT NĂM 2026 với các bài thi/môn thi theo tổ hợp xét tuyển tương ứng các ngành/chương trình của Học viện. Khám phá thêm Điểm chuẩn Đại học Giáo dục Khóa học ĐGNL",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 ĐIỀU KIỆN XÉT TUYỂN Tính đến thời điểm xét tuyển, thí sinh đã được công nhận tốt nghiệp trung học phổ thông hoặc tương đương và phải tham dự kỳ thi tốt nghiệp THPT năm 2026 với các bài thi/môn thi theo tổ hợp xét tuyển tương ứng các ngành ĐKXT của Học viện. 1.2 QUY CHẾ ĐXT = M1 + M2 + M3 + Điểm cộng (nếu có) + Điểm ƯT (nếu có). Trong đó: M1, M2, M3 là kết quả điểm thi tốt nghiệp THPT của 03 bài thi/môn thi theo tổ hợp xét tuyển tương ứng các ngành/chương trình của Học viện. TT Ngành/ chương ",
+      "eligibility": "đối tượng đủ",
+      "rules": "QUY CHẾ ĐXT = M1 + M2 + M3 + Điểm cộng (nếu có) + Điểm ƯT (nếu có). Trong đó: M1, M2, M3 là kết quả điểm thi tốt nghiệp THPT của 03 bài thi/môn thi theo tổ hợp xét tuyển tương ứng các ngành/chương trình của Học viện. TT Ngành/ chương trình Tổ hợp xét tuyển 1. Các ngành/ chương trình thuộc Khối ngành Kỹ thuật, Khối ngành Công nghệ kỹ thuật, Khối ngành Máy tính và CNTT Toán, Lý, Hóa (mã A00) Toán, Lý, Anh (mã A01) Toán, Lý, Tin (mã X06) Toán, Tin, Anh (mã X26) 2. Các ngành/ chương trình thuộc Khối ngành Kinh doanh và quản lý, Khối ngành Báo chí và thông tin Toán, Lý, Hóa (mã A00) Toán, Lý, Anh (mã A01) Toán, Lý, Tin (mã X06) Toán, Tin, Anh (mã X26) Toán, Văn, Anh (mã D01) 2. Điểm thưởng: Áp dụng đối với",
+      "programs": []
+    },
+    {
+      "method_id": "2-xet-tuyen-tai-nang",
+      "method_name": "2 XÉT TUYỂN TÀI NĂNG",
+      "description": "2.1 ĐỐI TƯỢNG Thí sinh tham dự kỳ thi chọn đội tuyển quốc gia dự thi Olympic quốc tế (năm 2026, 2025, 2024) đối với các môn Toán, Vật lí, Hóa học hoặc Tin học; Thí sinh đạt giải Khuyến khích hoặc đã tham gia kỳ thi chọn học sinh giỏi THPT cấp quốc gia hoặc đạt giải Nhất, Nhì, Ba, Khuyến khích trong kỳ thi chọn học sinh giỏi THPT cấp Tỉnh, Thành phố trực thuộc Trung ương (TW) hoặc của Đại học Quốc gia Hà Nội, Đại học Quốc gia thành phố Hồ Chí Minh, Đại học Huế, Trường Đại học Sư phạm Hà Nội, Trườ",
+      "eligibility": "ĐỐI TƯỢNG Thí sinh tham dự kỳ thi chọn đội tuyển quốc gia dự thi Olympic quốc tế (năm 2026, 2025, 2024) đối với các môn Toán, Vật lí, Hóa học hoặc Tin học; Thí sinh đạt giải Khuyến khích hoặc đã tham gia kỳ thi chọn học sinh giỏi THPT cấp quốc gia hoặc đạt giải Nhất, Nhì, Ba, Khuyến khích trong kỳ thi chọn học sinh giỏi THPT cấp Tỉnh, Thành phố trực thuộc Trung ương (TW) hoặc của Đại học Quốc gia Hà Nội, Đại học Quốc gia thành phố Hồ Chí Minh, Đại học Huế, Trường Đại học Sư phạm Hà Nội, Trường Đại học Sư phạm thành phố Hồ Chí Minh, Trường Đại học Vinh các môn Toán, Vật lí, Hóa học, Tin học (thí sinh được đăng ký xét tuyển (ĐKXT) vào tất cả các ngành/chương trình) hoặc môn Tiếng Anh (được ĐKXT vào các ngành/chương trình thuộc nhóm ngành Kinh doanh và Quản lý, nhóm ngành Báo chí và Truyền thông) hoặc môn Ngữ văn (được ĐKXT vào ngành Báo chí hoặc ngành Truyền thông đa phương tiện); Là học sinh chuyên của trường THPT chuyên trên phạm vi toàn quốc (các trường THPT chuyên thuộc Tỉnh, Thành phố trực thuộc TW và các trường THPT chuyên thuộc Cơ sở giáo dục đại học) hoặc hệ chuyên thuộc các trường THPT trọng điểm quốc gia các môn Toán, Vật lí, Hóa học, Tin học (được ĐKXT vào tất cả các ngành/ chương trình) hoặc môn Tiếng Anh (được ĐKXT vào các ngành/ chương trình thuộc nhóm ngành Kinh doanh và Quản lý, nhóm ngành Báo chí và Truyền thông) hoặc môn Ngữ văn (được ĐKXT vào ngành Báo chí và ngành Truyền thông đa phương tiện). 2.2",
+      "rules": "QUY CHẾ Xét tuyển dựa vào hồ sơ năng lực (HSNL): Điểm HSNL = Điểm HL + Điểm TT + Điểm cộng (nếu có) + Điểm ƯT (nếu có) Trong đó: Điểm HSNL được quy đổi theo thang điểm 100; Điểm học lực (Điểm HL) chiếm 60% (tối đa 60 điểm); Điểm thành tích (Điểm TT) chiếm 40% (tối đa 40 điểm); Điểm ưu tiên thực hiện theo Quy chế tuyển sinh của Bộ GD&ĐT và được quy đổi theo thang điểm 100 tương ứng. Điểm học lực (Điểm HL) được tính bằng tổng của ba (03) điểm bình quân kết quả học tập ở năm học lớp 10, 11, 12 của ba (03) môn học tương ứng với tổ hợp bài thi/môn thi của ngành đã đăng ký xét tuyển, cụ thể: Điểm HL = [Điểm BQ môn 1 + Điểm BQ môn 2 + Điểm BQ môn 3]*6/3 Điểm BQ môn = [Điểm năm lớp 10 + Điểm năm lớp 11 + Điểm năm lớp 12]/3 Điểm thành tích (Điểm TT) được xác định cụ thể như sau: TT Thành tích Điểm thành tích 1. – Thí sinh tham dự kỳ thi chọn đội tuyển quốc gia dự thi Olympic quốc tế – Giải Khuyến khích cấp quốc gia 40 2. Giải Nhất 35 3. Giải Nhì 30 4. Giải Ba 25 5. – Giải Khuyến khích – Thí sinh tham gia kỳ thi chọn học sinh giỏi THPT cấp quốc gia 20 6. Học sinh chuyên (không có giải) 15 Ghi chú: Thí sinh chỉ được lựa chọn một (01) loại thành tích cao nhất.",
+      "programs": [
+        {
+          "program_code": "TT",
+          "program_name": "Thành tích",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "Điểm thành tích"
+        }
+      ]
+    },
+    {
+      "method_id": "3-chung-chi-satact",
+      "method_name": "3 CHỨNG CHỈ SAT/ACT",
+      "description": "3.1 ĐỐI TƯỢNG Tính đến thời điểm xét tuyển, thí sinh đã được công nhận tốt nghiệp trung học phổ thông hoặc tương đương và có Chứng chỉ đánh giá năng lực quốc tế SAT từ 1130/1600 trở lên hoặc ACT từ 25/36 trở lên, trong thời hạn 02 năm (tính đến ngày xét tuyển). 3.2 QUY CHẾ Điểm xét tuyển (ĐXT) = Điểm SAT/ACT + Điểm cộng (nếu có) + Điểm ƯT (nếu có) DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC CHỨNG CHỈ QUỐC TẾ NĂM 2025 STT Mã ngành Tên ngành Tổ hợp Ghi chú 1. Ngành, chương trình đào tạo đại trà 1 732",
+      "eligibility": "ĐỐI TƯỢNG Tính đến thời điểm xét tuyển, thí sinh đã được công nhận tốt nghiệp trung học phổ thông hoặc tương đương và có Chứng chỉ đánh giá năng lực quốc tế SAT từ 1130/1600 trở lên hoặc ACT từ 25/36 trở lên, trong thời hạn 02 năm (tính đến ngày xét tuyển). 3.2",
+      "rules": "QUY CHẾ Điểm xét tuyển (ĐXT) = Điểm SAT/ACT + Điểm cộng (nếu có) + Điểm ƯT (nếu có)",
+      "programs": [
+        {
+          "program_code": "7320101",
+          "program_name": "Báo chí",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7320104",
+          "program_name": "Truyền thông đa phương tiện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7329001",
+          "program_name": "Công nghệ đa phương tiện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7340205",
+          "program_name": "Công nghệ tài chính (Fintech)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính (định hướng Khoa học dữ liệu)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7480102",
+          "program_name": "Mạng máy tính và truyền thông dữ liệu (Kỹ thuật dữ liệu)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7480107",
+          "program_name": "Trí tuệ nhân tạo",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7480202",
+          "program_name": "An toàn thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7510301",
+          "program_name": "Công nghệ Kỹ thuật Điện, điện tử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật Điện tử viễn thông",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật Điều khiển và tự động hóa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "20"
+        }
+      ]
+    },
+    {
+      "method_id": "4-chung-chi-tieng-anh-quoc-te-chung-chi-ielts-toefl-voi-ket-qua-hoc-tap-o-bac-thpt",
+      "method_name": "4 CHỨNG CHỈ TIẾNG ANH QUỐC TẾ (CHỨNG CHỈ IELTS, TOEFL) VỚI KẾT QUẢ HỌC TẬP Ở BẬC THPT",
+      "description": "4.1 QUY CHẾ Điểm xét tuyển (ĐXT) được tính bằng tổng của ba (03) điểm bình quân kết quả học tập ở năm học lớp 10, 11, 12 của ba (03) môn học tương ứng với tổ hợp bài thi/môn thi đã đăng ký xét tuyển, cộng với điểm ưu tiên, điểm cộng (nếu có); ĐXT = [Điểm BQ môn 1 + Điểm BQ môn 2 + Điểm BQ môn 3] + Điểm cộng (nếu có) + Điểm ƯT (nếu có). Trong đó: Điểm BQ môn = [Điểm năm lớp 10 + Điểm năm lớp 11 + Điểm năm lớp 12]/3 Tính đến thời điểm xét tuyển, thí sinh đã được công nhận tốt nghiệp trung học phổ ",
+      "eligibility": "đối tượng đủ",
+      "rules": "QUY CHẾ Điểm xét tuyển (ĐXT) được tính bằng tổng của ba (03) điểm bình quân kết quả học tập ở năm học lớp 10, 11, 12 của ba (03) môn học tương ứng với tổ hợp bài thi/môn thi đã đăng ký xét tuyển, cộng với điểm ưu tiên, điểm cộng (nếu có); ĐXT = [Điểm BQ môn 1 + Điểm BQ môn 2 + Điểm BQ môn 3] + Điểm cộng (nếu có) + Điểm ƯT (nếu có). Trong đó: Điểm BQ môn = [Điểm năm lớp 10 + Điểm năm lớp 11 + Điểm năm lớp 12]/3 Tính đến thời điểm xét tuyển, thí sinh đã được công nhận tốt nghiệp trung học phổ thông hoặc tương đương và có Chứng chỉ tiếng Anh quốc tế trong thời hạn (tính đến ngày xét tuyển) đạt IELTS 5.5 trở lên hoặc TOEFL iBT 65 trở lên hoặc TOEFL ITP 513 trở lên. Ghi chú: Học viện không chấp nhận Chứng chỉ tiếng Anh quốc tế có Test Center với hình thức là Home Edition Điểm thưởng: Áp dụng đối với",
+      "programs": [
+        {
+          "program_code": "TT",
+          "program_name": "Loại Giải đạt được",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "Điểm thưởng (theo thang điểm 30)"
+        }
+      ]
+    },
+    {
+      "method_id": "5-iem-gnl-hcm",
+      "method_name": "5 ĐIỂM ĐGNL HCM",
+      "description": "5.1 ĐIỀU KIỆN XÉT TUYỂN Thí sinh có điểm thi đánh giá năng lực của Đại học quốc gia Tp. Hồ Chí Minh (V-ACT) năm 2026 từ 600 điểm trở lên; 5.2 QUY CHẾ Điểm xét tuyển (ĐXT) = Điểm ĐGNL/ĐGTD + Điểm cộng (nếu có) + Điểm ƯT (nếu có) DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐGNL HCM NĂM 2025 STT Mã ngành Tên ngành Tổ hợp Ghi chú 1. Ngành, chương trình đào tạo đại trà 1 7320101 Báo chí 2 7320104 Truyền thông đa phương tiện 3 7329001 Công nghệ đa phương tiện 4 7340101 Quản trị kinh doanh 5 7340101_",
+      "eligibility": null,
+      "rules": "QUY CHẾ Điểm xét tuyển (ĐXT) = Điểm ĐGNL/ĐGTD + Điểm cộng (nếu có) + Điểm ƯT (nếu có)",
+      "programs": [
+        {
+          "program_code": "7320101",
+          "program_name": "Báo chí",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7320104",
+          "program_name": "Truyền thông đa phương tiện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7329001",
+          "program_name": "Công nghệ đa phương tiện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7340205",
+          "program_name": "Công nghệ tài chính (Fintech)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính (định hướng Khoa học dữ liệu)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7480102",
+          "program_name": "Mạng máy tính và truyền thông dữ liệu (Kỹ thuật dữ liệu)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7480107",
+          "program_name": "Trí tuệ nhân tạo",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7480202",
+          "program_name": "An toàn thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7510301",
+          "program_name": "Công nghệ Kỹ thuật Điện, điện tử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật Điện tử viễn thông",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật Điều khiển và tự động hóa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "20"
+        }
+      ]
+    },
+    {
+      "method_id": "6-iem-gnl-hn",
+      "method_name": "6 ĐIỂM ĐGNL HN",
+      "description": "6.1 ĐIỀU KIỆN XÉT TUYỂN Thí sinh có điểm thi đánh giá năng lực của Đại học quốc gia Hà Nội (HSA) năm 2026 từ 75 điểm trở lên; Đối với bài thi đánh giá năng lực của Đại học quốc gia Hà Nội (HSA) thí sinh chọn: Phần 3 – Khoa học: Thí sinh bắt buộc chọn tổ hợp có 2 chủ đề là Vật lí và Hóa học Phần 3 – Tiếng Anh: Thí sinh chỉ được ĐKXT vào các ngành/chương trình thuộc nhóm ngành Kinh doanh và Quản lý, nhóm ngành Báo chí và Truyền thông. 6.2 QUY CHẾ Điểm xét tuyển (ĐXT) = Điểm ĐGNL/ĐGTD + Điểm cộng (",
+      "eligibility": null,
+      "rules": "QUY CHẾ Điểm xét tuyển (ĐXT) = Điểm ĐGNL/ĐGTD + Điểm cộng (nếu có) + Điểm ƯT (nếu có)",
+      "programs": [
+        {
+          "program_code": "7320101",
+          "program_name": "Báo chí",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7320104",
+          "program_name": "Truyền thông đa phương tiện",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7329001",
+          "program_name": "Công nghệ đa phương tiện",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7340205",
+          "program_name": "Công nghệ tài chính (Fintech)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính (định hướng Khoa học dữ liệu)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7480102",
+          "program_name": "Mạng máy tính và truyền thông dữ liệu (Kỹ thuật dữ liệu)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7480107",
+          "program_name": "Trí tuệ nhân tạo",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7480202",
+          "program_name": "An toàn thông tin",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7510301",
+          "program_name": "Công nghệ Kỹ thuật Điện, điện tử",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật Điện tử viễn thông",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật Điều khiển và tự động hóa",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        }
+      ]
+    },
+    {
+      "method_id": "7-iem-anh-gia-tu-duy",
+      "method_name": "7 ĐIỂM ĐÁNH GIÁ TƯ DUY",
+      "description": "7.1 ĐIỀU KIỆN XÉT TUYỂN Thí sinh có điểm thi đánh giá tư duy của Đại học Bách khoa Hà Nội (TSA) năm 2026 từ 50 điểm trở lên; 7.2 QUY CHẾ Điểm xét tuyển (ĐXT) = Điểm ĐGNL/ĐGTD + Điểm cộng (nếu có) + Điểm ƯT (nếu có) DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐÁNH GIÁ TƯ DUY NĂM 2025 STT Mã ngành Tên ngành Tổ hợp Ghi chú 1. Ngành, chương trình đào tạo đại trà 1 7320101 Báo chí K00 2 7320104 Truyền thông đa phương tiện K00 3 7329001 Công nghệ đa phương tiện K00 4 7340101 Quản trị kinh doanh K00 ",
+      "eligibility": null,
+      "rules": "QUY CHẾ Điểm xét tuyển (ĐXT) = Điểm ĐGNL/ĐGTD + Điểm cộng (nếu có) + Điểm ƯT (nếu có)",
+      "programs": [
+        {
+          "program_code": "7320101",
+          "program_name": "Báo chí",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7320104",
+          "program_name": "Truyền thông đa phương tiện",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7329001",
+          "program_name": "Công nghệ đa phương tiện",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7340205",
+          "program_name": "Công nghệ tài chính (Fintech)",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính (định hướng Khoa học dữ liệu)",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7480102",
+          "program_name": "Mạng máy tính và truyền thông dữ liệu (Kỹ thuật dữ liệu)",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7480107",
+          "program_name": "Trí tuệ nhân tạo",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7480202",
+          "program_name": "An toàn thông tin",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7510301",
+          "program_name": "Công nghệ Kỹ thuật Điện, điện tử",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật Điện tử viễn thông",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật Điều khiển và tự động hóa",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        }
+      ]
+    },
+    {
+      "method_id": "8-iem-gnl-h-su-pham-hn",
+      "method_name": "8 ĐIỂM ĐGNL ĐH SƯ PHẠM HN",
+      "description": "8.1 ĐIỀU KIỆN XÉT TUYỂN Thí sinh có điểm thi đánh giá năng lực của Trường Đại học Sư phạm Hà Nội (SPT) năm 2026 từ 15 điểm trở lên. 8.2 QUY CHẾ Điểm xét tuyển (ĐXT) = Điểm ĐGNL/ĐGTD + Điểm cộng (nếu có) + Điểm ƯT (nếu có) DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐGNL ĐH SƯ PHẠM HN NĂM 2025 STT Mã ngành Tên ngành Tổ hợp Ghi chú 1. Ngành, chương trình đào tạo đại trà 1 7320101 Báo chí 2 7320104 Truyền thông đa phương tiện 3 7329001 Công nghệ đa phương tiện 4 7340101 Quản trị kinh doanh 5 7340",
+      "eligibility": null,
+      "rules": "QUY CHẾ Điểm xét tuyển (ĐXT) = Điểm ĐGNL/ĐGTD + Điểm cộng (nếu có) + Điểm ƯT (nếu có)",
+      "programs": [
+        {
+          "program_code": "7320101",
+          "program_name": "Báo chí",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7320104",
+          "program_name": "Truyền thông đa phương tiện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7329001",
+          "program_name": "Công nghệ đa phương tiện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7340205",
+          "program_name": "Công nghệ tài chính (Fintech)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính (định hướng Khoa học dữ liệu)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7480102",
+          "program_name": "Mạng máy tính và truyền thông dữ liệu (Kỹ thuật dữ liệu)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7480107",
+          "program_name": "Trí tuệ nhân tạo",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7480202",
+          "program_name": "An toàn thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7510301",
+          "program_name": "Công nghệ Kỹ thuật Điện, điện tử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật Điện tử viễn thông",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật Điều khiển và tự động hóa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "20"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7320101",
+          "program_name": "Báo chí",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7320101",
+          "program_name": "Báo chí",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "X06",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7320101",
+          "program_name": "Báo chí",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X06",
+            "X26",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7320101",
+          "program_name": "Báo chí",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7320101",
+          "program_name": "Báo chí",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7320104",
+          "program_name": "Truyền thông đa phương tiện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7320104",
+          "program_name": "Truyền thông đa phương tiện",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "X06",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7320104",
+          "program_name": "Truyền thông đa phương tiện",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X06",
+            "X26",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7320104",
+          "program_name": "Truyền thông đa phương tiện",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7320104",
+          "program_name": "Truyền thông đa phương tiện",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7329001",
+          "program_name": "Công nghệ đa phương tiện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7329001",
+          "program_name": "Công nghệ đa phương tiện",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "X06",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7329001",
+          "program_name": "Công nghệ đa phương tiện",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X06",
+            "X26",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7329001",
+          "program_name": "Công nghệ đa phương tiện",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7329001",
+          "program_name": "Công nghệ đa phương tiện",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X06",
+            "X26",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "X06",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X06",
+            "X26",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "X06",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X06",
+            "X26",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7340205",
+          "program_name": "Công nghệ tài chính (Fintech)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7340205",
+          "program_name": "Công nghệ tài chính (Fintech)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "X06",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7340205",
+          "program_name": "Công nghệ tài chính (Fintech)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X06",
+            "X26",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7340205",
+          "program_name": "Công nghệ tài chính (Fintech)",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7340205",
+          "program_name": "Công nghệ tài chính (Fintech)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "X06",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X06",
+            "X26",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính (định hướng Khoa học dữ liệu)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính (định hướng Khoa học dữ liệu)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X06",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính (định hướng Khoa học dữ liệu)",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính (định hướng Khoa học dữ liệu)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7480102",
+          "program_name": "Mạng máy tính và truyền thông dữ liệu (Kỹ thuật dữ liệu)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7480102",
+          "program_name": "Mạng máy tính và truyền thông dữ liệu (Kỹ thuật dữ liệu)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X06",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7480102",
+          "program_name": "Mạng máy tính và truyền thông dữ liệu (Kỹ thuật dữ liệu)",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7480102",
+          "program_name": "Mạng máy tính và truyền thông dữ liệu (Kỹ thuật dữ liệu)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7480107",
+          "program_name": "Trí tuệ nhân tạo",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7480107",
+          "program_name": "Trí tuệ nhân tạo",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X06",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7480107",
+          "program_name": "Trí tuệ nhân tạo",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7480107",
+          "program_name": "Trí tuệ nhân tạo",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X06",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7480202",
+          "program_name": "An toàn thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7480202",
+          "program_name": "An toàn thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X06",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7480202",
+          "program_name": "An toàn thông tin",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7480202",
+          "program_name": "An toàn thông tin",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7510301",
+          "program_name": "Công nghệ Kỹ thuật Điện, điện tử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7510301",
+          "program_name": "Công nghệ Kỹ thuật Điện, điện tử",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X06",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7510301",
+          "program_name": "Công nghệ Kỹ thuật Điện, điện tử",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7510301",
+          "program_name": "Công nghệ Kỹ thuật Điện, điện tử",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật Điện tử viễn thông",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật Điện tử viễn thông",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X06",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật Điện tử viễn thông",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật Điện tử viễn thông",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật Điều khiển và tự động hóa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật Điều khiển và tự động hóa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X06",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật Điều khiển và tự động hóa",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật Điều khiển và tự động hóa",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Học viện Bưu chính Viễn thông Tại đây",
+  "tuition_text": "Học phí trình độ đại hệ chính quy chương trình đại trà năm học 2024-2025: trung bình từ khoảng 27 triệu đồng đến 34 triệu đồng/năm tùy theo từng ngành học Học phí chương trình chất lượng cao trình độ đại học năm học 2024-2025: trung bình từ khoảng 39 triệu đồng đến 55 triệu đồng/năm tùy theo từng ngành học. Học phí chương trình Cử nhân Công nghệ thông tin định hướng ứng dụng năm học 2024-2025: trung bình khoảng 35 triệu đồng đến 37 triệu đồng/năm. Học phí chương trình liên kết quốc tế năm học 2024-2025: trung bình từ khoảng 49 triệu đồng đến 55,5 triệu đồng/năm tùy theo từng chương trình.",
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-cong-nghe-buu-chinh-vien-thong-phia-bac-BVH.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7320101",
+            "program_name": "Báo chí",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X06",
+              "X26"
+            ],
+            "score": 22.67,
+            "note": null
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X06",
+              "X26"
+            ],
+            "score": 25.25,
+            "note": null
+          },
+          {
+            "program_code": "7320104_CLC",
+            "program_name": "Truyền thông đa phương tiện - Chương trình đào tạo chất lượng cao",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X06",
+              "X26"
+            ],
+            "score": 22.65,
+            "note": null
+          },
+          {
+            "program_code": "7329001",
+            "program_name": "Công nghệ đa phương tiện",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X06",
+              "X26"
+            ],
+            "score": 24,
+            "note": null
+          },
+          {
+            "program_code": "7329001_GAM",
+            "program_name": "Thiết kế và phát triển Game (ngành Công nghệ đa phương tiện)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X06",
+              "X26"
+            ],
+            "score": 23.48,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26",
+              "D01"
+            ],
+            "score": 22.75,
+            "note": null
+          },
+          {
+            "program_code": "7340101_LOG",
+            "program_name": "Logistics và quản trị chuỗi cung ứng (ngành Quản trị kinh doanh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X06",
+              "X26"
+            ],
+            "score": 24.2,
+            "note": null
+          },
+          {
+            "program_code": "7340115",
+            "program_name": "Marketing",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X06",
+              "X26"
+            ],
+            "score": 24,
+            "note": null
+          },
+          {
+            "program_code": "7340115_CLC",
+            "program_name": "Marketing (chất lượng cao)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X06",
+              "X26"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "7340115_QHC",
+            "program_name": "Quan hệ công chúng (ngành Marketing)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X06",
+              "X26"
+            ],
+            "score": 23.47,
+            "note": null
+          },
+          {
+            "program_code": "7340122",
+            "program_name": "Thương mại điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X06",
+              "X26"
+            ],
+            "score": 25.1,
+            "note": null
+          },
+          {
+            "program_code": "7340205",
+            "program_name": "Công nghệ tài chính (Fintech)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X06",
+              "X26"
+            ],
+            "score": 23.63,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X06",
+              "X26"
+            ],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "7340301_CLC",
+            "program_name": "Kế toán chất lượng cao (chuẩn quốc tế ACCA)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26",
+              "D01"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7480101",
+            "program_name": "Khoa học máy tính (định hướng Khoa học dữ liệu)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26"
+            ],
+            "score": 26.21,
+            "note": null
+          },
+          {
+            "program_code": "7480102",
+            "program_name": "Kỹ thuật dữ liệu (ngành Mạng máy tính và truyền thông dữ liệu)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26"
+            ],
+            "score": 24.4,
+            "note": null
+          },
+          {
+            "program_code": "7480107",
+            "program_name": "Trí tuệ nhân tạo",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26"
+            ],
+            "score": 25.67,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26"
+            ],
+            "score": 25.8,
+            "note": null
+          },
+          {
+            "program_code": "7480201_CLC",
+            "program_name": "Công nghệ thông tin - Chương trình chất lượng cao",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26"
+            ],
+            "score": 23.6,
+            "note": null
+          },
+          {
+            "program_code": "7480201_UDU",
+            "program_name": "Công nghệ thông tin (Cử nhân định hướng ứng dụng)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26"
+            ],
+            "score": 22.2,
+            "note": null
+          },
+          {
+            "program_code": "7480201_VNH",
+            "program_name": "Công nghệ thông tin Việt - Nhật",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26"
+            ],
+            "score": 23.48,
+            "note": null
+          },
+          {
+            "program_code": "7480202",
+            "program_name": "An toàn thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26"
+            ],
+            "score": 25.21,
+            "note": null
+          },
+          {
+            "program_code": "7480202_CLC",
+            "program_name": "An toàn thông tin - Chất lượng cao",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26"
+            ],
+            "score": 23.14,
+            "note": null
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ Kỹ thuật Điện, điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26"
+            ],
+            "score": 24.61,
+            "note": null
+          },
+          {
+            "program_code": "7510301_MBD",
+            "program_name": "Công nghệ vi mạch bán dẫn (ngành Công nghệ Kỹ thuật Điện, điện tử)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26"
+            ],
+            "score": 25.5,
+            "note": null
+          },
+          {
+            "program_code": "7520207",
+            "program_name": "Kỹ thuật Điện tử viễn thông",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26"
+            ],
+            "score": 25.1,
+            "note": null
+          },
+          {
+            "program_code": "7520207_AIoT",
+            "program_name": "Trí tuệ nhân tạo vạn vật (AIoT) (ngành Kỹ thuật Điện tử viễn thông)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26"
+            ],
+            "score": 24.87,
+            "note": null
+          },
+          {
+            "program_code": "7520216",
+            "program_name": "Kỹ thuật Điều khiển và tự động hóa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26"
+            ],
+            "score": 26.19,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7320101",
+            "program_name": "Báo chí",
+            "subject_groups": [],
+            "score": 88.51,
+            "note": null
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [],
+            "score": 97,
+            "note": null
+          },
+          {
+            "program_code": "7320104_CLC",
+            "program_name": "Truyền thông đa phương tiện - Chương trình đào tạo chất lượng cao",
+            "subject_groups": [],
+            "score": 88.45,
+            "note": null
+          },
+          {
+            "program_code": "7329001",
+            "program_name": "Công nghệ đa phương tiện",
+            "subject_groups": [],
+            "score": 92.7143,
+            "note": null
+          },
+          {
+            "program_code": "7329001_GAM",
+            "program_name": "Thiết kế và phát triển Game (ngành Công nghệ đa phương tiện)",
+            "subject_groups": [],
+            "score": 90.94,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 88.75,
+            "note": null
+          },
+          {
+            "program_code": "7340101-LOG",
+            "program_name": "Logistics và quản trị chuỗi cung ứng (ngành Quản trị kinh doanh)",
+            "subject_groups": [],
+            "score": 93.4,
+            "note": null
+          },
+          {
+            "program_code": "7340115",
+            "program_name": "Marketing",
+            "subject_groups": [],
+            "score": 92.7143,
+            "note": null
+          },
+          {
+            "program_code": "7340115_CLC",
+            "program_name": "Marketing (chất lượng cao)",
+            "subject_groups": [],
+            "score": 86.5,
+            "note": null
+          },
+          {
+            "program_code": "7340115_QHC",
+            "program_name": "Quan hệ công chúng (ngành Marketing)",
+            "subject_groups": [],
+            "score": 90.91,
+            "note": null
+          },
+          {
+            "program_code": "7340122",
+            "program_name": "Thương mại điện tử",
+            "subject_groups": [],
+            "score": 96.4857,
+            "note": null
+          },
+          {
+            "program_code": "7340205",
+            "program_name": "Công nghệ tài chính (Fintech)",
+            "subject_groups": [],
+            "score": 91.4457,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [],
+            "score": 88,
+            "note": null
+          },
+          {
+            "program_code": "7340301-CLC",
+            "program_name": "Kế toán chất lượng cao (chuẩn quốc tế ACCA)",
+            "subject_groups": [],
+            "score": 83.5,
+            "note": null
+          },
+          {
+            "program_code": "7480101",
+            "program_name": "Khoa học máy tính (định hướng Khoa học dữ liệu)",
+            "subject_groups": [],
+            "score": 100.84,
+            "note": null
+          },
+          {
+            "program_code": "7480102",
+            "program_name": "Kỹ thuật dữ liệu (ngành Mạng máy tính và truyền thông dữ liệu)",
+            "subject_groups": [],
+            "score": 94.0857,
+            "note": null
+          },
+          {
+            "program_code": "7480107",
+            "program_name": "Trí tuệ nhân tạo",
+            "subject_groups": [],
+            "score": 98.68,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [],
+            "score": 99.2,
+            "note": null
+          },
+          {
+            "program_code": "7480201_CLC",
+            "program_name": "Công nghệ thông tin CLC",
+            "subject_groups": [],
+            "score": 91.3429,
+            "note": null
+          },
+          {
+            "program_code": "7480201_UDU",
+            "program_name": "Công nghệ thông tin (Cử nhân định hướng ứng dụng)",
+            "subject_groups": [],
+            "score": 87.1,
+            "note": null
+          },
+          {
+            "program_code": "7480201-VNH",
+            "program_name": "Công nghệ thông tin Việt - Nhật",
+            "subject_groups": [],
+            "score": 90.94,
+            "note": null
+          },
+          {
+            "program_code": "7480202",
+            "program_name": "An toàn thông tin",
+            "subject_groups": [],
+            "score": 96.8629,
+            "note": null
+          },
+          {
+            "program_code": "7480202_CLC",
+            "program_name": "An toàn thông tin - Chất lượng cao",
+            "subject_groups": [],
+            "score": 89.92,
+            "note": null
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ Kỹ thuật Điện, điện tử",
+            "subject_groups": [],
+            "score": 94.8057,
+            "note": null
+          },
+          {
+            "program_code": "7510301_MBD",
+            "program_name": "Công nghệ vi mạch bán dẫn (ngành Công nghệ Kỹ thuật Điện, điện tử)",
+            "subject_groups": [],
+            "score": 98,
+            "note": null
+          },
+          {
+            "program_code": "7520207",
+            "program_name": "Kỹ thuật Điện tử viễn thông",
+            "subject_groups": [],
+            "score": 96.4857,
+            "note": null
+          },
+          {
+            "program_code": "7520207_AIoT",
+            "program_name": "Trí tuệ nhân tạo vạn vật (AIoT) (ngành Kỹ thuật Điện tử viễn thông)",
+            "subject_groups": [],
+            "score": 95.6971,
+            "note": null
+          },
+          {
+            "program_code": "7520216",
+            "program_name": "Kỹ thuật Điều khiển và tự động hóa",
+            "subject_groups": [],
+            "score": 100.76,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7320101",
+            "program_name": "Báo chí",
+            "subject_groups": [],
+            "score": 784.46,
+            "note": null
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [],
+            "score": 887,
+            "note": null
+          },
+          {
+            "program_code": "7320104_CLC",
+            "program_name": "Truyền thông đa phương tiện - Chương trình đào tạo chất lượng cao",
+            "subject_groups": [],
+            "score": 783.7,
+            "note": null
+          },
+          {
+            "program_code": "7329001",
+            "program_name": "Công nghệ đa phương tiện",
+            "subject_groups": [],
+            "score": 836.286,
+            "note": null
+          },
+          {
+            "program_code": "7329001_GAM",
+            "program_name": "Thiết kế và phát triển Game (ngành Công nghệ đa phương tiện)",
+            "subject_groups": [],
+            "score": 815.24,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 787.5,
+            "note": null
+          },
+          {
+            "program_code": "7340101-LOG",
+            "program_name": "Logistics và quản trị chuỗi cung ứng (ngành Quản trị kinh doanh)",
+            "subject_groups": [],
+            "score": 844.4,
+            "note": null
+          },
+          {
+            "program_code": "7340115",
+            "program_name": "Marketing",
+            "subject_groups": [],
+            "score": 836.286,
+            "note": null
+          },
+          {
+            "program_code": "7340115_CLC",
+            "program_name": "Marketing (chất lượng cao)",
+            "subject_groups": [],
+            "score": 759,
+            "note": null
+          },
+          {
+            "program_code": "7340115_QHC",
+            "program_name": "Quan hệ công chúng (ngành Marketing)",
+            "subject_groups": [],
+            "score": 814.86,
+            "note": null
+          },
+          {
+            "program_code": "7340122",
+            "program_name": "Thương mại điện tử",
+            "subject_groups": [],
+            "score": 880.914,
+            "note": null
+          },
+          {
+            "program_code": "7340205",
+            "program_name": "Công nghệ tài chính (Fintech)",
+            "subject_groups": [],
+            "score": 821.274,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [],
+            "score": 778,
+            "note": null
+          },
+          {
+            "program_code": "7340301-CLC",
+            "program_name": "Kế toán chất lượng cao (chuẩn quốc tế ACCA)",
+            "subject_groups": [],
+            "score": 721,
+            "note": null
+          },
+          {
+            "program_code": "7480101",
+            "program_name": "Khoa học máy tính (định hướng Khoa học dữ liệu)",
+            "subject_groups": [],
+            "score": 921.56,
+            "note": null
+          },
+          {
+            "program_code": "7480102",
+            "program_name": "Kỹ thuật dữ liệu (ngành Mạng máy tính và truyền thông dữ liệu)",
+            "subject_groups": [],
+            "score": 852.514,
+            "note": null
+          },
+          {
+            "program_code": "7480107",
+            "program_name": "Trí tuệ nhân tạo",
+            "subject_groups": [],
+            "score": 902.12,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [],
+            "score": 906.8,
+            "note": null
+          },
+          {
+            "program_code": "7480201_CLC",
+            "program_name": "Công nghệ thông tin CLC",
+            "subject_groups": [],
+            "score": 820.057,
+            "note": null
+          },
+          {
+            "program_code": "7480201_UDU",
+            "program_name": "Công nghệ thông tin (Cử nhân định hướng ứng dụng)",
+            "subject_groups": [],
+            "score": 766.6,
+            "note": null
+          },
+          {
+            "program_code": "7480201-VNH",
+            "program_name": "Công nghệ thông tin Việt - Nhật",
+            "subject_groups": [],
+            "score": 815.24,
+            "note": null
+          },
+          {
+            "program_code": "7480202",
+            "program_name": "An toàn thông tin",
+            "subject_groups": [],
+            "score": 885.377,
+            "note": null
+          },
+          {
+            "program_code": "7480202_CLC",
+            "program_name": "An toàn thông tin - Chất lượng cao",
+            "subject_groups": [],
+            "score": 802.32,
+            "note": null
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ Kỹ thuật Điện, điện tử",
+            "subject_groups": [],
+            "score": 861.034,
+            "note": null
+          },
+          {
+            "program_code": "7510301_MBD",
+            "program_name": "Công nghệ vi mạch bán dẫn (ngành Công nghệ Kỹ thuật Điện, điện tử)",
+            "subject_groups": [],
+            "score": 896,
+            "note": null
+          },
+          {
+            "program_code": "7520207",
+            "program_name": "Kỹ thuật Điện tử viễn thông",
+            "subject_groups": [],
+            "score": 880.914,
+            "note": null
+          },
+          {
+            "program_code": "7520207_AIoT",
+            "program_name": "Trí tuệ nhân tạo vạn vật (AIoT) (ngành Kỹ thuật Điện tử viễn thông)",
+            "subject_groups": [],
+            "score": 871.583,
+            "note": null
+          },
+          {
+            "program_code": "7520216",
+            "program_name": "Kỹ thuật Điều khiển và tự động hóa",
+            "subject_groups": [],
+            "score": 920.84,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-anh-gia-tu-duy",
+        "method_name": "Điểm chuẩn theo phương thức Điểm Đánh giá Tư duy năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7320101",
+            "program_name": "Báo chí",
+            "subject_groups": [],
+            "score": 63.7821,
+            "note": null
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [],
+            "score": 69.29,
+            "note": null
+          },
+          {
+            "program_code": "7320104_CLC",
+            "program_name": "Truyền thông đa phương tiện - Chương trình đào tạo chất lượng cao",
+            "subject_groups": [],
+            "score": 63.7427,
+            "note": null
+          },
+          {
+            "program_code": "7329001",
+            "program_name": "Công nghệ đa phương tiện",
+            "subject_groups": [],
+            "score": 66.5257,
+            "note": null
+          },
+          {
+            "program_code": "7329001_GAM",
+            "program_name": "Thiết kế và phát triển Game (ngành Công nghệ đa phương tiện)",
+            "subject_groups": [],
+            "score": 65.3805,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 63.94,
+            "note": null
+          },
+          {
+            "program_code": "7340101-LOG",
+            "program_name": "Logistics và quản trị chuỗi cung ứng (ngành Quản trị kinh doanh)",
+            "subject_groups": [],
+            "score": 66.968,
+            "note": null
+          },
+          {
+            "program_code": "7340115",
+            "program_name": "Marketing",
+            "subject_groups": [],
+            "score": 66.5257,
+            "note": null
+          },
+          {
+            "program_code": "7340115_CLC",
+            "program_name": "Marketing (chất lượng cao)",
+            "subject_groups": [],
+            "score": 62.46,
+            "note": null
+          },
+          {
+            "program_code": "7340115_QHC",
+            "program_name": "Quan hệ công chúng (ngành Marketing)",
+            "subject_groups": [],
+            "score": 65.3608,
+            "note": null
+          },
+          {
+            "program_code": "7340122",
+            "program_name": "Thương mại điện tử",
+            "subject_groups": [],
+            "score": 68.9583,
+            "note": null
+          },
+          {
+            "program_code": "7340205",
+            "program_name": "Công nghệ tài chính (Fintech)",
+            "subject_groups": [],
+            "score": 65.7075,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [],
+            "score": 63.4467,
+            "note": null
+          },
+          {
+            "program_code": "7340301-CLC",
+            "program_name": "Kế toán chất lượng cao (chuẩn quốc tế ACCA)",
+            "subject_groups": [],
+            "score": 60.4867,
+            "note": null
+          },
+          {
+            "program_code": "7480101",
+            "program_name": "Khoa học máy tính (định hướng Khoa học dữ liệu)",
+            "subject_groups": [],
+            "score": 72.2852,
+            "note": null
+          },
+          {
+            "program_code": "7480102",
+            "program_name": "Kỹ thuật dữ liệu (ngành Mạng máy tính và truyền thông dữ liệu)",
+            "subject_groups": [],
+            "score": 67.4103,
+            "note": null
+          },
+          {
+            "program_code": "7480107",
+            "program_name": "Trí tuệ nhân tạo",
+            "subject_groups": [],
+            "score": 70.6004,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [],
+            "score": 71.006,
+            "note": null
+          },
+          {
+            "program_code": "7480201_CLC",
+            "program_name": "Công nghệ thông tin CLC",
+            "subject_groups": [],
+            "score": 65.6411,
+            "note": null
+          },
+          {
+            "program_code": "7480201_UDU",
+            "program_name": "Công nghệ thông tin (Cử nhân định hướng ứng dụng)",
+            "subject_groups": [],
+            "score": 62.8547,
+            "note": null
+          },
+          {
+            "program_code": "7480201-VNH",
+            "program_name": "Công nghệ thông tin Việt - Nhật",
+            "subject_groups": [],
+            "score": 65.3805,
+            "note": null
+          },
+          {
+            "program_code": "7480202",
+            "program_name": "An toàn thông tin",
+            "subject_groups": [],
+            "score": 69.2015,
+            "note": null
+          },
+          {
+            "program_code": "7480202_CLC",
+            "program_name": "An toàn thông tin - Chất lượng cao",
+            "subject_groups": [],
+            "score": 64.7096,
+            "note": null
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ Kỹ thuật Điện, điện tử",
+            "subject_groups": [],
+            "score": 67.8746,
+            "note": null
+          },
+          {
+            "program_code": "7510301_MBD",
+            "program_name": "Công nghệ vi mạch bán dẫn (ngành Công nghệ Kỹ thuật Điện, điện tử)",
+            "subject_groups": [],
+            "score": 70.07,
+            "note": null
+          },
+          {
+            "program_code": "7520207",
+            "program_name": "Kỹ thuật Điện tử viễn thông",
+            "subject_groups": [],
+            "score": 68.9583,
+            "note": null
+          },
+          {
+            "program_code": "7520207_AIoT",
+            "program_name": "Trí tuệ nhân tạo vạn vật (AIoT) (ngành Kỹ thuật Điện tử viễn thông)",
+            "subject_groups": [],
+            "score": 68.4497,
+            "note": null
+          },
+          {
+            "program_code": "7520216",
+            "program_name": "Kỹ thuật Điều khiển và tự động hóa",
+            "subject_groups": [],
+            "score": 72.2228,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-xet-tuyen-ket-hop",
+        "method_name": "Điểm chuẩn theo phương thức Điểm xét tuyển kết hợp năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7320101",
+            "program_name": "Báo chí",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26",
+              "D01"
+            ],
+            "score": 25.9467,
+            "note": "Kết hợp học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26",
+              "D01"
+            ],
+            "score": 27.75,
+            "note": "Kết hợp học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7320104_CLC",
+            "program_name": "Truyền thông đa phương tiện - Chương trình đào tạo chất lượng cao",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26",
+              "D01"
+            ],
+            "score": 25.9333,
+            "note": "Kết hợp học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7329001",
+            "program_name": "Công nghệ đa phương tiện",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26",
+              "D01"
+            ],
+            "score": 26.8571,
+            "note": "Kết hợp học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7329001_GAM",
+            "program_name": "Thiết kế và phát triển Game (ngành Công nghệ đa phương tiện)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26",
+              "D01"
+            ],
+            "score": 26.4867,
+            "note": "Kết hợp học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26",
+              "D01"
+            ],
+            "score": 26,
+            "note": "Kết hợp học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7340101_LOG",
+            "program_name": "Logistics và quản trị chuỗi cung ứng (ngành Quản trị kinh doanh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26",
+              "D01"
+            ],
+            "score": 27,
+            "note": "Kết hợp học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7340115",
+            "program_name": "Marketing",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26",
+              "D01"
+            ],
+            "score": 26.8571,
+            "note": "Kết hợp học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7340115_CLC",
+            "program_name": "Marketing (chất lượng cao)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26",
+              "D01"
+            ],
+            "score": 25.5,
+            "note": "Kết hợp học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7340115_QHC",
+            "program_name": "Quan hệ công chúng (ngành Marketing)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26",
+              "D01"
+            ],
+            "score": 26.48,
+            "note": "Kết hợp học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7340122",
+            "program_name": "Thương mại điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26",
+              "D01"
+            ],
+            "score": 27.6429,
+            "note": "Kết hợp học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7340205",
+            "program_name": "Công nghệ tài chính (Fintech)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26",
+              "D01"
+            ],
+            "score": 26.5929,
+            "note": "Kết hợp học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26",
+              "D01"
+            ],
+            "score": 25.8333,
+            "note": "Kết hợp học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7340301_CLC",
+            "program_name": "Kế toán chất lượng cao (chuẩn quốc tế ACCA)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26",
+              "D01"
+            ],
+            "score": 24.8333,
+            "note": "Kết hợp học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7480101",
+            "program_name": "Khoa học máy tính (định hướng Khoa học dữ liệu)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26"
+            ],
+            "score": 28.23,
+            "note": "Kết hợp học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7480102",
+            "program_name": "Kỹ thuật dữ liệu (ngành Mạng máy tính và truyền thông dữ liệu)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26"
+            ],
+            "score": 27.1429,
+            "note": "Kết hợp học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7480107",
+            "program_name": "Trí tuệ nhân tạo",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26"
+            ],
+            "score": 27.96,
+            "note": "Kết hợp học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26"
+            ],
+            "score": 28.025,
+            "note": "Kết hợp học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7480201_CLC",
+            "program_name": "Công nghệ thông tin - Chương trình chất lượng cao",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26"
+            ],
+            "score": 26.5714,
+            "note": "Kết hợp học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7480201_UDU",
+            "program_name": "Công nghệ thông tin (Cử nhân định hướng ứng dụng)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26"
+            ],
+            "score": 25.6333,
+            "note": "Kết hợp học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7480201_VNH",
+            "program_name": "Công nghệ thông tin Việt - Nhật",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26"
+            ],
+            "score": 26.4867,
+            "note": "Kết hợp học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7480202",
+            "program_name": "An toàn thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26"
+            ],
+            "score": 27.7214,
+            "note": "Kết hợp học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7480202_CLC",
+            "program_name": "An toàn thông tin - Chất lượng cao",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26"
+            ],
+            "score": 26.26,
+            "note": "Kết hợp học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ Kỹ thuật Điện, điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26"
+            ],
+            "score": 27.2928,
+            "note": "Kết hợp học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7510301_MBD",
+            "program_name": "Công nghệ vi mạch bán dẫn (ngành Công nghệ Kỹ thuật Điện, điện tử)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26"
+            ],
+            "score": 27.875,
+            "note": null
+          },
+          {
+            "program_code": "7520207",
+            "program_name": "Kỹ thuật Điện tử viễn thông",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26"
+            ],
+            "score": 27.6429,
+            "note": "Kết hợp học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7520207_AIoT",
+            "program_name": "Trí tuệ nhân tạo vạn vật (AIoT) (ngành Kỹ thuật Điện tử viễn thông)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26"
+            ],
+            "score": 27.4786,
+            "note": "Kết hợp học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7520216",
+            "program_name": "Kỹ thuật Điều khiển và tự động hóa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26"
+            ],
+            "score": 28.22,
+            "note": "Kết hợp học bạ THPT và CCQT"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-h-su-pham-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL ĐH Sư phạm HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7320101",
+            "program_name": "Báo chí",
+            "subject_groups": [],
+            "score": 19.8775,
+            "note": null
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [],
+            "score": 22.75,
+            "note": null
+          },
+          {
+            "program_code": "7320104_CLC",
+            "program_name": "Truyền thông đa phương tiện - Chương trình đào tạo chất lượng cao",
+            "subject_groups": [],
+            "score": 19.8625,
+            "note": null
+          },
+          {
+            "program_code": "7329001",
+            "program_name": "Công nghệ đa phương tiện",
+            "subject_groups": [],
+            "score": 21.1429,
+            "note": null
+          },
+          {
+            "program_code": "7329001_GAM",
+            "program_name": "Thiết kế và phát triển Game (ngành Công nghệ đa phương tiện)",
+            "subject_groups": [],
+            "score": 20.485,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 19.9375,
+            "note": null
+          },
+          {
+            "program_code": "7340101-LOG",
+            "program_name": "Logistics và quản trị chuỗi cung ứng (ngành Quản trị kinh doanh)",
+            "subject_groups": [],
+            "score": 21.4,
+            "note": null
+          },
+          {
+            "program_code": "7340115",
+            "program_name": "Marketing",
+            "subject_groups": [],
+            "score": 21.1429,
+            "note": null
+          },
+          {
+            "program_code": "7340115_CLC",
+            "program_name": "Marketing (chất lượng cao)",
+            "subject_groups": [],
+            "score": 19.375,
+            "note": null
+          },
+          {
+            "program_code": "7340115_QHC",
+            "program_name": "Quan hệ công chúng (ngành Marketing)",
+            "subject_groups": [],
+            "score": 20.4775,
+            "note": null
+          },
+          {
+            "program_code": "7340122",
+            "program_name": "Thương mại điện tử",
+            "subject_groups": [],
+            "score": 22.5571,
+            "note": null
+          },
+          {
+            "program_code": "7340205",
+            "program_name": "Công nghệ tài chính (Fintech)",
+            "subject_groups": [],
+            "score": 20.6671,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [],
+            "score": 19.75,
+            "note": null
+          },
+          {
+            "program_code": "7340301-CLC",
+            "program_name": "Kế toán chất lượng cao (chuẩn quốc tế ACCA)",
+            "subject_groups": [],
+            "score": 18.625,
+            "note": null
+          },
+          {
+            "program_code": "7480101",
+            "program_name": "Khoa học máy tính (định hướng Khoa học dữ liệu)",
+            "subject_groups": [],
+            "score": 23.83,
+            "note": null
+          },
+          {
+            "program_code": "7480102",
+            "program_name": "Kỹ thuật dữ liệu (ngành Mạng máy tính và truyền thông dữ liệu)",
+            "subject_groups": [],
+            "score": 21.6571,
+            "note": null
+          },
+          {
+            "program_code": "7480107",
+            "program_name": "Trí tuệ nhân tạo",
+            "subject_groups": [],
+            "score": 23.2225,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [],
+            "score": 23.3688,
+            "note": null
+          },
+          {
+            "program_code": "7480201_CLC",
+            "program_name": "Công nghệ thông tin CLC",
+            "subject_groups": [],
+            "score": 20.6286,
+            "note": null
+          },
+          {
+            "program_code": "7480201_UDU",
+            "program_name": "Công nghệ thông tin (Cử nhân định hướng ứng dụng)",
+            "subject_groups": [],
+            "score": 19.525,
+            "note": null
+          },
+          {
+            "program_code": "7480201-VNH",
+            "program_name": "Công nghệ thông tin Việt - Nhật",
+            "subject_groups": [],
+            "score": 20.485,
+            "note": null
+          },
+          {
+            "program_code": "7480202",
+            "program_name": "An toàn thông tin",
+            "subject_groups": [],
+            "score": 22.6986,
+            "note": null
+          },
+          {
+            "program_code": "7480202_CLC",
+            "program_name": "An toàn thông tin - Chất lượng cao",
+            "subject_groups": [],
+            "score": 20.23,
+            "note": null
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ Kỹ thuật Điện, điện tử",
+            "subject_groups": [],
+            "score": 21.9271,
+            "note": null
+          },
+          {
+            "program_code": "7510301_MBD",
+            "program_name": "Công nghệ vi mạch bán dẫn (ngành Công nghệ Kỹ thuật Điện, điện tử)",
+            "subject_groups": [],
+            "score": 23.0313,
+            "note": null
+          },
+          {
+            "program_code": "7520207",
+            "program_name": "Kỹ thuật Điện tử viễn thông",
+            "subject_groups": [],
+            "score": 22.5571,
+            "note": null
+          },
+          {
+            "program_code": "7520207_AIoT",
+            "program_name": "Trí tuệ nhân tạo vạn vật (AIoT) (ngành Kỹ thuật Điện tử viễn thông)",
+            "subject_groups": [],
+            "score": 22.2614,
+            "note": null
+          },
+          {
+            "program_code": "7520216",
+            "program_name": "Kỹ thuật Điều khiển và tự động hóa",
+            "subject_groups": [],
+            "score": 23.8075,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-utxt-xt-thang",
+        "method_name": "Điểm chuẩn theo phương thức ƯTXT, XT thẳng năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7320101",
+            "program_name": "Báo chí",
+            "subject_groups": [],
+            "score": 42.5,
+            "note": "Xét tuyển hồ sơ năng lực"
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [],
+            "score": 80,
+            "note": "Xét tuyển hồ sơ năng lực"
+          },
+          {
+            "program_code": "7320104_CLC",
+            "program_name": "Truyền thông đa phương tiện - Chương trình đào tạo chất lượng cao",
+            "subject_groups": [],
+            "score": 42.5,
+            "note": "Xét tuyển hồ sơ năng lực"
+          },
+          {
+            "program_code": "7329001",
+            "program_name": "Công nghệ đa phương tiện",
+            "subject_groups": [],
+            "score": 53.2143,
+            "note": "Xét tuyển hồ sơ năng lực"
+          },
+          {
+            "program_code": "7329001_GAM",
+            "program_name": "Thiết kế và phát triển Game (ngành Công nghệ đa phương tiện)",
+            "subject_groups": [],
+            "score": 42.5,
+            "note": "Xét tuyển hồ sơ năng lực"
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 42.5,
+            "note": "Xét tuyển hồ sơ năng lực"
+          },
+          {
+            "program_code": "7340101-LOG",
+            "program_name": "Logistics và quản trị chuỗi cung ứng (ngành Quản trị kinh doanh)",
+            "subject_groups": [],
+            "score": 57.5,
+            "note": "Xét tuyển hồ sơ năng lực"
+          },
+          {
+            "program_code": "7340115",
+            "program_name": "Marketing",
+            "subject_groups": [],
+            "score": 53.2143,
+            "note": "Xét tuyển hồ sơ năng lực"
+          },
+          {
+            "program_code": "7340115_CLC",
+            "program_name": "Marketing (chất lượng cao)",
+            "subject_groups": [],
+            "score": 42.5,
+            "note": "Xét tuyển hồ sơ năng lực"
+          },
+          {
+            "program_code": "7340115_QHC",
+            "program_name": "Quan hệ công chúng (ngành Marketing)",
+            "subject_groups": [],
+            "score": 42.5,
+            "note": "Xét tuyển hồ sơ năng lực"
+          },
+          {
+            "program_code": "7340122",
+            "program_name": "Thương mại điện tử",
+            "subject_groups": [],
+            "score": 76.7857,
+            "note": "Xét tuyển hồ sơ năng lực"
+          },
+          {
+            "program_code": "7340205",
+            "program_name": "Công nghệ tài chính (Fintech)",
+            "subject_groups": [],
+            "score": 45.2857,
+            "note": "Xét tuyển hồ sơ năng lực"
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [],
+            "score": 42.5,
+            "note": "Xét tuyển hồ sơ năng lực"
+          },
+          {
+            "program_code": "7340301-CLC",
+            "program_name": "Kế toán chất lượng cao (chuẩn quốc tế ACCA)",
+            "subject_groups": [],
+            "score": 42.5,
+            "note": "Xét tuyển hồ sơ năng lực"
+          },
+          {
+            "program_code": "7480101",
+            "program_name": "Khoa học máy tính (định hướng Khoa học dữ liệu)",
+            "subject_groups": [],
+            "score": 82.4,
+            "note": "Xét tuyển hồ sơ năng lực"
+          },
+          {
+            "program_code": "7480102",
+            "program_name": "Kỹ thuật dữ liệu (ngành Mạng máy tính và truyền thông dữ liệu)",
+            "subject_groups": [],
+            "score": 61.7857,
+            "note": "Xét tuyển hồ sơ năng lực"
+          },
+          {
+            "program_code": "7480107",
+            "program_name": "Trí tuệ nhân tạo",
+            "subject_groups": [],
+            "score": 81.05,
+            "note": "Xét tuyển hồ sơ năng lực"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [],
+            "score": 81.375,
+            "note": "Xét tuyển hồ sơ năng lực"
+          },
+          {
+            "program_code": "7480201_CLC",
+            "program_name": "Công nghệ thông tin CLC",
+            "subject_groups": [],
+            "score": 44.6429,
+            "note": "Xét tuyển hồ sơ năng lực"
+          },
+          {
+            "program_code": "7480201_UDU",
+            "program_name": "Công nghệ thông tin (Cử nhân dịnh hướng ứng dụng)",
+            "subject_groups": [],
+            "score": 42.5,
+            "note": "Xét tuyển hồ sơ năng lực"
+          },
+          {
+            "program_code": "7480201-VNH",
+            "program_name": "Công nghệ thông tin Việt - Nhật",
+            "subject_groups": [],
+            "score": 42.5,
+            "note": "Xét tuyển hồ sơ năng lực"
+          },
+          {
+            "program_code": "7480202",
+            "program_name": "An toàn thông tin",
+            "subject_groups": [],
+            "score": 79.1429,
+            "note": "Xét tuyển hồ sơ năng lực"
+          },
+          {
+            "program_code": "7480202_CLC",
+            "program_name": "An toàn thông tin - Chất lượng cao",
+            "subject_groups": [],
+            "score": 42.5,
+            "note": "Xét tuyển hồ sơ năng lực"
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ Kỹ thuật Điện, điện tử",
+            "subject_groups": [],
+            "score": 66.2857,
+            "note": "Xét tuyển hồ sơ năng lực"
+          },
+          {
+            "program_code": "7510301_MBD",
+            "program_name": "Công nghệ vi mạch bán dẫn (ngành Công nghệ Kỹ thuật Điện, điện tử)",
+            "subject_groups": [],
+            "score": 80.625,
+            "note": "Xét tuyển hồ sơ năng lực"
+          },
+          {
+            "program_code": "7520207",
+            "program_name": "Kỹ thuật Điện tử viễn thông",
+            "subject_groups": [],
+            "score": 76.7857,
+            "note": "Xét tuyển hồ sơ năng lực"
+          },
+          {
+            "program_code": "7520207_AIoT",
+            "program_name": "Trí tuệ nhân tạo vạn vật (AIoT) (ngành Kỹ thuật Điện tử viễn thông)",
+            "subject_groups": [],
+            "score": 71.8571,
+            "note": "Xét tuyển hồ sơ năng lực"
+          },
+          {
+            "program_code": "7520216",
+            "program_name": "Kỹ thuật Điều khiển và tự động hóa",
+            "subject_groups": [],
+            "score": 82.35,
+            "note": "Xét tuyển hồ sơ năng lực"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-chung-chi-quoc-te",
+        "method_name": "Điểm chuẩn theo phương thức Chứng chỉ quốc tế năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7320101",
+            "program_name": "Báo chí",
+            "subject_groups": [],
+            "score": 1216.8,
+            "note": "Chứng chỉ SAT (Thang 1600)"
+          },
+          {
+            "program_code": "7320101",
+            "program_name": "Báo chí",
+            "subject_groups": [],
+            "score": 27.17,
+            "note": "Chứng chỉ ACT (Thang 36)"
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [],
+            "score": 1350,
+            "note": "Chứng chỉ SAT (Thang 1600)"
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [],
+            "score": 30,
+            "note": "Chứng chỉ ACT (Thang 36)"
+          },
+          {
+            "program_code": "7320104_CLC",
+            "program_name": "Truyền thông đa phương tiện - Chương trình đào tạo chất lượng cao",
+            "subject_groups": [],
+            "score": 1216,
+            "note": "Chứng chỉ SAT (Thang 1600)"
+          },
+          {
+            "program_code": "7320104_CLC",
+            "program_name": "Truyền thông đa phương tiện - Chương trình đào tạo chất lượng cao",
+            "subject_groups": [],
+            "score": 27.15,
+            "note": "Chứng chỉ ACT (Thang 36)"
+          },
+          {
+            "program_code": "7329001",
+            "program_name": "Công nghệ đa phương tiện",
+            "subject_groups": [],
+            "score": 1278.57,
+            "note": "Chứng chỉ SAT (Thang 1600)"
+          },
+          {
+            "program_code": "7329001",
+            "program_name": "Công nghệ đa phương tiện",
+            "subject_groups": [],
+            "score": 28.5714,
+            "note": "Chứng chỉ ACT (Thang 36)"
+          },
+          {
+            "program_code": "7329001_GAM",
+            "program_name": "Thiết kế và phát triển Game (ngành Công nghệ đa phương tiện)",
+            "subject_groups": [],
+            "score": 1249.2,
+            "note": "Chứng chỉ SAT (Thang 1600)"
+          },
+          {
+            "program_code": "7329001_GAM",
+            "program_name": "Thiết kế và phát triển Game (ngành Công nghệ đa phương tiện)",
+            "subject_groups": [],
+            "score": 27.98,
+            "note": "Chứng chỉ ACT (Thang 36)"
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 1220,
+            "note": "Chứng chỉ SAT (Thang 1600)"
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 27.25,
+            "note": "Chứng chỉ ACT (Thang 36)"
+          },
+          {
+            "program_code": "7340101-LOG",
+            "program_name": "Logistics và quản trị chuỗi cung ứng (ngành Quản trị kinh doanh)",
+            "subject_groups": [],
+            "score": 1290,
+            "note": "Chứng chỉ SAT (Thang 1600)"
+          },
+          {
+            "program_code": "7340101-LOG",
+            "program_name": "Logistics và quản trị chuỗi cung ứng (ngành Quản trị kinh doanh)",
+            "subject_groups": [],
+            "score": 28.8,
+            "note": "Chứng chỉ ACT (Thang 36)"
+          },
+          {
+            "program_code": "7340115",
+            "program_name": "Marketing",
+            "subject_groups": [],
+            "score": 1278.57,
+            "note": "Chứng chỉ SAT (Thang 1600)"
+          },
+          {
+            "program_code": "7340115",
+            "program_name": "Marketing",
+            "subject_groups": [],
+            "score": 28.5714,
+            "note": "Chứng chỉ ACT (Thang 36)"
+          },
+          {
+            "program_code": "7340115_CLC",
+            "program_name": "Marketing (chất lượng cao)",
+            "subject_groups": [],
+            "score": 1190,
+            "note": "Chứng chỉ SAT (Thang 1600)"
+          },
+          {
+            "program_code": "7340115_CLC",
+            "program_name": "Marketing (chất lượng cao)",
+            "subject_groups": [],
+            "score": 26.5,
+            "note": "Chứng chỉ ACT (Thang 36)"
+          },
+          {
+            "program_code": "7340115_QHC",
+            "program_name": "Quan hệ công chúng (ngành Marketing)",
+            "subject_groups": [],
+            "score": 1248.8,
+            "note": "Chứng chỉ SAT (Thang 1600)"
+          },
+          {
+            "program_code": "7340115_QHC",
+            "program_name": "Quan hệ công chúng (ngành Marketing)",
+            "subject_groups": [],
+            "score": 27.97,
+            "note": "Chứng chỉ ACT (Thang 36)"
+          },
+          {
+            "program_code": "7340122",
+            "program_name": "Thương mại điện tử",
+            "subject_groups": [],
+            "score": 1341.43,
+            "note": "Chứng chỉ SAT (Thang 1600)"
+          },
+          {
+            "program_code": "7340122",
+            "program_name": "Thương mại điện tử",
+            "subject_groups": [],
+            "score": 29.8286,
+            "note": "Chứng chỉ ACT (Thang 36)"
+          },
+          {
+            "program_code": "7340205",
+            "program_name": "Công nghệ tài chính (Fintech)",
+            "subject_groups": [],
+            "score": 1257.43,
+            "note": "Chứng chỉ SAT (Thang 1600)"
+          },
+          {
+            "program_code": "7340205",
+            "program_name": "Công nghệ tài chính (Fintech)",
+            "subject_groups": [],
+            "score": 28.1486,
+            "note": "Chứng chỉ ACT (Thang 36)"
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [],
+            "score": 1210,
+            "note": "Chứng chỉ SAT (Thang 1600)"
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [],
+            "score": 27,
+            "note": "Chứng chỉ ACT (Thang 36)"
+          },
+          {
+            "program_code": "7340301-CLC",
+            "program_name": "Kế toán chất lượng cao (chuẩn quốc tế ACCA)",
+            "subject_groups": [],
+            "score": 1150,
+            "note": "Chứng chỉ SAT (Thang 1600)"
+          },
+          {
+            "program_code": "7340301-CLC",
+            "program_name": "Kế toán chất lượng cao (chuẩn quốc tế ACCA)",
+            "subject_groups": [],
+            "score": 25.5,
+            "note": "Chứng chỉ ACT (Thang 36)"
+          },
+          {
+            "program_code": "7480101",
+            "program_name": "Khoa học máy tính (định hướng Khoa học dữ liệu)",
+            "subject_groups": [],
+            "score": 1398,
+            "note": "Chứng chỉ SAT (Thang 1600)"
+          },
+          {
+            "program_code": "7480101",
+            "program_name": "Khoa học máy tính (định hướng Khoa học dữ liệu)",
+            "subject_groups": [],
+            "score": 31.44,
+            "note": "Chứng chỉ ACT (Thang 36)"
+          },
+          {
+            "program_code": "7480102",
+            "program_name": "Kỹ thuật dữ liệu (ngành Mạng máy tính và truyền thông dữ liệu)",
+            "subject_groups": [],
+            "score": 1301.43,
+            "note": "Chứng chỉ SAT (Thang 1600)"
+          },
+          {
+            "program_code": "7480102",
+            "program_name": "Kỹ thuật dữ liệu (ngành Mạng máy tính và truyền thông dữ liệu)",
+            "subject_groups": [],
+            "score": 29.0286,
+            "note": "Chứng chỉ ACT (Thang 36)"
+          },
+          {
+            "program_code": "7480107",
+            "program_name": "Trí tuệ nhân tạo",
+            "subject_groups": [],
+            "score": 1371,
+            "note": "Chứng chỉ SAT (Thang 1600)"
+          },
+          {
+            "program_code": "7480107",
+            "program_name": "Trí tuệ nhân tạo",
+            "subject_groups": [],
+            "score": 30.63,
+            "note": "Chứng chỉ ACT (Thang 36)"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [],
+            "score": 1377.5,
+            "note": "Chứng chỉ SAT (Thang 1600)"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [],
+            "score": 30.825,
+            "note": "Chứng chỉ ACT (Thang 36)"
+          },
+          {
+            "program_code": "7480201_CLC",
+            "program_name": "Công nghệ thông tin CLC",
+            "subject_groups": [],
+            "score": 28.1143,
+            "note": "Chứng chỉ ACT (Thang 36)"
+          },
+          {
+            "program_code": "7480201_CLC",
+            "program_name": "Công nghệ thông tin CLC",
+            "subject_groups": [],
+            "score": 1255.71,
+            "note": "Chứng chỉ SAT (Thang 1600)"
+          },
+          {
+            "program_code": "7480201_UDU",
+            "program_name": "Công nghệ thông tin (Cử nhân định hướng ứng dụng)",
+            "subject_groups": [],
+            "score": 1198,
+            "note": "Chứng chỉ SAT (Thang 1600)"
+          },
+          {
+            "program_code": "7480201_UDU",
+            "program_name": "Công nghệ thông tin (Cử nhân định hướng ứng dụng)",
+            "subject_groups": [],
+            "score": 26.7,
+            "note": "Chứng chỉ ACT (Thang 36)"
+          },
+          {
+            "program_code": "7480201-VNH",
+            "program_name": "Công nghệ thông tin Việt - Nhật",
+            "subject_groups": [],
+            "score": 1249.2,
+            "note": "Chứng chỉ SAT (Thang 1600)"
+          },
+          {
+            "program_code": "7480201-VNH",
+            "program_name": "Công nghệ thông tin Việt - Nhật",
+            "subject_groups": [],
+            "score": 27.98,
+            "note": "Chứng chỉ ACT (Thang 36)"
+          },
+          {
+            "program_code": "7480202",
+            "program_name": "An toàn thông tin",
+            "subject_groups": [],
+            "score": 1347.71,
+            "note": "Chứng chỉ SAT (Thang 1600)"
+          },
+          {
+            "program_code": "7480202",
+            "program_name": "An toàn thông tin",
+            "subject_groups": [],
+            "score": 29.9543,
+            "note": "Chứng chỉ ACT (Thang 36)"
+          },
+          {
+            "program_code": "7480202_CLC",
+            "program_name": "An toàn thông tin - Chất lượng cao",
+            "subject_groups": [],
+            "score": 27.64,
+            "note": "Chứng chỉ ACT (Thang 36)"
+          },
+          {
+            "program_code": "7480202_CLC",
+            "program_name": "An toàn thông tin - Chất lượng cao",
+            "subject_groups": [],
+            "score": 1235.6,
+            "note": "Chứng chỉ SAT (Thang 1600)"
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ Kỹ thuật Điện, điện tử",
+            "subject_groups": [],
+            "score": 1313.43,
+            "note": "Chứng chỉ SAT (Thang 1600)"
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ Kỹ thuật Điện, điện tử",
+            "subject_groups": [],
+            "score": 29.2685,
+            "note": "Chứng chỉ ACT (Thang 36)"
+          },
+          {
+            "program_code": "7510301_MBD",
+            "program_name": "Công nghệ vi mạch bán dẫn (ngành Công nghệ Kỹ thuật Điện, điện tử)",
+            "subject_groups": [],
+            "score": 30.375,
+            "note": "Chứng chỉ ACT (Thang 36)"
+          },
+          {
+            "program_code": "7510301_MBD",
+            "program_name": "Công nghệ vi mạch bán dẫn (ngành Công nghệ Kỹ thuật Điện, điện tử)",
+            "subject_groups": [],
+            "score": 1362.5,
+            "note": "Chứng chỉ SAT (Thang 1600)"
+          },
+          {
+            "program_code": "7520207",
+            "program_name": "Kỹ thuật Điện tử viễn thông",
+            "subject_groups": [],
+            "score": 1341.43,
+            "note": "Chứng chỉ SAT (Thang 1600)"
+          },
+          {
+            "program_code": "7520207",
+            "program_name": "Kỹ thuật Điện tử viễn thông",
+            "subject_groups": [],
+            "score": 29.8286,
+            "note": "Chứng chỉ ACT (Thang 36)"
+          },
+          {
+            "program_code": "7520207_AIoT",
+            "program_name": "Trí tuệ nhân tạo vạn vật (AIoT) (ngành Kỹ thuật Điện tử viễn thông)",
+            "subject_groups": [],
+            "score": 1328.29,
+            "note": "Chứng chỉ SAT (Thang 1600)"
+          },
+          {
+            "program_code": "7520207_AIoT",
+            "program_name": "Trí tuệ nhân tạo vạn vật (AIoT) (ngành Kỹ thuật Điện tử viễn thông)",
+            "subject_groups": [],
+            "score": 29.5657,
+            "note": "Chứng chỉ ACT (Thang 36)"
+          },
+          {
+            "program_code": "7520216",
+            "program_name": "Kỹ thuật Điều khiển và tự động hóa",
+            "subject_groups": [],
+            "score": 1397,
+            "note": "Chứng chỉ SAT (Thang 1600)"
+          },
+          {
+            "program_code": "7520216",
+            "program_name": "Kỹ thuật Điều khiển và tự động hóa",
+            "subject_groups": [],
+            "score": 31.41,
+            "note": "Chứng chỉ ACT (Thang 36)"
+          }
+        ]
+      }
+    ]
+  }
+}

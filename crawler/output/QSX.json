@@ -1,0 +1,4107 @@
+{
+  "university": {
+    "code": "QSX",
+    "name": "Đại học Khoa học xã hội và Nhân văn, Đại học Quốc gia Thành phố Hồ Chí Minh (ĐHQG TPHCM)",
+    "short_name": "VNUHCM-USSH",
+    "location": [],
+    "address": "Cơ sở chính (cơ sở Đinh Tiên Hoàng): số 10-12 Đinh Tiên Hoàng, phường Bến Nghé, Quận 1, Tp.HCM.",
+    "website": "https://hcmussh.edu.vn",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-tphcm-QSX.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0228/thong-tin-tuyen-sinh-truong-dai-hoc-khoa-hoc-xa-hoi-va-nhan-van.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC KHOA HỌC XÃ HỘI VÀ NHÂN VĂN TPHCM 2026 Thông tin tuyển sinh trường Đại học Khoa học Xã hội và Nhân văn - ĐHQG TPHCM (VNUHCM-USSH) năm 2026 Năm 2026, trường Đại học Khoa học Xã hội và Nhân văn - ĐHQG TPHCM tuyển sinh dựa trên 2 Phương thức tuyển sinh như sau: Phương thức 1:xét tuyển thẳng theo quy định của Bộ GDĐT. Phương thức 2: xét tuyển tổng hợp, sử dụng các tiêu chí: kết quả kỳ thi tốt nghiệp THPT năm 2026 (THPT); kết quả kỳ thi đánh giá năng lực ĐHQG-HCM năm 2026 (ĐGNL); kết quả học tập 03 năm THPT (HB); thành tích trong học tập, hoạt động xã hội, văn hóa, thể dục, thể thao, văn nghệ; chứng chỉ ngoại ngữ quốc tế.",
+  "admission_methods": [
+    {
+      "method_id": "1-utxt-xt-thang",
+      "method_name": "1 ƯTXT, XT THẲNG",
+      "description": "1.1 ĐỐI TƯỢNG Phương thức 1: xét tuyển thẳng theo quy định của Bộ GDĐT. Xét tuyển thẳng: xét tuyển thẳng theo Quy chế tuyển sinh đại học, tuyển sinh cao đẳng ngành Giáo dục Mầm non năm 2026 Thí sinh đạt thành tích cao trong các kỳ thi, cuộc thi, giải đấu cấp quốc gia hoặc quốc tế, do Bộ GDĐT tổ chức, cử tham gia, được xét tuyển thẳng vào các ngành phù hợp với môn thi, nội dung đề tài hoặc nghề dự thi; cụ thể trong các trường hợp sau: a) Thí sinh đoạt giải nhất, nhì, ba trong kỳ thi chọn học sinh",
+      "eligibility": "ĐỐI TƯỢNG Phương thức 1: xét tuyển thẳng theo quy định của Bộ GDĐT. Xét tuyển thẳng: xét tuyển thẳng theo",
+      "rules": "Quy chế tuyển sinh đại học, tuyển sinh cao đẳng ngành Giáo dục Mầm non năm 2026 Thí sinh đạt thành tích cao trong các kỳ thi, cuộc thi, giải đấu cấp quốc gia hoặc quốc tế, do Bộ GDĐT tổ chức, cử tham gia, được xét tuyển thẳng vào các ngành phù hợp với môn thi, nội dung đề tài hoặc nghề dự thi; cụ thể trong các trường hợp sau: a) Thí sinh đoạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia, quốc tế do Bộ GDĐT tổ chức, cử tham gia; thời gian đoạt giải không quá 3 năm tính tới thời điểm xét tuyển thẳng; được xét tuyển thẳng vào các ngành phù hợp với môn thi, cụ thể: Số TT Tên môn thi học sinh giỏi Tên ngành đào tạo Mã ngành 1 Ngữ Văn Việt Nam học 7310630 Văn học (*) 7229030 Nghệ thuật học 7210213 Văn hóa học 7229040 Báo chí (*) 7320101 Ngôn ngữ học (*) 7229020 Thông tin - thư viện 7320201 2 Lịch sử Lịch sử (*) 7229010 Nhân học 7310302 Lưu trữ học 7320303 Đông phương học 7310608 Địa lý học 7310501 Việt Nam học 7310630 Quốc tế học 7310601 Văn hóa học 7229040 3 Địa lý Địa lý học (*) 7310501 Đông phương học 7310608 Lịch sử 7229010 Việt Nam học 7310630 Quốc tế học 7310601 Văn hóa học 7229040 4 Tiếng Anh Ngôn ngữ Anh (*) 7220201 Ngôn ngữ Nga 7220202 Ngôn ngữ Pháp 7220203 Ngôn ngữ Trung Quốc 7220204 Ngôn ngữ Đức 7220205 Ngôn ngữ Tây Ban Nha 7220206 Ngôn ngữ Italia 7220208 Quan hệ quốc tế 7310206 Quốc tế học 7310601 Đông phương học 7310608 Ngôn ngữ học 7229020 Truyền thông đa phương tiện 7320104 5 Tiếng Nga Ngôn ngữ Nga (*) 7220202 Đông phương học 7310608 Quốc tế học 7310601 Ngôn ngữ học 7229020 6 11 Tiếng Trung Quốc Ngôn ngữ Trung Quốc (*) 7220204 Đông phương học 7310608 Quốc tế học 7310601 Ngôn ngữ học 7229020 7 Tiếng Pháp Ngôn ngữ Pháp (*) 7220203 Quốc tế học 7310601 Đông phương học 7310608 Ngôn ngữ học 7229020 Ngôn ngữ Tây Ban Nha 7220206 Ngôn ngữ Italia 7220208 8 Tiếng Nhật Nhật Bản học (*) 7310613 Đông phương học 7310608 Quốc tế học 7310601 Việt Nam học 7310630 9 Sinh học Tâm lý học 7310401 Tâm lý học giáo dục 7310403 b) Thí sinh đoạt giải nhất, nhì, ba trong kỳ thi khoa học, kỹ thuật cấp quốc gia, quốc tế do Bộ GDĐT tổ chức, cử tham gia; thời gian đoạt giải không quá 3 năm tính tới thời điểm xét tuyển thẳng; được xét tuyển thẳng vào các ngành phù hợp với nội dung đề tài dự thi. 7.1.2. Căn cứ kết quả học tập cấp THPT của thí sinh và yêu cầu của ngành đào tạo thí sinh được xem xét, quyết định nhận vào học những trường hợp quy định dưới đây: a) Thí sinh là người khiếm thị, có học lực đạt từ khá trở lên trong ba năm học THPT, trong đó ba môn đăng ký dự thi đạt từ 7.0 trở lên; thị lực dưới 10% (có xác nhận của cơ quan có thẩm quyền). Các trường hợp khác, vận dụng điểm a khoản 4 Điều 8 của Quy chế tuyển sinh; b) Thí sinh là người dân tộc thiểu số rất ít người theo quy định hiện hành của Chính phủ và thí sinh 20 huyện nghèo biên giới, hải đảo thuộc khu vực Tây Nam Bộ; c) Thí sinh có nơi thường trú từ 3 năm trở lên, học 3 năm và tốt nghiệp THPT tại các huyện nghèo (học sinh học phổ thông dân tộc nội trú tính theo nơi thường trú) theo quy định của Chính phủ, Thủ tướng Chính phủ. Những thí sinh này phải học bổ sung kiến thức 01 (một) năm học trước khi vào học chính thức; d) Thí sinh là người nước ngoài, tốt nghiệp chương trình THPT ở nước ngoài (đã được nước sở tại cho phép thực hiện), có kết quả kiểm tra kiến thức và năng lực Tiếng Việt đáp ứng quy định hiện hành của Bộ trưởng Bộ GDĐT, đáp ứng chuẩn năng lực ngoại ngữ theo từng ngành, cụ thể: trình độ A2 đối với ngành Việt Nam học (sinh viên tiếp tục học tiếng Việt để đạt được trình độ theo quy định) và trình độ B1 đối với các ngành học khác.",
+      "programs": [
+        {
+          "program_code": "7310630",
+          "program_name": "Ngữ Văn",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7229030",
+          "program_name": "Ngữ Văn",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7210213",
+          "program_name": "Ngữ Văn",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7229040",
+          "program_name": "Ngữ Văn",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7320101",
+          "program_name": "Ngữ Văn",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7229020",
+          "program_name": "Ngữ Văn",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7320201",
+          "program_name": "Ngữ Văn",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7229010",
+          "program_name": "Lịch sử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7310302",
+          "program_name": "Lịch sử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7320303",
+          "program_name": "Lịch sử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7310608",
+          "program_name": "Lịch sử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7310501",
+          "program_name": "Lịch sử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7310630",
+          "program_name": "Lịch sử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7310601",
+          "program_name": "Lịch sử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7229040",
+          "program_name": "Lịch sử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7310501",
+          "program_name": "Địa lý",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7310608",
+          "program_name": "Địa lý",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7229010",
+          "program_name": "Địa lý",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7310630",
+          "program_name": "Địa lý",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7310601",
+          "program_name": "Địa lý",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7229040",
+          "program_name": "Địa lý",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Tiếng Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7220202",
+          "program_name": "Tiếng Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7220203",
+          "program_name": "Tiếng Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7220204",
+          "program_name": "Tiếng Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7220205",
+          "program_name": "Tiếng Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7220206",
+          "program_name": "Tiếng Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7220208",
+          "program_name": "Tiếng Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7310206",
+          "program_name": "Tiếng Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7310601",
+          "program_name": "Tiếng Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7310608",
+          "program_name": "Tiếng Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7229020",
+          "program_name": "Tiếng Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7320104",
+          "program_name": "Tiếng Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7220202",
+          "program_name": "Tiếng Nga",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7310608",
+          "program_name": "Tiếng Nga",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7310601",
+          "program_name": "Tiếng Nga",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7229020",
+          "program_name": "Tiếng Nga",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7220204",
+          "program_name": "Tiếng Trung Quốc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6 11"
+        },
+        {
+          "program_code": "7310608",
+          "program_name": "Tiếng Trung Quốc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6 11"
+        },
+        {
+          "program_code": "7310601",
+          "program_name": "Tiếng Trung Quốc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6 11"
+        },
+        {
+          "program_code": "7229020",
+          "program_name": "Tiếng Trung Quốc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6 11"
+        },
+        {
+          "program_code": "7220203",
+          "program_name": "Tiếng Pháp",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7310601",
+          "program_name": "Tiếng Pháp",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7310608",
+          "program_name": "Tiếng Pháp",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7229020",
+          "program_name": "Tiếng Pháp",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7220206",
+          "program_name": "Tiếng Pháp",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7220208",
+          "program_name": "Tiếng Pháp",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7310613",
+          "program_name": "Tiếng Nhật",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7310608",
+          "program_name": "Tiếng Nhật",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7310601",
+          "program_name": "Tiếng Nhật",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7310630",
+          "program_name": "Tiếng Nhật",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7310401",
+          "program_name": "Sinh học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7310403",
+          "program_name": "Sinh học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-xet-tuyen-ket-hop",
+      "method_name": "2 ĐIỂM XÉT TUYỂN KẾT HỢP",
+      "description": "2.1 ĐIỀU KIỆN XÉT TUYỂN Các điều kiện phụ sử dụng trong xét tuyển - Nếu muốn đăng ký xét tuyển vào trường các ngành có tổ hợp xét tuyển môn ngoại ngữ, thí sinh phải đăng ký thi môn ngoại ngữ. Trường không sử dụng kết quả miễn thi bài thi môn ngoại ngữ. - Điều kiện đối với chương trình liên kết đào tạo với nước ngoài, chương trình 2+2 do CSĐT nước ngoài cấp bằng: STT Tên ngành Điều kiện ngoại ngữ Đầu vào Chuyển tiếp 1 Báo chí (Truyền thông, chuyên ngành Báo chí) Chứng chỉ tiếng Anh đạt bậc 4 theo",
+      "eligibility": "đối tượng Thí sinh được hưởng chính sách ưu tiên khu vực theo quy định trong năm tốt nghiệp THPT (hoặc trung cấp) và một năm kế tiếp. Điểm ưu tiên đối với thí sinh có tổng điểm đạt được từ 75 điểm được xác định theo công thức sau: [(100 – Tổng điểm đạt được đã bao gồm điểm cộng)/25] × Mức điểm ưu tiên khu vực, đối tượng (đã quy đổi về thang điểm 100).",
+      "rules": "QUY CHẾ Phương thức 2: xét tuyển tổng hợp, sử dụng các tiêu chí: kết quả kỳ thi tốt nghiệp THPT năm 2026 (THPT); kết quả kỳ thi đánh giá năng lực ĐHQG-HCM năm 2026 (ĐGNL); kết quả học tập 03 năm THPT (HB); thành tích trong học tập, hoạt động xã hội, văn hóa, thể dục, thể thao, văn nghệ; chứng chỉ ngoại ngữ quốc tế. Công thức tổng quát: ĐXT = w1THPT + w2ĐGNL + w3HB + [điểm cộng] + [điểm ưu tiên] w là trọng số của các thành phần điểm thi, cụ thể: + w1 là trọng số của điểm thi tốt nghiệp THPT năm 2026: tổng điểm 3 môn thi TN THPT cao nhất một trong các tổ hợp xét tuyển của ngành tương ứng. + w2 là trọng số của điểm thi ĐGNL của ĐHQG-HCM năm 2026: điểm ĐGNL cao nhất trong 2 lần thi. + w3 là trọng số của điểm HB: tổng điểm trung bình cộng kết quả học tập của 3 năm học THPT (lớp 10, 11 và 12) cao nhất thuộc một trong các tổ hợp xét tuyển của ngành tương ứng (bao gồm cả thí sinh tốt nghiệp năm 2025 trở về trước). Trong đó: w1 = 45%, w2 = 45% và w3 = 10% Tổng điểm (w1THPT + w2ĐGNL + w3HB) được gọi là Điểm học lực (ĐHL), được tính theo nguyên tắc ở mục 2.2.2. Nguyên tắc tính điểm học lực - Đối với thí sinh (1) có đủ 3 thành phần điểm, áp dụng công thức ĐXT với trọng số ở trên. - Đối với thí sinh (2) chỉ có điểm THPT + HB và (3) chỉ có điểm ĐGNL + HB (bao gồm cả thí sinh TN trước năm 2026). ĐHL được tính theo công thức sau: ĐHL = Max (ĐHL 1, ĐHL 2) Trong đó: (1). ĐHL 1: tính điểm thí sinh có điểm THPT theo trọng số w1 =90%, w3 = 10% ĐHL 1 = w1THPT + w3HB (2). ĐHL 2: tính điểm thí sinh có điểm ĐGNL theo trọng số w2 =90%, w3 = 10% ĐHL 2 = w2ĐGNL + w3HB Lưu ý: + Thí sinh đủ 3 thành phần điểm, lấy giá trị điểm cao nhất của ĐXT. + Nếu thí sinh chỉ có điểm THPT, áp dụng công thức tính ĐHL 1. + Nếu thí sinh chỉ có điểm ĐGNL, áp dụng công thức tính ĐHL 2. Quy tắc quy đổi tương đương ngưỡng đầu vào và điểm trúng tuyển giữa các tổ hợp, phương thức tuyển sinh a) Nguyên tắc quy đổi điểm ngưỡng đầu vào Quy đổi ngưỡng đầu vào giữa các phương thức xét tuyển, tổ hợp xét tuyển theo một quy tắc bảo đảm tương đương về mức độ đáp ứng yêu cầu đầu vào của chương trình, ngành đào tạo tương ứng; Quy tắc quy đổi ngưỡng đầu vào theo hướng dẫn của Bộ GDĐT, ĐHQG-HCM. Nguyên tắc quy đổi điểm trúng tuyển - Điểm quy đổi về thang điểm 100 của từng thành phần điểm áp dụng theo công thức: + THPT= [Điểm thi TN THPT theo tổ hợp xét tuyển] x 100/30 + ĐGNL = [Điểm thi ĐGNL] x 100/1200 + HB = [Điểm trung bình HB 3 năm theo tổ hợp xét tuyển] x 100/30 - Tổng điểm cộng, điểm thưởng (ĐC) không vượt quá 10% điểm tối đa của điểm xét tuyển theo quy chế tuyển sinh của Bộ GD&ĐT, theo công thức: + Nếu ĐHL + ĐC < 100, ĐC = [điểm thành tích] + Nếu ĐHL + ĐC ≥ 100, ĐC = 100 – [điểm thành tích] - Điểm xét tuyển (điểm chuẩn) được quy đổi về thang điểm 100 (tối đa 100 điểm). Trọng số w giữa các thành phần điểm được căn cứ kết quả hồi quy của dữ liệu kết quả nhập học và điểm trung bình tích lũy (GPA) của các năm trước. Hội đồng tuyển sinh sẽ công bố chính thức các tỷ trọng w khi công bố ngưỡng đảm bảo chất lượng. Điểm xét tuyển được tính theo nguyên tắc: ĐXT = Max (ĐHL 1, ĐHL 2) + [điểm cộng] + [điểm ưu tiên] Điểm cộng Trường sử dụng điểm cộng thành tích trong học tập, hoạt động xã hội, văn hóa, thể dục, thể thao, văn nghệ; chứng chỉ ngoại ngữ quốc tế, theo nguyên tắc: Tổng điểm của các thành tích không vượt quá 10% mức điểm tối đa của thang điểm xét; Trong từng nhóm thành tích chỉ cộng 1 mức điểm cao nhất, cụ thể: + Nhóm 1. Thí sinh trong ds 149 trường THPT theo quy định của ĐHQG-HCM năm 2025 (chỉ áp dụng cho thí sinh tốt nghiệp năm 2026), cộng tối đa 3 điểm. + Nhóm 2. Thí sinh có thành tích đạt được trong quá trình học tập (học sinh giỏi quốc gia, cấp tỉnh/thành phố, cộng tối đa 4 điểm. + Nhóm 3. Thí sinh có chứng chỉ ngoại ngữ quốc tế, có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao, cộng tối đa 3 điểm. Điểm ưu tiên khu vực,",
+      "programs": [
+        {
+          "program_code": "STT",
+          "program_name": "Tên ngành",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "Đầu vào"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7310613",
+          "program_name": "Nhật Bản học",
+          "subject_groups": [
+            "D01",
+            "D06",
+            "D14",
+            "D63"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140101",
+          "program_name": "Giáo dục học",
+          "subject_groups": [
+            "B00",
+            "C00",
+            "C01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7140107",
+          "program_name": "Quản trị chất lượng giáo dục",
+          "subject_groups": [
+            "C03",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7140114",
+          "program_name": "Quản lý giáo dục",
+          "subject_groups": [
+            "A01",
+            "C00",
+            "D01",
+            "D14"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7210213",
+          "program_name": "Nghệ thuật học",
+          "subject_groups": [
+            "C00",
+            "D01",
+            "D14"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7220104",
+          "program_name": "Hán Nôm (dự kiến mở)",
+          "subject_groups": [
+            "D01",
+            "D14"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7220202",
+          "program_name": "Ngôn ngữ Nga",
+          "subject_groups": [
+            "D01",
+            "D02",
+            "D14"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7220203",
+          "program_name": "Ngôn ngữ Pháp",
+          "subject_groups": [
+            "D01",
+            "D03",
+            "D14"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7220204",
+          "program_name": "Ngôn ngữ Trung Quốc",
+          "subject_groups": [
+            "D01",
+            "D04",
+            "D14"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7220206",
+          "program_name": "Ngôn ngữ Tây Ban Nha",
+          "subject_groups": [
+            "D01",
+            "D03",
+            "D05",
+            "D14"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7220208",
+          "program_name": "Ngôn ngữ Italia",
+          "subject_groups": [
+            "D01",
+            "D03",
+            "D05",
+            "D14"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7229001",
+          "program_name": "Triết học",
+          "subject_groups": [
+            "A01",
+            "C00",
+            "D01",
+            "D14"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7229009",
+          "program_name": "Tôn giáo học",
+          "subject_groups": [
+            "C00",
+            "D01",
+            "D14"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7229010",
+          "program_name": "Lịch sử",
+          "subject_groups": [
+            "C00",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7229020",
+          "program_name": "Ngôn ngữ học",
+          "subject_groups": [
+            "C00",
+            "D01",
+            "D14"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7229030",
+          "program_name": "Văn học",
+          "subject_groups": [
+            "C00",
+            "D01",
+            "D14"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7229040",
+          "program_name": "Văn hoá học",
+          "subject_groups": [
+            "C00",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7310206",
+          "program_name": "Quan hệ quốc tế",
+          "subject_groups": [
+            "D01",
+            "D14"
+          ],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "19"
+        },
+        {
+          "program_code": "7310301",
+          "program_name": "Xã hội học",
+          "subject_groups": [
+            "A00",
+            "C00",
+            "D01",
+            "D14"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7310302",
+          "program_name": "Nhân học",
+          "subject_groups": [
+            "C00",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7310401",
+          "program_name": "Tâm lý học",
+          "subject_groups": [
+            "B00",
+            "C00",
+            "D01",
+            "D14"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7310403",
+          "program_name": "Tâm lý học giáo dục",
+          "subject_groups": [
+            "B00",
+            "B08",
+            "D01",
+            "D14"
+          ],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7310501",
+          "program_name": "Địa lý học",
+          "subject_groups": [
+            "A01",
+            "C00",
+            "D01",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "24"
+        },
+        {
+          "program_code": "7310601",
+          "program_name": "Quốc tế học",
+          "subject_groups": [
+            "D01",
+            "D09",
+            "D14",
+            "D15"
+          ],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "25"
+        },
+        {
+          "program_code": "7310608",
+          "program_name": "Đông phương học",
+          "subject_groups": [
+            "D01",
+            "D04",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "26"
+        },
+        {
+          "program_code": "7310614",
+          "program_name": "Hàn quốc học",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "DD2",
+            "DH5"
+          ],
+          "program_type": "chuẩn",
+          "note": "27"
+        },
+        {
+          "program_code": "7310630",
+          "program_name": "Việt Nam học",
+          "subject_groups": [
+            "C00",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "28"
+        },
+        {
+          "program_code": "7320101",
+          "program_name": "Báo chí",
+          "subject_groups": [
+            "C00",
+            "D01",
+            "D14"
+          ],
+          "program_type": "chuẩn",
+          "note": "30"
+        },
+        {
+          "program_code": "7320104",
+          "program_name": "Truyền thông đa phương tiện",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "31"
+        },
+        {
+          "program_code": "7320108",
+          "program_name": "Quan hệ công chúng (dự kiến mở)",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "32"
+        },
+        {
+          "program_code": "7320201",
+          "program_name": "Thông tin - thư viện",
+          "subject_groups": [
+            "A01",
+            "C00",
+            "D01",
+            "D14"
+          ],
+          "program_type": "chuẩn",
+          "note": "33"
+        },
+        {
+          "program_code": "7320205",
+          "program_name": "Quản lý thông tin",
+          "subject_groups": [
+            "A01",
+            "C00",
+            "D01",
+            "D14"
+          ],
+          "program_type": "chuẩn",
+          "note": "34"
+        },
+        {
+          "program_code": "7320303",
+          "program_name": "Lưu trữ học",
+          "subject_groups": [
+            "C00",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "35"
+        },
+        {
+          "program_code": "7340406",
+          "program_name": "Quản trị văn phòng",
+          "subject_groups": [
+            "C00",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "36"
+        },
+        {
+          "program_code": "7580109",
+          "program_name": "Quản lý đô thị và bất động sản (dự kiến mở)",
+          "subject_groups": [
+            "A01",
+            "D01",
+            "D14"
+          ],
+          "program_type": "chuẩn",
+          "note": "37"
+        },
+        {
+          "program_code": "7580112",
+          "program_name": "Đô thị học",
+          "subject_groups": [
+            "A01",
+            "C00",
+            "D01",
+            "D14"
+          ],
+          "program_type": "chuẩn",
+          "note": "38"
+        },
+        {
+          "program_code": "7760101",
+          "program_name": "Công tác xã hội",
+          "subject_groups": [
+            "C00",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "39"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+          "subject_groups": [
+            "C00",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "40"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn của trường Đại học Khoa học Xã hội và Nhân văn - ĐHQG TPHCM các năm Tại đây.",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-tphcm-QSX.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140101",
+            "program_name": "Giáo dục học",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 23,
+            "note": null
+          },
+          {
+            "program_code": "7140101",
+            "program_name": "Giáo dục học",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 26.3,
+            "note": null
+          },
+          {
+            "program_code": "7140101",
+            "program_name": "Giáo dục học",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 23.95,
+            "note": null
+          },
+          {
+            "program_code": "7140101",
+            "program_name": "Giáo dục học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 22.2,
+            "note": null
+          },
+          {
+            "program_code": "7140107",
+            "program_name": "Quản trị chất lượng giáo dục",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 23.2,
+            "note": null
+          },
+          {
+            "program_code": "7140107",
+            "program_name": "Quản trị chất lượng giáo dục",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 21.4,
+            "note": null
+          },
+          {
+            "program_code": "7140107",
+            "program_name": "Quản trị chất lượng giáo dục",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 22.6,
+            "note": null
+          },
+          {
+            "program_code": "7140107",
+            "program_name": "Quản trị chất lượng giáo dục",
+            "subject_groups": [
+              "D15"
+            ],
+            "score": 22.6,
+            "note": null
+          },
+          {
+            "program_code": "7140114",
+            "program_name": "Quản lý giáo dục",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 24.4,
+            "note": null
+          },
+          {
+            "program_code": "7140114",
+            "program_name": "Quản lý giáo dục",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 26.8,
+            "note": null
+          },
+          {
+            "program_code": "7140114",
+            "program_name": "Quản lý giáo dục",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 22.6,
+            "note": null
+          },
+          {
+            "program_code": "7140114",
+            "program_name": "Quản lý giáo dục",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 23.6,
+            "note": null
+          },
+          {
+            "program_code": "7210201_CLC",
+            "program_name": "Ngôn ngữ Anh (Chuẩn QT)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 23.3,
+            "note": null
+          },
+          {
+            "program_code": "7210213",
+            "program_name": "Nghệ thuật học",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 27.6,
+            "note": null
+          },
+          {
+            "program_code": "7210213",
+            "program_name": "Nghệ thuật học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 23.9,
+            "note": null
+          },
+          {
+            "program_code": "7210213",
+            "program_name": "Nghệ thuật học",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 24.5,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 23.65,
+            "note": null
+          },
+          {
+            "program_code": "7220201_LKH",
+            "program_name": "Ngôn ngữ Anh (Liên kết ĐH Minnesota Crookston, Hoa Kỳ)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 21.5,
+            "note": null
+          },
+          {
+            "program_code": "7220201_LKH",
+            "program_name": "Ngôn ngữ Anh (Liên kết ĐH Minnesota Crookston, Hoa Kỳ)",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 22.1,
+            "note": null
+          },
+          {
+            "program_code": "7220201_LKH",
+            "program_name": "Ngôn ngữ Anh (Liên kết ĐH Minnesota Crookston, Hoa Kỳ)",
+            "subject_groups": [
+              "D15"
+            ],
+            "score": 22.1,
+            "note": null
+          },
+          {
+            "program_code": "7220202",
+            "program_name": "Ngôn ngữ Nga",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7220202",
+            "program_name": "Ngôn ngữ Nga",
+            "subject_groups": [
+              "D02"
+            ],
+            "score": 20.5,
+            "note": null
+          },
+          {
+            "program_code": "7220202",
+            "program_name": "Ngôn ngữ Nga",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7220203",
+            "program_name": "Ngôn ngữ Pháp",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7220203",
+            "program_name": "Ngôn ngữ Pháp",
+            "subject_groups": [
+              "D03"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "7220203",
+            "program_name": "Ngôn ngữ Pháp",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 23.29,
+            "note": null
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "D04"
+            ],
+            "score": 25.3,
+            "note": null
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 23.3,
+            "note": null
+          },
+          {
+            "program_code": "7220204_CLC",
+            "program_name": "Ngôn ngữ Trung Quốc (QT)",
+            "subject_groups": [
+              "D04"
+            ],
+            "score": 22.3,
+            "note": null
+          },
+          {
+            "program_code": "7220204_CLC",
+            "program_name": "Ngôn ngữ Trung Quốc (QT)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "7220204_CLC",
+            "program_name": "Ngôn ngữ Trung Quốc (QT)",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "7220204_LKH",
+            "program_name": "Ngôn ngữ Trung Quốc (Liên kết ĐH Sư phạm Quảng Tây, Trung Quốc)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 22.2,
+            "note": null
+          },
+          {
+            "program_code": "7220204_LKH",
+            "program_name": "Ngôn ngữ Trung Quốc (Liên kết ĐH Sư phạm Quảng Tây, Trung Quốc)",
+            "subject_groups": [
+              "D04"
+            ],
+            "score": 22.1,
+            "note": null
+          },
+          {
+            "program_code": "7220204_LKH",
+            "program_name": "Ngôn ngữ Trung Quốc (Liên kết ĐH Sư phạm Quảng Tây, Trung Quốc)",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 22.7,
+            "note": null
+          },
+          {
+            "program_code": "7220204_LKH",
+            "program_name": "Ngôn ngữ Trung Quốc (Liên kết ĐH Sư phạm Quảng Tây, Trung Quốc)",
+            "subject_groups": [
+              "D15"
+            ],
+            "score": 22.7,
+            "note": null
+          },
+          {
+            "program_code": "7220205",
+            "program_name": "Ngôn ngữ Đức",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 22.6,
+            "note": null
+          },
+          {
+            "program_code": "7220205",
+            "program_name": "Ngôn ngữ Đức",
+            "subject_groups": [
+              "D05"
+            ],
+            "score": 23,
+            "note": null
+          },
+          {
+            "program_code": "7220205",
+            "program_name": "Ngôn ngữ Đức",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 25.5,
+            "note": null
+          },
+          {
+            "program_code": "7220205_CLC",
+            "program_name": "Ngôn ngữ Đức (Chuẩn QT)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 21.3,
+            "note": null
+          },
+          {
+            "program_code": "7220205_CLC",
+            "program_name": "Ngôn ngữ Đức (Chuẩn QT)",
+            "subject_groups": [
+              "D05"
+            ],
+            "score": 22.3,
+            "note": null
+          },
+          {
+            "program_code": "7220205_CLC",
+            "program_name": "Ngôn ngữ Đức (Chuẩn QT)",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 21.2,
+            "note": null
+          },
+          {
+            "program_code": "7220206",
+            "program_name": "Ngôn ngữ Tây Ban Nha",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 21.6,
+            "note": null
+          },
+          {
+            "program_code": "7220206",
+            "program_name": "Ngôn ngữ Tây Ban Nha",
+            "subject_groups": [
+              "D03"
+            ],
+            "score": 21.7,
+            "note": null
+          },
+          {
+            "program_code": "7220206",
+            "program_name": "Ngôn ngữ Tây Ban Nha",
+            "subject_groups": [
+              "D05"
+            ],
+            "score": 21.6,
+            "note": null
+          },
+          {
+            "program_code": "7220206",
+            "program_name": "Ngôn ngữ Tây Ban Nha",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 21.1,
+            "note": null
+          },
+          {
+            "program_code": "7220208",
+            "program_name": "Ngôn ngữ Italia",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 20.1,
+            "note": null
+          },
+          {
+            "program_code": "7220208",
+            "program_name": "Ngôn ngữ Italia",
+            "subject_groups": [
+              "D03"
+            ],
+            "score": 20.3,
+            "note": null
+          },
+          {
+            "program_code": "7220208",
+            "program_name": "Ngôn ngữ Italia",
+            "subject_groups": [
+              "D05"
+            ],
+            "score": 20.3,
+            "note": null
+          },
+          {
+            "program_code": "7220208",
+            "program_name": "Ngôn ngữ Italia",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 20.3,
+            "note": null
+          },
+          {
+            "program_code": "7229001",
+            "program_name": "Triết học",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 22.9,
+            "note": null
+          },
+          {
+            "program_code": "7229001",
+            "program_name": "Triết học",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 26.9,
+            "note": null
+          },
+          {
+            "program_code": "7229001",
+            "program_name": "Triết học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 21.9,
+            "note": null
+          },
+          {
+            "program_code": "7229001",
+            "program_name": "Triết học",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 22.9,
+            "note": null
+          },
+          {
+            "program_code": "7229009",
+            "program_name": "Tôn giáo học",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 25.9,
+            "note": null
+          },
+          {
+            "program_code": "7229009",
+            "program_name": "Tôn giáo học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 20.9,
+            "note": null
+          },
+          {
+            "program_code": "7229009",
+            "program_name": "Tôn giáo học",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 21.85,
+            "note": null
+          },
+          {
+            "program_code": "7229010",
+            "program_name": "Lịch sử",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 27.2,
+            "note": null
+          },
+          {
+            "program_code": "7229010",
+            "program_name": "Lịch sử",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 22.2,
+            "note": null
+          },
+          {
+            "program_code": "7229010",
+            "program_name": "Lịch sử",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 24.6,
+            "note": null
+          },
+          {
+            "program_code": "7229010",
+            "program_name": "Lịch sử",
+            "subject_groups": [
+              "D15"
+            ],
+            "score": 23.9,
+            "note": null
+          },
+          {
+            "program_code": "7229020",
+            "program_name": "Ngôn ngữ học",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 26.6,
+            "note": null
+          },
+          {
+            "program_code": "7229020",
+            "program_name": "Ngôn ngữ học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 22.2,
+            "note": null
+          },
+          {
+            "program_code": "7229020",
+            "program_name": "Ngôn ngữ học",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 24,
+            "note": null
+          },
+          {
+            "program_code": "7229030",
+            "program_name": "Văn học",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 26.92,
+            "note": null
+          },
+          {
+            "program_code": "7229030",
+            "program_name": "Văn học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 23.15,
+            "note": null
+          },
+          {
+            "program_code": "7229030",
+            "program_name": "Văn học",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 24.6,
+            "note": null
+          },
+          {
+            "program_code": "7229040",
+            "program_name": "Văn hóa học",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 27.35,
+            "note": null
+          },
+          {
+            "program_code": "7229040",
+            "program_name": "Văn hóa học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 23.1,
+            "note": null
+          },
+          {
+            "program_code": "7229040",
+            "program_name": "Văn hóa học",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 24.15,
+            "note": null
+          },
+          {
+            "program_code": "7229040",
+            "program_name": "Văn hóa học",
+            "subject_groups": [
+              "D15"
+            ],
+            "score": 24.3,
+            "note": null
+          },
+          {
+            "program_code": "7310206",
+            "program_name": "Quan hệ quốc tế",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 23.5,
+            "note": null
+          },
+          {
+            "program_code": "7310206",
+            "program_name": "Quan hệ quốc tế",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 24.2,
+            "note": null
+          },
+          {
+            "program_code": "7310206_CLC",
+            "program_name": "Quan hệ quốc tế (Chuẩn QT)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 23.45,
+            "note": null
+          },
+          {
+            "program_code": "7310206_CLC",
+            "program_name": "Quan hệ quốc tế (Chuẩn QT)",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 24.1,
+            "note": null
+          },
+          {
+            "program_code": "7310301",
+            "program_name": "Xã hội học",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 23.9,
+            "note": null
+          },
+          {
+            "program_code": "7310301",
+            "program_name": "Xã hội học",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 26.9,
+            "note": null
+          },
+          {
+            "program_code": "7310301",
+            "program_name": "Xã hội học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 23.1,
+            "note": null
+          },
+          {
+            "program_code": "7310301",
+            "program_name": "Xã hội học",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 23.4,
+            "note": null
+          },
+          {
+            "program_code": "7310302",
+            "program_name": "Nhân học",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 26.2,
+            "note": null
+          },
+          {
+            "program_code": "7310302",
+            "program_name": "Nhân học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 22.4,
+            "note": null
+          },
+          {
+            "program_code": "7310302",
+            "program_name": "Nhân học",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 22.7,
+            "note": null
+          },
+          {
+            "program_code": "7310302",
+            "program_name": "Nhân học",
+            "subject_groups": [
+              "D15"
+            ],
+            "score": 23.1,
+            "note": null
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 25.3,
+            "note": null
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 27.75,
+            "note": null
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 24.4,
+            "note": null
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 24.95,
+            "note": null
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 23.6,
+            "note": null
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [
+              "B08"
+            ],
+            "score": 22.3,
+            "note": null
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 22.8,
+            "note": null
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 23.5,
+            "note": null
+          },
+          {
+            "program_code": "7310501",
+            "program_name": "Địa lý học",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 22.3,
+            "note": null
+          },
+          {
+            "program_code": "7310501",
+            "program_name": "Địa lý học",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 27.13,
+            "note": null
+          },
+          {
+            "program_code": "7310501",
+            "program_name": "Địa lý học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "7310501",
+            "program_name": "Địa lý học",
+            "subject_groups": [
+              "D15"
+            ],
+            "score": 25,
+            "note": null
+          },
+          {
+            "program_code": "7310601",
+            "program_name": "Quốc tế học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 23.3,
+            "note": null
+          },
+          {
+            "program_code": "7310601",
+            "program_name": "Quốc tế học",
+            "subject_groups": [
+              "D09"
+            ],
+            "score": 24,
+            "note": null
+          },
+          {
+            "program_code": "7310601",
+            "program_name": "Quốc tế học",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 24,
+            "note": null
+          },
+          {
+            "program_code": "7310601",
+            "program_name": "Quốc tế học",
+            "subject_groups": [
+              "D15"
+            ],
+            "score": 24,
+            "note": null
+          },
+          {
+            "program_code": "7310608",
+            "program_name": "Đông phương học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 21.9,
+            "note": null
+          },
+          {
+            "program_code": "7310608",
+            "program_name": "Đông phương học",
+            "subject_groups": [
+              "D04"
+            ],
+            "score": 22.7,
+            "note": null
+          },
+          {
+            "program_code": "7310608",
+            "program_name": "Đông phương học",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 22.3,
+            "note": null
+          },
+          {
+            "program_code": "7310608",
+            "program_name": "Đông phương học",
+            "subject_groups": [
+              "D15"
+            ],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "7310613",
+            "program_name": "Nhật Bản học",
+            "subject_groups": [
+              "D06"
+            ],
+            "score": 21.9,
+            "note": null
+          },
+          {
+            "program_code": "7310613",
+            "program_name": "Nhật Bản học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 22.2,
+            "note": null
+          },
+          {
+            "program_code": "7310613",
+            "program_name": "Nhật Bản học",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 22.4,
+            "note": null
+          },
+          {
+            "program_code": "7310613",
+            "program_name": "Nhật Bản học",
+            "subject_groups": [
+              "D63"
+            ],
+            "score": 22.9,
+            "note": null
+          },
+          {
+            "program_code": "7310613_CLC",
+            "program_name": "Nhật Bản học (Chuẩn Quốc tế)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 20.5,
+            "note": null
+          },
+          {
+            "program_code": "7310613_CLC",
+            "program_name": "Nhật Bản học (Chuẩn Quốc tế)",
+            "subject_groups": [
+              "D06"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7310613_CLC",
+            "program_name": "Nhật Bản học (Chuẩn Quốc tế)",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 20.5,
+            "note": null
+          },
+          {
+            "program_code": "7310613_CLC",
+            "program_name": "Nhật Bản học (Chuẩn Quốc tế)",
+            "subject_groups": [
+              "D63"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7310614",
+            "program_name": "Hàn Quốc học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 22.25,
+            "note": null
+          },
+          {
+            "program_code": "7310614",
+            "program_name": "Hàn Quốc học",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 22.25,
+            "note": null
+          },
+          {
+            "program_code": "7310614",
+            "program_name": "Hàn Quốc học",
+            "subject_groups": [
+              "DD2"
+            ],
+            "score": 21.9,
+            "note": null
+          },
+          {
+            "program_code": "7310614",
+            "program_name": "Hàn Quốc học",
+            "subject_groups": [
+              "DH5"
+            ],
+            "score": 21.9,
+            "note": null
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 27.2,
+            "note": null
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 23.4,
+            "note": null
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học",
+            "subject_groups": [
+              "D15"
+            ],
+            "score": 23.5,
+            "note": null
+          },
+          {
+            "program_code": "7310630_LKH",
+            "program_name": "Quan hệ quốc tế (Liên kết ĐH Deakin, Úc)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "7310630_LKH",
+            "program_name": "Quan hệ quốc tế (Liên kết ĐH Deakin, Úc)",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "73106a1",
+            "program_name": "Kinh doanh thương mại Hàn Quốc",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 22.2,
+            "note": null
+          },
+          {
+            "program_code": "73106a1",
+            "program_name": "Kinh doanh thương mại Hàn Quốc",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 23,
+            "note": null
+          },
+          {
+            "program_code": "73106a1",
+            "program_name": "Kinh doanh thương mại Hàn Quốc",
+            "subject_groups": [
+              "DD2"
+            ],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "73106a1",
+            "program_name": "Kinh doanh thương mại Hàn Quốc",
+            "subject_groups": [
+              "DH5"
+            ],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "7320101",
+            "program_name": "Báo chí",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 24.3,
+            "note": null
+          },
+          {
+            "program_code": "7320101",
+            "program_name": "Báo chí",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 24.55,
+            "note": null
+          },
+          {
+            "program_code": "7320101",
+            "program_name": "Báo chí",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 28.55,
+            "note": null
+          },
+          {
+            "program_code": "7320101_CLC",
+            "program_name": "Báo chí (Chuẩn Quốc tế)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 22.9,
+            "note": null
+          },
+          {
+            "program_code": "7320101_CLC",
+            "program_name": "Báo chí (Chuẩn Quốc tế)",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 27,
+            "note": null
+          },
+          {
+            "program_code": "7320101_CLC",
+            "program_name": "Báo chí (Chuẩn Quốc tế)",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 24.5,
+            "note": null
+          },
+          {
+            "program_code": "7320101_LKH",
+            "program_name": "Truyền thông (chuyên ngành Báo chí) (Liên kết ĐH Deakin, Úc)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "7320101_LKH",
+            "program_name": "Truyền thông (chuyên ngành Báo chí) (Liên kết ĐH Deakin, Úc)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "7320101_LKH",
+            "program_name": "Truyền thông (chuyên ngành Báo chí) (Liên kết ĐH Deakin, Úc)",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 23.1,
+            "note": null
+          },
+          {
+            "program_code": "7320101_LKH",
+            "program_name": "Truyền thông (chuyên ngành Báo chí) (Liên kết ĐH Deakin, Úc)",
+            "subject_groups": [
+              "D15"
+            ],
+            "score": 23.1,
+            "note": null
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 25.3,
+            "note": null
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 26.1,
+            "note": null
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [
+              "D15"
+            ],
+            "score": 26.1,
+            "note": null
+          },
+          {
+            "program_code": "7320201",
+            "program_name": "Thông tin - Thư viện",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "7320201",
+            "program_name": "Thông tin - Thư viện",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 25.9,
+            "note": null
+          },
+          {
+            "program_code": "7320201",
+            "program_name": "Thông tin - Thư viện",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 21.6,
+            "note": null
+          },
+          {
+            "program_code": "7320201",
+            "program_name": "Thông tin - Thư viện",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 22.25,
+            "note": null
+          },
+          {
+            "program_code": "7320205",
+            "program_name": "Quản lý thông tin",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 23.8,
+            "note": null
+          },
+          {
+            "program_code": "7320205",
+            "program_name": "Quản lý thông tin",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 26.7,
+            "note": null
+          },
+          {
+            "program_code": "7320205",
+            "program_name": "Quản lý thông tin",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 22.4,
+            "note": null
+          },
+          {
+            "program_code": "7320205",
+            "program_name": "Quản lý thông tin",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 22.6,
+            "note": null
+          },
+          {
+            "program_code": "7320303",
+            "program_name": "Lưu trữ học",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 26.3,
+            "note": null
+          },
+          {
+            "program_code": "7320303",
+            "program_name": "Lưu trữ học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "7320303",
+            "program_name": "Lưu trữ học",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 22.6,
+            "note": null
+          },
+          {
+            "program_code": "7320303",
+            "program_name": "Lưu trữ học",
+            "subject_groups": [
+              "D15"
+            ],
+            "score": 23.1,
+            "note": null
+          },
+          {
+            "program_code": "7340406",
+            "program_name": "Quản trị văn phòng",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 27.2,
+            "note": null
+          },
+          {
+            "program_code": "7340406",
+            "program_name": "Quản trị văn phòng",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 22.8,
+            "note": null
+          },
+          {
+            "program_code": "7340406",
+            "program_name": "Quản trị văn phòng",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 23.8,
+            "note": null
+          },
+          {
+            "program_code": "7340406",
+            "program_name": "Quản trị văn phòng",
+            "subject_groups": [
+              "D15"
+            ],
+            "score": 23.8,
+            "note": null
+          },
+          {
+            "program_code": "7580112",
+            "program_name": "Đô thị học",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 21.9,
+            "note": null
+          },
+          {
+            "program_code": "7580112",
+            "program_name": "Đô thị học",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 25.55,
+            "note": null
+          },
+          {
+            "program_code": "7580112",
+            "program_name": "Đô thị học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7580112",
+            "program_name": "Đô thị học",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 21.1,
+            "note": null
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 26.4,
+            "note": null
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 22.4,
+            "note": null
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 23.6,
+            "note": null
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "D15"
+            ],
+            "score": 23.6,
+            "note": null
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 27.65,
+            "note": null
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 23.4,
+            "note": null
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 24.1,
+            "note": null
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [
+              "D15"
+            ],
+            "score": 24.35,
+            "note": null
+          },
+          {
+            "program_code": "7810103_CLC",
+            "program_name": "Quản trị DV du lịch và lữ hành (QT)",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 26.4,
+            "note": null
+          },
+          {
+            "program_code": "7810103_CLC",
+            "program_name": "Quản trị DV du lịch và lữ hành (QT)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 22.4,
+            "note": null
+          },
+          {
+            "program_code": "7810103_CLC",
+            "program_name": "Quản trị DV du lịch và lữ hành (QT)",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 23.3,
+            "note": null
+          },
+          {
+            "program_code": "7810103_CLC",
+            "program_name": "Quản trị DV du lịch và lữ hành (QT)",
+            "subject_groups": [
+              "D15"
+            ],
+            "score": 24.4,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140101",
+            "program_name": "Giáo dục học",
+            "subject_groups": [],
+            "score": 767,
+            "note": null
+          },
+          {
+            "program_code": "7140107",
+            "program_name": "Quản trị chất lượng giáo dục",
+            "subject_groups": [],
+            "score": 742,
+            "note": null
+          },
+          {
+            "program_code": "7140114",
+            "program_name": "Quản lý giáo dục",
+            "subject_groups": [],
+            "score": 785,
+            "note": null
+          },
+          {
+            "program_code": "7210201_CLC",
+            "program_name": "Ngôn ngữ Anh (Chuẩn QT)",
+            "subject_groups": [],
+            "score": 851,
+            "note": null
+          },
+          {
+            "program_code": "7210213",
+            "program_name": "Nghệ thuật học",
+            "subject_groups": [],
+            "score": 873,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [],
+            "score": 901,
+            "note": null
+          },
+          {
+            "program_code": "7220201_LKH",
+            "program_name": "Ngôn ngữ Anh (Liên kết ĐH Minnesota Crookston, Hoa Kỳ)",
+            "subject_groups": [],
+            "score": 780,
+            "note": null
+          },
+          {
+            "program_code": "7220202",
+            "program_name": "Ngôn ngữ Nga",
+            "subject_groups": [],
+            "score": 700,
+            "note": null
+          },
+          {
+            "program_code": "7220203",
+            "program_name": "Ngôn ngữ Pháp",
+            "subject_groups": [],
+            "score": 720,
+            "note": null
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [],
+            "score": 878,
+            "note": null
+          },
+          {
+            "program_code": "7220204_CLC",
+            "program_name": "Ngôn ngữ Trung Quốc (QT)",
+            "subject_groups": [],
+            "score": 832,
+            "note": null
+          },
+          {
+            "program_code": "7220204_LKH",
+            "program_name": "Ngôn ngữ Trung Quốc (Liên kết ĐH Sư phạm Quảng Tây, Trung Quốc)",
+            "subject_groups": [],
+            "score": 735,
+            "note": null
+          },
+          {
+            "program_code": "7220205",
+            "program_name": "Ngôn ngữ Đức",
+            "subject_groups": [],
+            "score": 817,
+            "note": null
+          },
+          {
+            "program_code": "7220205_CLC",
+            "program_name": "Ngôn ngữ Đức (Chuẩn QT)",
+            "subject_groups": [],
+            "score": 710,
+            "note": null
+          },
+          {
+            "program_code": "7220206",
+            "program_name": "Ngôn ngữ Tây Ban Nha",
+            "subject_groups": [],
+            "score": 730,
+            "note": null
+          },
+          {
+            "program_code": "7220208",
+            "program_name": "Ngôn ngữ Italia",
+            "subject_groups": [],
+            "score": 650,
+            "note": null
+          },
+          {
+            "program_code": "7229001",
+            "program_name": "Triết học",
+            "subject_groups": [],
+            "score": 740,
+            "note": null
+          },
+          {
+            "program_code": "7229009",
+            "program_name": "Tôn giáo học",
+            "subject_groups": [],
+            "score": 700,
+            "note": null
+          },
+          {
+            "program_code": "7229010",
+            "program_name": "Lịch sử",
+            "subject_groups": [],
+            "score": 755,
+            "note": null
+          },
+          {
+            "program_code": "7229020",
+            "program_name": "Ngôn ngữ học",
+            "subject_groups": [],
+            "score": 772,
+            "note": null
+          },
+          {
+            "program_code": "7229030",
+            "program_name": "Văn học",
+            "subject_groups": [],
+            "score": 830,
+            "note": null
+          },
+          {
+            "program_code": "7229040",
+            "program_name": "Văn hóa học",
+            "subject_groups": [],
+            "score": 858,
+            "note": null
+          },
+          {
+            "program_code": "7310206",
+            "program_name": "Quan hệ quốc tế",
+            "subject_groups": [],
+            "score": 887,
+            "note": null
+          },
+          {
+            "program_code": "7310206_CLC",
+            "program_name": "Quan hệ quốc tế (Chuẩn QT)",
+            "subject_groups": [],
+            "score": 850,
+            "note": null
+          },
+          {
+            "program_code": "7310301",
+            "program_name": "Xã hội học",
+            "subject_groups": [],
+            "score": 823,
+            "note": null
+          },
+          {
+            "program_code": "7310302",
+            "program_name": "Nhân học",
+            "subject_groups": [],
+            "score": 745,
+            "note": null
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [],
+            "score": 917,
+            "note": null
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [],
+            "score": 895,
+            "note": null
+          },
+          {
+            "program_code": "7310501",
+            "program_name": "Địa lý học",
+            "subject_groups": [],
+            "score": 740,
+            "note": null
+          },
+          {
+            "program_code": "7310601",
+            "program_name": "Quốc tế học",
+            "subject_groups": [],
+            "score": 835,
+            "note": null
+          },
+          {
+            "program_code": "7310608",
+            "program_name": "Đông phương học",
+            "subject_groups": [],
+            "score": 748,
+            "note": null
+          },
+          {
+            "program_code": "7310613",
+            "program_name": "Nhật Bản học",
+            "subject_groups": [],
+            "score": 830,
+            "note": null
+          },
+          {
+            "program_code": "7310613_CLC",
+            "program_name": "Nhật Bản học (Chuẩn Quốc tế)",
+            "subject_groups": [],
+            "score": 690,
+            "note": null
+          },
+          {
+            "program_code": "7310614",
+            "program_name": "Hàn Quốc học",
+            "subject_groups": [],
+            "score": 775,
+            "note": null
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học",
+            "subject_groups": [],
+            "score": 790,
+            "note": null
+          },
+          {
+            "program_code": "7310630_LKH",
+            "program_name": "Quan hệ quốc tế (Liên kết ĐH Deakin, Úc)",
+            "subject_groups": [],
+            "score": 700,
+            "note": null
+          },
+          {
+            "program_code": "73106a1",
+            "program_name": "Kinh doanh thương mại Hàn Quốc",
+            "subject_groups": [],
+            "score": 818,
+            "note": null
+          },
+          {
+            "program_code": "7320101",
+            "program_name": "Báo chí",
+            "subject_groups": [],
+            "score": 913,
+            "note": null
+          },
+          {
+            "program_code": "7320101_CLC",
+            "program_name": "Báo chí (Chuẩn Quốc tế)",
+            "subject_groups": [],
+            "score": 866,
+            "note": null
+          },
+          {
+            "program_code": "7320101_LKH",
+            "program_name": "Truyền thông (chuyên ngành Báo chí) (Liên kết ĐH Deakin, Úc)",
+            "subject_groups": [],
+            "score": 775,
+            "note": null
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [],
+            "score": 972,
+            "note": null
+          },
+          {
+            "program_code": "7320201",
+            "program_name": "Thông tin - Thư viện",
+            "subject_groups": [],
+            "score": 710,
+            "note": null
+          },
+          {
+            "program_code": "7320205",
+            "program_name": "Quản lý thông tin",
+            "subject_groups": [],
+            "score": 791,
+            "note": null
+          },
+          {
+            "program_code": "7320303",
+            "program_name": "Lưu trữ học",
+            "subject_groups": [],
+            "score": 730,
+            "note": null
+          },
+          {
+            "program_code": "7340406",
+            "program_name": "Quản trị văn phòng",
+            "subject_groups": [],
+            "score": 790,
+            "note": null
+          },
+          {
+            "program_code": "7580112",
+            "program_name": "Đô thị học",
+            "subject_groups": [],
+            "score": 700,
+            "note": null
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [],
+            "score": 770,
+            "note": null
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [],
+            "score": 886,
+            "note": null
+          },
+          {
+            "program_code": "7810103_CLC",
+            "program_name": "Quản trị DV du lịch và lữ hành (QT)",
+            "subject_groups": [],
+            "score": 815,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-utxt-xt-thang",
+        "method_name": "Điểm chuẩn theo phương thức ƯTXT, XT thẳng năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140101",
+            "program_name": "Giáo dục học",
+            "subject_groups": [],
+            "score": 27.31,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7140101",
+            "program_name": "Giáo dục học",
+            "subject_groups": [],
+            "score": 27.9,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7140101",
+            "program_name": "Giáo dục học",
+            "subject_groups": [],
+            "score": 28.1,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7140101",
+            "program_name": "Giáo dục học",
+            "subject_groups": [],
+            "score": 27.37,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7140107",
+            "program_name": "Quản trị chất lượng giáo dục",
+            "subject_groups": [],
+            "score": 27.03,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7140107",
+            "program_name": "Quản trị chất lượng giáo dục",
+            "subject_groups": [],
+            "score": 27.2,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7140107",
+            "program_name": "Quản trị chất lượng giáo dục",
+            "subject_groups": [],
+            "score": 27.3,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7140107",
+            "program_name": "Quản trị chất lượng giáo dục",
+            "subject_groups": [],
+            "score": 26.5,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7140114",
+            "program_name": "Quản lý giáo dục",
+            "subject_groups": [],
+            "score": 28.03,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7140114",
+            "program_name": "Quản lý giáo dục",
+            "subject_groups": [],
+            "score": 28.1,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7140114",
+            "program_name": "Quản lý giáo dục",
+            "subject_groups": [],
+            "score": 27.9,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7140114",
+            "program_name": "Quản lý giáo dục",
+            "subject_groups": [],
+            "score": 27.41,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7210201_CLC",
+            "program_name": "Ngôn ngữ Anh (Chuẩn QT)",
+            "subject_groups": [],
+            "score": 27.94,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7210201_CLC",
+            "program_name": "Ngôn ngữ Anh (Chuẩn QT)",
+            "subject_groups": [],
+            "score": 27.8,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7210201_CLC",
+            "program_name": "Ngôn ngữ Anh (Chuẩn QT)",
+            "subject_groups": [],
+            "score": 27.95,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7210201_CLC",
+            "program_name": "Ngôn ngữ Anh (Chuẩn QT)",
+            "subject_groups": [],
+            "score": 27.32,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7210213",
+            "program_name": "Nghệ thuật học",
+            "subject_groups": [],
+            "score": 28.52,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7210213",
+            "program_name": "Nghệ thuật học",
+            "subject_groups": [],
+            "score": 28.4,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7210213",
+            "program_name": "Nghệ thuật học",
+            "subject_groups": [],
+            "score": 28.5,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7210213",
+            "program_name": "Nghệ thuật học",
+            "subject_groups": [],
+            "score": 28.19,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [],
+            "score": 28.7,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [],
+            "score": 28.25,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [],
+            "score": 28.45,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [],
+            "score": 27.76,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7220201_LKH",
+            "program_name": "Ngôn ngữ Anh (Liên kết ĐH Minnesota Crookston, Hoa Kỳ)",
+            "subject_groups": [],
+            "score": 24,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7220201_LKH",
+            "program_name": "Ngôn ngữ Anh (Liên kết ĐH Minnesota Crookston, Hoa Kỳ)",
+            "subject_groups": [],
+            "score": 27.9,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7220201_LKH",
+            "program_name": "Ngôn ngữ Anh (Liên kết ĐH Minnesota Crookston, Hoa Kỳ)",
+            "subject_groups": [],
+            "score": 26,
+            "note": "Xét tuyển học bạ THPT đối với chương trình liên kết đào tạo với nước ngoài 2+2"
+          },
+          {
+            "program_code": "7220202",
+            "program_name": "Ngôn ngữ Nga",
+            "subject_groups": [],
+            "score": 26.79,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7220202",
+            "program_name": "Ngôn ngữ Nga",
+            "subject_groups": [],
+            "score": 26.9,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7220202",
+            "program_name": "Ngôn ngữ Nga",
+            "subject_groups": [],
+            "score": 27.1,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7220202",
+            "program_name": "Ngôn ngữ Nga",
+            "subject_groups": [],
+            "score": 25.12,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7220203",
+            "program_name": "Ngôn ngữ Pháp",
+            "subject_groups": [],
+            "score": 26.92,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7220203",
+            "program_name": "Ngôn ngữ Pháp",
+            "subject_groups": [],
+            "score": 27.6,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7220203",
+            "program_name": "Ngôn ngữ Pháp",
+            "subject_groups": [],
+            "score": 27.5,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7220203",
+            "program_name": "Ngôn ngữ Pháp",
+            "subject_groups": [],
+            "score": 26.11,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [],
+            "score": 28.47,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [],
+            "score": 28.1,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [],
+            "score": 28.4,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [],
+            "score": 27.15,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7220204_CLC",
+            "program_name": "Ngôn ngữ Trung Quốc (QT)",
+            "subject_groups": [],
+            "score": 26.77,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7220204_CLC",
+            "program_name": "Ngôn ngữ Trung Quốc (QT)",
+            "subject_groups": [],
+            "score": 27.8,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7220204_CLC",
+            "program_name": "Ngôn ngữ Trung Quốc (QT)",
+            "subject_groups": [],
+            "score": 27.8,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7220204_CLC",
+            "program_name": "Ngôn ngữ Trung Quốc (QT)",
+            "subject_groups": [],
+            "score": 26.39,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7220204_LKH",
+            "program_name": "Ngôn ngữ Trung Quốc (Liên kết ĐH Sư phạm Quảng Tây, Trung Quốc)",
+            "subject_groups": [],
+            "score": 26.15,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7220204_LKH",
+            "program_name": "Ngôn ngữ Trung Quốc (Liên kết ĐH Sư phạm Quảng Tây, Trung Quốc)",
+            "subject_groups": [],
+            "score": 27.5,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7220204_LKH",
+            "program_name": "Ngôn ngữ Trung Quốc (Liên kết ĐH Sư phạm Quảng Tây, Trung Quốc)",
+            "subject_groups": [],
+            "score": 26,
+            "note": "Xét tuyển học bạ THPT đối với chương trình liên kết đào tạo với nước ngoài 2+2"
+          },
+          {
+            "program_code": "7220205",
+            "program_name": "Ngôn ngữ Đức",
+            "subject_groups": [],
+            "score": 27.14,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7220205",
+            "program_name": "Ngôn ngữ Đức",
+            "subject_groups": [],
+            "score": 27.6,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7220205",
+            "program_name": "Ngôn ngữ Đức",
+            "subject_groups": [],
+            "score": 27.6,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7220205",
+            "program_name": "Ngôn ngữ Đức",
+            "subject_groups": [],
+            "score": 26.36,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7220205_CLC",
+            "program_name": "Ngôn ngữ Đức (Chuẩn QT)",
+            "subject_groups": [],
+            "score": 27.45,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7220205_CLC",
+            "program_name": "Ngôn ngữ Đức (Chuẩn QT)",
+            "subject_groups": [],
+            "score": 27.6,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7220205_CLC",
+            "program_name": "Ngôn ngữ Đức (Chuẩn QT)",
+            "subject_groups": [],
+            "score": 27.5,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7220205_CLC",
+            "program_name": "Ngôn ngữ Đức (Chuẩn QT)",
+            "subject_groups": [],
+            "score": 26,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7220206",
+            "program_name": "Ngôn ngữ Tây Ban Nha",
+            "subject_groups": [],
+            "score": 24,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7220206",
+            "program_name": "Ngôn ngữ Tây Ban Nha",
+            "subject_groups": [],
+            "score": 27,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7220206",
+            "program_name": "Ngôn ngữ Tây Ban Nha",
+            "subject_groups": [],
+            "score": 27.2,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7220206",
+            "program_name": "Ngôn ngữ Tây Ban Nha",
+            "subject_groups": [],
+            "score": 25.12,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7220208",
+            "program_name": "Ngôn ngữ Italia",
+            "subject_groups": [],
+            "score": 24,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7220208",
+            "program_name": "Ngôn ngữ Italia",
+            "subject_groups": [],
+            "score": 26.6,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7220208",
+            "program_name": "Ngôn ngữ Italia",
+            "subject_groups": [],
+            "score": 26.6,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7220208",
+            "program_name": "Ngôn ngữ Italia",
+            "subject_groups": [],
+            "score": 25.12,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7229001",
+            "program_name": "Triết học",
+            "subject_groups": [],
+            "score": 26.75,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7229001",
+            "program_name": "Triết học",
+            "subject_groups": [],
+            "score": 27.8,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7229001",
+            "program_name": "Triết học",
+            "subject_groups": [],
+            "score": 27.6,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7229001",
+            "program_name": "Triết học",
+            "subject_groups": [],
+            "score": 26.44,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7229009",
+            "program_name": "Tôn giáo học",
+            "subject_groups": [],
+            "score": 24,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7229009",
+            "program_name": "Tôn giáo học",
+            "subject_groups": [],
+            "score": 27,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7229009",
+            "program_name": "Tôn giáo học",
+            "subject_groups": [],
+            "score": 27,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7229009",
+            "program_name": "Tôn giáo học",
+            "subject_groups": [],
+            "score": 25.15,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7229010",
+            "program_name": "Lịch sử",
+            "subject_groups": [],
+            "score": 28.11,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7229010",
+            "program_name": "Lịch sử",
+            "subject_groups": [],
+            "score": 28.05,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7229010",
+            "program_name": "Lịch sử",
+            "subject_groups": [],
+            "score": 28.5,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7229010",
+            "program_name": "Lịch sử",
+            "subject_groups": [],
+            "score": 27.03,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7229020",
+            "program_name": "Ngôn ngữ học",
+            "subject_groups": [],
+            "score": 27.61,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7229020",
+            "program_name": "Ngôn ngữ học",
+            "subject_groups": [],
+            "score": 27.8,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7229020",
+            "program_name": "Ngôn ngữ học",
+            "subject_groups": [],
+            "score": 28,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7229020",
+            "program_name": "Ngôn ngữ học",
+            "subject_groups": [],
+            "score": 27.27,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7229030",
+            "program_name": "Văn học",
+            "subject_groups": [],
+            "score": 28.11,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7229030",
+            "program_name": "Văn học",
+            "subject_groups": [],
+            "score": 28.6,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7229030",
+            "program_name": "Văn học",
+            "subject_groups": [],
+            "score": 28.8,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7229030",
+            "program_name": "Văn học",
+            "subject_groups": [],
+            "score": 28.3,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7229040",
+            "program_name": "Văn hóa học",
+            "subject_groups": [],
+            "score": 28.53,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7229040",
+            "program_name": "Văn hóa học",
+            "subject_groups": [],
+            "score": 28.1,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7229040",
+            "program_name": "Văn hóa học",
+            "subject_groups": [],
+            "score": 28.4,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7229040",
+            "program_name": "Văn hóa học",
+            "subject_groups": [],
+            "score": 28.18,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7310206",
+            "program_name": "Quan hệ quốc tế",
+            "subject_groups": [],
+            "score": 29.03,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7310206",
+            "program_name": "Quan hệ quốc tế",
+            "subject_groups": [],
+            "score": 28.5,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7310206",
+            "program_name": "Quan hệ quốc tế",
+            "subject_groups": [],
+            "score": 28.6,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7310206",
+            "program_name": "Quan hệ quốc tế",
+            "subject_groups": [],
+            "score": 28.12,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7310206_CLC",
+            "program_name": "Quan hệ quốc tế (Chuẩn QT)",
+            "subject_groups": [],
+            "score": 28.39,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7310206_CLC",
+            "program_name": "Quan hệ quốc tế (Chuẩn QT)",
+            "subject_groups": [],
+            "score": 28.4,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7310206_CLC",
+            "program_name": "Quan hệ quốc tế (Chuẩn QT)",
+            "subject_groups": [],
+            "score": 28.4,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7310206_CLC",
+            "program_name": "Quan hệ quốc tế (Chuẩn QT)",
+            "subject_groups": [],
+            "score": 28.05,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7310301",
+            "program_name": "Xã hội học",
+            "subject_groups": [],
+            "score": 27.9,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7310301",
+            "program_name": "Xã hội học",
+            "subject_groups": [],
+            "score": 28.1,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7310301",
+            "program_name": "Xã hội học",
+            "subject_groups": [],
+            "score": 28.3,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7310301",
+            "program_name": "Xã hội học",
+            "subject_groups": [],
+            "score": 27.61,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7310302",
+            "program_name": "Nhân học",
+            "subject_groups": [],
+            "score": 24,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7310302",
+            "program_name": "Nhân học",
+            "subject_groups": [],
+            "score": 27.7,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7310302",
+            "program_name": "Nhân học",
+            "subject_groups": [],
+            "score": 27.5,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7310302",
+            "program_name": "Nhân học",
+            "subject_groups": [],
+            "score": 26.57,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [],
+            "score": 28.9,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [],
+            "score": 28.8,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [],
+            "score": 28.8,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [],
+            "score": 28.02,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [],
+            "score": 28.69,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [],
+            "score": 28.4,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [],
+            "score": 28.1,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7310403",
+            "program_name": "Tâm lý học giáo dục",
+            "subject_groups": [],
+            "score": 27.06,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7310501",
+            "program_name": "Địa lý học",
+            "subject_groups": [],
+            "score": 27.44,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7310501",
+            "program_name": "Địa lý học",
+            "subject_groups": [],
+            "score": 27.5,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7310501",
+            "program_name": "Địa lý học",
+            "subject_groups": [],
+            "score": 28.2,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7310501",
+            "program_name": "Địa lý học",
+            "subject_groups": [],
+            "score": 27.46,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7310601",
+            "program_name": "Quốc tế học",
+            "subject_groups": [],
+            "score": 28.34,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7310601",
+            "program_name": "Quốc tế học",
+            "subject_groups": [],
+            "score": 28.2,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7310601",
+            "program_name": "Quốc tế học",
+            "subject_groups": [],
+            "score": 28.3,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7310601",
+            "program_name": "Quốc tế học",
+            "subject_groups": [],
+            "score": 27.49,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7310608",
+            "program_name": "Đông phương học",
+            "subject_groups": [],
+            "score": 28.31,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7310608",
+            "program_name": "Đông phương học",
+            "subject_groups": [],
+            "score": 27.4,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7310608",
+            "program_name": "Đông phương học",
+            "subject_groups": [],
+            "score": 27.65,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7310608",
+            "program_name": "Đông phương học",
+            "subject_groups": [],
+            "score": 26.86,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7310613",
+            "program_name": "Nhật Bản học",
+            "subject_groups": [],
+            "score": 27.81,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7310613",
+            "program_name": "Nhật Bản học",
+            "subject_groups": [],
+            "score": 27.2,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7310613",
+            "program_name": "Nhật Bản học",
+            "subject_groups": [],
+            "score": 27.4,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7310613",
+            "program_name": "Nhật Bản học",
+            "subject_groups": [],
+            "score": 27,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7310613_CLC",
+            "program_name": "Nhật Bản học (Chuẩn Quốc tế)",
+            "subject_groups": [],
+            "score": 24,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7310613_CLC",
+            "program_name": "Nhật Bản học (Chuẩn Quốc tế)",
+            "subject_groups": [],
+            "score": 26.9,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7310613_CLC",
+            "program_name": "Nhật Bản học (Chuẩn Quốc tế)",
+            "subject_groups": [],
+            "score": 27.4,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7310613_CLC",
+            "program_name": "Nhật Bản học (Chuẩn Quốc tế)",
+            "subject_groups": [],
+            "score": 26.5,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7310614",
+            "program_name": "Hàn Quốc học",
+            "subject_groups": [],
+            "score": 27.94,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7310614",
+            "program_name": "Hàn Quốc học",
+            "subject_groups": [],
+            "score": 27.3,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7310614",
+            "program_name": "Hàn Quốc học",
+            "subject_groups": [],
+            "score": 27.6,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7310614",
+            "program_name": "Hàn Quốc học",
+            "subject_groups": [],
+            "score": 27,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học",
+            "subject_groups": [],
+            "score": 27.31,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học",
+            "subject_groups": [],
+            "score": 27.7,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học",
+            "subject_groups": [],
+            "score": 28.1,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học",
+            "subject_groups": [],
+            "score": 27.4,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7310630_LKH",
+            "program_name": "Quan hệ quốc tế (Liên kết ĐH Deakin, Úc)",
+            "subject_groups": [],
+            "score": 27.25,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7310630_LKH",
+            "program_name": "Quan hệ quốc tế (Liên kết ĐH Deakin, Úc)",
+            "subject_groups": [],
+            "score": 27.3,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "73106a1",
+            "program_name": "Kinh doanh thương mại Hàn Quốc",
+            "subject_groups": [],
+            "score": 27.05,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "73106a1",
+            "program_name": "Kinh doanh thương mại Hàn Quốc",
+            "subject_groups": [],
+            "score": 27.5,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "73106a1",
+            "program_name": "Kinh doanh thương mại Hàn Quốc",
+            "subject_groups": [],
+            "score": 27.6,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "73106a1",
+            "program_name": "Kinh doanh thương mại Hàn Quốc",
+            "subject_groups": [],
+            "score": 27.5,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7320101",
+            "program_name": "Báo chí",
+            "subject_groups": [],
+            "score": 29,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7320101",
+            "program_name": "Báo chí",
+            "subject_groups": [],
+            "score": 28.7,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7320101",
+            "program_name": "Báo chí",
+            "subject_groups": [],
+            "score": 28.98,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7320101",
+            "program_name": "Báo chí",
+            "subject_groups": [],
+            "score": 28.39,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7320101_CLC",
+            "program_name": "Báo chí (Chuẩn Quốc tế)",
+            "subject_groups": [],
+            "score": 28.85,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7320101_CLC",
+            "program_name": "Báo chí (Chuẩn Quốc tế)",
+            "subject_groups": [],
+            "score": 28.5,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7320101_CLC",
+            "program_name": "Báo chí (Chuẩn Quốc tế)",
+            "subject_groups": [],
+            "score": 28.4,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7320101_CLC",
+            "program_name": "Báo chí (Chuẩn Quốc tế)",
+            "subject_groups": [],
+            "score": 28.19,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7320101_LKH",
+            "program_name": "Truyền thông (chuyên ngành Báo chí) (Liên kết ĐH Deakin, Úc)",
+            "subject_groups": [],
+            "score": 24,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7320101_LKH",
+            "program_name": "Truyền thông (chuyên ngành Báo chí) (Liên kết ĐH Deakin, Úc)",
+            "subject_groups": [],
+            "score": 27.8,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [],
+            "score": 29.35,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [],
+            "score": 28.8,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [],
+            "score": 28.98,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [],
+            "score": 28.5,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7320201",
+            "program_name": "Thông tin - Thư viện",
+            "subject_groups": [],
+            "score": 24,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7320201",
+            "program_name": "Thông tin - Thư viện",
+            "subject_groups": [],
+            "score": 26.9,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7320201",
+            "program_name": "Thông tin - Thư viện",
+            "subject_groups": [],
+            "score": 27.1,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7320201",
+            "program_name": "Thông tin - Thư viện",
+            "subject_groups": [],
+            "score": 26.44,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7320205",
+            "program_name": "Quản lý thông tin",
+            "subject_groups": [],
+            "score": 27.28,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7320205",
+            "program_name": "Quản lý thông tin",
+            "subject_groups": [],
+            "score": 27.8,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7320205",
+            "program_name": "Quản lý thông tin",
+            "subject_groups": [],
+            "score": 27.9,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7320205",
+            "program_name": "Quản lý thông tin",
+            "subject_groups": [],
+            "score": 27,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7320303",
+            "program_name": "Lưu trữ học",
+            "subject_groups": [],
+            "score": 24,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7320303",
+            "program_name": "Lưu trữ học",
+            "subject_groups": [],
+            "score": 26.9,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7320303",
+            "program_name": "Lưu trữ học",
+            "subject_groups": [],
+            "score": 27.5,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7320303",
+            "program_name": "Lưu trữ học",
+            "subject_groups": [],
+            "score": 26.5,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7340406",
+            "program_name": "Quản trị văn phòng",
+            "subject_groups": [],
+            "score": 27.81,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7340406",
+            "program_name": "Quản trị văn phòng",
+            "subject_groups": [],
+            "score": 27.7,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7340406",
+            "program_name": "Quản trị văn phòng",
+            "subject_groups": [],
+            "score": 28.3,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7340406",
+            "program_name": "Quản trị văn phòng",
+            "subject_groups": [],
+            "score": 27.64,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7580112",
+            "program_name": "Đô thị học",
+            "subject_groups": [],
+            "score": 26.09,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7580112",
+            "program_name": "Đô thị học",
+            "subject_groups": [],
+            "score": 26.8,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7580112",
+            "program_name": "Đô thị học",
+            "subject_groups": [],
+            "score": 27.2,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7580112",
+            "program_name": "Đô thị học",
+            "subject_groups": [],
+            "score": 26.5,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [],
+            "score": 26.09,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [],
+            "score": 27.6,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [],
+            "score": 28.1,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [],
+            "score": 27,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [],
+            "score": 28.28,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [],
+            "score": 28.3,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [],
+            "score": 28.5,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [],
+            "score": 28,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          },
+          {
+            "program_code": "7810103_CLC",
+            "program_name": "Quản trị DV du lịch và lữ hành (QT)",
+            "subject_groups": [],
+            "score": 26.77,
+            "note": "ƯTXTT TS giỏi nhất trường THPT 2025"
+          },
+          {
+            "program_code": "7810103_CLC",
+            "program_name": "Quản trị DV du lịch và lữ hành (QT)",
+            "subject_groups": [],
+            "score": 28,
+            "note": "ƯTXT theo quy định của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7810103_CLC",
+            "program_name": "Quản trị DV du lịch và lữ hành (QT)",
+            "subject_groups": [],
+            "score": 28,
+            "note": "ƯTXT HS là TV của đội tuyển tỉnh, TP tham dự kì thi HSG Quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kì thi HSG cấp tỉnh"
+          },
+          {
+            "program_code": "7810103_CLC",
+            "program_name": "Quản trị DV du lịch và lữ hành (QT)",
+            "subject_groups": [],
+            "score": 27.8,
+            "note": "Xét tuyển kết quả học tập THPT đối với TS có thành tích xuất sắc, đặc biệt nổi bật trong hoạt động xã hội, văn nghệ, thể thao"
+          }
+        ]
+      }
+    ]
+  }
+}

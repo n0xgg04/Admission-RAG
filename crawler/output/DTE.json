@@ -1,0 +1,1766 @@
+{
+  "university": {
+    "code": "DTE",
+    "name": "Trường Đại học Kinh tế Quản trị kinh doanh - Đại học Thái Nguyên",
+    "short_name": "TUEBA",
+    "location": [
+      "Thái Nguyên"
+    ],
+    "address": "Đường Lương Ngọc Quyến, phường Tân Thịnh, TP. Thái Nguyên, tỉnh Thái Nguyên",
+    "website": "http://tueba.edu.vn",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": 3500,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-kinh-te-quan-tri-kinh-doanh-thai-nguyen-DTE.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2025/0417/dai-hoc-kinh-te-quan-tri-kinh-doanh-dh-thai-nguyen.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC KINH TẾ VÀ QUẢN TRỊ KINH DOANH THÁI NGUYÊN 2026 Thông tin tuyển sinh trường Đại học Kinh tế và Quản trị Kinh doanh - Đại học Thái Nguyên 2026 Năm 2026, trường tuyển sinh 3.500 chỉ tiêu dựa trên 5 phương thức xét tuyển như sau: - Phương thức 1 (mã phương thức xét tuyển 301): Tuyển thẳng theo quy định của Bộ Giáo dục và Đào tạo - Phương thức 2 (mã phương thức xét tuyển 100): Xét tuyển theo kết quả thi tốt nghiệp THPT năm 2026 - Phương thức 3 (mã phương thức xét tuyển 200): Xét tuyển theo kết quả học tập THPT - Phương thức 4 (mã phương thức xét tuyển 417): Xét tuyển theo kết quả thi đánh giá năng lực (ĐGNL) năm 2026 của Đại học Quốc gia Hà Nội và kết quả thi đánh giá năng lực (ĐGNL) của trường Đại học Sư phạm Hà Nội (SPT). - Phương thức 5 (mã phương thức xét tuyển 402): Xét tuyển theo kết quả thi đánh giá đầu vào đại học trên máy tính của Đại học Thái Nguyên (kỳ thi V-SAT-TNU).",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt---2025",
+      "method_name": "1 ĐIỂM THI THPT - 2025",
+      "description": "1.1 QUY CHẾ - Sử dụng kết quả thi tốt nghiệp THPT năm 2025. - Thí sinh đăng ký, thực hiện theo hướng dẫn của trường THPT, Sở Giáo dục và Đào tạo, Bộ Giáo dục và Đào tạo và hướng dẫn trên trang thông tin điện tử của Nhà trường. - Thí sinh có tổng điểm thi THPT năm 2025 của các môn tổ hợp của các ngành đăng ký xét tuyển đạt ngưỡng đảm bảo chất lượng chung của Nhà trường (thông báo sau khi có kết quả thi THPT 2025). - Thí sinh có chứng chỉ tiếng Anh quốc tế IELTS từ 4.5 hoặc TOEFL iBT từ 30 hoặc TO",
+      "eligibility": null,
+      "rules": "QUY CHẾ - Sử dụng kết quả thi tốt nghiệp THPT năm 2025. - Thí sinh đăng ký, thực hiện theo hướng dẫn của trường THPT, Sở Giáo dục và Đào tạo, Bộ Giáo dục và Đào tạo và hướng dẫn trên trang thông tin điện tử của Nhà trường. - Thí sinh có tổng điểm thi THPT năm 2025 của các môn tổ hợp của các ngành đăng ký xét tuyển đạt ngưỡng đảm bảo chất lượng chung của Nhà trường (thông báo sau khi có kết quả thi THPT 2025). - Thí sinh có chứng chỉ tiếng Anh quốc tế IELTS từ 4.5 hoặc TOEFL iBT từ 30 hoặc TOEIC (4 kỹ năng: L&R 600, S 130 &W 130) trở lên kết hợp với điểm thi tốt nghiệp THPT năm 2025 thuộc các tổ hợp xét tuyển của Trường. Các chứng chỉ tiếng Anh quốc tế IELTS/TOEFL iBT/TOEIC được các tổ chức quốc tế cấp từ ngày 01/6/2023 đến thời điểm kết thúc nộp hồ sơ xét tuyển kết hợp vào ĐHCQ năm 2025. Bảng quy đổi điểm chứng chỉ tiếng Anh quốc tế theo thang điểm 10: IELTS TOEFL iBT TOEIC (L&R/S/W) Điểm quy đổi 6.5 79 trở lên 890/170/170 trở lên 10 6.0 60-78 840/160/160 9.5 5.5 46-59 785/160/150 9.0 5.0 35-45 650/150/150 8.5 4.5 30-44 600/130/130 7.5",
+      "programs": [
+        {
+          "program_code": "IELTS",
+          "program_name": "TOEFL iBT",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "TOEIC (L&R/S/W)"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-hoc-ba---2025",
+      "method_name": "2 ĐIỂM HỌC BẠ - 2025",
+      "description": "2.1 ĐỐI TƯỢNG - Dựa trên năng lực học tập của thí sinh căn cứ vào kết quả học tập trong quá trình học. - Thí sinh đã tốt nghiệp cấp THPT. - Thí sinh đăng ký, thực hiện theo hướng dẫn của Sở Giáo dục và Đào tạo, Bộ Giáo dục và Đào tạo và hướng dẫn trên trang thông tin điện tử của Nhà trường. - Thí sinh có kết quả học tập tổng điểm trung bình 3 môn (theo tổ hợp của các ngành đăng ký xét tuyển) của lớp 12 hoặc lớp 11 với trọng số 25% và lớp 12 với trọng số 75% đạt ngưỡng đảm bảo chất lượng chung củ",
+      "eligibility": "ĐỐI TƯỢNG - Dựa trên năng lực học tập của thí sinh căn cứ vào kết quả học tập trong quá trình học. - Thí sinh đã tốt nghiệp cấp THPT. - Thí sinh đăng ký, thực hiện theo hướng dẫn của Sở Giáo dục và Đào tạo, Bộ Giáo dục và Đào tạo và hướng dẫn trên trang thông tin điện tử của Nhà trường. - Thí sinh có kết quả học tập tổng điểm trung bình 3 môn (theo tổ hợp của các ngành đăng ký xét tuyển) của lớp 12 hoặc lớp 11 với trọng số 25% và lớp 12 với trọng số 75% đạt ngưỡng đảm bảo chất lượng chung của Nhà trường. 2.2",
+      "rules": "QUY CHẾ Thí sinh có chứng chỉ tiếng Anh quốc tế IELTS từ 4.5 hoặc TOEFL iBT từ 30 hoặc TOEIC (4 kỹ năng: L&R 600, $ 130 &W 130) trở lên kết hợp với điểm thi kết quả học tập THPT thuộc các tổ hợp xét tuyến của Trường. Các chứng chỉ tiếng Anh quốc tế IELTS/TOEFL iBT/TOEIC được các tổ chức quốc tế cấp từ ngày 01/6/2023 đến thời điểm kết thúc nộp hồ sơ xét tuyển kết hợp vào ĐHCQ năm 2025. Bảng quy đổi điểm chứng chỉ tiếng Anh quốc tế theo thang điểm 10: IELTS TOEFL iBT TOEIC (L&R/S/W) Điểm quy đổi 6.5 79 trở lên 890/170/170 trở lên 10 6.0 60–78 840/160/160 9.5 5.5 46–59 785/160/150 9.0 5.0 35–45 650/150/150 8.5 4.5 30–44 600/130/130 7.5",
+      "programs": [
+        {
+          "program_code": "IELTS",
+          "program_name": "TOEFL iBT",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "TOEIC (L&R/S/W)"
+        }
+      ]
+    },
+    {
+      "method_id": "3-utxt-xt-thang---2025",
+      "method_name": "3 ƯTXT, XT THẲNG - 2025",
+      "description": "3.1 ĐỐI TƯỢNG Xét tuyển thẳng (mã phương thức xét tuyển 301) Trường Đại học Kinh tế và Quản trị kinh doanh thực hiện xét tuyển thẳng theo Điều 8, của Thông tư số 08/2022/TT-BGDĐT ngày 06 tháng 6 năm 2022 của Bộ trưởng Bộ Giáo dục và Đào tạo và Thông tư số 06/2025/TT-BGDĐT ngày 19 tháng 3 năm 2023 của Bộ trưởng Bộ Giáo dục và Đào tạo, cụ thể như sau: 1. Anh hùng lao động, Anh hùng lực lượng vũ trang nhân dân, Chiến sĩ thi đua toàn quốc được tuyển thẳng vào các ngành, chương trình do Trường Đại họ",
+      "eligibility": "ĐỐI TƯỢNG Xét tuyển thẳng (mã phương thức xét tuyển 301) Trường Đại học Kinh tế và Quản trị kinh doanh thực hiện xét tuyển thẳng theo Điều 8, của Thông tư số 08/2022/TT-BGDĐT ngày 06 tháng 6 năm 2022 của Bộ trưởng Bộ Giáo dục và Đào tạo và Thông tư số 06/2025/TT-BGDĐT ngày 19 tháng 3 năm 2023 của Bộ trưởng Bộ Giáo dục và Đào tạo, cụ thể như sau: 1. Anh hùng lao động, Anh hùng lực lượng vũ trang nhân dân, Chiến sĩ thi đua toàn quốc được tuyển thẳng vào các ngành, chương trình do Trường Đại học Kinh tế và Quản trị kinh doanh quy định trong thông tin tuyển sinh hàng năm; 2. Thí sinh đoạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia, quốc hoặc thi khoa học, kỹ thuật cấp quốc gia, quốc tế do Bộ GDĐT tổ chức, cử tham gia; thời gian đoạt giải không quá 03 năm tính tới thời điểm xét tuyển thẳng; 3. Trường Đại học Kinh tế và Quản trị kinh doanh căn cứ kết quả học tập cấp THPT của thí sinh và yêu cầu của ngành đào tạo để xem xét, quyết định nhận vào học những trường hợp quy định dưới đây (trường hợp cần thiết kèm theo",
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7310104",
+          "program_name": "Kinh tế đầu tư",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7310105",
+          "program_name": "Kinh tế phát triển",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7310109",
+          "program_name": "Kinh tế số",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7310110",
+          "program_name": "Quản lý kinh tế",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Quản trị Marketing",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7340120",
+          "program_name": "Kinh doanh quốc tế",
+          "subject_groups": [],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "9"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7340205",
+          "program_name": "Công nghệ tài chính",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7340403",
+          "program_name": "Quản lý công",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7340404",
+          "program_name": "Quản trị nhân lực",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7380107",
+          "program_name": "Luật kinh tế",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics và Quản lý chuỗi cung ứng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị kinh doanh khách sạn và du lịch",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "18"
+        }
+      ]
+    },
+    {
+      "method_id": "4-iem-anh-gia-au-vao-v-sat---2025",
+      "method_name": "4 ĐIỂM ĐÁNH GIÁ ĐẦU VÀO V-SAT - 2025",
+      "description": "4.1 QUY CHẾ Xét tuyển sử dụng kết quả bài thi đánh giá đầu vào đại học trên máy tính của Đại học Thái Nguyên (kỳ thi V-SAT-TNU) (mã phương thức xét tuyển 415) Dựa trên kết quả kỳ thi đánh giá đầu vào đại học trên máy tính của Đại học Thái Nguyên (kỳ thi V-SAT-TNU) năm 2025. Thí sinh có tổng điểm 3 môn thi đánh giá đầu vào đại học trên máy tính của Đại học Thái Nguyên (V-SAT-TNU) năm 2025 đạt từ 225/450 điểm tương đương với 15/30 điểm trở lên. Trường Đại học Kinh tế và Quản trị kinh doanh sử dụng",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét tuyển sử dụng kết quả bài thi đánh giá đầu vào đại học trên máy tính của Đại học Thái Nguyên (kỳ thi V-SAT-TNU) (mã phương thức xét tuyển 415) Dựa trên kết quả kỳ thi đánh giá đầu vào đại học trên máy tính của Đại học Thái Nguyên (kỳ thi V-SAT-TNU) năm 2025. Thí sinh có tổng điểm 3 môn thi đánh giá đầu vào đại học trên máy tính của Đại học Thái Nguyên (V-SAT-TNU) năm 2025 đạt từ 225/450 điểm tương đương với 15/30 điểm trở lên. Trường Đại học Kinh tế và Quản trị kinh doanh sử dụng 08 tổ hợp A00 (Toán, Vật lí, Hóa học); A01 (Toán, Vật lí, Tiếng Anh); C00 (Ngữ văn, Lịch sử, Địa lí); C01(Ngữ văn, Toán, Vật lí); C04 (Ngữ văn, Toán, Địa lí); D01 (Toán, Ngữ văn, Tiếng Anh); D07 (Toán, Hóa học, Tiếng Anh); D14 (Ngữ văn, Lịch sử, Tiếng Anh).",
+      "programs": [
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310104",
+          "program_name": "Kinh tế đầu tư",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7310105",
+          "program_name": "Kinh tế phát triển",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7310109",
+          "program_name": "Kinh tế số",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7310110",
+          "program_name": "Quản lý kinh tế",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Kinh doanh số",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Quản trị Marketing",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7340120",
+          "program_name": "Kinh doanh quốc tế",
+          "subject_groups": [],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "8"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7340205",
+          "program_name": "Công nghệ tài chính",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7340403",
+          "program_name": "Quản lý công",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7340404",
+          "program_name": "Quản trị nhân lực",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7380107",
+          "program_name": "Luật kinh tế",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics và Quản lý chuỗi cung ứng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị kinh doanh khách sạn và du lịch",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "18"
+        }
+      ]
+    },
+    {
+      "method_id": "5-iem-gnl-hn---2025",
+      "method_name": "5 ĐIỂM ĐGNL HN - 2025",
+      "description": "5.1 QUY CHẾ Xét tuyển sử dụng kết quả bài thi đánh giá năng lực (ĐGNL) của Đại học Quốc gia Hà Nội (bài thi HSA) (mã phương thức xét tuyển 402) - Dựa trên kết quả bài thi đánh giá năng lực (ĐGNL) của Đại học Quốc gia Hà Nội năm 2025. Thí sinh có kết quả ĐGNL năm 2025 của Đại học Quốc gia Hà Nội tổ chức đạt từ 75/150 điểm với tương đương với 15/30 điểm trở lên. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐGNL HN STT Mã ngành Tên ngành Tổ hợp Ghi chú 1. Chương trình đào tạo bằng tiếng Việt 1 731",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét tuyển sử dụng kết quả bài thi đánh giá năng lực (ĐGNL) của Đại học Quốc gia Hà Nội (bài thi HSA) (mã phương thức xét tuyển 402) - Dựa trên kết quả bài thi đánh giá năng lực (ĐGNL) của Đại học Quốc gia Hà Nội năm 2025. Thí sinh có kết quả ĐGNL năm 2025 của Đại học Quốc gia Hà Nội tổ chức đạt từ 75/150 điểm với tương đương với 15/30 điểm trở lên.",
+      "programs": [
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310104",
+          "program_name": "Kinh tế đầu tư",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7310105",
+          "program_name": "Kinh tế phát triển",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7310109",
+          "program_name": "Kinh tế số",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7310110",
+          "program_name": "Quản lý kinh tế",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Quản trị Marketing",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7340120",
+          "program_name": "Kinh doanh quốc tế",
+          "subject_groups": [],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "8"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7340205",
+          "program_name": "Công nghệ tài chính",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7340403",
+          "program_name": "Quản lý công",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7340404",
+          "program_name": "Quản trị nhân lực",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7380107",
+          "program_name": "Luật kinh tế",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics và Quản lý chuỗi cung ứng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị kinh doanh khách sạn và du lịch",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "18"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C04",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7310104",
+          "program_name": "Kinh tế đầu tư",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7310104",
+          "program_name": "Kinh tế đầu tư",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C04",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7310105",
+          "program_name": "Kinh tế phát triển",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7310105",
+          "program_name": "Kinh tế phát triển",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C04",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7310109",
+          "program_name": "Kinh tế số",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7310109",
+          "program_name": "Kinh tế số",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C04",
+            "X01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7310110",
+          "program_name": "Quản lý kinh tế",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7310110",
+          "program_name": "Quản lý kinh tế",
+          "subject_groups": [
+            "A00",
+            "C00",
+            "C04",
+            "X01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C04",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Quản trị Marketing",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Quản trị Marketing",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C04",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7340120",
+          "program_name": "Kinh doanh quốc tế",
+          "subject_groups": [],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "9"
+        },
+        {
+          "program_code": "7340120",
+          "program_name": "Kinh doanh quốc tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C04",
+            "D01",
+            "X01"
+          ],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "9"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C04",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7340205",
+          "program_name": "Công nghệ tài chính",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7340205",
+          "program_name": "Công nghệ tài chính",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "X01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C04",
+            "X01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C04",
+            "X01",
+            "D02"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7340403",
+          "program_name": "Quản lý công",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7340403",
+          "program_name": "Quản lý công",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7340404",
+          "program_name": "Quản trị nhân lực",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7340404",
+          "program_name": "Quản trị nhân lực",
+          "subject_groups": [
+            "A00",
+            "C00",
+            "D01",
+            "C04",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7340404",
+          "program_name": "Quản trị nhân lực",
+          "subject_groups": [
+            "A00",
+            "C00",
+            "D01",
+            "C04",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7380107",
+          "program_name": "Luật kinh tế",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7380107",
+          "program_name": "Luật kinh tế",
+          "subject_groups": [
+            "A00",
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7380107",
+          "program_name": "Luật kinh tế",
+          "subject_groups": [
+            "A00",
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics và Quản lý chuỗi cung ứng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics và Quản lý chuỗi cung ứng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị kinh doanh khách sạn và du lịch",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị kinh doanh khách sạn và du lịch",
+          "subject_groups": [
+            "A00",
+            "C00",
+            "C04",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị kinh doanh khách sạn và du lịch",
+          "subject_groups": [
+            "A00",
+            "C00",
+            "C04",
+            "D01",
+            "X01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Trường Đại học Kinh tế Quản trị kinh doanh - Đại học Thái Nguyên các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-kinh-te-quan-tri-kinh-doanh-thai-nguyen-DTE.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01",
+              "X01"
+            ],
+            "score": 17.5,
+            "note": null
+          },
+          {
+            "program_code": "7310101-HG",
+            "program_name": "Kinh tế (học tại phân hiệu ĐHTN tại tỉnh Hà Giang)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01",
+              "X01"
+            ],
+            "score": 17.5,
+            "note": null
+          },
+          {
+            "program_code": "7310104",
+            "program_name": "Kinh tế đầu tư",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01",
+              "X01"
+            ],
+            "score": 17.5,
+            "note": null
+          },
+          {
+            "program_code": "7310105",
+            "program_name": "Kinh tế phát triển",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01",
+              "X01"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01",
+              "X01"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7340101-TA",
+            "program_name": "Quản trị kinh doanh (dạy và học bằng tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01",
+              "X01"
+            ],
+            "score": 19.5,
+            "note": null
+          },
+          {
+            "program_code": "7340115",
+            "program_name": "Marketing",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01",
+              "X01"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7340115-TA",
+            "program_name": "Quản trị marketing (dạy và học bằng tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01",
+              "X01"
+            ],
+            "score": 19.5,
+            "note": null
+          },
+          {
+            "program_code": "7340120",
+            "program_name": "Kinh doanh quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01",
+              "X01"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7340122",
+            "program_name": "Thương mại điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01",
+              "X01"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X01"
+            ],
+            "score": 17.5,
+            "note": null
+          },
+          {
+            "program_code": "7340201-TA",
+            "program_name": "Tài chính (dạy và học bằng tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X01"
+            ],
+            "score": 19.5,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X01"
+            ],
+            "score": 17.5,
+            "note": null
+          },
+          {
+            "program_code": "7340403",
+            "program_name": "Quản lý kinh tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X01"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7340404",
+            "program_name": "Quản trị nhân lực",
+            "subject_groups": [
+              "A00",
+              "C00",
+              "D01",
+              "D14",
+              "X01"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Luật kinh tế",
+            "subject_groups": [
+              "A00",
+              "C00",
+              "D01",
+              "D14",
+              "X01"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7460108",
+            "program_name": "Khoa học dữ liệu",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X01"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7510605",
+            "program_name": "Logistics và Quản lý chuỗi cung ứng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X01"
+            ],
+            "score": 18.5,
+            "note": null
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị kinh doanh khách sạn và du lịch",
+            "subject_groups": [
+              "A00",
+              "C00",
+              "C04",
+              "D01",
+              "X01"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7810103-HG",
+            "program_name": "Quản trị kinh doanh khách sạn và du lịch (học tại phân hiệu ĐHTN tại tỉnh Hà Giang)",
+            "subject_groups": [
+              "A00",
+              "C00",
+              "C04",
+              "D01",
+              "X01"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7810103-TA",
+            "program_name": "Quản trị du lịch và khách sạn (dạy và học bằng tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "C00",
+              "C04",
+              "D01",
+              "X01"
+            ],
+            "score": 19.5,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01",
+              "X01"
+            ],
+            "score": 17.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7310101-HG",
+            "program_name": "Kinh tế (học tại phân hiệu ĐHTN tại tỉnh Hà Giang)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01",
+              "X01"
+            ],
+            "score": 17.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7310104",
+            "program_name": "Kinh tế đầu tư",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01",
+              "X01"
+            ],
+            "score": 17.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7310105",
+            "program_name": "Kinh tế phát triển",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01",
+              "X01"
+            ],
+            "score": 17,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01",
+              "X01"
+            ],
+            "score": 18,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340101-TA",
+            "program_name": "Quản trị kinh doanh (dạy và học bằng tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01",
+              "X01"
+            ],
+            "score": 19.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340115",
+            "program_name": "Marketing",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01",
+              "X01"
+            ],
+            "score": 19,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340115-TA",
+            "program_name": "Quản trị marketing (dạy và học bằng tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01",
+              "X01"
+            ],
+            "score": 19.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340120",
+            "program_name": "Kinh doanh quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01",
+              "X01"
+            ],
+            "score": 18,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340122",
+            "program_name": "Thương mại điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01",
+              "X01"
+            ],
+            "score": 18,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X01"
+            ],
+            "score": 17.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340201-TA",
+            "program_name": "Tài chính (dạy và học bằng tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X01"
+            ],
+            "score": 19.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X01"
+            ],
+            "score": 17.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340403",
+            "program_name": "Quản lý kinh tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X01"
+            ],
+            "score": 17,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340404",
+            "program_name": "Quản trị nhân lực",
+            "subject_groups": [
+              "A00",
+              "C00",
+              "D01",
+              "D14",
+              "X01"
+            ],
+            "score": 18,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Luật kinh tế",
+            "subject_groups": [
+              "A00",
+              "C00",
+              "D01",
+              "D14",
+              "X01"
+            ],
+            "score": 18,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7460108",
+            "program_name": "Khoa học dữ liệu",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X01"
+            ],
+            "score": 19,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510605",
+            "program_name": "Logistics và Quản lý chuỗi cung ứng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X01"
+            ],
+            "score": 18.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị kinh doanh khách sạn và du lịch",
+            "subject_groups": [
+              "A00",
+              "C00",
+              "C04",
+              "D01",
+              "X01"
+            ],
+            "score": 18,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7810103-HG",
+            "program_name": "Quản trị kinh doanh khách sạn và du lịch (học tại phân hiệu ĐHTN tại tỉnh Hà Giang)",
+            "subject_groups": [
+              "A00",
+              "C00",
+              "C04",
+              "D01",
+              "X01"
+            ],
+            "score": 18,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7810103-TA",
+            "program_name": "Quản trị du lịch và khách sạn (dạy và học bằng tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "C00",
+              "C04",
+              "D01",
+              "X01"
+            ],
+            "score": 19.5,
+            "note": "Điểm đã được quy đổi"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế",
+            "subject_groups": [],
+            "score": 17.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7310101-HG",
+            "program_name": "Kinh tế (học tại phân hiệu ĐHTN tại tỉnh Hà Giang)",
+            "subject_groups": [],
+            "score": 17.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7310104",
+            "program_name": "Kinh tế đầu tư",
+            "subject_groups": [],
+            "score": 17.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7310105",
+            "program_name": "Kinh tế phát triển",
+            "subject_groups": [],
+            "score": 17,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 18,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340101-TA",
+            "program_name": "Quản trị kinh doanh (dạy và học bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 19.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340115",
+            "program_name": "Marketing",
+            "subject_groups": [],
+            "score": 19,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340115-TA",
+            "program_name": "Quản trị marketing (dạy và học bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 19.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340120",
+            "program_name": "Kinh doanh quốc tế",
+            "subject_groups": [],
+            "score": 18,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340122",
+            "program_name": "Thương mại điện tử",
+            "subject_groups": [],
+            "score": 18,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [],
+            "score": 17.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340201-TA",
+            "program_name": "Tài chính (dạy và học bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 19.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [],
+            "score": 17.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340403",
+            "program_name": "Quản lý kinh tế",
+            "subject_groups": [],
+            "score": 17,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340404",
+            "program_name": "Quản trị nhân lực",
+            "subject_groups": [],
+            "score": 18,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Luật kinh tế",
+            "subject_groups": [],
+            "score": 18,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7460108",
+            "program_name": "Khoa học dữ liệu",
+            "subject_groups": [],
+            "score": 19,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510605",
+            "program_name": "Logistics và Quản lý chuỗi cung ứng",
+            "subject_groups": [],
+            "score": 18.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị kinh doanh khách sạn và du lịch",
+            "subject_groups": [],
+            "score": 18,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7810103-HG",
+            "program_name": "Quản trị kinh doanh khách sạn và du lịch (học tại phân hiệu ĐHTN tại tỉnh Hà Giang)",
+            "subject_groups": [],
+            "score": 18,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7810103-TA",
+            "program_name": "Quản trị du lịch và khách sạn (dạy và học bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 19.5,
+            "note": "Điểm đã được quy đổi"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-anh-gia-au-vao-v-sat",
+        "method_name": "Điểm chuẩn theo phương thức Điểm Đánh giá đầu vào V-SAT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế",
+            "subject_groups": [],
+            "score": 17.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7310101-HG",
+            "program_name": "Kinh tế (học tại phân hiệu ĐHTN tại tỉnh Hà Giang)",
+            "subject_groups": [],
+            "score": 17.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7310104",
+            "program_name": "Kinh tế đầu tư",
+            "subject_groups": [],
+            "score": 17.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7310105",
+            "program_name": "Kinh tế phát triển",
+            "subject_groups": [],
+            "score": 17,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 18,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340101-TA",
+            "program_name": "Quản trị kinh doanh (dạy và học bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 19.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340115",
+            "program_name": "Marketing",
+            "subject_groups": [],
+            "score": 19,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340115-TA",
+            "program_name": "Quản trị marketing (dạy và học bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 19.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340120",
+            "program_name": "Kinh doanh quốc tế",
+            "subject_groups": [],
+            "score": 18,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340122",
+            "program_name": "Thương mại điện tử",
+            "subject_groups": [],
+            "score": 18,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [],
+            "score": 17.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340201-TA",
+            "program_name": "Tài chính (dạy và học bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 19.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [],
+            "score": 17.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340403",
+            "program_name": "Quản lý kinh tế",
+            "subject_groups": [],
+            "score": 17,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340404",
+            "program_name": "Quản trị nhân lực",
+            "subject_groups": [],
+            "score": 18,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Luật kinh tế",
+            "subject_groups": [],
+            "score": 18,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7460108",
+            "program_name": "Khoa học dữ liệu",
+            "subject_groups": [],
+            "score": 19,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510605",
+            "program_name": "Logistics và Quản lý chuỗi cung ứng",
+            "subject_groups": [],
+            "score": 18.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị kinh doanh khách sạn và du lịch",
+            "subject_groups": [],
+            "score": 18,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7810103-HG",
+            "program_name": "Quản trị kinh doanh khách sạn và du lịch (học tại phân hiệu ĐHTN tại tỉnh Hà Giang)",
+            "subject_groups": [],
+            "score": 18,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7810103-TA",
+            "program_name": "Quản trị du lịch và khách sạn (dạy và học bằng tiếng Anh)",
+            "subject_groups": [],
+            "score": 19.5,
+            "note": "Điểm đã được quy đổi"
+          }
+        ]
+      }
+    ]
+  }
+}

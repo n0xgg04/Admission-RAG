@@ -1,0 +1,1150 @@
+{
+  "university": {
+    "code": "DHF",
+    "name": "Đại học Ngoại ngữ - Đại học Huế",
+    "short_name": "HUFLIS",
+    "location": [
+      "Huế"
+    ],
+    "address": "Số 57 Nguyễn Khoa Chiêm, phường An Tây, Thành phố Huế",
+    "website": "https://huflis.edu.vn/vi/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": 949,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-ngoai-ngu-hue-DHF.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0423/thong-tin-tuyen-sinh-truong-dai-hoc-ngoai-ngu-hue-2026.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC NGOẠI NGỮ HUẾ 2026 Thông tin tuyển sinh trường Đại học Ngoại ngữ - Đại học Huế (HUFLIS) năm 2026 Năm 2026, Đại học Ngoại ngữ - Đại học Huế dự kiến tuyển sinh 1949 chỉ tiêu qua các phương thức xét tuyển như sau: Phương thức 1: Xét kết quả thi tốt nghiệp trung học phổ thông. Phương thức 2: Xét kết quả học tập cấp trung học phổ thông (học bạ). Phương thức 3: Xét tuyển thẳng theo quy định của Quy chế tuyển sinh. Phương thức 4: Kết hợp kết quả thi tốt nghiệp THPT với chứng chỉ ngoại ngữ để xét tuyển. Phương thức 5: Kết hợp kết quả học tập cấp THPT với chứng chỉ ngoại ngữ để xét tuyển. Khám phá thêm Giáo dục Khóa học Hướng dẫn và thông tin du lịch",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 QUY CHẾ Đối với các phương thức 1: - Điểm ưu tiên: áp dụng theo quy chế tuyển sinh năm của Bộ GD&ĐT. - Điểm cộng: bao gồm điểm thưởng, điểm xét thưởng và điểm khuyến khích. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM THI THPT STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7140231 Sư phạm Tiếng Anh D01; D14; D15 2 7140233 Sư phạm Tiếng Pháp D01; D03; D15; D44 3 7140234 Sư phạm Tiếng Trung Quốc D01; D04; D15; D45 4 7220201 Ngôn ngữ Anh D01; D14; D15 5 7220202 Ngôn ngữ Nga D01; D02; D14; D15; D42; D",
+      "eligibility": null,
+      "rules": "QUY CHẾ Đối với các phương thức 1: - Điểm ưu tiên: áp dụng theo quy chế tuyển sinh năm của Bộ GD&ĐT. - Điểm cộng: bao gồm điểm thưởng, điểm xét thưởng và điểm khuyến khích.",
+      "programs": [
+        {
+          "program_code": "7140231",
+          "program_name": "Sư phạm Tiếng Anh",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140233",
+          "program_name": "Sư phạm Tiếng Pháp",
+          "subject_groups": [
+            "D01",
+            "D03",
+            "D15",
+            "D44"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7140234",
+          "program_name": "Sư phạm Tiếng Trung Quốc",
+          "subject_groups": [
+            "D01",
+            "D04",
+            "D15",
+            "D45"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7220202",
+          "program_name": "Ngôn ngữ Nga",
+          "subject_groups": [
+            "D01",
+            "D02",
+            "D14",
+            "D15",
+            "D42",
+            "D62"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7220203",
+          "program_name": "Ngôn ngữ Pháp",
+          "subject_groups": [
+            "D01",
+            "D03",
+            "D14",
+            "D15",
+            "D44",
+            "D64"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7220204",
+          "program_name": "Ngôn ngữ Trung Quốc",
+          "subject_groups": [
+            "D01",
+            "D04",
+            "D15",
+            "D45"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7220209",
+          "program_name": "Ngôn ngữ Nhật",
+          "subject_groups": [
+            "D01",
+            "D06",
+            "D15",
+            "D43"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7220210",
+          "program_name": "Ngôn ngữ Hàn Quốc",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15",
+            "DH1",
+            "DH5"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7310601",
+          "program_name": "Quốc tế học",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15",
+            "D66"
+          ],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "10"
+        },
+        {
+          "program_code": "7310630",
+          "program_name": "Việt Nam học",
+          "subject_groups": [
+            "C00",
+            "D01",
+            "D14",
+            "D15",
+            "D66"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7310640",
+          "program_name": "Hoa Kỳ học",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15",
+            "D66"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7320107",
+          "program_name": "Truyền thông quốc tế",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15",
+            "D66"
+          ],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "13"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-hoc-ba",
+      "method_name": "2 ĐIỂM HỌC BẠ",
+      "description": "2.1 QUY CHẾ Xét điểm trung bình chung kết quả học tập cả 03 (ba) năm các lớp 10, 11, 12 của 03 môn trong tổ hợp xét tuyển ở cấp THPT làm tròn đến 02 chữ số thập phân. - Điểm ưu tiên: áp dụng theo quy chế tuyển sinh năm của Bộ GD&ĐT. - Điểm cộng: bao gồm điểm thưởng, điểm xét thưởng và điểm khuyến khích. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM HỌC BẠ STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7140231 Sư phạm Tiếng Anh D01; D14; D15 2 7140233 Sư phạm Tiếng Pháp D01; D03; D15; D44 3 7140234 Sư p",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét điểm trung bình chung kết quả học tập cả 03 (ba) năm các lớp 10, 11, 12 của 03 môn trong tổ hợp xét tuyển ở cấp THPT làm tròn đến 02 chữ số thập phân. - Điểm ưu tiên: áp dụng theo quy chế tuyển sinh năm của Bộ GD&ĐT. - Điểm cộng: bao gồm điểm thưởng, điểm xét thưởng và điểm khuyến khích.",
+      "programs": [
+        {
+          "program_code": "7140231",
+          "program_name": "Sư phạm Tiếng Anh",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140233",
+          "program_name": "Sư phạm Tiếng Pháp",
+          "subject_groups": [
+            "D01",
+            "D03",
+            "D15",
+            "D44"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7140234",
+          "program_name": "Sư phạm Tiếng Trung Quốc",
+          "subject_groups": [
+            "D01",
+            "D04",
+            "D15",
+            "D45"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7220202",
+          "program_name": "Ngôn ngữ Nga",
+          "subject_groups": [
+            "D01",
+            "D02",
+            "D14",
+            "D15",
+            "D42",
+            "D62"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7220203",
+          "program_name": "Ngôn ngữ Pháp",
+          "subject_groups": [
+            "D01",
+            "D03",
+            "D14",
+            "D15",
+            "D44",
+            "D64"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7220204",
+          "program_name": "Ngôn ngữ Trung Quốc",
+          "subject_groups": [
+            "D01",
+            "D04",
+            "D15",
+            "D45"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7220209",
+          "program_name": "Ngôn ngữ Nhật",
+          "subject_groups": [
+            "D01",
+            "D06",
+            "D15",
+            "D43"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7220210",
+          "program_name": "Ngôn ngữ Hàn Quốc",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15",
+            "DH1",
+            "DH5"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7310601",
+          "program_name": "Quốc tế học",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15",
+            "D66"
+          ],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "10"
+        },
+        {
+          "program_code": "7310630",
+          "program_name": "Việt Nam học",
+          "subject_groups": [
+            "C00",
+            "D01",
+            "D14",
+            "D15",
+            "D66"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7310640",
+          "program_name": "Hoa Kỳ học",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15",
+            "D66"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7320107",
+          "program_name": "Truyền thông quốc tế",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15",
+            "D66"
+          ],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "13"
+        }
+      ]
+    },
+    {
+      "method_id": "3-ket-hop-ket-qua-hoc-tap-cap-thpt-voi-chung-chi-ngoai-ngu-e-xet-tuyen",
+      "method_name": "3 KẾT HỢP KẾT QUẢ HỌC TẬP CẤP THPT VỚI CHỨNG CHỈ NGOẠI NGỮ ĐỂ XÉT TUYỂN",
+      "description": "3.1 QUY CHẾ - Điểm ưu tiên: áp dụng theo quy chế tuyển sinh năm của Bộ GD&ĐT. - Điểm cộng: bao gồm điểm thưởng, điểm xét thưởng và điểm khuyến khích. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM XÉT TUYỂN KẾT HỢP STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7140231 Sư phạm Tiếng Anh 2 7140233 Sư phạm Tiếng Pháp 3 7140234 Sư phạm Tiếng Trung Quốc 4 7220201 Ngôn ngữ Anh 5 7220202 Ngôn ngữ Nga 6 7220203 Ngôn ngữ Pháp 7 7220204 Ngôn ngữ Trung Quốc 8 7220209 Ngôn ngữ Nhật 9 7220210 Ngôn ngữ Hàn Quốc 10 7",
+      "eligibility": null,
+      "rules": "QUY CHẾ - Điểm ưu tiên: áp dụng theo quy chế tuyển sinh năm của Bộ GD&ĐT. - Điểm cộng: bao gồm điểm thưởng, điểm xét thưởng và điểm khuyến khích.",
+      "programs": [
+        {
+          "program_code": "7140231",
+          "program_name": "Sư phạm Tiếng Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140233",
+          "program_name": "Sư phạm Tiếng Pháp",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7140234",
+          "program_name": "Sư phạm Tiếng Trung Quốc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7220202",
+          "program_name": "Ngôn ngữ Nga",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7220203",
+          "program_name": "Ngôn ngữ Pháp",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7220204",
+          "program_name": "Ngôn ngữ Trung Quốc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7220209",
+          "program_name": "Ngôn ngữ Nhật",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7220210",
+          "program_name": "Ngôn ngữ Hàn Quốc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7310601",
+          "program_name": "Quốc tế học",
+          "subject_groups": [],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "10"
+        },
+        {
+          "program_code": "7310630",
+          "program_name": "Việt Nam học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7310640",
+          "program_name": "Hoa Kỳ học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7320107",
+          "program_name": "Truyền thông quốc tế",
+          "subject_groups": [],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "13"
+        }
+      ]
+    },
+    {
+      "method_id": "4-utxt-xt-thang",
+      "method_name": "4 ƯTXT, XT THẲNG",
+      "description": "4.1 QUY CHẾ - Thí sinh đạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia, quốc tế; thời gian đạt giải không quá 03 năm tính đến thời điểm xét tuyển (03/8/2026) được xét tuyển thẳng vào ngành đào tạo mà môn đạt giải có trong tổ hợp môn xét tuyển. - Các điều kiện ưu tiên xét tuyển thẳng khác sẽ được Hội đồng tuyển sinh của Đại học Huế xem xét quyết định trên từng trường hợp cụ thể, phù hợp với ngành học. - Nếu số lượng hồ sơ đăng ký vượt chỉ tiêu tuyển thẳng, thứ tự ưu tiên xét tuyển",
+      "eligibility": null,
+      "rules": "QUY CHẾ - Thí sinh đạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia, quốc tế; thời gian đạt giải không quá 03 năm tính đến thời điểm xét tuyển (03/8/2026) được xét tuyển thẳng vào ngành đào tạo mà môn đạt giải có trong tổ hợp môn xét tuyển. - Các điều kiện ưu tiên xét tuyển thẳng khác sẽ được Hội đồng tuyển sinh của Đại học Huế xem xét quyết định trên từng trường hợp cụ thể, phù hợp với ngành học. - Nếu số lượng hồ sơ đăng ký vượt chỉ tiêu tuyển thẳng, thứ tự ưu tiên xét tuyển từ cấp đạt giải, thứ tự đạt giải, điểm trung bình cộng của điểm trung bình chung học tập cả năm lớp 10, lớp 11 và lớp 12.",
+      "programs": []
+    },
+    {
+      "method_id": "5-ket-hop-ket-qua-thi-tot-nghiep-thpt-voi-chung-chi-ngoai-ngu-e-xet-tuyen",
+      "method_name": "5 KẾT HỢP KẾT QUẢ THI TỐT NGHIỆP THPT VỚI CHỨNG CHỈ NGOẠI NGỮ ĐỂ XÉT TUYỂN",
+      "description": "5.1 QUY CHẾ - Điểm ưu tiên: áp dụng theo quy chế tuyển sinh năm của Bộ GD&ĐT. - Điểm cộng: bao gồm điểm thưởng, điểm xét thưởng và điểm khuyến khích. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC CHỨNG CHỈ QUỐC TẾ STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7140231 Sư phạm Tiếng Anh 2 7140233 Sư phạm Tiếng Pháp 3 7140234 Sư phạm Tiếng Trung Quốc 4 7220201 Ngôn ngữ Anh 5 7220202 Ngôn ngữ Nga 6 7220203 Ngôn ngữ Pháp 7 7220204 Ngôn ngữ Trung Quốc 8 7220209 Ngôn ngữ Nhật 9 7220210 Ngôn ngữ Hàn Quốc 10 731060",
+      "eligibility": null,
+      "rules": "QUY CHẾ - Điểm ưu tiên: áp dụng theo quy chế tuyển sinh năm của Bộ GD&ĐT. - Điểm cộng: bao gồm điểm thưởng, điểm xét thưởng và điểm khuyến khích.",
+      "programs": [
+        {
+          "program_code": "7140231",
+          "program_name": "Sư phạm Tiếng Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140233",
+          "program_name": "Sư phạm Tiếng Pháp",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7140234",
+          "program_name": "Sư phạm Tiếng Trung Quốc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7220202",
+          "program_name": "Ngôn ngữ Nga",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7220203",
+          "program_name": "Ngôn ngữ Pháp",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7220204",
+          "program_name": "Ngôn ngữ Trung Quốc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7220209",
+          "program_name": "Ngôn ngữ Nhật",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7220210",
+          "program_name": "Ngôn ngữ Hàn Quốc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7310601",
+          "program_name": "Quốc tế học",
+          "subject_groups": [],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "10"
+        },
+        {
+          "program_code": "7310630",
+          "program_name": "Việt Nam học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7310640",
+          "program_name": "Hoa Kỳ học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7320107",
+          "program_name": "Truyền thông quốc tế",
+          "subject_groups": [],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "13"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7140231",
+          "program_name": "Sư phạm Tiếng Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140231",
+          "program_name": "Sư phạm Tiếng Anh",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140233",
+          "program_name": "Sư phạm Tiếng Pháp",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7140233",
+          "program_name": "Sư phạm Tiếng Pháp",
+          "subject_groups": [
+            "D01",
+            "D03",
+            "D15",
+            "D44"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7140234",
+          "program_name": "Sư phạm Tiếng Trung Quốc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7140234",
+          "program_name": "Sư phạm Tiếng Trung Quốc",
+          "subject_groups": [
+            "D01",
+            "D04",
+            "D15",
+            "D45"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7220202",
+          "program_name": "Ngôn ngữ Nga",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7220202",
+          "program_name": "Ngôn ngữ Nga",
+          "subject_groups": [
+            "D01",
+            "D02",
+            "D14",
+            "D15",
+            "D42",
+            "D62"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7220203",
+          "program_name": "Ngôn ngữ Pháp",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7220203",
+          "program_name": "Ngôn ngữ Pháp",
+          "subject_groups": [
+            "D01",
+            "D03",
+            "D14",
+            "D15",
+            "D44",
+            "D64"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7220204",
+          "program_name": "Ngôn ngữ Trung Quốc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7220204",
+          "program_name": "Ngôn ngữ Trung Quốc",
+          "subject_groups": [
+            "D01",
+            "D04",
+            "D15",
+            "D45"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7220209",
+          "program_name": "Ngôn ngữ Nhật",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7220209",
+          "program_name": "Ngôn ngữ Nhật",
+          "subject_groups": [
+            "D01",
+            "D06",
+            "D15",
+            "D43"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7220210",
+          "program_name": "Ngôn ngữ Hàn Quốc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7220210",
+          "program_name": "Ngôn ngữ Hàn Quốc",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15",
+            "DH1",
+            "DH5"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7310601",
+          "program_name": "Quốc tế học",
+          "subject_groups": [],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "10"
+        },
+        {
+          "program_code": "7310601",
+          "program_name": "Quốc tế học",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15",
+            "D66"
+          ],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "10"
+        },
+        {
+          "program_code": "7310630",
+          "program_name": "Việt Nam học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7310630",
+          "program_name": "Việt Nam học",
+          "subject_groups": [
+            "C00",
+            "D01",
+            "D14",
+            "D15",
+            "D66"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7310640",
+          "program_name": "Hoa Kỳ học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7310640",
+          "program_name": "Hoa Kỳ học",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15",
+            "D66"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7320107",
+          "program_name": "Truyền thông quốc tế",
+          "subject_groups": [],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "13"
+        },
+        {
+          "program_code": "7320107",
+          "program_name": "Truyền thông quốc tế",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15",
+            "D66"
+          ],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "13"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": null,
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-ngoai-ngu-hue-DHF.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140231",
+            "program_name": "Sư phạm Tiếng Anh",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 30,
+            "note": null
+          },
+          {
+            "program_code": "7140233",
+            "program_name": "Sư phạm Tiếng Pháp",
+            "subject_groups": [
+              "D01",
+              "D03",
+              "D15",
+              "D44"
+            ],
+            "score": 27.4,
+            "note": null
+          },
+          {
+            "program_code": "7140234",
+            "program_name": "Sư phạm Tiếng Trung Quốc",
+            "subject_groups": [
+              "D01",
+              "D04",
+              "D15",
+              "D45"
+            ],
+            "score": 30,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 23,
+            "note": null
+          },
+          {
+            "program_code": "7220202",
+            "program_name": "Ngôn ngữ Nga",
+            "subject_groups": [
+              "D01",
+              "D02",
+              "D14",
+              "D15",
+              "D42",
+              "D62"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7220203",
+            "program_name": "Ngôn ngữ Pháp",
+            "subject_groups": [
+              "D01",
+              "D03",
+              "D14",
+              "D15",
+              "D44",
+              "D64"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "D01",
+              "D04",
+              "D15",
+              "D45"
+            ],
+            "score": 26.6,
+            "note": null
+          },
+          {
+            "program_code": "7220209",
+            "program_name": "Ngôn ngữ Nhật",
+            "subject_groups": [
+              "D01",
+              "D06",
+              "D15",
+              "D43"
+            ],
+            "score": 16.25,
+            "note": null
+          },
+          {
+            "program_code": "7220210",
+            "program_name": "Ngôn ngữ Hàn Quốc",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "D15",
+              "DH1",
+              "DH5"
+            ],
+            "score": 23.6,
+            "note": null
+          },
+          {
+            "program_code": "7310601",
+            "program_name": "Quốc tế học",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "D15",
+              "D66",
+              "X78"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học",
+            "subject_groups": [
+              "C00",
+              "D01",
+              "D14",
+              "D15",
+              "D66",
+              "X78"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7310640",
+            "program_name": "Hoa Kỳ học",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "D15",
+              "D66"
+            ],
+            "score": 15,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140231",
+            "program_name": "Sư phạm Tiếng Anh",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 30,
+            "note": null
+          },
+          {
+            "program_code": "7140233",
+            "program_name": "Sư phạm Tiếng Pháp",
+            "subject_groups": [
+              "D01",
+              "D03",
+              "D15",
+              "D44"
+            ],
+            "score": 27.66,
+            "note": null
+          },
+          {
+            "program_code": "7140234",
+            "program_name": "Sư phạm Tiếng Trung Quốc",
+            "subject_groups": [
+              "D01",
+              "D04",
+              "D15",
+              "D45"
+            ],
+            "score": 30,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 24.05,
+            "note": null
+          },
+          {
+            "program_code": "7220202",
+            "program_name": "Ngôn ngữ Nga",
+            "subject_groups": [
+              "D01",
+              "D02",
+              "D14",
+              "D15",
+              "D42",
+              "D62"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7220203",
+            "program_name": "Ngôn ngữ Pháp",
+            "subject_groups": [
+              "D01",
+              "D03",
+              "D14",
+              "D15",
+              "D44",
+              "D64"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "D01",
+              "D04",
+              "D15",
+              "D45"
+            ],
+            "score": 26.94,
+            "note": null
+          },
+          {
+            "program_code": "7220209",
+            "program_name": "Ngôn ngữ Nhật",
+            "subject_groups": [
+              "D01",
+              "D06",
+              "D15",
+              "D43"
+            ],
+            "score": 18.43,
+            "note": null
+          },
+          {
+            "program_code": "7220210",
+            "program_name": "Ngôn ngữ Hàn Quốc",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "D15",
+              "DH1",
+              "DH5"
+            ],
+            "score": 24.38,
+            "note": null
+          },
+          {
+            "program_code": "7310601",
+            "program_name": "Quốc tế học",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "D15",
+              "D66",
+              "X78"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học",
+            "subject_groups": [
+              "C00",
+              "D01",
+              "D14",
+              "D15",
+              "D66",
+              "X78"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7310640",
+            "program_name": "Hoa Kỳ học",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "D15",
+              "D66"
+            ],
+            "score": 18,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

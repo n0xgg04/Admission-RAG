@@ -1,0 +1,938 @@
+{
+  "university": {
+    "code": "DPC",
+    "name": "Đại học Phan Châu Trinh",
+    "short_name": "PCTU",
+    "location": [
+      "Đà Nẵng"
+    ],
+    "address": "Số 09 Nguyễn Gia Thiều, phường Điện Bàn Đông, Thành phố Đà Nẵng",
+    "website": "http://pctu.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-phan-chau-trinh-DPC.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0413/thong-tin-tuyen-sinh-dai-hoc-phan-chau-trinh-2026.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC PHAN CHÂU TRINH 2026 Thông tin tuyển sinh Đại học Phan Châu Trinh (PCTU) năm 2026 Năm 2026, Đại học Phan Châu Trinh tuyển sinh với 5 phương thức xét tuyển cụ thể: Phương thức 1 (Mã PT1): Xét kết quả thi tốt nghiệp THPT Phương thức 2 (Mã PT2): Xét kết quả học tập cấp THPT (Học bạ) Phương thức 3 (Mã PT3): Xét điểm thi Đánh giá năng lực Phương thức 4 (Mã PT4): Xét kết quả tốt nghiệp Đại học Phương thức 5 (Mã PT5): Xét tuyển thẳng",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 QUY CHẾ Điểm xét tuyển = ĐM1 + ĐM2 + ĐM3 + Điểm ƯT. Trong đó: ĐM1, ĐM2, ĐM3 là điểm thi tốt nghiệp THPT năm 2026 của 03 môn tương ứng với 03 môn của tổ hợp xét tuyển. Trong số các tổ hợp xét tuyển quy định cho từng ngành, tổ hợp có điểm cao nhất sẽ được chọn để xét cho thí sinh. Điểm ƯT: Là điểm ưu tiên khu vực và ưu tiên đổi tượng, được xác định Quy chế tuyển sinh hiện hành Dựa trên hình ảnh bạn cung cấp, đây là nội dung văn bản được chuyển đổi đầy đủ và chính xác: Điểm ưu tiên Điểm ưu tiên",
+      "eligibility": "đối tượng) giảm dần từ mức 22,5 điểm (hoặc 112,5 điểm / 37,5 điểm / 300 điểm) để đảm bảo tổng điểm xét tuyển không vượt quá điểm tối đa của thang điểm 30 (hoặc 150/450/1200). Công thức tính cụ thể như sau: Với thang điểm 30, công thức tính sẽ là: Điểm ưu tiên = [(30 - Tổng điểm đạt được) / 7,5] \\Mức điểm ưu tiên Với thang điểm 150, công thức tính sẽ là: Điểm ưu tiên = [(150 - Tổng điểm đạt được) / 37,5] \\ Mức điểm ưu tiên Với thang điểm 450, công thức tính sẽ là: Điểm ưu tiên = [(450 - Tổng điểm đạt được) / 112,5] \\ Mức điểm ưu tiên Với thang điểm 1200, công thức tính sẽ là: Điểm ưu tiên = [(1200 - Tổng điểm đạt được) / 300] \\Mức điểm ưu tiên Bảng quy định mức điểm ưu tiên khu vực và đối tượng theo từng thang điểm: TT Trường hợp ưu tiên Thang điểm 30 Thang điểm 150 Thang điểm 450 Thang điểm 1200 1. Khu vực 1 (KV1) 0,75 3,25 11,25 30,0 2. Khu vực 2 nông thôn (KV2-NT) 0,50 2,25 7,50 20,0 3. Khu vực 2 (KV2) 0,25 1,25 3,75 10,0 4. Khu vực 3 (KV3) 0,0 0,0 0,0 0,0 5. Đối tượng ưu tiên từ 01 đến 04 2,0 10,0 30,0 80,0 6. Đối tượng ưu tiên từ 05 đến 07 1,0 5,0 15,0 40,0 Với tổ hợp xét tuyển có môn Tiếng Anh, điểm môn Tiếng Anh có thể được chọn từ điểm thi môn Tiếng Anh hoặc điểm quy đổi từ chứng chi IELTS theo bảng quy đổi ở tùy theo điểm nào cao hơn. TT Mức điểm IELTS Mức điểm quy đổi 1 Từ 6,5 trở lên 10 2 Từ 6,0 đến dưới 6,5 9,5 3 Từ 5,5 đến dưới 6,0 9 4 Từ 5,0 đến dưới 5,5 8,5 5 Từ 4,0 đến dưới 5,0 8 Độ lệch chuẩn giữa các tổ hợp xét tuyển là 0 (không). *Ngưỡng đầu vào: Đối với những ngành thuộc lĩnh vực sức khỏe có cấp giấy phép hành nghề, điểm xét tuyển không thấp hơn ngưỡng điểm do Bộ Giáo dục và Đào tạo quy định trong năm tuyển sinh năm 2026. Đối với ngành Tâm lý học, Quản trị bệnh viện, Trường Đại học Phan Châu Trinh sẽ công bố theo",
+      "rules": "QUY CHẾ Điểm xét tuyển = ĐM1 + ĐM2 + ĐM3 + Điểm ƯT. Trong đó: ĐM1, ĐM2, ĐM3 là điểm thi tốt nghiệp THPT năm 2026 của 03 môn tương ứng với 03 môn của tổ hợp xét tuyển. Trong số các tổ hợp xét tuyển quy định cho từng ngành, tổ hợp có điểm cao nhất sẽ được chọn để xét cho thí sinh. Điểm ƯT: Là điểm ưu tiên khu vực và ưu tiên đổi tượng, được xác định Quy chế tuyển sinh hiện hành Dựa trên hình ảnh bạn cung cấp, đây là nội dung văn bản được chuyển đổi đầy đủ và chính xác: Điểm ưu tiên Điểm ưu tiên chỉ áp dụng cho phương thức 1, 2, 3. Điểm ưu tiên (khu vực,",
+      "programs": [
+        {
+          "program_code": "TT",
+          "program_name": "Trường hợp ưu tiên",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "Thang điểm 30"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-hoc-ba",
+      "method_name": "2 ĐIỂM HỌC BẠ",
+      "description": "2.1 QUY CHẾ Điểm xét tuyển = ĐM1 + ĐM2 + ĐM3 + Điểm UT. Trong đó: ĐM1, ĐM2, ĐM3 là điểm trung bình chung kết quả học tập cả năm lớp 10, 11, 12 của 03 môn học theo tổ hợp xét tuyển. Trong số các tổ hợp xét tuyển quy định cho từng ngành, tổ hợp có điểm cao nhất sẽ được chọn để xét cho thí sinh. Điểm ƯT: Là điểm ưu tiên khu vực và ưu tiên đôi tượng, được xác định Quy chế tuyển sinh hiện hành (chi tiết ở mục 5.2). Với tổ hợp xét tuyển có môn Tiếng Anh, điểm môn Tiếng Anh có thể được chọn từ điểm tru",
+      "eligibility": null,
+      "rules": "QUY CHẾ Điểm xét tuyển = ĐM1 + ĐM2 + ĐM3 + Điểm UT. Trong đó: ĐM1, ĐM2, ĐM3 là điểm trung bình chung kết quả học tập cả năm lớp 10, 11, 12 của 03 môn học theo tổ hợp xét tuyển. Trong số các tổ hợp xét tuyển quy định cho từng ngành, tổ hợp có điểm cao nhất sẽ được chọn để xét cho thí sinh. Điểm ƯT: Là điểm ưu tiên khu vực và ưu tiên đôi tượng, được xác định Quy chế tuyển sinh hiện hành (chi tiết ở mục 5.2). Với tổ hợp xét tuyển có môn Tiếng Anh, điểm môn Tiếng Anh có thể được chọn từ điểm trung bình cả năm lớp 10, 11 và 12 môn Tiếng Anh hoặc điểm quy đổi từ chứng chỉ IELTS theo bảng quy đổi ở mục 5.4 tùy theo điểm nào cao hơn. Độ lệch chuẩn giữa các tổ hợp xét tuyển là 0 (không). *Ngưỡng đầu vào: Với ngành Y khoa, Răng Hàm Mặt: Thí sinh tốt nghiệp THPT từ năm 2023 trở về sau và có kết quả học tập cả năm lớp 10, 11 và 12 được đánh giá mức Tốt (học lực xếp loại từ Giỏi trở lên) và tổng điêm 03 môn thi tôt nghiệp THPT năm 2026 theo tổ hợp xét tuyển đạt từ 20,00 điểm trở lên hoặc điểm xét tốt nghiệp THPT ≥ 8,5. Không xét với thí sinh theo học hệ giáo dục thường xuyên (GDTX). Với ngành Điều dưỡng đa khoa, Điều dưỡng Nha khoa, Kỹ thuật xét nghiệm: Thí sinh tốt nghiệp THPT từ năm 2021 trở về sau, có kết quả học tập cả năm lớp 12 được đánh giá mức Khá hoặc Tốt (học lực xếp loại từ Khá trở lên) và tổng điểm 03 môn thi tốt nghiệp THPT năm 2026 theo tổ hợp xét tuyễn đạt từ 16,50 điểm trở lên hoặc điểm xét tốt nghiệp THPT ≥ 6,5. Với ngành Tâm lý học, Quản trị bệnh viện: Thí sinh có tổng điểm 03 môn thi tốt nghiệp THPT năm 2026 theo tổ hợp xét tuyển đạt từ 15,00 điểm trở lên (không áp dụng đối với thí sinh thuộc diện đặc cách xét tốt nghiệp THPT, thí sinh đạt giải quốc gia, quốc tế áp dụng phương thức xét tuyển thẳng hoặc thí sinh tốt nghiệp từ năm 2025 trở về trước).",
+      "programs": [
+        {
+          "program_code": "7310401",
+          "program_name": "Tâm lý học (định hướng lâm sàng và tham vấn tâm lý)",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "B03",
+            "C01",
+            "C02",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị bệnh viện",
+          "subject_groups": [
+            "A00",
+            "C01",
+            "C02",
+            "C14",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "B08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720501",
+          "program_name": "Răng - Hàm - Mặt",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "B08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật xét nghiệm у học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "B08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        }
+      ]
+    },
+    {
+      "method_id": "3-iem-gnl-hcm",
+      "method_name": "3 ĐIỂM ĐGNL HCM",
+      "description": "3.1 QUY CHẾ Điểm xét tuyển = (NL1 + Điểm ƯT) /1200 * 100 Trong đó, NL1 là điểm bài thi Đánh giá năng lực ĐHQG Hồ Chí Minh *Ngưỡng đầu vào: Với ngành Y khoa, Răng Hàm Mặt: Thí sinh có kết quả học tập cả năm lớp 10, 11 và 12 được đánh giá mức Tốt (học lực xếp loại từ Giỏi trở lên) và tổng điểm 03 môn thi tốt nghiệp THPT năm 2026 theo tổ hợp xét tuyển đạt từ 20,00 điểm trở lên hoặc điểm xét tốt nghiệp THPT > 8,5 và có điểm bài thi ĐGNL của ĐHQG HCM (NL1)≥ 700 hoặc của ĐHQG HN (NL2) ≥ 90, hoặc có đi",
+      "eligibility": null,
+      "rules": "QUY CHẾ Điểm xét tuyển = (NL1 + Điểm ƯT) /1200 * 100 Trong đó, NL1 là điểm bài thi Đánh giá năng lực ĐHQG Hồ Chí Minh *Ngưỡng đầu vào: Với ngành Y khoa, Răng Hàm Mặt: Thí sinh có kết quả học tập cả năm lớp 10, 11 và 12 được đánh giá mức Tốt (học lực xếp loại từ Giỏi trở lên) và tổng điểm 03 môn thi tốt nghiệp THPT năm 2026 theo tổ hợp xét tuyển đạt từ 20,00 điểm trở lên hoặc điểm xét tốt nghiệp THPT > 8,5 và có điểm bài thi ĐGNL của ĐHQG HCM (NL1)≥ 700 hoặc của ĐHQG HN (NL2) ≥ 90, hoặc có điểm bài thi V-SAT (NL3) ≥ 270. Với tổ hợp NL3 thì yêu cầu có thi môn Sinh hoặc có học môn Sinh ở bậc THPT. Với ngành Điều dưỡng đa khoa, Điều dưỡng Nha khoa, Kỹ thuật xét nghiệm: Thí sinh có kết quả học tập cả năm lớp 12 được đánh giá mức Khá hoặc Tốt (học lực xếp loại từ Khá trở lên) và tổng điểm 03 môn thi tốt nghiệp THPT năm 2026 theo tổ hợp xét tuyển đạt từ 16,50 điểm trở lên hoặc điểm xét tốt nghiệp THPT ≥ 6,5 và có điểm bài thi ĐGNL của ĐHQG HCM (NL1) ≥ 600 hoặc của ĐHQG HN (NL2) ≥ 80, hoặc có điểm bài thi V-SAT (NL3) ≥ 230. Với ngành Tâm lý học, Quản trị bệnh viện: Thí sinh có tổng điêm 03 môn thi tốt nghiệp THPT năm 2026 theo tổ hợp xét tuyển đạt từ 15,00 điểm trở lên (không áp dụng đổi với thí sinh thuộc diện đặc cách xét tôt nghiệp THPT, thí sinh đạt giải quốc gia, quốc tế áp dụng phương thức xét tuyền thẳng hoặc thí sinh tốt nghiệp từ năm 2025 trở về trước) và có điểm bài thi ĐGNL của ĐHQG HCM (NL1) ≥ 500 hoặc của ĐHQG HN (NL2) ≥60, hoặc có điểm bài thi VSAT (NL3) ≥ 180",
+      "programs": [
+        {
+          "program_code": "7310401",
+          "program_name": "Tâm lý học (định hướng lâm sàng và tham vấn tâm lý)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị bệnh viện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720501",
+          "program_name": "Răng - Hàm - Mặt",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật xét nghiệm у học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        }
+      ]
+    },
+    {
+      "method_id": "4-iem-gnl-hn",
+      "method_name": "4 ĐIỂM ĐGNL HN",
+      "description": "4.1 QUY CHẾ Điểm xét tuyển = (NL2 + Điểm UT) /150* 100 Trong đó, NL2 là điểm bài thi Đánh giá năng lực ĐHQG Hà Nội. *Ngưỡng đầu vào: Với ngành Y khoa, Răng Hàm Mặt: Thí sinh có kết quả học tập cả năm lớp 10, 11 và 12 được đánh giá mức Tốt (học lực xếp loại từ Giỏi trở lên) và tổng điểm 03 môn thi tốt nghiệp THPT năm 2026 theo tổ hợp xét tuyển đạt từ 20,00 điểm trở lên hoặc điểm xét tốt nghiệp THPT > 8,5 và có điểm bài thi ĐGNL của ĐHQG HCM (NL1)≥ 700 hoặc của ĐHQG HN (NL2) ≥ 90, hoặc có điểm bài",
+      "eligibility": null,
+      "rules": "QUY CHẾ Điểm xét tuyển = (NL2 + Điểm UT) /150* 100 Trong đó, NL2 là điểm bài thi Đánh giá năng lực ĐHQG Hà Nội. *Ngưỡng đầu vào: Với ngành Y khoa, Răng Hàm Mặt: Thí sinh có kết quả học tập cả năm lớp 10, 11 và 12 được đánh giá mức Tốt (học lực xếp loại từ Giỏi trở lên) và tổng điểm 03 môn thi tốt nghiệp THPT năm 2026 theo tổ hợp xét tuyển đạt từ 20,00 điểm trở lên hoặc điểm xét tốt nghiệp THPT > 8,5 và có điểm bài thi ĐGNL của ĐHQG HCM (NL1)≥ 700 hoặc của ĐHQG HN (NL2) ≥ 90, hoặc có điểm bài thi V-SAT (NL3) ≥ 270. Với tổ hợp NL3 thì yêu cầu có thi môn Sinh hoặc có học môn Sinh ở bậc THPT. Với ngành Điều dưỡng đa khoa, Điều dưỡng Nha khoa, Kỹ thuật xét nghiệm: Thí sinh có kết quả học tập cả năm lớp 12 được đánh giá mức Khá hoặc Tốt (học lực xếp loại từ Khá trở lên) và tổng điểm 03 môn thi tốt nghiệp THPT năm 2026 theo tổ hợp xét tuyển đạt từ 16,50 điểm trở lên hoặc điểm xét tốt nghiệp THPT ≥ 6,5 và có điểm bài thi ĐGNL của ĐHQG HCM (NL1) ≥ 600 hoặc của ĐHQG HN (NL2) ≥ 80, hoặc có điểm bài thi V-SAT (NL3) ≥ 230. Với ngành Tâm lý học, Quản trị bệnh viện: Thí sinh có tổng điêm 03 môn thi tốt nghiệp THPT năm 2026 theo tổ hợp xét tuyển đạt từ 15,00 điểm trở lên (không áp dụng đổi với thí sinh thuộc diện đặc cách xét tôt nghiệp THPT, thí sinh đạt giải quốc gia, quốc tế áp dụng phương thức xét tuyền thẳng hoặc thí sinh tốt nghiệp từ năm 2025 trở về trước) và có điểm bài thi ĐGNL của ĐHQG HCM (NL1) ≥ 500 hoặc của ĐHQG HN (NL2) ≥60, hoặc có điểm bài thi VSAT (NL3) ≥ 180",
+      "programs": [
+        {
+          "program_code": "7310401",
+          "program_name": "Tâm lý học (định hướng lâm sàng và tham vấn tâm lý)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị bệnh viện",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720501",
+          "program_name": "Răng - Hàm - Mặt",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật xét nghiệm у học",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        }
+      ]
+    },
+    {
+      "method_id": "5-iem-anh-gia-au-vao-v-sat",
+      "method_name": "5 ĐIỂM ĐÁNH GIÁ ĐẦU VÀO V-SAT",
+      "description": "5.1 QUY CHẾ Điểm xét tuyển = (NL3 + Điểm ƯT)/450 * 100 Trong đó, NL3 là tổng điểm của 3 bài thi Toán, Hóa, Sinh hoặc Toán, Lý, Sinh hoặc Toán, Sinh, Tiếng Anh *Ngưỡng đầu vào: Với ngành Y khoa, Răng Hàm Mặt: Thí sinh có kết quả học tập cả năm lớp 10, 11 và 12 được đánh giá mức Tốt (học lực xếp loại từ Giỏi trở lên) và tổng điểm 03 môn thi tốt nghiệp THPT năm 2026 theo tổ hợp xét tuyển đạt từ 20,00 điểm trở lên hoặc điểm xét tốt nghiệp THPT > 8,5 và có điểm bài thi ĐGNL của ĐHQG HCM (NL1)≥ 700 ho",
+      "eligibility": null,
+      "rules": "QUY CHẾ Điểm xét tuyển = (NL3 + Điểm ƯT)/450 * 100 Trong đó, NL3 là tổng điểm của 3 bài thi Toán, Hóa, Sinh hoặc Toán, Lý, Sinh hoặc Toán, Sinh, Tiếng Anh *Ngưỡng đầu vào: Với ngành Y khoa, Răng Hàm Mặt: Thí sinh có kết quả học tập cả năm lớp 10, 11 và 12 được đánh giá mức Tốt (học lực xếp loại từ Giỏi trở lên) và tổng điểm 03 môn thi tốt nghiệp THPT năm 2026 theo tổ hợp xét tuyển đạt từ 20,00 điểm trở lên hoặc điểm xét tốt nghiệp THPT > 8,5 và có điểm bài thi ĐGNL của ĐHQG HCM (NL1)≥ 700 hoặc của ĐHQG HN (NL2) ≥ 90, hoặc có điểm bài thi V-SAT (NL3) ≥ 270. Với tổ hợp NL3 thì yêu cầu có thi môn Sinh hoặc có học môn Sinh ở bậc THPT. Với ngành Điều dưỡng đa khoa, Điều dưỡng Nha khoa, Kỹ thuật xét nghiệm: Thí sinh có kết quả học tập cả năm lớp 12 được đánh giá mức Khá hoặc Tốt (học lực xếp loại từ Khá trở lên) và tổng điểm 03 môn thi tốt nghiệp THPT năm 2026 theo tổ hợp xét tuyển đạt từ 16,50 điểm trở lên hoặc điểm xét tốt nghiệp THPT ≥ 6,5 và có điểm bài thi ĐGNL của ĐHQG HCM (NL1) ≥ 600 hoặc của ĐHQG HN (NL2) ≥ 80, hoặc có điểm bài thi V-SAT (NL3) ≥ 230. Với ngành Tâm lý học, Quản trị bệnh viện: Thí sinh có tổng điêm 03 môn thi tốt nghiệp THPT năm 2026 theo tổ hợp xét tuyển đạt từ 15,00 điểm trở lên (không áp dụng đổi với thí sinh thuộc diện đặc cách xét tôt nghiệp THPT, thí sinh đạt giải quốc gia, quốc tế áp dụng phương thức xét tuyền thẳng hoặc thí sinh tốt nghiệp từ năm 2025 trở về trước) và có điểm bài thi ĐGNL của ĐHQG HCM (NL1) ≥ 500 hoặc của ĐHQG HN (NL2) ≥60, hoặc có điểm bài thi VSAT (NL3) ≥ 180",
+      "programs": [
+        {
+          "program_code": "7310401",
+          "program_name": "Tâm lý học (định hướng lâm sàng và tham vấn tâm lý)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị bệnh viện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720501",
+          "program_name": "Răng - Hàm - Mặt",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật xét nghiệm у học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        }
+      ]
+    },
+    {
+      "method_id": "6-utxt-xt-thang",
+      "method_name": "6 ƯTXT, XT THẲNG",
+      "description": "6.1 QUY CHẾ Thực hiện xét tuyển thẳng theo Điều 8, Quy chế tuyển sinh hiện hành của Bộ Giáo dục và Đào tạo và quy định tại mục 7 DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ƯTXT, XT THẲNG STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7310401 Tâm lý học (định hướng lâm sàng và tham vấn tâm lý) 2 7340101 Quản trị bệnh viện 3 7720101 Y khoa 4 7720301B Điều dưỡng Nha khoa 5 7720301А Điều dưỡng đa khoa 6 7720501 Răng - Hàm - Mặt 7 7720601 Kỹ thuật xét nghiệm у học",
+      "eligibility": null,
+      "rules": "QUY CHẾ Thực hiện xét tuyển thẳng theo Điều 8, Quy chế tuyển sinh hiện hành của Bộ Giáo dục và Đào tạo và quy định tại mục 7",
+      "programs": [
+        {
+          "program_code": "7310401",
+          "program_name": "Tâm lý học (định hướng lâm sàng và tham vấn tâm lý)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị bệnh viện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720501",
+          "program_name": "Răng - Hàm - Mặt",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật xét nghiệm у học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7310401",
+          "program_name": "Tâm lý học (định hướng lâm sàng và tham vấn tâm lý)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310401",
+          "program_name": "Tâm lý học (định hướng lâm sàng và tham vấn tâm lý)",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "B03",
+            "C01",
+            "C02",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310401",
+          "program_name": "Tâm lý học (định hướng lâm sàng và tham vấn tâm lý)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị bệnh viện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị bệnh viện",
+          "subject_groups": [
+            "A00",
+            "C01",
+            "C02",
+            "C14",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị bệnh viện",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "B08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720501",
+          "program_name": "Răng - Hàm - Mặt",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7720501",
+          "program_name": "Răng - Hàm - Mặt",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "B08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7720501",
+          "program_name": "Răng - Hàm - Mặt",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật xét nghiệm у học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật xét nghiệm у học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "B08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật xét nghiệm у học",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn của trường Đại học Phan Châu Trinh các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-phan-chau-trinh-DPC.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị bệnh viện",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa (Bác sĩ đa khoa)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 21.5,
+            "note": null
+          },
+          {
+            "program_code": "7720301A",
+            "program_name": "Điều dưỡng đa khoa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7720301B",
+            "program_name": "Điều dưỡng Nha khoa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7720501",
+            "program_name": "Răng - Hàm - Mặt",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 21.75,
+            "note": null
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật xét nghiệm y học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 17,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị bệnh viện",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa (Bác sĩ đa khoa)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 24,
+            "note": null
+          },
+          {
+            "program_code": "7720301A",
+            "program_name": "Điều dưỡng đa khoa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 19.5,
+            "note": null
+          },
+          {
+            "program_code": "7720301B",
+            "program_name": "Điều dưỡng Nha khoa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 19.5,
+            "note": null
+          },
+          {
+            "program_code": "7720501",
+            "program_name": "Răng - Hàm - Mặt",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 24.25,
+            "note": null
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật xét nghiệm y học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 19.5,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị bệnh viện",
+            "subject_groups": [],
+            "score": 63,
+            "note": null
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa (Bác sĩ đa khoa)",
+            "subject_groups": [],
+            "score": 91,
+            "note": null
+          },
+          {
+            "program_code": "7720301A",
+            "program_name": "Điều dưỡng đa khoa",
+            "subject_groups": [],
+            "score": 80,
+            "note": null
+          },
+          {
+            "program_code": "7720301B",
+            "program_name": "Điều dưỡng Nha khoa",
+            "subject_groups": [],
+            "score": 80,
+            "note": null
+          },
+          {
+            "program_code": "7720501",
+            "program_name": "Răng - Hàm - Mặt",
+            "subject_groups": [],
+            "score": 92,
+            "note": null
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật xét nghiệm y học",
+            "subject_groups": [],
+            "score": 80,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị bệnh viện",
+            "subject_groups": [],
+            "score": 500,
+            "note": null
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa (Bác sĩ đa khoa)",
+            "subject_groups": [],
+            "score": 724,
+            "note": null
+          },
+          {
+            "program_code": "7720301A",
+            "program_name": "Điều dưỡng đa khoa",
+            "subject_groups": [],
+            "score": 636,
+            "note": null
+          },
+          {
+            "program_code": "7720301B",
+            "program_name": "Điều dưỡng Nha khoa",
+            "subject_groups": [],
+            "score": 636,
+            "note": null
+          },
+          {
+            "program_code": "7720501",
+            "program_name": "Răng - Hàm - Mặt",
+            "subject_groups": [],
+            "score": 735,
+            "note": null
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật xét nghiệm y học",
+            "subject_groups": [],
+            "score": 636,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-xet-tuyen-ket-hop",
+        "method_name": "Điểm chuẩn theo phương thức Điểm xét tuyển kết hợp năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị bệnh viện",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 15,
+            "note": "Xét điểm thi kết hợp với học bạ"
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị bệnh viện",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 15,
+            "note": "Kết hợp điểm thi THPT và CCQT"
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa (Bác sĩ đa khoa)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 24,
+            "note": "Xét điểm thi kết hợp với học bạ"
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa (Bác sĩ đa khoa)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 21.5,
+            "note": "Kết hợp điểm thi THPT và CCQT"
+          },
+          {
+            "program_code": "7720301A",
+            "program_name": "Điều dưỡng đa khoa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 17,
+            "note": "Kết hợp điểm thi THPT và CCQT"
+          },
+          {
+            "program_code": "7720301A",
+            "program_name": "Điều dưỡng đa khoa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 19.5,
+            "note": "Xét điểm thi kết hợp với học bạ"
+          },
+          {
+            "program_code": "7720301B",
+            "program_name": "Điều dưỡng Nha khoa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 17,
+            "note": "Kết hợp điểm thi THPT và CCQT"
+          },
+          {
+            "program_code": "7720301B",
+            "program_name": "Điều dưỡng Nha khoa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 19.5,
+            "note": "Xét điểm thi kết hợp với học bạ"
+          },
+          {
+            "program_code": "7720501",
+            "program_name": "Răng - Hàm - Mặt",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 24.25,
+            "note": "Xét điểm thi kết hợp với học bạ"
+          },
+          {
+            "program_code": "7720501",
+            "program_name": "Răng - Hàm - Mặt",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 21.75,
+            "note": "Kết hợp điểm thi THPT và CCQT"
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật xét nghiệm y học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 17,
+            "note": "Kết hợp điểm thi THPT và CCQT"
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật xét nghiệm y học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D07"
+            ],
+            "score": 19.5,
+            "note": "Xét điểm thi kết hợp với học bạ"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-anh-gia-au-vao-v-sat",
+        "method_name": "Điểm chuẩn theo phương thức Điểm Đánh giá đầu vào V-SAT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị bệnh viện",
+            "subject_groups": [],
+            "score": 187,
+            "note": null
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa (Bác sĩ đa khoa)",
+            "subject_groups": [],
+            "score": 272,
+            "note": null
+          },
+          {
+            "program_code": "7720301A",
+            "program_name": "Điều dưỡng đa khoa",
+            "subject_groups": [],
+            "score": 239,
+            "note": null
+          },
+          {
+            "program_code": "7720301B",
+            "program_name": "Điều dưỡng Nha khoa",
+            "subject_groups": [],
+            "score": 239,
+            "note": null
+          },
+          {
+            "program_code": "7720501",
+            "program_name": "Răng - Hàm - Mặt",
+            "subject_groups": [],
+            "score": 276,
+            "note": null
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật xét nghiệm y học",
+            "subject_groups": [],
+            "score": 239,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

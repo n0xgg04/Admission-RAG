@@ -1,0 +1,775 @@
+{
+  "university": {
+    "code": "QHY",
+    "name": "Trường Đại học Y Dược - Đại học Quốc gia Hà Nội",
+    "short_name": "UMP",
+    "location": [
+      "Hà Nội"
+    ],
+    "address": "144 Đường Xuân Thuỷ, quận Cầu Giấy, Hà Nội.",
+    "website": "http://ump.vnu.edu.vn",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": 700,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-y-duoc-dai-hoc-quoc-gia-ha-noi-QHY.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0422/thong-tin-tuyen-sinh-dai-hoc-y-duoc-dhqghn-2026.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC Y DƯỢC - ĐHQG HÀ NỘI 2026 Thông tin tuyển sinh trường Đại học Y Dược - Đại học Quốc gia Hà Nội (UMP) năm 2026 Năm 2026, Đại học Y Dược - Đại học Quốc gia Hà Nội (UMP) thông báo tuyển sinh 700 chỉ tiêu với các phương thức sau Phương thức 1: Xét tuyển thẳng và ưu tiên xét tuyển theo Quy chế tuyển sinh hiện hành của Bộ GD&ĐT Phương thức 2: Xét tuyển theo kết quả thi tốt nghiệp THPT năm 2026 - Thí sinh sử dụng kết quả kỳ thi tốt nghiệp THPT năm 2026 đạt ngưỡng đầu vào do Trường ĐHYD quy định; - Thí sinh xét tuyển chứng chỉ tiếng Anh quốc tế kết hợp điểm thi tốt nghiệp THPT 2026 đạt ngưỡng đầu vào do Trường ĐHYD quy định. Phương thức 3: Thí sinh sử dụng kết quả thi đánh giá năng lực học sinh THPT do ĐHQGHN tổ chức (HSA) đạt ngưỡng đầu vào do Trường ĐHYD quy định; Phương thức 4: Dự bị dân tộc. Xem thời gian và hồ sơ đăng ký xét tuyển UMP năm 2026 TẠI ĐÂY",
+  "admission_methods": [
+    {
+      "method_id": "1-utxt-xt-thang",
+      "method_name": "1 ƯTXT, XT THẲNG",
+      "description": "1.1 QUY CHẾ 1. Xét tuyển thẳng: áp dụng với thí sinh thuộc khoản 2a Điều 8 Quy chế tuyển sinh đại học của Bộ GD&ĐT, cụ thể: - Thí sinh đoạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia, quốc tế do Bộ GD&ĐT tổ chức các môn Toán, Lý, Hóa, Sinh, Tin học; thời gian đoạt giải không quá 3 năm tính tới thời điểm xét tuyển thẳng và tốt nghiệp THPT năm 2026. - Thí sinh đăng ký xét tuyển thẳng phải có điểm trung bình chung môn Sinh học trong 3 năm THPT đạt từ 8,0 trở lên đối với các ngành Y",
+      "eligibility": null,
+      "rules": "QUY CHẾ 1. Xét tuyển thẳng: áp dụng với thí sinh thuộc khoản 2a Điều 8 Quy chế tuyển sinh đại học của Bộ GD&ĐT, cụ thể: - Thí sinh đoạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia, quốc tế do Bộ GD&ĐT tổ chức các môn Toán, Lý, Hóa, Sinh, Tin học; thời gian đoạt giải không quá 3 năm tính tới thời điểm xét tuyển thẳng và tốt nghiệp THPT năm 2026. - Thí sinh đăng ký xét tuyển thẳng phải có điểm trung bình chung môn Sinh học trong 3 năm THPT đạt từ 8,0 trở lên đối với các ngành Y khoa, Răng - Hàm - Mặt; đạt từ 7,0 trở lên đối với các ngành Kỹ thuật xét nghiệm y học, Kỹ thuật hình ảnh y học và Điều dưỡng. Đối với ngành Dược học, thí sinh phải có điểm trung bình chung môn Hóa học trong 3 năm THPT đạt từ 8,0 trở lên. Nguyên tắc Xét tuyển thẳng: Xét từ giải cao xuống thấp cho đến hết số lượng tuyển sinh. Trường hợp thí sinh cùng giải thưởng ở cuối",
+      "programs": [
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720501",
+          "program_name": "Răng Hàm Mặt",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật Xét nghiệm Y học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7720602",
+          "program_name": "Kỹ thuật Hình ảnh Y học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-thi-thpt",
+      "method_name": "2 ĐIỂM THI THPT",
+      "description": "2.1 QUY CHẾ Xét tuyển theo kết quả thi tốt nghiệp THPT năm 2026: - Thí sinh sử dụng kết quả kỳ thi tốt nghiệp THPT năm 2026 đạt ngưỡng đầu vào do Trường ĐHYD quy định; - Thí sinh xét tuyển chứng chỉ tiếng Anh quốc tế kết hợp điểm thi tốt nghiệp THPT 2026 đạt ngưỡng đầu vào do Trường ĐHYD quy định. 1. Xét tuyển theo kết quả kỳ thi tốt nghiệp THPT năm 2026: áp dụng đối với thí sinh có điểm thi tốt nghiệp THPT năm 2026 đạt ngưỡng đầu vào do Trường ĐHYD quy định cho từng ngành, theo các tổ hợp xét t",
+      "eligibility": "đối tượng/khu vực (nếu có). 2. Xét tuyển chứng chỉ tiếng Anh quốc tế kết hợp kết quả thi tốt nghiệp THPT năm 2026: Chứng chỉ ngoại ngữ có thể được quy đổi thay cho môn thi trong tổ hợp xét tuyển tương ứng với ngành học: Điểm xét tuyển bằng tổng của điểm ngoại ngữ quy đổi cộng với điểm 2 môn còn lại trong 04 tổ hợp xét tuyển (B00/D08 gồm: Toán, Sinh học; A00/D07 gồm: Toán, Hóa học) như sau: Bảng quy đổi điểm IELTS/TOEFL iBT sang thang điểm 10 STT Trình độ Tiếng Anh Quy đổi sang thang điểm 10 IELTS (Academic) TOEFL iBT 1 5.5 72-78 8.0 2 6.0 79-87 8.5 3 6.5 88-95 9.0 4 7.0 96-101 9.5 5 7.5-9.0 102-120 10 Ghi chú: - Chứng chỉ tiếng Anh phải đủ 4 kỹ năng và phải còn thời hạn sử dụng 2 năm kể từ ngày thi; - Không chấp nhận chứng chỉ thi online; - Kết quả thi tốt nghiệp THPT năm 2026 đạt ngưỡng đầu vào đối với ngành xét tuyển do Trường ĐHYD quy định. * Điểm xét tuyển là tổng của điểm ngoại ngữ quy đổi cộng với điểm 2 môn còn lại cộng điểm cộng và điểm ưu tiên đối tượng/khu vực (nếu có).",
+      "rules": "QUY CHẾ Xét tuyển theo kết quả thi tốt nghiệp THPT năm 2026: - Thí sinh sử dụng kết quả kỳ thi tốt nghiệp THPT năm 2026 đạt ngưỡng đầu vào do Trường ĐHYD quy định; - Thí sinh xét tuyển chứng chỉ tiếng Anh quốc tế kết hợp điểm thi tốt nghiệp THPT 2026 đạt ngưỡng đầu vào do Trường ĐHYD quy định. 1. Xét tuyển theo kết quả kỳ thi tốt nghiệp THPT năm 2026: áp dụng đối với thí sinh có điểm thi tốt nghiệp THPT năm 2026 đạt ngưỡng đầu vào do Trường ĐHYD quy định cho từng ngành, theo các tổ hợp xét tuyển sau: TT Mã ngành, nhóm ngành Tên ngành, nhóm ngành Tổ hợp xét tuyển* 1. 7720101 Y khoa B00, D08 2. 7720201 Dược học A00, D07 3. 7720501 Răng Hàm Mặt B00, D08 4. 7720601 Kỹ thuật Xét nghiệm Y học B00, D08 5. 7720602 Kỹ thuật Hình ảnh Y học B00, D08 6. 7720301 Điều dưỡng B00, D08 * Môn thi các tổ hợp xét tuyển: - B00: Toán – Hóa học – Sinh học - D08: Toán – Sinh học – Tiếng Anh - A00: Toán – Vật lý – Hóa học - D07: Toán – Hóa học – Tiếng Anh * Điểm xét tuyển: được xác định bằng tổng điểm các môn thi trong tổ hợp xét tuyển theo kết quả kỳ thi tốt nghiệp THPT cộng điểm cộng và điểm ưu tiên",
+      "programs": [
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1."
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2."
+        },
+        {
+          "program_code": "7720501",
+          "program_name": "Răng Hàm Mặt",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3."
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật Xét nghiệm Y học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4."
+        },
+        {
+          "program_code": "7720602",
+          "program_name": "Kỹ thuật Hình ảnh Y học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5."
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6."
+        }
+      ]
+    },
+    {
+      "method_id": "3-iem-gnl-hn",
+      "method_name": "3 ĐIỂM ĐGNL HN",
+      "description": "3.1 QUY CHẾ Xét tuyển theo HSA áp dụng cho thí sinh có điểm thi HSA còn thời hạn sử dụng 2 năm kể từ ngày thi đối với từng ngành xét tuyển và đáp ứng các điều kiện sau: - Bài thi ĐGNL phải có chủ đề Sinh học đối với ngành Y khoa, Răng- Hàm- Mặt; Kỹ thuật Xét nghiệm y học, Kỹ thuật Hình ảnh y học, Điều dưỡng; phải có chủ đề Hóa học đối với ngành Dược học. - Thí sinh dự tuyển ngành Y khoa, Răng – Hàm – Mặt: điểm trung bình chung môn Sinh học năm lớp 12 đạt từ 8,0 trở lên, kết quả trung bình chung ",
+      "eligibility": "đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán, Ngữ văn và một môn thi khác) đạt 20,00 điểm trở lên; - Thí sinh dự tuyển ngành Dược học: điểm trung bình chung môn Hóa học năm lớp 12 đạt từ 8,0 trở lên, kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán, Ngữ văn và một môn thi khác) đạt 20,00 điểm trở lên; - Thí sinh dự tuyển ngành Kỹ thuật Xét nghiệm y học, Kỹ thuật Hình ảnh y học, Điều dưỡng: điểm trung bình chung môn Sinh học năm lớp 12 đạt từ 7,0 trở lên kết quả trung bình chung học tập đánh giá mức khá (học lực xếp loại từ khá trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT đạt 16,50 điểm trở lên. * Điểm xét tuyển là tổng điểm thi ĐGNL được quy đổi * sang thang 30 theo hướng dẫn của ĐHQGHN, cộng điểm cộng và điểm ưu tiên đối tượng/khu vực (nếu có). (*) Điểm thi ĐGNL được quy đổi: Thí sinh tra cứu tại đường link của Viện Đào tạo số và khảo thí, ĐHQGHN cung cấp sau khi có kết quả thi tốt nghiệp THPT năm 2026 và có điểm quy đổi điểm ĐGNL về điểm thi tốt nghiệp THPT năm 2026 của ĐHQGHN.",
+      "rules": "QUY CHẾ Xét tuyển theo HSA áp dụng cho thí sinh có điểm thi HSA còn thời hạn sử dụng 2 năm kể từ ngày thi đối với từng ngành xét tuyển và đáp ứng các điều kiện sau: - Bài thi ĐGNL phải có chủ đề Sinh học đối với ngành Y khoa, Răng- Hàm- Mặt; Kỹ thuật Xét nghiệm y học, Kỹ thuật Hình ảnh y học, Điều dưỡng; phải có chủ đề Hóa học đối với ngành Dược học. - Thí sinh dự tuyển ngành Y khoa, Răng – Hàm – Mặt: điểm trung bình chung môn Sinh học năm lớp 12 đạt từ 8,0 trở lên, kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với",
+      "programs": [
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720501",
+          "program_name": "Răng Hàm Mặt",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật Xét nghiệm Y học",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7720602",
+          "program_name": "Kỹ thuật Hình ảnh Y học",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        }
+      ]
+    },
+    {
+      "method_id": "4-du-bi-ai-hoc",
+      "method_name": "4 DỰ BỊ ĐẠI HỌC",
+      "description": "4.1 QUY CHẾ Học sinh các trường dự bị đại học (đã được Nhà trường phân bổ số lượng tuyển sinh bằng văn bản) phải đáp ứng các điều kiện sau: - Thí sinh là học sinh đã hoàn thành chương trình dự bị của các trường dự bị đại học, tốt nghiệp năm 2025 phải đáp ứng được yêu cầu về ngưỡng đảm bảo chất lượng đầu vào (là tổng điểm thi THPT của 3 môn theo tổ hợp xét tuyển năm 2025) của ngành tương ứng, cụ thể: Ngành Y khoa và Răng Hàm Mặt 20.5 điểm, các ngành còn lại 19.0 điểm. - Kết quả trung bình chung c",
+      "eligibility": null,
+      "rules": "QUY CHẾ Học sinh các trường dự bị đại học (đã được Nhà trường phân bổ số lượng tuyển sinh bằng văn bản) phải đáp ứng các điều kiện sau: - Thí sinh là học sinh đã hoàn thành chương trình dự bị của các trường dự bị đại học, tốt nghiệp năm 2025 phải đáp ứng được yêu cầu về ngưỡng đảm bảo chất lượng đầu vào (là tổng điểm thi THPT của 3 môn theo tổ hợp xét tuyển năm 2025) của ngành tương ứng, cụ thể: Ngành Y khoa và Răng Hàm Mặt 20.5 điểm, các ngành còn lại 19.0 điểm. - Kết quả trung bình chung các môn học chính khóa trong chương trình dự bị đại học: đạt từ 7.0 trở lên. - Kết quả rèn luyện cả năm dự bị đại học: loại Tốt trở lên.",
+      "programs": [
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "B00",
+            "D08"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [
+            "A00",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng",
+          "subject_groups": [
+            "B00",
+            "D08"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720501",
+          "program_name": "Răng Hàm Mặt",
+          "subject_groups": [
+            "B00",
+            "D08"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật Xét nghiệm Y học",
+          "subject_groups": [
+            "B00",
+            "D08"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7720602",
+          "program_name": "Kỹ thuật Hình ảnh Y học",
+          "subject_groups": [
+            "B00",
+            "D08"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "B00",
+            "D08"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [
+            "A00",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng",
+          "subject_groups": [
+            "B00",
+            "D08"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720501",
+          "program_name": "Răng Hàm Mặt",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720501",
+          "program_name": "Răng Hàm Mặt",
+          "subject_groups": [
+            "B00",
+            "D08"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720501",
+          "program_name": "Răng Hàm Mặt",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật Xét nghiệm Y học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật Xét nghiệm Y học",
+          "subject_groups": [
+            "B00",
+            "D08"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật Xét nghiệm Y học",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7720602",
+          "program_name": "Kỹ thuật Hình ảnh Y học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7720602",
+          "program_name": "Kỹ thuật Hình ảnh Y học",
+          "subject_groups": [
+            "B00",
+            "D08"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7720602",
+          "program_name": "Kỹ thuật Hình ảnh Y học",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Đại học Y Dược - Đại học Quốc gia Hà Nội các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": "Tổ chức tuyển sinh 1.1. Trường ĐHYD xét tuyển theo kế hoạch tuyển sinh chung năm 2026 của Bộ GD&ĐT và của ĐHQGHN. 1.2. Hình thức tuyển sinh: trực tuyến/online, cụ thể: a) Với xét tuyển bằng kết quả thi tốt nghiệp THPT: Thí sinh đăng ký nguyện vọng xét tuyển trên hệ thống và theo kế hoạch chung của Bộ GD&ĐT (từ ngày 2/7/2026 đến 17h00 ngày 14/7/2026). b) Với xét tuyển thẳng, dự bị dân tộc: nộp hồ sơ về Trường ĐHYD trước 17h00 ngày 20/6/2026 (Hồ sơ theo Phụ lục I). Thí sinh đã trúng tuyển theo kế hoạch xét tuyển thẳng thực hiện đăng ký nguyện vọng trên Hệ thống theo kế hoạch chung của Bộ GD&ĐT để lựa chọn chương trình đào tạo đã trúng tuyển thẳng hoặc đăng ký nguyện vọng xét tuyển khác. Thí sinh trúng tuyển thẳng lưu ý: Trường ĐHYD không yêu cầu thí sinh cam kết nhập học dưới mọi hình thức hoặc xác nhận nhập học sớm hơn lịch trình theo kế hoạch chung của ĐHQGHN và của Trường. c) Với xét tuyển bằng HSA, và diện cộng điểm, diện dùng chứng chỉ tiếng Anh quốc tế IELTS/TOEFL iBT quy đổi thành điểm môn tiếng Anh trong tổ hợp xét tuyển thực hiện khai báo và nộp minh chứng trên hệ thống tuyển sinh của Trường. Thời gian tiếp nhận đăng ký dự kiến từ ngày 10/5/2026 đến 17h00 ngày 20/6/2026. Thông báo chính thức về thời gian, hình thức đăng ký và hướng dẫn chi tiết sẽ được Trường công bố trên website. Đồng thời, thí sinh phải đăng ký nguyện vọng xét tuyển trên Hệ thống hỗ trợ tuyển sinh chung của Bộ GD&ĐT theo kế hoạch chung. d) Lưu ý: 1. Tất cả thí sinh dự tuyển thực hiện đăng ký xét tuyển trên Hệ thống (hoặc qua Cổng dịch vụ công quốc gia) theo kế hoạch chung và hướng dẫn của Bộ GD&ĐT. 2. Thí sinh được đăng ký tối đa 15 nguyện vọng vào các chương trình đào tạo, các cơ sở giáo dục đại học khác nhau; nguyện vọng phải được sắp xếp theo thứ tự ưu tiên từ cao xuống thấp. Trong trường hợp nhiều nguyện vọng đủ điều kiện trúng tuyển, thí sinh chỉ được công nhận trúng tuyển và gọi nhập học theo nguyện vọng cao nhất. 3. Thí sinh thể hiện nguyện vọng đăng ký xét tuyển trên Hệ thống như sau: a) Thứ tự ưu tiên của nguyện vọng (số 1 thể hiện nguyện vọng có thứ tự ưu tiên cao nhất); b) Lựa chọn đơn vị đào tạo, đơn vị tuyển sinh (mã trường); c) Lựa chọn chương trình đào tạo (mã xét tuyển). 4. Các mốc thời gian thực hiện theo quy định của Bộ GD&ĐT; trường hợp có điều chỉnh, các mốc thời gian được cập nhật tương ứng. 1.3. Nguyên tắc xét tuyển a) Điểm trúng tuyển được xác định để số lượng tuyển được theo từng ngành đào tạo phù hợp với số lượng tuyển sinh đã công bố và không thấp hơn ngưỡng đầu vào; b) Đối với một ngành đào tạo, tất cả thí sinh được xét chọn bình đẳng dựa trên điểm xét và điểm trúng tuyển quy đổi tương đương theo từng phương thức xét tuyển, tổ hợp xét tuyển, không phụ thuộc thứ tự ưu tiên của nguyện vọng đăng ký trừ trường hợp quy định tại điểm c khoản này; c) Trường hợp nhiều thí sinh có cùng điểm xét ở cuối danh sách, thứ tự xét ưu tiên đối với các thí sinh có điểm cộng thấp hơn; trường hợp nhiều thí sinh có cùng điểm xét ở cuối danh sách và có điểm cộng bằng nhau, thứ tự xét ưu tiên đối với các thí sinh có thứ tự ưu tiên nguyện vọng cao hơn; d) Việc sử dụng điểm ưu tiên khu vực, đối tượng để xét tuyển đảm bảo thống nhất, đồng bộ với quy định về điểm ưu tiên được quy định tại Điều 7 của Quy chế tuyển sinh đại học của Bộ GD&ĐT. Thí sinh được hưởng chính sách ưu tiên theo khu vực theo quy định trong năm tốt nghiệp THPT (hoặc Trung cấp) và một năm kế tiếp.",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-y-duoc-dai-hoc-quoc-gia-ha-noi-QHY.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 27.43,
+            "note": null
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "D08"
+            ],
+            "score": 26.68,
+            "note": null
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 23.09,
+            "note": null
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 21.59,
+            "note": null
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [
+              "D08"
+            ],
+            "score": 17.75,
+            "note": null
+          },
+          {
+            "program_code": "7720501",
+            "program_name": "Răng hàm mặt",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 26.99,
+            "note": null
+          },
+          {
+            "program_code": "7720501",
+            "program_name": "Răng hàm mặt",
+            "subject_groups": [
+              "D08"
+            ],
+            "score": 26.24,
+            "note": null
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kĩ thuật xét nghiệm y học",
+            "subject_groups": [
+              "D08"
+            ],
+            "score": 20.5,
+            "note": null
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kĩ thuật xét nghiệm y học",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 21.75,
+            "note": null
+          },
+          {
+            "program_code": "7720602",
+            "program_name": "Kĩ thuật hình ảnh y học",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 20.35,
+            "note": null
+          },
+          {
+            "program_code": "7720602",
+            "program_name": "Kĩ thuật hình ảnh y học",
+            "subject_groups": [
+              "D08"
+            ],
+            "score": 19.1,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 116,
+            "note": "HSA 2024"
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 107,
+            "note": "HSA 2025"
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 77,
+            "note": "HSA 2024"
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 80,
+            "note": "HSA 2025"
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 69,
+            "note": "HSA 2025"
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 65,
+            "note": "HSA 2024"
+          },
+          {
+            "program_code": "7720501",
+            "program_name": "Răng hàm mặt",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 111,
+            "note": "HSA 2024"
+          },
+          {
+            "program_code": "7720501",
+            "program_name": "Răng hàm mặt",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 104,
+            "note": "HSA 2025"
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kĩ thuật xét nghiệm y học",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 76,
+            "note": "HSA 2024"
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kĩ thuật xét nghiệm y học",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 78,
+            "note": "HSA 2025"
+          },
+          {
+            "program_code": "7720602",
+            "program_name": "Kĩ thuật hình ảnh y học",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 74,
+            "note": "HSA 2025"
+          },
+          {
+            "program_code": "7720602",
+            "program_name": "Kĩ thuật hình ảnh y học",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 70,
+            "note": "HSA 2024"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-utxt-xt-thang",
+        "method_name": "Điểm chuẩn theo phương thức ƯTXT, XT thẳng năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [],
+            "score": 27.43,
+            "note": null
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học",
+            "subject_groups": [],
+            "score": 23.09,
+            "note": null
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7720501",
+            "program_name": "Răng hàm mặt",
+            "subject_groups": [],
+            "score": 26.99,
+            "note": null
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kĩ thuật xét nghiệm y học",
+            "subject_groups": [],
+            "score": 21.75,
+            "note": null
+          },
+          {
+            "program_code": "7720602",
+            "program_name": "Kĩ thuật hình ảnh y học",
+            "subject_groups": [],
+            "score": 20.35,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-chung-chi-quoc-te",
+        "method_name": "Điểm chuẩn theo phương thức Chứng chỉ quốc tế năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "B00",
+              "D08"
+            ],
+            "score": 27.43,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học",
+            "subject_groups": [
+              "A00",
+              "D07"
+            ],
+            "score": 23.09,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [
+              "B00",
+              "D08"
+            ],
+            "score": 19,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7720501",
+            "program_name": "Răng hàm mặt",
+            "subject_groups": [
+              "B00",
+              "D08"
+            ],
+            "score": 26.99,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kĩ thuật xét nghiệm y học",
+            "subject_groups": [
+              "B00",
+              "D08"
+            ],
+            "score": 21.75,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7720602",
+            "program_name": "Kĩ thuật hình ảnh y học",
+            "subject_groups": [
+              "B00",
+              "D08"
+            ],
+            "score": 20.35,
+            "note": "Điểm đã được quy đổi"
+          }
+        ]
+      }
+    ]
+  }
+}

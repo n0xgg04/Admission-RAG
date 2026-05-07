@@ -1,0 +1,1620 @@
+{
+  "university": {
+    "code": "MHN",
+    "name": "Trường Đại học Mở Hà Nội",
+    "short_name": "HOU",
+    "location": [
+      "Hà Nội"
+    ],
+    "address": "Nhà B101, phố Nguyễn Hiền, phường Bách Khoa, quận Hai Bà Trưng, TP Hà Nội",
+    "website": "https://hou.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": 4255,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-mo-ha-noi-MHN.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0407/thong-tin-tuyen-sinh-dai-hoc-mo-hn-2026.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC MỞ HÀ NỘI 2026 Thông tin tuyển sinh trường Đại học Mở 2026 Năm 2026, Trường Đại học Mở Hà Nội tuyển sinh 4.255 chỉ tiêu 22 ngành đào tạo. Các tổ hợp xét tuyển bảo đảm có môn Toán hoặc Ngữ văn với trọng số tính điểm xét môn Toán hoặc Ngữ văn tối thiểu 1/3 theo quy định của Quy chế tuyển sinh của Bộ GDĐT. Phương thức 1: Xét kết quả thi THPT Phương thức 2: Xét học bạ Phương thức 3: Xét tuyển thẳng Phương thức 4: Xét điểm ĐGNL QGHN, ĐGTD ĐHBK Phương thức 5: Xét tuyển kết hợp Phương thức 6: Xét tuyển dự bị Khám phá thêm Điểm ĐGNL HN Mã trường Điểm chuẩn đại học",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 QUY CHẾ Trường xét tuyển tất cả các ngành. Thí sinh đăng ký xét tuyển dựa trên kết quả thi tốt nghiệp THPT năm 2026, căn cứ điều kiện dự tuyển và ngưỡng bảo đảm chất lượng đầu vào (ngưỡng đầu vào) do nhà trường công bố; Đối với tổ hợp xét tuyển sử dụng kết quả các môn thi tốt nghiệp THPT dùng chứng chỉ ngoại ngữ (chứng chỉ ngoại ngữ áp dụng miễn thi tốt nghiệp THPT theo quy định tại Quy chế thi tốt nghiệp THPT hiện hành), kết quả chứng chỉ ngoại ngữ được quy đổi thành môn ngoại ngữ tương ứng",
+      "eligibility": null,
+      "rules": "QUY CHẾ Trường xét tuyển tất cả các ngành. Thí sinh đăng ký xét tuyển dựa trên kết quả thi tốt nghiệp THPT năm 2026, căn cứ điều kiện dự tuyển và ngưỡng bảo đảm chất lượng đầu vào (ngưỡng đầu vào) do nhà trường công bố; Đối với tổ hợp xét tuyển sử dụng kết quả các môn thi tốt nghiệp THPT dùng chứng chỉ ngoại ngữ (chứng chỉ ngoại ngữ áp dụng miễn thi tốt nghiệp THPT theo quy định tại Quy chế thi tốt nghiệp THPT hiện hành), kết quả chứng chỉ ngoại ngữ được quy đổi thành môn ngoại ngữ tương ứng theo thang điểm 10 để đưa vào tổ hợp môn xét tuyển theo Thông báo ngưỡng (bảng quy đổi tại mục 1.5.1.). Chứng chỉ ngoại ngữ được sử dụng để quy đổi điểm môn ngoại ngữ trong tổ hợp xét tuyển theo bảng quy đổi sau: Chứng chỉ ngoại ngữ Điểm ngoại ngữ quy đổi sang thang điểm 10 8 8,5 9 9,5 10 Tiếng Anh IELTS (Academic) 4.5 5.0 5.5 6.0 Từ 6.5 TOEFL iBT 32-34 35-45 46-59 60-78 Từ 79 Tiếng Trung Quốc HSK3 (180-239) HSK3 (240-300) HSK4 (180-239) HSK4 (240-300) HSK5-6 (180-300) Lưu ý: Đối với ngành Ngôn ngữ Anh, nhà trường chỉ thực hiện quy đổi đối với thí sinh có IELTS (Academic) từ 5.5 trở lên (hoặc chứng chỉ tương đương). Yêu cầu về đơn vị cấp chứng chỉ HSK: Văn phòng Hán ngữ đối ngoại Trung Quốc (Han ban); Uỷ ban Khảo thí trình độ Hán ngữ quốc gia (The National Committee for the Test of Proficiency in Chinese) Tổng bộ Viện Khổng tử (Trung Quốc); Trung tâm hợp tác giao lưu ngôn ngữ giữa Trung Quốc và nước ngoài (Center for Language Education and Cooperation). Chứng chỉ của thí sinh đang trong thời hạn có giá trị tính đến ngày 14/07/2026; Nhà trường căn cứ dữ liệu, minh chứng hồ sơ về chứng chỉ ngoại ngữ quốc tế của thí sinh trên Hệ thống hỗ trợ tuyển sinh của Bộ GDĐT, cập nhật điểm quy đổi theo bảng trên lên Hệ thống tuyển sinh của Trường đại học Mở Hà Nội để phục vụ công tác xét tuyển; Khi nhập học thí sinh phải nộp bản gốc chứng chỉ để Trường kiểm tra, thí sinh phải chịu hoàn toàn trách nhiệm nếu chứng chỉ không hợp lệ; Mức quy đổi điểm này chỉ có giá trị khi tham gia xét tuyển ở Trường Đại học Mở Hà Nội. 1.2 THỜI GIAN XÉT TUYỂN Thí sinh đăng ký, điều chỉnh nguyện vọng xét tuyển theo kế hoạch chung của Bộ GDĐT qua Cổng thông tin tuyển sinh của Bộ GDĐT hoặc qua Cổng dịch vụ công quốc gia từ ngày 02/07/2026 đến 17h00 ngày 14/07/2026. Nhà trường tổ chức xét tuyển theo kế hoạch chung của Bộ GDĐT. Thí sinh đăng ký xét tuyển kết hợp kết quả thi tốt nghiệp THPT năm 2026 với điểm thi năng khiếu vẽ (mã 405) thực hiện theo hướng dẫn sau: Các ngành có thi môn năng khiếu vẽ gồm: Thiết kế nội thất, Thiết kế thời trang, Thiết kế đồ họa và Kiến trúc. Nhà trường tổ chức thi môn Hình họa và môn Bố cục màu. Các môn năng khiếu được công nhận tương đương: Trang trí màu tương đương Bố cục màu (vẽ bảng màu); Hình họa tương đương Vẽ mỹ thuật (vẽ bằng chì đen); Để đủ điều kiện tham gia xét tuyển vào các ngành có môn năng khiếu vẽ, thí sinh phải tham dự kỳ thi tuyển sinh môn năng khiếu vẽ do Trường Đại học Mở Hà Nội tổ chức, ngày tập trung dự thi theo thông báo tại Cổng thông tin tuyển sinh https://tuyensinh.hou.edu.vn/. Trường Đại học Mở Hà Nội sẽ chủ động sử dụng kết quả thi năng khiếu vẽ của thí sinh, kết hợp với kết quả các môn văn hóa để xét tuyển. Kết quả thi năng khiếu vẽ được Nhà trường tải lên hệ thống tuyển sinh của Bộ GDĐT; Nếu không kịp tham dự kỳ thi năng khiếu vẽ do Trường Đại học Mở Hà Nội tổ chức, thí sinh có thể dự thi tại các trường đại học khác trên cả nước, sau đó nộp kết quả điểm năng khiếu để tham gia xét tuyển, thời hạn nộp phiếu điểm năng khiếu tại trường đại học khác về Trường Đại học Mở Hà Nội trước 17h00 ngày 17/06/2026.",
+      "programs": []
+    },
+    {
+      "method_id": "2-iem-hoc-ba",
+      "method_name": "2 ĐIỂM HỌC BẠ",
+      "description": "2.1 QUY CHẾ Trường xét tuyển hai ngành Công nghệ sinh học, Công nghệ thực phẩm. Thí sinh đăng ký xét tuyển dựa trên kết quả học tập các môn học cấp THPT, các môn trong tổ hợp xét tuyển tương ứng theo kết quả học tập cả năm lớp 10, 11, 12 (gồm cả điểm ưu tiên khu vực, đối tượng). 2.2 THỜI GIAN XÉT TUYỂN Xét tuyển dựa trên kết quả học tập cấp THPT (học bạ - Mã 200) và xét tuyển kết hợp kết quả học tập cấp THPT (học bạ) với điểm thi năng khiếu vẽ (Mã 406) Đối với thí sinh tốt nghiệp THPT năm 2026 T",
+      "eligibility": "đối tượng). 2.2 THỜI GIAN XÉT TUYỂN Xét tuyển dựa trên kết quả học tập cấp THPT (học bạ - Mã 200) và xét tuyển kết hợp kết quả học tập cấp THPT (học bạ) với điểm thi năng khiếu vẽ (Mã 406) Đối với thí sinh tốt nghiệp THPT năm 2026 Thí sinh đăng ký, điều chỉnh nguyện vọng xét tuyển theo kế hoạch chung của Bộ GDĐT qua Cổng thông tin tuyển sinh của Bộ GDĐT hoặc Cổng dịch vụ công quốc gia từ ngày 02/07/2026 đến 17h00 ngày 14/07/2026. Thí sinh đăng ký xét tuyển có thể đăng ký tại Trường tư vấn tại địa chỉ: https://tuyensinh.hou.edu.vn/tuvan. Nhà trường tổ chức xét tuyển theo kế hoạch chung của Bộ GDĐT; Nhà trường căn cứ dữ liệu kết quả học tập cấp THPT (trung học phổ thông) của thí sinh trên Hệ thống hỗ trợ tuyển sinh của Bộ GDĐT, chủ động tải dữ liệu để tổ chức rà soát các",
+      "rules": "QUY CHẾ Trường xét tuyển hai ngành Công nghệ sinh học, Công nghệ thực phẩm. Thí sinh đăng ký xét tuyển dựa trên kết quả học tập các môn học cấp THPT, các môn trong tổ hợp xét tuyển tương ứng theo kết quả học tập cả năm lớp 10, 11, 12 (gồm cả điểm ưu tiên khu vực,",
+      "programs": [
+        {
+          "program_code": "7420201",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [
+            "B00",
+            "A00",
+            "D07",
+            "A01"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7540101",
+          "program_name": "Công nghệ thực phẩm",
+          "subject_groups": [
+            "B00",
+            "A00",
+            "D07",
+            "A01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    },
+    {
+      "method_id": "3-utxt-xt-thang",
+      "method_name": "3 ƯTXT, XT THẲNG",
+      "description": "3.1 QUY CHẾ Tổ chức xét tuyển thẳng, ưu tiên xét tuyển các thí sinh thuộc đối tượng quy định tại khoản 1, khoản 2 (điểm a, b, khoản c, d), khoản 5 (điểm b) Điều 8 trong Quy chế tuyển sinh của Bộ GDĐT. 3.2 THỜI GIAN XÉT TUYỂN Thí sinh đăng ký xét tuyển nộp hồ sơ về Trường Đại học Mở Hà Nội trước 17h00 ngày 20/06/2026 (hồ sơ tải tại https://tuyensinh.hou.edu.vn, Trường có hướng dẫn riêng cho thí sinh đăng ký xét tuyển thẳng và ưu tiên xét tuyển); Trường Đại học Mở Hà Nội công bố kết quả trúng tuyể",
+      "eligibility": "đối tượng quy định tại khoản 1, khoản 2 (điểm a, b, khoản c, d), khoản 5 (điểm b) Điều 8 trong",
+      "rules": "QUY CHẾ Tổ chức xét tuyển thẳng, ưu tiên xét tuyển các thí sinh thuộc",
+      "programs": [
+        {
+          "program_code": "7210403",
+          "program_name": "Thiết kế đồ họa",
+          "subject_groups": [
+            "H00",
+            "H01",
+            "H06"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7210404",
+          "program_name": "Thiết kế thời trang",
+          "subject_groups": [
+            "H00",
+            "H01",
+            "H06"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7220204",
+          "program_name": "Ngôn ngữ Trung Quốc",
+          "subject_groups": [
+            "D01",
+            "D04"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [
+            "B00",
+            "A00",
+            "D07",
+            "A01"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7480106",
+          "program_name": "Kỹ thuật máy tính",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7540101",
+          "program_name": "Công nghệ thực phẩm",
+          "subject_groups": [
+            "B00",
+            "A00",
+            "D07",
+            "A01"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7580108",
+          "program_name": "Thiết kế nội thất",
+          "subject_groups": [
+            "H00",
+            "H01",
+            "H06"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        }
+      ]
+    },
+    {
+      "method_id": "4-ket-qua-thpt-nang-khieu",
+      "method_name": "4 KẾT QUẢ THPT + NĂNG KHIẾU",
+      "description": "4.1 QUY CHẾ Trường xét tuyển bốn ngành Thiết kế đồ họa, Thiết kế thời trang, Thiết kế nội thất, Kiến trúc. Thí sinh dự tuyển sử dụng kết quả thi tốt nghiệp THPT năm 2026 các môn theo tổ hợp xét tuyển của ngành dự tuyển kết hợp với kết quả thi các môn năng khiếu, có tổng điểm các môn đáp ứng ngưỡng đầu vào do Trường công bố. Thí sinh cần đăng ký dự thi môn năng khiếu do nhà trường tổ chức hoặc sử dụng kết quả thi năng khiếu do các trường đại học khác trên cả nước tổ chức.: Thí sinh đăng ký, điều ",
+      "eligibility": null,
+      "rules": "QUY CHẾ Trường xét tuyển bốn ngành Thiết kế đồ họa, Thiết kế thời trang, Thiết kế nội thất, Kiến trúc. Thí sinh dự tuyển sử dụng kết quả thi tốt nghiệp THPT năm 2026 các môn theo tổ hợp xét tuyển của ngành dự tuyển kết hợp với kết quả thi các môn năng khiếu, có tổng điểm các môn đáp ứng ngưỡng đầu vào do Trường công bố. Thí sinh cần đăng ký dự thi môn năng khiếu do nhà trường tổ chức hoặc sử dụng kết quả thi năng khiếu do các trường đại học khác trên cả nước tổ chức.: Thí sinh đăng ký, điều chỉnh nguyện vọng xét tuyển theo kế hoạch chung của Bộ GDĐT qua Cổng thông tin tuyển sinh của Bộ GDĐT hoặc qua Cổng dịch vụ công quốc gia từ ngày 02/07/2026 đến 17h00 ngày 14/07/2026. Nhà trường tổ chức xét tuyển theo kế hoạch chung của Bộ GDĐT. Thí sinh đăng ký xét tuyển kết hợp kết quả thi tốt nghiệp THPT năm 2026 với điểm thi năng khiếu vẽ (mã 405) thực hiện theo hướng dẫn: Các ngành có thi môn năng khiếu vẽ gồm: Thiết kế nội thất, Thiết kế thời trang, Thiết kế đồ họa và Kiến trúc. Nhà trường tổ chức thi môn Hình họa và môn Bố cục màu. Các môn năng khiếu được công nhận tương đương: Trang trí màu tương đương Bố cục màu (vẽ bảng màu); Hình họa tương đương Vẽ mỹ thuật (vẽ bằng chì đen); Để đủ điều kiện tham gia xét tuyển vào các ngành có môn năng khiếu vẽ, thí sinh phải tham dự kỳ thi tuyển sinh môn năng khiếu vẽ do Trường Đại học Mở Hà Nội tổ chức, ngày tập trung dự thi theo thông báo tại Cổng thông tin tuyển sinh https://tuyensinh.hou.edu.vn/. Trường Đại học Mở Hà Nội sẽ chủ động sử dụng kết quả thi năng khiếu vẽ của thí sinh, kết hợp với kết quả các môn văn hóa để xét tuyển. Kết quả thi năng khiếu vẽ được Nhà trường tải lên hệ thống tuyển sinh của Bộ GDĐT; Nếu không kịp tham dự kỳ thi năng khiếu vẽ do Trường Đại học Mở Hà Nội tổ chức, thí sinh có thể dự thi tại các trường đại học khác trên cả nước, sau đó nộp kết quả điểm năng khiếu để tham gia xét tuyển, thời hạn nộp phiếu điểm năng khiếu tại trường đại học khác về Trường Đại học Mở Hà Nội trước 17h00 ngày 17/06/2026.",
+      "programs": [
+        {
+          "program_code": "7210403",
+          "program_name": "Thiết kế đồ họa",
+          "subject_groups": [
+            "H00",
+            "H01",
+            "H06"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7210404",
+          "program_name": "Thiết kế thời trang",
+          "subject_groups": [
+            "H00",
+            "H01",
+            "H06"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7580101",
+          "program_name": "Kiến trúc",
+          "subject_groups": [
+            "V00",
+            "V01",
+            "V02"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7580108",
+          "program_name": "Thiết kế nội thất",
+          "subject_groups": [
+            "H00",
+            "H01",
+            "H06"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        }
+      ]
+    },
+    {
+      "method_id": "5-iem-gnl-hn",
+      "method_name": "5 ĐIỂM ĐGNL HN",
+      "description": "5.1 QUY CHẾ Thí sinh xét tuyển bằng phương thức mã 402 phải tham dự bài thi HSA năm 2026, thời gian thi theo lịch của Đại học Quốc gia Hà Nội, Đại học Bách khoa Hà Nội công bố và quy định để lấy kết quả xét tuyển; Dữ liệu kết quả thi HSA và TSA năm 2026 của thí sinh trên Hệ thống tuyển sinh của Bộ GDĐT sau khi được Nhà trường rà soát là căn cứ để xét tuyển theo quy định; Thí sinh đăng ký, điều chỉnh nguyện vọng xét tuyển theo kế hoạch chung của Bộ GDĐT qua Cổng thông tin tuyển sinh của Bộ GDĐT h",
+      "eligibility": null,
+      "rules": "QUY CHẾ Thí sinh xét tuyển bằng phương thức mã 402 phải tham dự bài thi HSA năm 2026, thời gian thi theo lịch của Đại học Quốc gia Hà Nội, Đại học Bách khoa Hà Nội công bố và quy định để lấy kết quả xét tuyển; Dữ liệu kết quả thi HSA và TSA năm 2026 của thí sinh trên Hệ thống tuyển sinh của Bộ GDĐT sau khi được Nhà trường rà soát là căn cứ để xét tuyển theo quy định; Thí sinh đăng ký, điều chỉnh nguyện vọng xét tuyển theo kế hoạch chung của Bộ GDĐT qua Cổng thông tin tuyển sinh của Bộ GDĐT hoặc Cổng dịch vụ công quốc gia từ ngày 02/07/2026 đến 17h00 ngày 14/07/2026. Nhà trường tổ chức xét tuyển theo kế hoạch chung của Bộ GDĐT.",
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "Q21"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7380107",
+          "program_name": "Luật kinh tế",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7480106",
+          "program_name": "Kỹ thuật máy tính",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7510302",
+          "program_name": "Công nghệ kỹ thuật điện tử - viễn thông",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7510303",
+          "program_name": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7540101",
+          "program_name": "Công nghệ thực phẩm",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        }
+      ]
+    },
+    {
+      "method_id": "6-iem-anh-gia-tu-duy",
+      "method_name": "6 ĐIỂM ĐÁNH GIÁ TƯ DUY",
+      "description": "6.1 QUY CHẾ Thí sinh xét tuyển bằng phương thức mã 402 phải tham dự bài thi HSA năm 2026, thời gian thi theo lịch của Đại học Quốc gia Hà Nội, Đại học Bách khoa Hà Nội công bố và quy định để lấy kết quả xét tuyển; Dữ liệu kết quả thi HSA và TSA năm 2026 của thí sinh trên Hệ thống tuyển sinh của Bộ GDĐT sau khi được Nhà trường rà soát là căn cứ để xét tuyển theo quy định; Thí sinh đăng ký, điều chỉnh nguyện vọng xét tuyển theo kế hoạch chung của Bộ GDĐT qua Cổng thông tin tuyển sinh của Bộ GDĐT h",
+      "eligibility": null,
+      "rules": "QUY CHẾ Thí sinh xét tuyển bằng phương thức mã 402 phải tham dự bài thi HSA năm 2026, thời gian thi theo lịch của Đại học Quốc gia Hà Nội, Đại học Bách khoa Hà Nội công bố và quy định để lấy kết quả xét tuyển; Dữ liệu kết quả thi HSA và TSA năm 2026 của thí sinh trên Hệ thống tuyển sinh của Bộ GDĐT sau khi được Nhà trường rà soát là căn cứ để xét tuyển theo quy định; Thí sinh đăng ký, điều chỉnh nguyện vọng xét tuyển theo kế hoạch chung của Bộ GDĐT qua Cổng thông tin tuyển sinh của Bộ GDĐT hoặc Cổng dịch vụ công quốc gia từ ngày 02/07/2026 đến 17h00 ngày 14/07/2026. Nhà trường tổ chức xét tuyển theo kế hoạch chung của Bộ GDĐT.",
+      "programs": [
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7380107",
+          "program_name": "Luật kinh tế",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7480106",
+          "program_name": "Kỹ thuật máy tính",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7510302",
+          "program_name": "Công nghệ kỹ thuật điện tử - viễn thông",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7510303",
+          "program_name": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7540101",
+          "program_name": "Công nghệ thực phẩm",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        }
+      ]
+    },
+    {
+      "method_id": "7-xet-tuyen-du-bi-ai-hoc",
+      "method_name": "7 XÉT TUYỂN DỰ BỊ ĐẠI HỌC",
+      "description": "7.1 QUY CHẾ Thí sinh đăng ký xét tuyển phải hoàn thành chương trình dự bị đại học và có tổng điểm các môn trong THXT (gồm cả điểm ưu tiên khu vực, đối tượng) đạt ngưỡng đầu vào do Trường công bố áp dụng theo phương thức tuyển sinh mã 100. 7.2 THỜI GIAN XÉT TUYỂN Thí sinh đăng ký xét tuyển nộp hồ sơ về Trường Đại học Mở Hà Nội theo thông báo chi tiết tại http://tuyensinh.hou.edu.vn, hạn cuối nhận hồ sơ trước 17h00 ngày 09/07/2026. Yêu cầu hồ sơ đăng ký xét tuyển gồm có: Đơn đăng ký xét tuyển (thí",
+      "eligibility": "đối tượng) đạt ngưỡng đầu vào do Trường công bố áp dụng theo phương thức tuyển sinh mã 100. 7.2 THỜI GIAN XÉT TUYỂN Thí sinh đăng ký xét tuyển nộp hồ sơ về Trường Đại học Mở Hà Nội theo thông báo chi tiết tại http://tuyensinh.hou.edu.vn, hạn cuối nhận hồ sơ trước 17h00 ngày 09/07/2026. Yêu cầu hồ sơ đăng ký xét tuyển gồm có: Đơn đăng ký xét tuyển (thí sinh lấy mẫu tại các trường dự bị đại học nơi thí sinh theo học); Giấy chứng nhận kết quả thi THPT năm 2025; Giấy chứng nhận tốt nghiệp năm 2025; Giấy báo nhập học vào trường dự bị đại học năm 2025; Bảng gốc, bản sao y có chứng thực học bạ THPT; Bản sao y có chứng thực Giấy khai sinh; Lý lịch học sinh, sinh viên; Kết quả học tập, rèn luyện của trường dự bị đại học; Bản sao y có chứng thực các giấy tờ liên quan phù hợp chứng minh thí sinh được hưởng điểm ưu tiên khu vực, đối tượng (nếu có); Bản sao y có chứng thực CCCD.",
+      "rules": "QUY CHẾ Thí sinh đăng ký xét tuyển phải hoàn thành chương trình dự bị đại học và có tổng điểm các môn trong THXT (gồm cả điểm ưu tiên khu vực,",
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7220204",
+          "program_name": "Ngôn ngữ Trung Quốc",
+          "subject_groups": [
+            "D01",
+            "D04"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340204",
+          "program_name": "Bảo hiểm",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7380107",
+          "program_name": "Luật kinh tế",
+          "subject_groups": [
+            "D01",
+            "C01",
+            "C03",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [
+            "B00",
+            "A00",
+            "D07",
+            "A01"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7480106",
+          "program_name": "Kỹ thuật máy tính",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7510302",
+          "program_name": "Công nghệ kỹ thuật điện tử - viễn thông",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7510303",
+          "program_name": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7540101",
+          "program_name": "Công nghệ thực phẩm",
+          "subject_groups": [
+            "B00",
+            "A00",
+            "D07",
+            "A01"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+          "subject_groups": [
+            "D01",
+            "D09",
+            "D10"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7810201",
+          "program_name": "Quản trị khách sạn",
+          "subject_groups": [
+            "D01",
+            "D09",
+            "D10"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7210403",
+          "program_name": "Thiết kế đồ họa",
+          "subject_groups": [
+            "H00",
+            "H01",
+            "H06"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7210404",
+          "program_name": "Thiết kế thời trang",
+          "subject_groups": [
+            "H00",
+            "H01",
+            "H06"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "Q21"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7220204",
+          "program_name": "Ngôn ngữ Trung Quốc",
+          "subject_groups": [
+            "D01",
+            "D04"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7340204",
+          "program_name": "Bảo hiểm",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7380101",
+          "program_name": "ĐT THPTThi Riêng",
+          "subject_groups": [
+            "D01",
+            "C01",
+            "C00"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7380107",
+          "program_name": "Luật kinh tế",
+          "subject_groups": [
+            "D01",
+            "C01",
+            "C03",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7380107",
+          "program_name": "Luật kinh tế",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7380107",
+          "program_name": "Luật kinh tế",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [
+            "B00",
+            "A00",
+            "D07",
+            "A01"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [
+            "B00",
+            "A00",
+            "D07",
+            "A01"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7480106",
+          "program_name": "Kỹ thuật máy tính",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7480106",
+          "program_name": "Kỹ thuật máy tính",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7480106",
+          "program_name": "Kỹ thuật máy tính",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7510302",
+          "program_name": "Công nghệ kỹ thuật điện tử - viễn thông",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7510302",
+          "program_name": "Công nghệ kỹ thuật điện tử - viễn thông",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7510302",
+          "program_name": "Công nghệ kỹ thuật điện tử - viễn thông",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7510303",
+          "program_name": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7510303",
+          "program_name": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7510303",
+          "program_name": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7540101",
+          "program_name": "Công nghệ thực phẩm",
+          "subject_groups": [
+            "B00",
+            "A00",
+            "D07",
+            "A01"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7540101",
+          "program_name": "Công nghệ thực phẩm",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7540101",
+          "program_name": "Công nghệ thực phẩm",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7580101",
+          "program_name": "Kiến trúc",
+          "subject_groups": [
+            "V00",
+            "V01",
+            "V02"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7580108",
+          "program_name": "Thiết kế nội thất",
+          "subject_groups": [
+            "H00",
+            "H01",
+            "H06"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+          "subject_groups": [
+            "D01",
+            "D09",
+            "D10"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7810201",
+          "program_name": "Quản trị khách sạn",
+          "subject_groups": [
+            "D01",
+            "D09",
+            "D10"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Đại học Mở Hà Nội Tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-mo-ha-noi-MHN.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 21,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "D01",
+              "D04"
+            ],
+            "score": 24.09,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26"
+            ],
+            "score": 20.136,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340122",
+            "program_name": "Thương mại điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26"
+            ],
+            "score": 22.19,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01"
+            ],
+            "score": 19.56,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340204",
+            "program_name": "Bảo hiểm",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01"
+            ],
+            "score": 18.56,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26"
+            ],
+            "score": 19.69,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 25,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "C01",
+              "C03",
+              "D01",
+              "X01"
+            ],
+            "score": 23,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Luật kinh tế",
+            "subject_groups": [
+              "C01",
+              "C03",
+              "D01",
+              "X01"
+            ],
+            "score": 23.17,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Luật kinh tế",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 25.17,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7380108",
+            "program_name": "Luật quốc tế",
+            "subject_groups": [
+              "C01",
+              "C03",
+              "D01",
+              "X01"
+            ],
+            "score": 22.5,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7380108",
+            "program_name": "Luật quốc tế",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 24.5,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D07"
+            ],
+            "score": 17.03,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26"
+            ],
+            "score": 19.5,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7510302",
+            "program_name": "Công nghệ kỹ thuật điện tử – viễn thông",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26"
+            ],
+            "score": 18.06,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7510303",
+            "program_name": "Công nghệ kỹ thuật điều khiển và tự động hoá",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26"
+            ],
+            "score": 18.81,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7540101",
+            "program_name": "Công nghệ thực phẩm",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D07"
+            ],
+            "score": 18.8,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [
+              "D01",
+              "D09",
+              "D10"
+            ],
+            "score": 18.4,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7810201",
+            "program_name": "Quản trị khách sạn",
+            "subject_groups": [
+              "D01",
+              "D09",
+              "D10"
+            ],
+            "score": 18.05,
+            "note": "Điểm đã quy đổi"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "A01",
+              "D07"
+            ],
+            "score": 20.03,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7540101",
+            "program_name": "Công nghệ thực phẩm",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "A01",
+              "D07"
+            ],
+            "score": 21.8,
+            "note": "Điểm đã quy đổi"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 80.1591,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 75.25,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340122",
+            "program_name": "Thương mại điện tử",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 88.4388,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 71.9773,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Luật kinh tế",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 96.1635,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 57.7667,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 71.6364,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7510302",
+            "program_name": "Công nghệ kỹ thuật điện tử - viễn thông",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 63.4545,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7510303",
+            "program_name": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 67.7159,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7540101",
+            "program_name": "Công nghệ thực phẩm",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 67.6591,
+            "note": "Điểm đã quy đổi"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-anh-gia-tu-duy",
+        "method_name": "Điểm chuẩn theo phương thức Điểm Đánh giá Tư duy năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 50.2346,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340122",
+            "program_name": "Thương mại điện tử",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 58.3589,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 48.3574,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Luật kinh tế",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 63.584,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 40.1428,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 48.1618,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7510302",
+            "program_name": "Công nghệ kỹ thuật điện tử - viễn thông",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 43.4687,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7510303",
+            "program_name": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 45.913,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7540101",
+            "program_name": "Công nghệ thực phẩm",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 45.8805,
+            "note": "Điểm đã quy đổi"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-xet-tuyen-ket-hop",
+        "method_name": "Điểm chuẩn theo phương thức Điểm xét tuyển kết hợp năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7210403",
+            "program_name": "Thiết kế đồ họa",
+            "subject_groups": [
+              "H00",
+              "H01",
+              "H06"
+            ],
+            "score": 24.7265,
+            "note": "Học bạ THPT và năng khiếu, điểm đã quy đổi"
+          },
+          {
+            "program_code": "7210403",
+            "program_name": "Thiết kế đồ họa",
+            "subject_groups": [
+              "H00",
+              "H01",
+              "H06"
+            ],
+            "score": 21.85,
+            "note": "Điểm thi THPT và năng khiếu, điểm đã quy đổi"
+          },
+          {
+            "program_code": "7210404",
+            "program_name": "Thiết kế thời trang",
+            "subject_groups": [
+              "H00",
+              "H01",
+              "H06"
+            ],
+            "score": 24,
+            "note": "Học bạ THPT và năng khiếu, điểm đã quy đổi"
+          },
+          {
+            "program_code": "7210404",
+            "program_name": "Thiết kế thời trang",
+            "subject_groups": [
+              "H00",
+              "H01",
+              "H06"
+            ],
+            "score": 21,
+            "note": "Điểm thi THPT và năng khiếu, điểm đã quy đổi"
+          },
+          {
+            "program_code": "7580101",
+            "program_name": "Kiến trúc",
+            "subject_groups": [
+              "V00",
+              "V01",
+              "V02"
+            ],
+            "score": 19.5,
+            "note": "Điểm thi THPT và năng khiếu, điểm đã quy đổi"
+          },
+          {
+            "program_code": "7580101",
+            "program_name": "Kiến trúc",
+            "subject_groups": [
+              "V00",
+              "V01",
+              "V02"
+            ],
+            "score": 22.5,
+            "note": "Học bạ THPT và năng khiếu, điểm đã quy đổi"
+          },
+          {
+            "program_code": "7580108",
+            "program_name": "Thiết kế nội thất",
+            "subject_groups": [
+              "H00",
+              "H01",
+              "H06"
+            ],
+            "score": 24.5,
+            "note": "Học bạ THPT và năng khiếu, điểm đã quy đổi"
+          },
+          {
+            "program_code": "7580108",
+            "program_name": "Thiết kế nội thất",
+            "subject_groups": [
+              "H00",
+              "H01",
+              "H06"
+            ],
+            "score": 21.5,
+            "note": "Điểm thi THPT và năng khiếu, điểm đã quy đổi"
+          }
+        ]
+      }
+    ]
+  }
+}

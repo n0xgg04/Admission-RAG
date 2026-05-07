@@ -1,0 +1,652 @@
+{
+  "university": {
+    "code": "NLN",
+    "name": "Phân hiệu Đại học Nông Lâm TPHCM tại Ninh Thuận",
+    "short_name": "NLN",
+    "location": [
+      "Ninh Thuận"
+    ],
+    "address": "Thị trấn Khánh Hải, Huyện Ninh Hải, Tỉnh Ninh Thuận",
+    "website": "https://phnt.hcmuaf.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2025,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/phan-hieu-dai-hoc-nong-lam-tphcm-tai-ninh-thuan-NLN.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2025/0523/thong-tin-tuyen-sinh-2025-dai-hoc-nong-lam-tphcm-phan-hieu-ninh-thuan.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH PHÂN HIỆU ĐẠI HỌC NÔNG LÂM TPHCM TẠI NINH THUẬN 2025 Thông tin tuyển sinh Phân hiệu Đại học Nông Lâm TPHCM tại Ninh Thuận năm 2025 Năm 2025, Phân hiệu Trường Đại học Nông Lâm Thành phố Hồ Chí Minh tại Ninh Thuận tuyển sinh dựa trên 5 phương thức xét tuyển như sau: Phương thức 1: Tuyển thẳng và ưu tiên xét tuyển. Phương thức 2: Xét tuyển dựa trên kết quả kỳ thi Đánh giá năng lực do Đại học Quốc gia Thành phố Hồ Chí Minh tổ chức năm 2025. Phương thức 3: Xét tuyển dựa trên kết quả thi tốt nghiệp THPT năm 2025. Riêng ngành Giáo dục mầm non (trình độ cao đẳng, đại học) xét tuyển dựa vào: kết quả điểm thitốt nghiệp THPT của hai (02) môn Toán, Ngữ văn và điểm thi môn Năng khiếu. Phương thức 4: Xét tuyển dựa trên kết quả thi tốt nghiệp THPT năm 2025, bổ sung hoặc thay thế một môn trong tổ hợp xét tuyển bằng kết quả học tập bậc THPT (học bạ). Không áp dụng đối với xét tuyển ngành Giáo dục mầm non (trình độ cao đẳng, đại học).Xét tuyển dựa vào điểm 02 (hai) môn thi tốt nghiệp THPT năm 2025 có trong tổ hợp xéttuyển và 01 (một) môn còn lại trong tổ hợp xét tuyển được sử dụng điểm học bạ (trung bình của 04 học kỳ từ học kỳ 1 lớp 11 đến học kỳ 2 lớp 12, làm tròn đến 02 số lẻ thập phân) để bổ sung hoặc thay thế, môn bổ sung hoặc thay thế này không được là môn Toán và Ngữ văn. Phương thức 5: Xét tuyển dựa trên kết quả học tập bậc THPT (học bạ). Sử dụng điểm học bạ (trung bình của 04 học kỳ từ học kỳ 1 lớp 11 đến học kỳ 2 lớp 12, làm tròn đến 2 số lẻ thập phân) của mỗi môn trong tổ hợp xét tuyển. Tại cơ sở Thành phố Hồ Chí Minh chỉ xét tuyển đối với các thí sinh tốt nghiệp THPT năm 2025. Đối với xét tuyển ngành Giáo dục Mầm non (trình độ cao đẳng, đại học), sử dụng điểm học bạ (trung bình của 04 học kỳ từ học kỳ 1 lớp 11 đến học kỳ 2 lớp 12, làm tròn đến 2 số lẻ thập phân) của 2 môn Toán và Ngữ văn kết hợp với kết quả thi môn Năng khiếu. Khám phá thêm Khóa học Khoa học Toán học",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 QUY CHẾ Phương thức 3: Xét tuyển dựa trên kết quả thi tốt nghiệp THPT năm 2025. Riêng ngành Giáo dục mầm non (trình độ cao đẳng, đại học) xét tuyển dựa vào: kết quả điểm thitốt nghiệp THPT của hai (02) môn Toán, Ngữ văn và điểm thi môn Năng khiếu. Đối với các phương thức xét tuyển 3 và 5, thí sinh có thể sử dụng điểm chứng chỉ Tiếng Anh quốc tế (IELTS hoặc TOEFL ITP) còn giá trị sử dụng đến trước ngày thí sinh bắt đầu đăng ký xét tuyển theo quy định của Bộ Giáo dục và Đào tạo, được quy đổi t",
+      "eligibility": null,
+      "rules": "QUY CHẾ Phương thức 3: Xét tuyển dựa trên kết quả thi tốt nghiệp THPT năm 2025. Riêng ngành Giáo dục mầm non (trình độ cao đẳng, đại học) xét tuyển dựa vào: kết quả điểm thitốt nghiệp THPT của hai (02) môn Toán, Ngữ văn và điểm thi môn Năng khiếu. Đối với các phương thức xét tuyển 3 và 5, thí sinh có thể sử dụng điểm chứng chỉ Tiếng Anh quốc tế (IELTS hoặc TOEFL ITP) còn giá trị sử dụng đến trước ngày thí sinh bắt đầu đăng ký xét tuyển theo quy định của Bộ Giáo dục và Đào tạo, được quy đổi theo quy định để bổ sung hoặc thay thế cho môn Tiếng Anh trong tổ hợp xét tuyển. + Đối với điểm bài thi IELTS phải đạt từ 4,5 trở lên, đơn vị cấp chứng chỉ gồm: BritishCouncil (BC) hoặc International Development Program (IDP); + Điểm bài thi TOEFL ITP phải đạt từ 450 trở lên, đơn vị cấp chứng chỉ EducationalTesting Service (ETS). Mức điểm quy đổi như sau: Tiêu chí phân ngành, chương trình đào tạo (CSĐT tuyển sinh theo nhóm ngành): Đối với các ngành đào có nhiều chuyên ngành, việc phân chuyên ngành đào tạo sẽ được thực hiệndựa trên các tiêu chí: + Nguyện vọng của sinh viên; + Chỉ tiêu phân bổ cho từng chuyên ngành trong ngành (tối thiểu 30 sinh viên/chuyênngành); + Kết quả học tập của sinh viên; - Đối với Chương trình tiên tiến, sinh viên cần đạt trình độ ngoại ngữ theo yêu cầu. - Các thông tin khác… - Ngành Ngôn ngữ Anh (7220201): điểm môn Tiếng Anh được nhân đôi, cộng với điểm hai môn còn lại, quy về điểm 30. - Ngành Giáo dục mầm non (trình độ đại học: 7140201, trình độ cao đẳng: 51140201): điểm môn Năng khiếu được nhân đôi, cộng với điểm hai môn còn lại, quy về điểm 30. - Thí sinh có thể đăng ký dự thi môn Năng khiếu mầm non tại Trường Đại học Sư phạmThành phố Hồ Chí Minh hoặc Trường Đại học Sư phạm Hà Nội để lấy điểm năng khiếu xét tuyển vào ngành Giáo dục Mầm non trình độ đại học, cao đẳng",
+      "programs": []
+    },
+    {
+      "method_id": "2-iem-thi-thpt",
+      "method_name": "2 ĐIỂM THI THPT",
+      "description": "2.1 ĐỐI TƯỢNG Phương thức 1: Tuyển thẳng và ưu tiên xét tuyển. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM THI THPT STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7220201N Ngôn ngữ Anh (Phân hiệu Ninh Thuận) A01, D01, D09, D10, D14, D15 2 7340101N Quản trị kinh doanh (Phân hiệu Ninh Thuận) A00, A01, D01, X01, X02, X25 3 7340301N Kế toán (Phân hiệu Ninh Thuận) A00, A01, D01, X01, X02, X25 4 7480201N Công nghệ thông tin (Phân hiệu Ninh Thuận) A00, A01, D07, X06, X10, X07 5 7620109N Nông học (Phân hiệu ",
+      "eligibility": "ĐỐI TƯỢNG Phương thức 1: Tuyển thẳng và ưu tiên xét tuyển.",
+      "rules": null,
+      "programs": []
+    },
+    {
+      "method_id": "3-iem-gnl-hcm",
+      "method_name": "3 ĐIỂM ĐGNL HCM",
+      "description": "3.1 ĐỐI TƯỢNG Phương thức 2: Xét tuyển dựa trên kết quả kỳ thi Đánh giá năng lực do Đại học Quốc gia Thành phố Hồ Chí Minh tổ chức năm 2025 DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐGNL HCM STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7220201N Ngôn ngữ Anh (Phân hiệu Ninh Thuận) 2 7340101N Quản trị kinh doanh (Phân hiệu Ninh Thuận) 3 7340301N Kế toán (Phân hiệu Ninh Thuận) 4 7480201N Công nghệ thông tin (Phân hiệu Ninh Thuận) 5 7620109N Nông học (Phân hiệu Ninh Thuận) 6 7640101N Thú y (Phân hiệu",
+      "eligibility": "ĐỐI TƯỢNG Phương thức 2: Xét tuyển dựa trên kết quả kỳ thi Đánh giá năng lực do Đại học Quốc gia Thành phố Hồ Chí Minh tổ chức năm 2025",
+      "rules": null,
+      "programs": []
+    },
+    {
+      "method_id": "4-iem-hoc-ba",
+      "method_name": "4 ĐIỂM HỌC BẠ",
+      "description": "4.1 QUY CHẾ Phương thức 5: Xét tuyển dựa trên kết quả học tập bậc THPT (học bạ). Sử dụng điểmhọc bạ (trung bình của 04 học kỳ từ học kỳ 1 lớp 11 đến học kỳ 2 lớp 12, làm tròn đến 2 số lẻ thập phân) của mỗi môn trong tổ hợp xét tuyển. Tại cơ sở Thành phố Hồ Chí Minh chỉ xét tuyển đối với các thí sinh tốt nghiệp THPT năm 2025. Đối với xét tuyển ngành Giáo dục Mầm non (trình độ cao đẳng, đại học), sử dụng điểm học bạ (trung bình của 04 học kỳ từ học kỳ 1 lớp 11 đến học kỳ 2 lớp 12, làm tròn đến 2 s",
+      "eligibility": null,
+      "rules": "QUY CHẾ Phương thức 5: Xét tuyển dựa trên kết quả học tập bậc THPT (học bạ). Sử dụng điểmhọc bạ (trung bình của 04 học kỳ từ học kỳ 1 lớp 11 đến học kỳ 2 lớp 12, làm tròn đến 2 số lẻ thập phân) của mỗi môn trong tổ hợp xét tuyển. Tại cơ sở Thành phố Hồ Chí Minh chỉ xét tuyển đối với các thí sinh tốt nghiệp THPT năm 2025. Đối với xét tuyển ngành Giáo dục Mầm non (trình độ cao đẳng, đại học), sử dụng điểm học bạ (trung bình của 04 học kỳ từ học kỳ 1 lớp 11 đến học kỳ 2 lớp 12, làm tròn đến 2 số lẻ thập phân) của 2 môn Toán và Ngữ văn kết hợp với kết quả thi môn Năng khiếu. QUY CHẾ Đối với các phương thức xét tuyển 3 và 5, thí sinh có thể sử dụng điểm chứng chỉ Tiếng Anh quốc tế (IELTS hoặc TOEFL ITP) còn giá trị sử dụng đến trước ngày thí sinh bắt đầu đăng ký xét tuyển theo quy định của Bộ Giáo dục và Đào tạo, được quy đổi theo quy định để bổ sung hoặc thay thế cho môn Tiếng Anh trong tổ hợp xét tuyển. + Đối với điểm bài thi IELTS phải đạt từ 4,5 trở lên, đơn vị cấp chứng chỉ gồm: BritishCouncil (BC) hoặc International Development Program (IDP); + Điểm bài thi TOEFL ITP phải đạt từ 450 trở lên, đơn vị cấp chứng chỉ EducationalTesting Service (ETS). Mức điểm quy đổi như sau: Tiêu chí phân ngành, chương trình đào tạo (CSĐT tuyển sinh theo nhóm ngành): Đối với các ngành đào có nhiều chuyên ngành, việc phân chuyên ngành đào tạo sẽ được thực hiệndựa trên các tiêu chí: + Nguyện vọng của sinh viên; + Chỉ tiêu phân bổ cho từng chuyên ngành trong ngành (tối thiểu 30 sinh viên/chuyênngành); + Kết quả học tập của sinh viên; - Đối với Chương trình tiên tiến, sinh viên cần đạt trình độ ngoại ngữ theo yêu cầu. - Các thông tin khác… - Ngành Ngôn ngữ Anh (7220201): điểm môn Tiếng Anh được nhân đôi, cộng với điểm hai môn còn lại, quy về điểm 30. - Ngành Giáo dục mầm non (trình độ đại học: 7140201, trình độ cao đẳng: 51140201): điểm môn Năng khiếu được nhân đôi, cộng với điểm hai môn còn lại, quy về điểm 30. - Thí sinh có thể đăng ký dự thi môn Năng khiếu mầm non tại Trường Đại học Sư phạmThành phố Hồ Chí Minh hoặc Trường Đại học Sư phạm Hà Nội để lấy điểm năng khiếu xét tuyển vào ngành Giáo dục Mầm non trình độ đại học, cao đẳng.",
+      "programs": []
+    },
+    {
+      "method_id": "5-iem-xet-tuyen-ket-hop",
+      "method_name": "5 ĐIỂM XÉT TUYỂN KẾT HỢP",
+      "description": "5.1 ĐỐI TƯỢNG Phương thức 4: Xét tuyển dựa trên kết quả thi tốt nghiệp THPT năm 2025, bổ sung hoặc thay thế một môn trong tổ hợp xét tuyển bằng kết quả học tập bậc THPT (học bạ). Không áp dụng đối với xét tuyển ngành Giáo dục mầm non (trình độ cao đẳng, đại học). Xét tuyển dựa vào điểm 02 (hai) môn thi tốt nghiệp THPT năm 2025 có trong tổ hợp xét tuyển và 01 (một) môn còn lại trong tổ hợp xét tuyển được sử dụng điểm học bạ (trung bình của 04 học kỳ từ học kỳ 1 lớp 11 đến học kỳ 2 lớp 12, làm trò",
+      "eligibility": "ĐỐI TƯỢNG Phương thức 4: Xét tuyển dựa trên kết quả thi tốt nghiệp THPT năm 2025, bổ sung hoặc thay thế một môn trong tổ hợp xét tuyển bằng kết quả học tập bậc THPT (học bạ). Không áp dụng đối với xét tuyển ngành Giáo dục mầm non (trình độ cao đẳng, đại học). Xét tuyển dựa vào điểm 02 (hai) môn thi tốt nghiệp THPT năm 2025 có trong tổ hợp xét tuyển và 01 (một) môn còn lại trong tổ hợp xét tuyển được sử dụng điểm học bạ (trung bình của 04 học kỳ từ học kỳ 1 lớp 11 đến học kỳ 2 lớp 12, làm tròn đến 02 số lẻ thập phân) để bổ sung hoặc thay thế, môn bổ sung hoặc thay thế này không được là môn Toán và Ngữ văn.",
+      "rules": null,
+      "programs": []
+    },
+    {
+      "method_id": "6-xet-tuyen-ket-hop-voi-chung-chi-quoc-te",
+      "method_name": "6 XÉT TUYỂN KẾT HỢP VỚI CHỨNG CHỈ QUỐC TẾ",
+      "description": "6.1 ĐỐI TƯỢNG 409 - Kết hợp kết quả thi tốt nghiệp THPT với chứng chỉ quốc tế để xét tuyển 410 – Xét tuyển kết hợp kết quả họctập cấp THPT với chứng chỉ quốc tế để xét tuyển DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM XÉT TUYỂN KẾT HỢP STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7220201N Ngôn ngữ Anh (Phân hiệu Ninh Thuận) A01, D01, D09, D10, D14, D15 2 7340101N Quản trị kinh doanh (Phân hiệu Ninh Thuận) (A00, A01, D01, X01, X02, X25 3 7340301N Kế toán (Phân hiệu Ninh Thuận) A00, A01, D01, X01, X0",
+      "eligibility": "ĐỐI TƯỢNG 409 - Kết hợp kết quả thi tốt nghiệp THPT với chứng chỉ quốc tế để xét tuyển 410 – Xét tuyển kết hợp kết quả họctập cấp THPT với chứng chỉ quốc tế để xét tuyển",
+      "rules": null,
+      "programs": []
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "CCQT",
+          "program_name": "7340101N",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "CCQT",
+          "program_name": "7340301N",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "CCQT",
+          "program_name": "7480201N",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "CCQT",
+          "program_name": "7620109N",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "CCQT",
+          "program_name": "7640101N",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Phân hiệu Đại học Nông Lâm TPHCM tại Ninh Thuận các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/phan-hieu-dai-hoc-nong-lam-tphcm-tai-ninh-thuan-NLN.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201N",
+            "program_name": "Ngôn ngữ Anh (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7340101N",
+            "program_name": "Quản trị kinh doanh (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X01",
+              "X02",
+              "X25"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7340301N",
+            "program_name": "Kế toán (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X01",
+              "X02",
+              "X25"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7480201N",
+            "program_name": "Công nghệ thông tin (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07",
+              "X06",
+              "X10",
+              "X07"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7519007N",
+            "program_name": "Công nghệ kỹ thuật năng lượng tái tạo (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "X06",
+              "X07"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7620109N",
+            "program_name": "Nông học (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "A02",
+              "D07",
+              "D08"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7640101N",
+            "program_name": "Thú y (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B03",
+              "C02",
+              "D07",
+              "D08"
+            ],
+            "score": 18,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201N",
+            "program_name": "Ngôn ngữ Anh (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7340101N",
+            "program_name": "Quản trị kinh doanh (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X01",
+              "X02",
+              "X25"
+            ],
+            "score": 19.13,
+            "note": null
+          },
+          {
+            "program_code": "7340301N",
+            "program_name": "Kế toán (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X01",
+              "X02",
+              "X25"
+            ],
+            "score": 19.13,
+            "note": null
+          },
+          {
+            "program_code": "7480201N",
+            "program_name": "Công nghệ thông tin (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07",
+              "X06",
+              "X10",
+              "X07"
+            ],
+            "score": 19.13,
+            "note": null
+          },
+          {
+            "program_code": "7519007N",
+            "program_name": "Công nghệ kỹ thuật năng lượng tái tạo (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "X06",
+              "X07"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7620109N",
+            "program_name": "Nông học (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "A02",
+              "D07",
+              "D08"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7640101N",
+            "program_name": "Thú y (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B03",
+              "C02",
+              "D07",
+              "D08"
+            ],
+            "score": 20.25,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201N",
+            "program_name": "Ngôn ngữ Anh (Phân hiệu Ninh Thuận)",
+            "subject_groups": [],
+            "score": 601,
+            "note": null
+          },
+          {
+            "program_code": "7340101N",
+            "program_name": "Quản trị kinh doanh (Phân hiệu Ninh Thuận)",
+            "subject_groups": [],
+            "score": 601,
+            "note": null
+          },
+          {
+            "program_code": "7340301N",
+            "program_name": "Kế toán (Phân hiệu Ninh Thuận)",
+            "subject_groups": [],
+            "score": 601,
+            "note": null
+          },
+          {
+            "program_code": "7480201N",
+            "program_name": "Công nghệ thông tin (Phân hiệu Ninh Thuận)",
+            "subject_groups": [],
+            "score": 601,
+            "note": null
+          },
+          {
+            "program_code": "7519007N",
+            "program_name": "Công nghệ kỹ thuật năng lượng tái tạo (Phân hiệu Ninh Thuận)",
+            "subject_groups": [],
+            "score": 601,
+            "note": null
+          },
+          {
+            "program_code": "7620109N",
+            "program_name": "Nông học (Phân hiệu Ninh Thuận)",
+            "subject_groups": [],
+            "score": 601,
+            "note": null
+          },
+          {
+            "program_code": "7640101N",
+            "program_name": "Thú y (Phân hiệu Ninh Thuận)",
+            "subject_groups": [],
+            "score": 601,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-xet-tuyen-ket-hop",
+        "method_name": "Điểm chuẩn theo phương thức Điểm xét tuyển kết hợp năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201N",
+            "program_name": "Ngôn ngữ Anh (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 16,
+            "note": "Kết hợp học bạ và điểm thi tốt nghiệp"
+          },
+          {
+            "program_code": "7340101N",
+            "program_name": "Quản trị kinh doanh (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X01",
+              "X02",
+              "X25"
+            ],
+            "score": 17,
+            "note": "Kết hợp học bạ và điểm thi tốt nghiệp"
+          },
+          {
+            "program_code": "7340301N",
+            "program_name": "Kế toán (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X01",
+              "X02",
+              "X25"
+            ],
+            "score": 17,
+            "note": "Kết hợp học bạ và điểm thi tốt nghiệp"
+          },
+          {
+            "program_code": "7480201N",
+            "program_name": "Công nghệ thông tin (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07",
+              "X06",
+              "X10",
+              "X07"
+            ],
+            "score": 17,
+            "note": "Kết hợp học bạ và điểm thi tốt nghiệp"
+          },
+          {
+            "program_code": "7519007N",
+            "program_name": "Công nghệ kỹ thuật năng lượng tái tạo (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "X06",
+              "X07"
+            ],
+            "score": 16,
+            "note": "Kết hợp học bạ và điểm thi tốt nghiệp"
+          },
+          {
+            "program_code": "7620109N",
+            "program_name": "Nông học (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "A02",
+              "D07",
+              "D08"
+            ],
+            "score": 16,
+            "note": "Kết hợp học bạ và điểm thi tốt nghiệp"
+          },
+          {
+            "program_code": "7640101N",
+            "program_name": "Thú y (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B03",
+              "C02",
+              "D07",
+              "D08"
+            ],
+            "score": 18,
+            "note": "Kết hợp học bạ và điểm thi tốt nghiệp"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-chung-chi-quoc-te",
+        "method_name": "Điểm chuẩn theo phương thức Chứng chỉ quốc tế năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201N",
+            "program_name": "Ngôn ngữ Anh (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 16,
+            "note": "Điểm thi tốt nghiệp THPT và CCQT"
+          },
+          {
+            "program_code": "7220201N",
+            "program_name": "Ngôn ngữ Anh (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D09",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 18,
+            "note": "Học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7340101N",
+            "program_name": "Quản trị kinh doanh (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "X25"
+            ],
+            "score": 17,
+            "note": "Điểm thi tốt nghiệp THPT và CCQT"
+          },
+          {
+            "program_code": "7340101N",
+            "program_name": "Quản trị kinh doanh (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "X25"
+            ],
+            "score": 19.13,
+            "note": "Học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7340301N",
+            "program_name": "Kế toán (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "X25"
+            ],
+            "score": 17,
+            "note": "Điểm thi tốt nghiệp THPT và CCQT"
+          },
+          {
+            "program_code": "7340301N",
+            "program_name": "Kế toán (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "X25"
+            ],
+            "score": 19.13,
+            "note": "Học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7480201N",
+            "program_name": "Công nghệ thông tin (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A01",
+              "D07"
+            ],
+            "score": 19.13,
+            "note": "Học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7480201N",
+            "program_name": "Công nghệ thông tin (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A01",
+              "D07"
+            ],
+            "score": 17,
+            "note": "Điểm thi tốt nghiệp THPT và CCQT"
+          },
+          {
+            "program_code": "7519007N",
+            "program_name": "Công nghệ kỹ thuật năng lượng tái tạo (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 18,
+            "note": "Học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7519007N",
+            "program_name": "Công nghệ kỹ thuật năng lượng tái tạo (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 16,
+            "note": "Điểm thi tốt nghiệp THPT và CCQT"
+          },
+          {
+            "program_code": "7620109N",
+            "program_name": "Nông học (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D08"
+            ],
+            "score": 18,
+            "note": "Học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7620109N",
+            "program_name": "Nông học (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D08"
+            ],
+            "score": 16,
+            "note": "Điểm thi tốt nghiệp THPT và CCQT"
+          },
+          {
+            "program_code": "7640101N",
+            "program_name": "Thú y (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "D07",
+              "D08"
+            ],
+            "score": 20.25,
+            "note": "Học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7640101N",
+            "program_name": "Thú y (Phân hiệu Ninh Thuận)",
+            "subject_groups": [
+              "D07",
+              "D08"
+            ],
+            "score": 18,
+            "note": "Điểm thi tốt nghiệp THPT và CCQT"
+          }
+        ]
+      }
+    ]
+  }
+}

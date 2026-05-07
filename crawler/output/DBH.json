@@ -1,0 +1,623 @@
+{
+  "university": {
+    "code": "DBH",
+    "name": "Đại học Quốc tế Bắc Hà",
+    "short_name": "IUBH",
+    "location": [
+      "Hà Nội"
+    ],
+    "address": "Số 54 Vũ Trọng Phụng, Thanh Xuân, Hà Nội.",
+    "website": "www.bhiu.edu.vn",
+    "type": null,
+    "description": null
+  },
+  "admission_year": null,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-quoc-te-bac-ha-DBH.html",
+  "pdf_url": null,
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC QUỐC TẾ BẮC HÀ 2025 Khám phá thêm Xếp hạng trường Mã trường ngành khoa học",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt---2024",
+      "method_name": "1 ĐIỂM THI THPT - 2024",
+      "description": "Xét tuyển theo điểm của kỳ thi tốt nghiệp trung học phổ thông Quốc gia DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM THI THPT NĂM 2024 STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7340101 Quản trị kinh doanh A00; D01; C00; C14; C20 2 7340201 Tài chính ngân hàng A00; D01; C00; C14; C20 3 7340301 Kế toán A00; D01; C00; C14; C20 4 7480201 Công nghệ thông tin A00; A01; A02; A03; A04 5 7520207 Kỹ thuật điện tử viễn thông A00; A01; A02; A03; A04 6 7580201 Kỹ thuật xây dựng A00; A01; A04; A06; D01 7 7580205",
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "D01",
+            "C00",
+            "C14",
+            "C20"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính ngân hàng",
+          "subject_groups": [
+            "A00",
+            "D01",
+            "C00",
+            "C14",
+            "C20"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A00",
+            "D01",
+            "C00",
+            "C14",
+            "C20"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "A04"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật điện tử viễn thông",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "A04"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Kỹ thuật xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A04",
+            "A06",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7580205",
+          "program_name": "Kỹ thuật xây dựng công trình giao thông",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A04",
+            "A06",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7580301",
+          "program_name": "Kinh tế xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A04",
+            "A06",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-hoc-ba---2024",
+      "method_name": "2 ĐIỂM HỌC BẠ - 2024",
+      "description": "Xét tuyển theo học bạ lớp 10, lớp 11 và học kỳ 1 của lớp 12, tổng điểm bình quân 3 môn trong tổ hợp môn xét tuyển không dưới 16 điểm; Xét tuyển theo học bạ kỳ 1 của lớp 12, tổng điểm bình quân 3 môn trong tổ hợp môn xét tuyển không dưới 16 điểm; DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM HỌC BẠ NĂM 2024 STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7340101 Quản trị kinh doanh A00; D01; C00; C14; C20 2 7340201 Tài chính ngân hàng A00; D01; C00; C14; C20 3 7340301 Kế toán A00; D01; C00; C14; C20 4 74",
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "D01",
+            "C00",
+            "C14",
+            "C20"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính ngân hàng",
+          "subject_groups": [
+            "A00",
+            "D01",
+            "C00",
+            "C14",
+            "C20"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A00",
+            "D01",
+            "C00",
+            "C14",
+            "C20"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "A04"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật điện tử viễn thông",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "A04"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Kỹ thuật xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A04",
+            "A06",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7580205",
+          "program_name": "Kỹ thuật xây dựng công trình giao thông",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A04",
+            "A06",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7580301",
+          "program_name": "Kinh tế xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A04",
+            "A06",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        }
+      ]
+    },
+    {
+      "method_id": "3-iem-thi-rieng---2024",
+      "method_name": "3 ĐIỂM THI RIÊNG - 2024",
+      "description": "Tổ chức thi tuyển theo đợt tuyển sinh của Trường",
+      "eligibility": null,
+      "rules": null,
+      "programs": []
+    },
+    {
+      "method_id": "4-iem-xet-tuyen-ket-hop---2024",
+      "method_name": "4 ĐIỂM XÉT TUYỂN KẾT HỢP - 2024",
+      "description": "Xét tuyển kết hợp giữa chứng chỉ tiếng Anh Quốc tế và kết quả thi THPT",
+      "eligibility": null,
+      "rules": null,
+      "programs": []
+    },
+    {
+      "method_id": "5-iem-gnl-hn---2024",
+      "method_name": "5 ĐIỂM ĐGNL HN - 2024",
+      "description": "Xét tuyển dựa trên kết quả thi đánh giá năng lực do Đại học Quốc gia Hà Nội tổ chức;",
+      "eligibility": null,
+      "rules": null,
+      "programs": []
+    },
+    {
+      "method_id": "6-iem-anh-gia-tu-duy---2024",
+      "method_name": "6 ĐIỂM ĐÁNH GIÁ TƯ DUY - 2024",
+      "description": "Xét tuyển dựa trên kết quả thi đánh giá tư duy do Đại học Bách khoa Hà Nội tổ chức;",
+      "eligibility": null,
+      "rules": null,
+      "programs": []
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "D01",
+            "C00",
+            "C14",
+            "C20"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính ngân hàng",
+          "subject_groups": [
+            "A00",
+            "D01",
+            "C00",
+            "C14",
+            "C20"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A00",
+            "D01",
+            "C00",
+            "C14",
+            "C20"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "A04"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật điện tử viễn thông",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "A04"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Kỹ thuật xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A04",
+            "A06",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7580205",
+          "program_name": "Kỹ thuật xây dựng công trình giao thông",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A04",
+            "A06",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7580301",
+          "program_name": "Kinh tế xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A04",
+            "A06",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Học phí Đại học Quốc tế Bắc Hà được xây dựng trên cơ sở học chế tín chỉ, thu theo học kỳ và phụ thuộc vào tổng số tín chỉ sinh viên đăng kí trong học kỳ.” Theo đó, Nhà trường thông báo mức học phí năm 2024 như sau: Đối với hệ đào tạo Đại học chính quy (thời gian đào tạo từ 3,5-4 năm): 450.000 VNĐ/tín chỉ. Tổng chi phí đào tạo trung bình 1 sinh viên/ năm của năm liền trước năm tuyển sinh: 18.000.000VNĐ",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-quoc-te-bac-ha-DBH.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2024",
+        "year": 2024,
+        "entries": [
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "D01",
+              "C00",
+              "C14",
+              "C20"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính ngân hàng",
+            "subject_groups": [
+              "A00",
+              "D01",
+              "C00",
+              "C14",
+              "C20"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "D01",
+              "C00",
+              "C14",
+              "C20"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "A03",
+              "A04"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7520207",
+            "program_name": "Kỹ thuật điện tử viễn thông",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "A03",
+              "A04"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7580201",
+            "program_name": "Kỹ thuật xây dựng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A04",
+              "A06",
+              "D01"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7580205",
+            "program_name": "Kỹ thuật xây dựng công trình giao thông",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A04",
+              "A06",
+              "D01"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7580301",
+            "program_name": "Kinh tế xây dựng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A04",
+              "A06",
+              "D01"
+            ],
+            "score": 16,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2024",
+        "year": 2024,
+        "entries": [
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "D01",
+              "C00",
+              "C14",
+              "C20"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính ngân hàng",
+            "subject_groups": [
+              "A00",
+              "D01",
+              "C00",
+              "C14",
+              "C20"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "D01",
+              "C00",
+              "C14",
+              "C20"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "A03",
+              "A04"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7520207",
+            "program_name": "Kỹ thuật điện tử viễn thông",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "A03",
+              "A04"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7580201",
+            "program_name": "Kỹ thuật xây dựng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A04",
+              "A06",
+              "D01"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7580205",
+            "program_name": "Kỹ thuật xây dựng công trình giao thông",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A04",
+              "A06",
+              "D01"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7580301",
+            "program_name": "Kinh tế xây dựng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A04",
+              "A06",
+              "D01"
+            ],
+            "score": 16,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "university": {
+    "code": "VPH",
+    "name": "Trường Sĩ Quan Kĩ Thuật Quân Sự -  Hệ Quân sự - Đại Học Trần Đại Nghĩa",
+    "short_name": null,
+    "location": [
+      "Hồ Chí Minh"
+    ],
+    "address": null,
+    "website": null,
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": 60,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/truong-si-quan-ki-thuat-quan-su-he-quan-su-dai-hoc-tran-dai-nghia-VPH.html",
+  "pdf_url": null,
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG SĨ QUAN KĨ THUẬT QUÂN SỰ - HỆ QUÂN SỰ - ĐẠI HỌC TRẦN ĐẠI NGHĨA 2026 Thông tin tuyển sinh Trường Sĩ quan Kỹ thuật Quân sự - Đại học Trần Đại Nghĩa năm 2026 Năm 2026, Trường Sĩ quan Kỹ thuật Quân sự - Đại học Trần Đại Nghĩa thông báo tuyển sinh 60 chỉ tiêu với 4 phương thức xét tuyển, cụ thể: Phương thức 1: Xét tuyển thẳng Phương thức 2: Điểm thi ĐGNL ĐHQG HCM Phương thức 3: Điểm thi tốt nghiệp THPT Phương thức 4: Điểm thi ĐGNL BQP Xem thời gian và hồ sơ đăng ký xét tuyển năm 2026 TẠI ĐÂY",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 QUY CHẾ Xét tuyển dựa vào kết quả kỳ thi tốt nghiệp THPT năm 2026. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM THI THPT STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7510201 Công nghệ kỹ thuật cơ khí (Thí sinh miền Bắc) A00; A01; A0T 2 7510201 Công nghệ kỹ thuật cơ khí (Thí sinh miền Nam) A00; A01; A0T",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét tuyển dựa vào kết quả kỳ thi tốt nghiệp THPT năm 2026.",
+      "programs": [
+        {
+          "program_code": "7510201",
+          "program_name": "Công nghệ kỹ thuật cơ khí (Thí sinh miền Bắc)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A0T"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7510201",
+          "program_name": "Công nghệ kỹ thuật cơ khí (Thí sinh miền Nam)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A0T"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-gnl-hcm",
+      "method_name": "2 ĐIỂM ĐGNL HCM",
+      "description": "2.1 QUY CHẾ Xét tuyển từ kết quả kỳ thi đánh giá năng lực của Đại học Quốc gia Hà Nội, Đại học Quốc gia Thành phố Hồ Chí Minh tổ chức năm 2026. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐGNL HCM STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7510201 Công nghệ kỹ thuật cơ khí (Thí sinh miền Bắc) 2 7510201 Công nghệ kỹ thuật cơ khí (Thí sinh miền Nam)",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét tuyển từ kết quả kỳ thi đánh giá năng lực của Đại học Quốc gia Hà Nội, Đại học Quốc gia Thành phố Hồ Chí Minh tổ chức năm 2026.",
+      "programs": [
+        {
+          "program_code": "7510201",
+          "program_name": "Công nghệ kỹ thuật cơ khí (Thí sinh miền Bắc)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7510201",
+          "program_name": "Công nghệ kỹ thuật cơ khí (Thí sinh miền Nam)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    },
+    {
+      "method_id": "3",
+      "method_name": "3",
+      "description": "3.1 QUY CHẾ Xét tuyển từ kết quả kỳ thi đánh giá năng lực do Bộ Quốc phòng tổ chức năm 2026. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7510201 Công nghệ kỹ thuật cơ khí (Thí sinh miền Bắc) QDA 2 7510201 Công nghệ kỹ thuật cơ khí (Thí sinh miền Nam) QDA",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét tuyển từ kết quả kỳ thi đánh giá năng lực do Bộ Quốc phòng tổ chức năm 2026.",
+      "programs": [
+        {
+          "program_code": "7510201",
+          "program_name": "Công nghệ kỹ thuật cơ khí (Thí sinh miền Bắc)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7510201",
+          "program_name": "Công nghệ kỹ thuật cơ khí (Thí sinh miền Nam)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    },
+    {
+      "method_id": "4-utxt-xt-thang",
+      "method_name": "4 ƯTXT, XT THẲNG",
+      "description": "4.1 QUY CHẾ Xét tuyển thẳng, ưu tiên xét tuyển theo Quy chế tuyển sinh của Bộ Giáo dục và Đào tạo, quy định của Bộ quốc phòng. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ƯTXT, XT THẲNG STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7510201 Công nghệ kỹ thuật cơ khí (Thí sinh miền Bắc) 2 7510201 Công nghệ kỹ thuật cơ khí (Thí sinh miền Nam)",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét tuyển thẳng, ưu tiên xét tuyển theo Quy chế tuyển sinh của Bộ Giáo dục và Đào tạo, quy định của Bộ quốc phòng.",
+      "programs": [
+        {
+          "program_code": "7510201",
+          "program_name": "Công nghệ kỹ thuật cơ khí (Thí sinh miền Bắc)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7510201",
+          "program_name": "Công nghệ kỹ thuật cơ khí (Thí sinh miền Nam)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    },
+    {
+      "method_id": "5-iem-gnl-hn",
+      "method_name": "5 ĐIỂM ĐGNL HN",
+      "description": "5.1 QUY CHẾ Xét tuyển từ kết quả kỳ thi đánh giá năng lực do Đại học Quốc gia Hà Nội DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐGNL HN STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7510201 Công nghệ kỹ thuật cơ khí (Thí sinh miền Bắc) Q00 2 7510201 Công nghệ kỹ thuật cơ khí (Thí sinh miền Nam) Q00",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét tuyển từ kết quả kỳ thi đánh giá năng lực do Đại học Quốc gia Hà Nội",
+      "programs": [
+        {
+          "program_code": "7510201",
+          "program_name": "Công nghệ kỹ thuật cơ khí (Thí sinh miền Bắc)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7510201",
+          "program_name": "Công nghệ kỹ thuật cơ khí (Thí sinh miền Nam)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7510201",
+          "program_name": "Công nghệ kỹ thuật cơ khí (Thí sinh miền Bắc)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7510201",
+          "program_name": "Công nghệ kỹ thuật cơ khí (Thí sinh miền Bắc)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A0T"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7510201",
+          "program_name": "Công nghệ kỹ thuật cơ khí (Thí sinh miền Bắc)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7510201",
+          "program_name": "Công nghệ kỹ thuật cơ khí (Thí sinh miền Bắc)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7510201",
+          "program_name": "Công nghệ kỹ thuật cơ khí (Thí sinh miền Nam)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7510201",
+          "program_name": "Công nghệ kỹ thuật cơ khí (Thí sinh miền Nam)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A0T"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7510201",
+          "program_name": "Công nghệ kỹ thuật cơ khí (Thí sinh miền Nam)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7510201",
+          "program_name": "Công nghệ kỹ thuật cơ khí (Thí sinh miền Nam)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": null,
+  "tuition_text": null,
+  "timeline_text": "a) Bước 1: - Làm thủ tục sơ tuyển, thời gian từ ngày 10/2/2026-15/4/2026 - Thí sinh phải đăng ký sơ tuyển tại Ban TSQS cấp xã, phường, đặc khu nơi thí sinh đăng ký thường trú (gọi chung là Ban TSQS cấp xã) và phải được kết luận đủ tiêu chuẩn về chính trị, văn hóa, sức khỏe, độ tuổi... b) Bước 2: - Thí sinh thuộc diện đăng ký xét tuyển thẳng, ưu tiên xét tuyển, đăng ký cộng điểm khuyến khích và sử dụng kết quả thi đánh giá năng lực để xét tuyển phải đăng ký thông tin trên hệ thống htttp://www.tuyensinhquandoi.com và nộp minh chứng về Nhà trường theo quy định. - Thời gian đăng ký: Thí sinh đăng ký trên hệ thống từ ngày 10/6/2026 đến 30/6/2026, dữ liệu đăng ký là dữ liệu dùng để xét tuyển, thí sinh hoàn toàn chịu trách nhiệm trước các thông tin mà mình cập nhật. c) Bước 3: Thí sinh đăng ký, điều chỉnh nguyện vọng xét tuyển vào Trường Sĩ quan Kỹ thuật quân sự trên cổng thông tin tuyển sinh chung của Bộ GDĐT hoặc tại Cổng dịch vụ công quốc gia (gọi tắt là Hệ thống). Chú ý: Phải là nguyện vọng 1 - Ký hiệu trường: VPH - Ngành: Công nghệ kỹ thuật cơ khí + Mã ngành: 7510201 + Mã xét tuyển: QUANSU - Thực hiện lấy cùng một điểm chuẩn sau khi quy đổi tương đương điểm trúng tuyển giữa các phương thức xét tuyển, tổ hợp xét tuyển theo hướng dẫn của Bộ GD&ĐT và Ban TSQS Bộ Quốc phòng. - Điểm trúng tuyển theo chỉ tiêu của khu vực phía Bắc, phía Nam (miền Bắc tính từ Hà Tĩnh trở ra, miền Nam tính từ Quảng Trị trở vào)./.",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/truong-si-quan-ki-thuat-quan-su-he-quan-su-dai-hoc-tran-dai-nghia-VPH.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2019",
+        "year": 2019,
+        "entries": [
+          {
+            "program_code": "7860220",
+            "program_name": "Chỉ huy tham mưu thông tin - Thí sinh Nam miền Nam",
+            "subject_groups": [
+              "A00",
+              "A01"
+            ],
+            "score": 22.7,
+            "note": "Thí sinh mức 22,70 điểm: Tiêu chí phụ 1: Điểm môn Toán ≥ 8,20. Tiêu chí phụ 2: Điểm môn Lý ≥ 6,25."
+          },
+          {
+            "program_code": "7860220",
+            "program_name": "Chỉ huy tham mưu thông tin - Thí sinh Nam miền Bắc",
+            "subject_groups": [
+              "A00",
+              "A01"
+            ],
+            "score": 23.1,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

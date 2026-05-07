@@ -1,0 +1,548 @@
+{
+  "university": {
+    "code": "PVU",
+    "name": "Trường Đại Học Dầu Khí Việt Nam",
+    "short_name": "PVU",
+    "location": [
+      "Bà Rịa- Vũng Tàu"
+    ],
+    "address": "762 Cách Mạng Tháng Tám, phường Long Toàn, TP. Bà Rịa, Tỉnh Bà Rịa Vũng Tàu",
+    "website": "www.pvu.edu.vn",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2025,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-dau-khi-viet-nam-PVU.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2025/0725/thong-tin-tuyen-sinh-dai-hoc-dau-khi-viet-nam-2025.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC DẦU KHÍ VIỆT NAM 2025 Thông tin tuyển sinh Đại Học Dầu Khí Việt Nam (PVU) năm 2025 Năm 2025, Đại Học Dầu Khí Việt Nam (PVU) qua 5 phương thức xét tuyển như sau: Phương thức 1: Xét tuyển kết quả kỳ thi tốt nghiệp THPT năm 2025 Phương thức 2: Xét tuyển kết quả học tập THPT (Học bạ) Phương thức 3: Xét tuyển theo kết quả thi Đánh giá năng lực của ĐHQG HCM và ĐHQG HN năm 2025 Phương thức 4: Xét tuyển theo kết quả thi Đánh giá tư duy của ĐHBK Hà Nội năm 2025 Phương thức 5: Xét tuyển thẳng và ưu tiên xét tuyển Xem thời gian và hồ sơ đăng ký xét tuyển PVU năm 2025 TẠI ĐÂY Khám phá thêm Xếp hạng điểm khoa học khoá học",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 ĐỐI TƯỢNG Tuyển sinh trong cả nước. Thí sinh đã tốt nghiệp THPT của Việt Nam (theo hình thức giáo dục chính quy hoặc giáo dục thường xuyên); hoặc đã tốt nghiệp chương trình THPT của nước ngoài đã được nước ngoài công nhận (đạt trình độ tương đương trình độ THPT của Việt Nam); hoặc chương trình nước ngoài đào tạo tại Việt Nam và được Việt Nam công nhận. 1.2 QUY CHẾ Phương thức 1: Xét tuyển kết quả kỳ thi tốt nghiệp THPT năm 2025 Quy định quy đổi điểm chứng chỉ tiếng Anh Loại chứng chỉ IELTS T",
+      "eligibility": "ĐỐI TƯỢNG Tuyển sinh trong cả nước. Thí sinh đã tốt nghiệp THPT của Việt Nam (theo hình thức giáo dục chính quy hoặc giáo dục thường xuyên); hoặc đã tốt nghiệp chương trình THPT của nước ngoài đã được nước ngoài công nhận (đạt trình độ tương đương trình độ THPT của Việt Nam); hoặc chương trình nước ngoài đào tạo tại Việt Nam và được Việt Nam công nhận. 1.2",
+      "rules": "QUY CHẾ Phương thức 1: Xét tuyển kết quả kỳ thi tốt nghiệp THPT năm 2025 Quy định quy đổi điểm chứng chỉ tiếng Anh Loại chứng chỉ IELTS TOEFL IBT TOEC PTE Academic Điểm thi THPT/điểm môn tiếng Anh THPT Nghe + Đọc Nói + Viết Điểm 5.0 46-47 550-560 240 36 8.0 48-50 565-575 38 8.2 51-53 580-590 40 8.4 54-56 595-605 42 8.6 57-59 610-620 44 8.8 5.5 60-62 625-630 270 46 9.0 63-66 635-645 48 9.2 67-70 650-660 50 9.4 71-74 665-675 52 9.6 75-78 680-690 54 9.8 6.0 79 695-710 290 56 10.0 Cách thức nộp chứng chỉ tiếng Anh (nếu có). Thí sinh upload Chứng chỉ tiếng Anh (bản scan) vào link: tuyensinh2025.pvu.edu.vn",
+      "programs": [
+        {
+          "program_code": "IELTS",
+          "program_name": "Loại chứng chỉ",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "TOEFL IBT"
+        },
+        {
+          "program_code": "IELTS",
+          "program_name": "Loại chứng chỉ",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "TOEFL IBT"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-hoc-ba",
+      "method_name": "2 ĐIỂM HỌC BẠ",
+      "description": "2.1 QUY CHẾ Phương thức 2:Xét tuyển kết quả học tập THPT (Học bạ): Tính tổng điểm trung bình của 06 học kỳ Quy định quy đổi điểm chứng chỉ tiếng Anh Loại chứng chỉ IELTS TOEFL IBT TOEC PTE Academic Điểm thi THPT/điểm môn tiếng Anh THPT Nghe + Đọc Nói + Viết Điểm 5.0 46-47 550-560 240 36 8.0 48-50 565-575 38 8.2 51-53 580-590 40 8.4 54-56 595-605 42 8.6 57-59 610-620 44 8.8 5.5 60-62 625-630 270 46 9.0 63-66 635-645 48 9.2 67-70 650-660 50 9.4 71-74 665-675 52 9.6 75-78 680-690 54 9.8 6.0 79 695-",
+      "eligibility": null,
+      "rules": "QUY CHẾ Phương thức 2:Xét tuyển kết quả học tập THPT (Học bạ): Tính tổng điểm trung bình của 06 học kỳ Quy định quy đổi điểm chứng chỉ tiếng Anh Loại chứng chỉ IELTS TOEFL IBT TOEC PTE Academic Điểm thi THPT/điểm môn tiếng Anh THPT Nghe + Đọc Nói + Viết Điểm 5.0 46-47 550-560 240 36 8.0 48-50 565-575 38 8.2 51-53 580-590 40 8.4 54-56 595-605 42 8.6 57-59 610-620 44 8.8 5.5 60-62 625-630 270 46 9.0 63-66 635-645 48 9.2 67-70 650-660 50 9.4 71-74 665-675 52 9.6 75-78 680-690 54 9.8 6.0 79 695-710 290 56 10.0 Cách thức nộp chứng chỉ tiếng Anh (nếu có). Thí sinh upload Chứng chỉ tiếng Anh (bản scan) vào link: tuyensinh2025.pvu.edu.vn",
+      "programs": [
+        {
+          "program_code": "IELTS",
+          "program_name": "Loại chứng chỉ",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "TOEFL IBT"
+        },
+        {
+          "program_code": "IELTS",
+          "program_name": "Loại chứng chỉ",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "TOEFL IBT"
+        }
+      ]
+    },
+    {
+      "method_id": "3-iem-gnl-hn",
+      "method_name": "3 ĐIỂM ĐGNL HN",
+      "description": "3.1 QUY CHẾ Phương thức 3: Xét tuyển theo kết quả thi Đánh giá năng lực của ĐHQG HCM và ĐHQG HN năm 2025. Quy định quy đổi điểm chứng chỉ tiếng Anh Loại chứng chỉ IELTS TOEFL IBT TOEC PTE Academic Điểm thi THPT/điểm môn tiếng Anh THPT Nghe + Đọc Nói + Viết Điểm 5.0 46-47 550-560 240 36 8.0 48-50 565-575 38 8.2 51-53 580-590 40 8.4 54-56 595-605 42 8.6 57-59 610-620 44 8.8 5.5 60-62 625-630 270 46 9.0 63-66 635-645 48 9.2 67-70 650-660 50 9.4 71-74 665-675 52 9.6 75-78 680-690 54 9.8 6.0 79 695-7",
+      "eligibility": null,
+      "rules": "QUY CHẾ Phương thức 3: Xét tuyển theo kết quả thi Đánh giá năng lực của ĐHQG HCM và ĐHQG HN năm 2025. Quy định quy đổi điểm chứng chỉ tiếng Anh Loại chứng chỉ IELTS TOEFL IBT TOEC PTE Academic Điểm thi THPT/điểm môn tiếng Anh THPT Nghe + Đọc Nói + Viết Điểm 5.0 46-47 550-560 240 36 8.0 48-50 565-575 38 8.2 51-53 580-590 40 8.4 54-56 595-605 42 8.6 57-59 610-620 44 8.8 5.5 60-62 625-630 270 46 9.0 63-66 635-645 48 9.2 67-70 650-660 50 9.4 71-74 665-675 52 9.6 75-78 680-690 54 9.8 6.0 79 695-710 290 56 10.0 Cách thức nộp chứng chỉ tiếng Anh (nếu có). Thí sinh upload Chứng chỉ tiếng Anh (bản scan) vào link: tuyensinh2025.pvu.edu.vn",
+      "programs": [
+        {
+          "program_code": "IELTS",
+          "program_name": "Loại chứng chỉ",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "TOEFL IBT"
+        },
+        {
+          "program_code": "IELTS",
+          "program_name": "Loại chứng chỉ",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "TOEFL IBT"
+        }
+      ]
+    },
+    {
+      "method_id": "4-iem-gnl-hcm",
+      "method_name": "4 ĐIỂM ĐGNL HCM",
+      "description": "4.1 QUY CHẾ Phương thức 3: Xét tuyển theo kết quả thi Đánh giá năng lực của ĐHQG HCM và ĐHQG HN năm 2025. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐGNL HCM STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7520301 Kỹ thuật Hóa học (Lọc-Hóa dầu) 2 7520501 Kỹ thuật Địa chất (Địa chất - Địa vật lý Dầu khí) 3 7520604 Kỹ thuật Dầu khí (Khoan-Khai thác Mỏ Dầu khí)",
+      "eligibility": null,
+      "rules": "QUY CHẾ Phương thức 3: Xét tuyển theo kết quả thi Đánh giá năng lực của ĐHQG HCM và ĐHQG HN năm 2025.",
+      "programs": [
+        {
+          "program_code": "7520301",
+          "program_name": "Kỹ thuật Hóa học (Lọc-Hóa dầu)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7520501",
+          "program_name": "Kỹ thuật Địa chất (Địa chất - Địa vật lý Dầu khí)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7520604",
+          "program_name": "Kỹ thuật Dầu khí (Khoan-Khai thác Mỏ Dầu khí)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        }
+      ]
+    },
+    {
+      "method_id": "5-iem-anh-gia-tu-duy",
+      "method_name": "5 ĐIỂM ĐÁNH GIÁ TƯ DUY",
+      "description": "5.1 QUY CHẾ Phương thức 4: Xét tuyển theo kết quả thi Đánh giá tư duy của ĐHBK Hà Nội năm 2025. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐÁNH GIÁ TƯ DUY STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7520301 Kỹ thuật Hóa học (Lọc-Hóa dầu) K00 2 7520501 Kỹ thuật Địa chất (Địa chất - Địa vật lý Dầu khí) K00 3 7520604 Kỹ thuật Dầu khí (Khoan-Khai thác Mỏ Dầu khí) K00",
+      "eligibility": null,
+      "rules": "QUY CHẾ Phương thức 4: Xét tuyển theo kết quả thi Đánh giá tư duy của ĐHBK Hà Nội năm 2025.",
+      "programs": [
+        {
+          "program_code": "7520301",
+          "program_name": "Kỹ thuật Hóa học (Lọc-Hóa dầu)",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7520501",
+          "program_name": "Kỹ thuật Địa chất (Địa chất - Địa vật lý Dầu khí)",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7520604",
+          "program_name": "Kỹ thuật Dầu khí (Khoan-Khai thác Mỏ Dầu khí)",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        }
+      ]
+    },
+    {
+      "method_id": "6-utxt-xt-thang",
+      "method_name": "6 ƯTXT, XT THẲNG",
+      "description": "6.1 QUY CHẾ Phương thức 5: Xét tuyển thẳng và ưu tiên xét tuyển: Thực hiện theo Quy chế tuyển sinh hiện hành của Bộ GD&ĐT. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ƯTXT, XT THẲNG STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7520301 Kỹ thuật Hóa học (Lọc-Hóa dầu) 2 7520501 Kỹ thuật Địa chất (Địa chất - Địa vật lý Dầu khí) 3 7520604 Kỹ thuật Dầu khí (Khoan-Khai thác Mỏ Dầu khí)",
+      "eligibility": null,
+      "rules": "QUY CHẾ Phương thức 5: Xét tuyển thẳng và ưu tiên xét tuyển: Thực hiện theo Quy chế tuyển sinh hiện hành của Bộ GD&ĐT.",
+      "programs": [
+        {
+          "program_code": "7520301",
+          "program_name": "Kỹ thuật Hóa học (Lọc-Hóa dầu)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7520501",
+          "program_name": "Kỹ thuật Địa chất (Địa chất - Địa vật lý Dầu khí)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7520604",
+          "program_name": "Kỹ thuật Dầu khí (Khoan-Khai thác Mỏ Dầu khí)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7520301",
+          "program_name": "Kỹ thuật Hóa học (Lọc-Hóa dầu)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7520301",
+          "program_name": "Kỹ thuật Hóa học (Lọc-Hóa dầu)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "C01",
+            "X07",
+            "X06",
+            "D07",
+            "B00",
+            "C02",
+            "X11",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7520301",
+          "program_name": "Kỹ thuật Hóa học (Lọc-Hóa dầu)",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7520301",
+          "program_name": "Kỹ thuật Hóa học (Lọc-Hóa dầu)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7520501",
+          "program_name": "Kỹ thuật Địa chất (Địa chất - Địa vật lý Dầu khí)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7520501",
+          "program_name": "Kỹ thuật Địa chất (Địa chất - Địa vật lý Dầu khí)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "C01",
+            "X07",
+            "X06",
+            "D07",
+            "B00",
+            "C02",
+            "X11",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7520501",
+          "program_name": "Kỹ thuật Địa chất (Địa chất - Địa vật lý Dầu khí)",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7520501",
+          "program_name": "Kỹ thuật Địa chất (Địa chất - Địa vật lý Dầu khí)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7520604",
+          "program_name": "Kỹ thuật Dầu khí (Khoan-Khai thác Mỏ Dầu khí)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7520604",
+          "program_name": "Kỹ thuật Dầu khí (Khoan-Khai thác Mỏ Dầu khí)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "C01",
+            "X07",
+            "X06",
+            "D07",
+            "B00",
+            "C02",
+            "X11",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7520604",
+          "program_name": "Kỹ thuật Dầu khí (Khoan-Khai thác Mỏ Dầu khí)",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7520604",
+          "program_name": "Kỹ thuật Dầu khí (Khoan-Khai thác Mỏ Dầu khí)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Trường Đại Học Dầu Khí Việt Nam các năm Tại đây",
+  "tuition_text": "Học phí được tính theo tín chỉ. Học phí của chương trình đào tạo hệ đại học chính quy (đại trà) được thực hiện theo Quy định về học phí của Chính phủ (Nghị định 97/2023/NĐ-CP 31/12/2023 của Chính phủ). Lưu ý: khi Trường được phép tự chủ, học phí sẽ được quy định theo đề án tự chủ được phê duyệt.",
+  "timeline_text": "Thí sinh đăng ký xét tuyển vào PVU phải thực hiện đăng ký nguyện vọng trên Hệ thống xét tuyển của Bộ GD&ĐT tại địa chỉ: http://thisinh.thitotnghiepthpt.edu.vn hoặc gián tiếp qua Cổng dịch vụ công quốc gia. Thí sinh chọn Mã tuyển sinh của Nhà trường là PVU. Thí sinh điền Phiếu đăng ký XÉT TUYỂN vào các Hệ đào tạo Đại học của PVU năm 2025 tại link: tuyensinh2025.pvu.edu.vn",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-dau-khi-viet-nam-PVU.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7520301",
+            "program_name": "Kỹ thuật Hóa học (Lọc-Hóa dầu)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "X07",
+              "X06",
+              "D07",
+              "B00",
+              "C02",
+              "X11",
+              "X10"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7520501",
+            "program_name": "Kỹ thuật Địa chất (Địa chất - Địa vật lý Dầu khí)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "X07",
+              "X06",
+              "D07",
+              "B00",
+              "C02",
+              "X11",
+              "X10"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7520604",
+            "program_name": "Kỹ thuật Dầu khí (Khoan-Khai thác Mỏ Dầu khí)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "X07",
+              "X06",
+              "D07",
+              "B00",
+              "C02",
+              "X11",
+              "X10"
+            ],
+            "score": 20,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7520301",
+            "program_name": "Kỹ thuật Hóa học (Lọc-Hóa dầu)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "X07",
+              "X06",
+              "D07",
+              "B00",
+              "C02",
+              "X11",
+              "X10"
+            ],
+            "score": 23,
+            "note": null
+          },
+          {
+            "program_code": "7520501",
+            "program_name": "Kỹ thuật Địa chất (Địa chất - Địa vật lý Dầu khí)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "X07",
+              "X06",
+              "D07",
+              "B00",
+              "C02",
+              "X11",
+              "X10"
+            ],
+            "score": 23,
+            "note": null
+          },
+          {
+            "program_code": "7520604",
+            "program_name": "Kỹ thuật Dầu khí (Khoan-Khai thác Mỏ Dầu khí)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "X07",
+              "X06",
+              "D07",
+              "B00",
+              "C02",
+              "X11",
+              "X10"
+            ],
+            "score": 23,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7520301",
+            "program_name": "Kỹ thuật Hóa học (Lọc-Hóa dầu)",
+            "subject_groups": [],
+            "score": 92,
+            "note": null
+          },
+          {
+            "program_code": "7520501",
+            "program_name": "Kỹ thuật Địa chất (Địa chất - Địa vật lý Dầu khí)",
+            "subject_groups": [],
+            "score": 92,
+            "note": null
+          },
+          {
+            "program_code": "7520604",
+            "program_name": "Kỹ thuật Dầu khí (Khoan-Khai thác Mỏ Dầu khí)",
+            "subject_groups": [],
+            "score": 92,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7520301",
+            "program_name": "Kỹ thuật Hóa học (Lọc-Hóa dầu)",
+            "subject_groups": [],
+            "score": 716,
+            "note": null
+          },
+          {
+            "program_code": "7520501",
+            "program_name": "Kỹ thuật Địa chất (Địa chất - Địa vật lý Dầu khí)",
+            "subject_groups": [],
+            "score": 716,
+            "note": null
+          },
+          {
+            "program_code": "7520604",
+            "program_name": "Kỹ thuật Dầu khí (Khoan-Khai thác Mỏ Dầu khí)",
+            "subject_groups": [],
+            "score": 716,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-anh-gia-tu-duy",
+        "method_name": "Điểm chuẩn theo phương thức Điểm Đánh giá Tư duy năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7520301",
+            "program_name": "Kỹ thuật Hóa học (Lọc-Hóa dầu)",
+            "subject_groups": [],
+            "score": 52.78,
+            "note": null
+          },
+          {
+            "program_code": "7520501",
+            "program_name": "Kỹ thuật Địa chất (Địa chất - Địa vật lý Dầu khí)",
+            "subject_groups": [],
+            "score": 52.78,
+            "note": null
+          },
+          {
+            "program_code": "7520604",
+            "program_name": "Kỹ thuật Dầu khí (Khoan-Khai thác Mỏ Dầu khí)",
+            "subject_groups": [],
+            "score": 52.78,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

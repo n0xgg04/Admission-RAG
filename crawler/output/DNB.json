@@ -1,0 +1,502 @@
+{
+  "university": {
+    "code": "DNB",
+    "name": "Trường Đại Học Hoa Lư",
+    "short_name": "HLUV",
+    "location": [
+      "Ninh Bình"
+    ],
+    "address": "Đường Xuân Thành, TP Ninh Bình",
+    "website": "hluv.edu.vn",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2025,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-hoa-lu-DNB.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0417/thong-tin-tuyen-sinh-dai-hoc-hoa-lu-2026.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC HOA LƯ 2026 Thông tin tuyển sinh trường Đại học Hoa Lư (HLUV) năm 2025 Năm 2025, trường Đại học Hoa Lư tuyển sinh dựa trên 4 phương thức xét tuyển như sau: Phương thức 1: Xét tuyển sử dụng kết quả thi tốt nghiệp THPT (Mã phương thức: 100) Phương thức 2: Xét kết quả học tập cấp THPT (Mã phương thức: 200) Phương thức 3: Xét tuyển thẳng theo quy định của Quy chế tuyển sinh (Mã phương thức: 301) Khám phá thêm khoa học giáo dục Giáo dục",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 QUY CHẾ - Ngành xét tuyển: Tất cả các ngành - Sử dụng kết quả thi tốt nghiệp THPT năm 2026. Điểm xét tuyển = Tổng điểm 3 môn trong tổ hợp xét tuyển + Điểm ưu tiên. - Điểm ưu tiên (gồm điểm ưu tiên theo đối tượng chính sách và điểm ưu tiên theo khu vực) được xác định theo quy định tại Điều 7 Thông tư 06/2026/TT-BGDĐT. - Điểm xét tuyển theo thang điểm 30, được làm tròn đến hàng phần trăm. - Ngưỡng đảm bảo chất lượng đầu vào như sau: + Đối với các ngành ngoài sư phạm (Kế toán, Quản trị kinh doa",
+      "eligibility": "đối tượng chính sách và điểm ưu tiên theo khu vực) được xác định theo quy định tại Điều 7 Thông tư 06/2026/TT-BGDĐT. - Điểm xét tuyển theo thang điểm 30, được làm tròn đến hàng phần trăm. - Ngưỡng đảm bảo chất lượng đầu vào như sau: + Đối với các ngành ngoài sư phạm (Kế toán, Quản trị kinh doanh, Du lịch, Công nghệ thông tin): Tổng điểm 03 môn thi kỳ thi tốt nghiệp THPT hoặc kỳ thi trung học nghề (đối với đối tượng trung học nghề) năm 2026 theo tổ hợp xét tuyển đạt tối thiểu 15,00 điểm theo thang điểm 30. + Đối với các ngành đào tạo giáo viên(Sư phạm Toán học, Sư phạm Khoa học tự nhiên, Sư phạm Lịch sử - Địa lý, Giáo dục Tiểu học, Giáo dục Mầm non): Bộ GDĐT quy định và Nhà trường công bố sau khi có kết quả thi tốt nghiệp THPT năm 2026. STT IELTS TOEFL iBT Điểm quy đổi 1 7.0 trở lên 86 trở lên 10 2 6.5 79-85 9.5 3 6.0 70-78 9.0 4 5.5 65-69 8.5 5 5.0 60-64 8.0",
+      "rules": "QUY CHẾ - Ngành xét tuyển: Tất cả các ngành - Sử dụng kết quả thi tốt nghiệp THPT năm 2026. Điểm xét tuyển = Tổng điểm 3 môn trong tổ hợp xét tuyển + Điểm ưu tiên. - Điểm ưu tiên (gồm điểm ưu tiên theo",
+      "programs": []
+    },
+    {
+      "method_id": "2-iem-hoc-ba",
+      "method_name": "2 ĐIỂM HỌC BẠ",
+      "description": "2.1 QUY CHẾ - Ngành xét tuyển: Các ngành ngoài sư phạm (Kế toán, Quản trị kinh doanh, Du lịch, Công nghệ thông tin)đối với thí sinh tốt nghiệp trước năm 2026. - Sử dụng điểm trung bình chung kết quả học tập cả năm các lớp 10, 11, 12. Điểm xét tuyển = Tổng điểm 3 môn trong tổ hợp xét tuyển + Điểm ưu tiên; - Điểm ưu tiên (gồm điểm ưu tiên theo đối tượng chính sách và điểm ưu tiên theo khu vực) được xác định theo quy định tại Điều 7 Thông tư 06/2026/TT-BGDĐT. - Điểm xét tuyển theo thang điểm 30, đư",
+      "eligibility": "đối tượng chính sách và điểm ưu tiên theo khu vực) được xác định theo quy định tại Điều 7 Thông tư 06/2026/TT-BGDĐT. - Điểm xét tuyển theo thang điểm 30, được làm tròn đến hàng phần trăm. Ngưỡng đảm bảo chất lượng đầu vào: Tổng điểm 3 môn theo tổ hợp xét tuyển của điểm trung bình chung kết quả học tập cả năm các lớp 10, 11, 12 phải đạt từ 15,00 điểm trở lên theo thang điểm 30. STT IELTS TOEFL iBT Điểm quy đổi 1 7.0 trở lên 86 trở lên 10 2 6.5 79-85 9.5 3 6.0 70-78 9.0 4 5.5 65-69 8.5 5 5.0 60-64 8.0",
+      "rules": "QUY CHẾ - Ngành xét tuyển: Các ngành ngoài sư phạm (Kế toán, Quản trị kinh doanh, Du lịch, Công nghệ thông tin)đối với thí sinh tốt nghiệp trước năm 2026. - Sử dụng điểm trung bình chung kết quả học tập cả năm các lớp 10, 11, 12. Điểm xét tuyển = Tổng điểm 3 môn trong tổ hợp xét tuyển + Điểm ưu tiên; - Điểm ưu tiên (gồm điểm ưu tiên theo",
+      "programs": []
+    },
+    {
+      "method_id": "3-utxt-xt-thang",
+      "method_name": "3 ƯTXT, XT THẲNG",
+      "description": "3.1 QUY CHẾ Xét tuyển thẳng theo quy định của Quy chế tuyển sinh (Điều 8), trong đó: 1. Thí sinh đạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia, quốc tế và thí sinh đạt giải trong các cuộc thi Khoa học kỹ thuật quốc gia vào chương trình đào tạo phù hợp với môn thi; thời gian đạt giải không quá 03 năm tính tới thời điểm xét tuyển thẳng; 2. Thí sinh là người nước ngoài đã đạt chuẩn năng lực ngôn ngữ theo yêu cầu của chương trình đào tạo phù hợp với quy định của Bộ GDĐT. 3. Đối tượ",
+      "eligibility": "Đối tượng cử tuyển và đối tượng dự bị đại học. 4. Thí sinh là người khuyết tật nặng có giấy xác nhận khuyết tật của cơ quan có thẩm quyền cấp theo quy định, có khả năng theo học một số ngành tại Trường nhưng không có khả năng dự tuyển theo phương thức tuyển sinh bình thường.",
+      "rules": "QUY CHẾ Xét tuyển thẳng theo quy định của Quy chế tuyển sinh (Điều 8), trong đó: 1. Thí sinh đạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia, quốc tế và thí sinh đạt giải trong các cuộc thi Khoa học kỹ thuật quốc gia vào chương trình đào tạo phù hợp với môn thi; thời gian đạt giải không quá 03 năm tính tới thời điểm xét tuyển thẳng; 2. Thí sinh là người nước ngoài đã đạt chuẩn năng lực ngôn ngữ theo yêu cầu của chương trình đào tạo phù hợp với quy định của Bộ GDĐT. 3.",
+      "programs": [
+        {
+          "program_code": "7140201",
+          "program_name": "Giáo dục Mầm non",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140202",
+          "program_name": "Giáo dục Tiểu học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7140209",
+          "program_name": "Sư phạm Toán học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7140247",
+          "program_name": "Sư phạm Khoa học tự nhiên",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7140249",
+          "program_name": "Sư phạm Lịch sử - Địa lý",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7810101",
+          "program_name": "Du lịch",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7140201",
+          "program_name": "Giáo dục Mầm non",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140201",
+          "program_name": "Giáo dục Mầm non",
+          "subject_groups": [
+            "D14",
+            "C00",
+            "X70",
+            "X74",
+            "D01",
+            "C03",
+            "C04"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140202",
+          "program_name": "Giáo dục Tiểu học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7140202",
+          "program_name": "Giáo dục Tiểu học",
+          "subject_groups": [
+            "D01",
+            "C03",
+            "C04",
+            "C01",
+            "C14",
+            "B03",
+            "C02"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7140209",
+          "program_name": "Sư phạm Toán học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7140209",
+          "program_name": "Sư phạm Toán học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "X06",
+            "B00",
+            "D07",
+            "B08"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7140247",
+          "program_name": "Sư phạm Khoa học tự nhiên",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7140247",
+          "program_name": "Sư phạm Khoa học tự nhiên",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "X06",
+            "B00",
+            "D07",
+            "B08"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7140249",
+          "program_name": "Sư phạm Lịch sử - Địa lý",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7140249",
+          "program_name": "Sư phạm Lịch sử - Địa lý",
+          "subject_groups": [
+            "D14",
+            "C00",
+            "X70",
+            "D15",
+            "X74"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A10",
+            "C01",
+            "D01",
+            "C03",
+            "C04"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A10",
+            "C01",
+            "D01",
+            "C03",
+            "C04"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D01",
+            "X06",
+            "K01"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7810101",
+          "program_name": "Du lịch",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7810101",
+          "program_name": "Du lịch",
+          "subject_groups": [
+            "D01",
+            "C03",
+            "C04",
+            "X01",
+            "X70",
+            "C00",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Trường Đại Học Hoa Lư các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-hoa-lu-DNB.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "D01",
+              "C03",
+              "C04",
+              "C01"
+            ],
+            "score": 23,
+            "note": null
+          },
+          {
+            "program_code": "7140209",
+            "program_name": "Sư phạm Toán học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "X06"
+            ],
+            "score": 24.02,
+            "note": null
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm Khoa học tự nhiên",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "X06"
+            ],
+            "score": 20.1,
+            "note": null
+          },
+          {
+            "program_code": "7140249",
+            "program_name": "Sư phạm Lịch sử - Địa lý",
+            "subject_groups": [
+              "D14",
+              "C00",
+              "C03",
+              "X70"
+            ],
+            "score": 27.07,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "D01",
+              "C01",
+              "C04",
+              "C03"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "D01",
+              "C01",
+              "C04",
+              "C03"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X02"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7810101",
+            "program_name": "Du lịch",
+            "subject_groups": [
+              "D01",
+              "C01",
+              "C04",
+              "C03",
+              "X01"
+            ],
+            "score": 18,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "D01",
+              "C01",
+              "C04",
+              "C03"
+            ],
+            "score": 16,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "D01",
+              "C01",
+              "C04",
+              "C03"
+            ],
+            "score": 16,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X02"
+            ],
+            "score": 16,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7810101",
+            "program_name": "Du lịch",
+            "subject_groups": [
+              "D01",
+              "C01",
+              "C04",
+              "C03",
+              "X01"
+            ],
+            "score": 18,
+            "note": "Điểm đã được quy đổi"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-xet-tuyen-ket-hop",
+        "method_name": "Điểm chuẩn theo phương thức Điểm xét tuyển kết hợp năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140201",
+            "program_name": "Giáo dục Mầm non",
+            "subject_groups": [
+              "M00",
+              "M11",
+              "M05",
+              "M07"
+            ],
+            "score": 22.88,
+            "note": "Tổng điểm 2 môn thi tốt nghiệp THPT trong THXT + 2/3 (điểm ưu tiên đối tượng, khu vực) (nếu có) phải lớn hơn hoặc bằng 12,67"
+          }
+        ]
+      }
+    ]
+  }
+}

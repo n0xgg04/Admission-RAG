@@ -1,0 +1,2800 @@
+{
+  "university": {
+    "code": "DVD",
+    "name": "Trường Đại Học Văn Hóa, Thể Thao Và Du Lịch Thanh Hóa",
+    "short_name": "TUCST",
+    "location": [
+      "Thanh Hóa"
+    ],
+    "address": "Số 20 - Nguyễn Du - P. Điện Biên - TP. Thanh Hóa",
+    "website": "https://tucst.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-van-hoa-the-thao-va-du-lich-thanh-hoa-DVD.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2025/0523/thong-tin-tuyen-sinh-dai-hoc-van-hoa-the-thao-va-du-lich-thanh-hoa-2025.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC VĂN HÓA, THỂ THAO VÀ DU LỊCH THANH HÓA 2026 Thông tin tuyển sinh trường Đại học Văn hóa, Thể thao và Du lịch Thanh Hóa (TUCST) năm 2026 Năm 2026 trường Đại học Văn hóa, Thể thao và Du lịch Thanh Hóa tuyển sinh với 4 phương thức như sau: Phương thức 1: Xét tuyển dựa trên kết quả thi tốt nghiệp THPT năm 2026 (Mã 100) Phương thức 2: Xét tuyển dựa trên kết quả học tập ở bậc THPT - Học bạ (Mã 200) Phương thức 3: Xét tuyển thẳng và ưu tiên xét tuyển theo quy định của Bộ GD&ĐT (Mã 301) Phương thức 4: Xét tuyển dựa trên kết quả kỳ thi đánh giá năng lực hoặc đánh giá tư duy (Mã 402)",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 QUY CHẾ Sử dụng kết quả thi tốt nghiệp trung học phổ thông năm 2026 (xét tuyển đối với tất cả các ngành đào tạo), riêng ngành có tổ hợp thi năng khiếu, sử dụng kết quả thi tốt nghiệp trung học phổ năm 2026 với điểm thi năng khiếu. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM THI THPT STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7140201 Giáo dục Mầm non M00; M05; M07; M11; M30 2 7140202 Giáo dục Tiểu học B03; C02; C04; D01; M00 3 7140206 Giáo dục Thể chất T02; T07; T10; T11; T12 4 7140210 Sư phạm",
+      "eligibility": null,
+      "rules": "QUY CHẾ Sử dụng kết quả thi tốt nghiệp trung học phổ thông năm 2026 (xét tuyển đối với tất cả các ngành đào tạo), riêng ngành có tổ hợp thi năng khiếu, sử dụng kết quả thi tốt nghiệp trung học phổ năm 2026 với điểm thi năng khiếu.",
+      "programs": [
+        {
+          "program_code": "7140201",
+          "program_name": "Giáo dục Mầm non",
+          "subject_groups": [
+            "M00",
+            "M05",
+            "M07",
+            "M11",
+            "M30"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140202",
+          "program_name": "Giáo dục Tiểu học",
+          "subject_groups": [
+            "B03",
+            "C02",
+            "C04",
+            "D01",
+            "M00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7140206",
+          "program_name": "Giáo dục Thể chất",
+          "subject_groups": [
+            "T02",
+            "T07",
+            "T10",
+            "T11",
+            "T12"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7140210",
+          "program_name": "Sư phạm Tin học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A04",
+            "C01"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7140221",
+          "program_name": "Sư phạm Âm nhạc",
+          "subject_groups": [
+            "N00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7140222",
+          "program_name": "Sư phạm Mỹ thuật",
+          "subject_groups": [
+            "H00"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7210104",
+          "program_name": "Đồ họa",
+          "subject_groups": [
+            "H00"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7210205",
+          "program_name": "Thanh nhạc",
+          "subject_groups": [
+            "N00"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7210404",
+          "program_name": "Thiết kế thời trang",
+          "subject_groups": [
+            "H00"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "D01",
+            "D11",
+            "D14",
+            "D15",
+            "D66"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7229042",
+          "program_name": "Quản lý văn hóa",
+          "subject_groups": [
+            "C03",
+            "C04",
+            "D01",
+            "B03"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7310205",
+          "program_name": "Quản lý Nhà nước",
+          "subject_groups": [
+            "B03",
+            "C03",
+            "C04",
+            "X01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7320106",
+          "program_name": "Công nghệ truyền thông",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C04",
+            "X01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7320201",
+          "program_name": "Thông tin - Thư viện",
+          "subject_groups": [
+            "B03",
+            "C03",
+            "C04",
+            "X01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7340404",
+          "program_name": "Quản trị nhân lực",
+          "subject_groups": [
+            "B03",
+            "C03",
+            "C04",
+            "X01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7760101",
+          "program_name": "Công tác Xã hội",
+          "subject_groups": [
+            "B03",
+            "C03",
+            "C04",
+            "X01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7810101",
+          "program_name": "Du lịch",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C12",
+            "X70",
+            "D14"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C12",
+            "X70",
+            "D14"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7810201",
+          "program_name": "Quản trị khách sạn",
+          "subject_groups": [
+            "B03",
+            "C02",
+            "C04",
+            "X01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7810301",
+          "program_name": "Quản lý Thể dục thể thao",
+          "subject_groups": [
+            "T02",
+            "T07",
+            "T10",
+            "T11",
+            "T12"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7810302",
+          "program_name": "Huấn luyện thể thao",
+          "subject_groups": [
+            "T02",
+            "T07",
+            "T10",
+            "T11",
+            "T12"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-hoc-ba",
+      "method_name": "2 ĐIỂM HỌC BẠ",
+      "description": "2.1 QUY CHẾ Sử dụng kết quả học tập ở THPT (xét tuyển đối với các ngành đào tạo ngoài sư phạm); riêng ngành có tổ hợp thi năng khiếu, sử dụng kết quả học tập ở trung học phổ thông với điểm thi năng khiếu. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM HỌC BẠ STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7140201 Giáo dục Mầm non M00; M05; M07; M11; M30 2 7140202 Giáo dục Tiểu học B03; C02; C04; D01; M00 3 7140206 Giáo dục Thể chất T02; T07; T10; T11; T12 4 7140210 Sư phạm Tin học A00; A01; A02; A04; C01",
+      "eligibility": null,
+      "rules": "QUY CHẾ Sử dụng kết quả học tập ở THPT (xét tuyển đối với các ngành đào tạo ngoài sư phạm); riêng ngành có tổ hợp thi năng khiếu, sử dụng kết quả học tập ở trung học phổ thông với điểm thi năng khiếu.",
+      "programs": [
+        {
+          "program_code": "7140201",
+          "program_name": "Giáo dục Mầm non",
+          "subject_groups": [
+            "M00",
+            "M05",
+            "M07",
+            "M11",
+            "M30"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140202",
+          "program_name": "Giáo dục Tiểu học",
+          "subject_groups": [
+            "B03",
+            "C02",
+            "C04",
+            "D01",
+            "M00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7140206",
+          "program_name": "Giáo dục Thể chất",
+          "subject_groups": [
+            "T02",
+            "T07",
+            "T10",
+            "T11",
+            "T12"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7140210",
+          "program_name": "Sư phạm Tin học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A04",
+            "C01"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7140221",
+          "program_name": "Sư phạm Âm nhạc",
+          "subject_groups": [
+            "N00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7140222",
+          "program_name": "Sư phạm Mỹ thuật",
+          "subject_groups": [
+            "H00"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7210104",
+          "program_name": "Đồ họa",
+          "subject_groups": [
+            "H00"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7210205",
+          "program_name": "Thanh nhạc",
+          "subject_groups": [
+            "N00"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7210404",
+          "program_name": "Thiết kế thời trang",
+          "subject_groups": [
+            "H00"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "D01",
+            "D11",
+            "D14",
+            "D15",
+            "D66"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7229042",
+          "program_name": "Quản lý văn hóa",
+          "subject_groups": [
+            "C03",
+            "C04",
+            "D01",
+            "B03"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7310205",
+          "program_name": "Quản lý Nhà nước",
+          "subject_groups": [
+            "B03",
+            "C03",
+            "C04",
+            "X01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7320106",
+          "program_name": "Công nghệ truyền thông",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C04",
+            "X01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7320201",
+          "program_name": "Thông tin - Thư viện",
+          "subject_groups": [
+            "B03",
+            "C03",
+            "C04",
+            "X01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7340404",
+          "program_name": "Quản trị nhân lực",
+          "subject_groups": [
+            "B03",
+            "C03",
+            "C04",
+            "X01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7760101",
+          "program_name": "Công tác Xã hội",
+          "subject_groups": [
+            "B03",
+            "C03",
+            "C04",
+            "X01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7810101",
+          "program_name": "Du lịch",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C12",
+            "X70",
+            "D14"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C12",
+            "X70",
+            "D14"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7810201",
+          "program_name": "Quản trị khách sạn",
+          "subject_groups": [
+            "B03",
+            "C02",
+            "C04",
+            "X01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7810301",
+          "program_name": "Quản lý Thể dục thể thao",
+          "subject_groups": [
+            "T02",
+            "T07",
+            "T10",
+            "T11",
+            "T12"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7810302",
+          "program_name": "Huấn luyện thể thao",
+          "subject_groups": [
+            "T02",
+            "T07",
+            "T10",
+            "T11",
+            "T12"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        }
+      ]
+    },
+    {
+      "method_id": "3-utxt-xt-thang",
+      "method_name": "3 ƯTXT, XT THẲNG",
+      "description": "3.1 QUY CHẾ - Tuyển thẳng theo Quy chế tuyển sinh của Bộ Giáo dục và Đào tạo (Xét tuyển đối với tất cả các ngành đào tạo) DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ƯTXT, XT THẲNG STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7140201 Giáo dục Mầm non 2 7140202 Giáo dục Tiểu học 3 7140206 Giáo dục Thể chất 4 7140210 Sư phạm Tin học 5 7140221 Sư phạm Âm nhạc 6 7140222 Sư phạm Mỹ thuật 7 7210104 Đồ họa 8 7210205 Thanh nhạc 9 7210404 Thiết kế thời trang 10 7220201 Ngôn ngữ Anh 11 7229042 Quản lý văn hóa 12 ",
+      "eligibility": null,
+      "rules": "QUY CHẾ - Tuyển thẳng theo Quy chế tuyển sinh của Bộ Giáo dục và Đào tạo (Xét tuyển đối với tất cả các ngành đào tạo)",
+      "programs": [
+        {
+          "program_code": "7140201",
+          "program_name": "Giáo dục Mầm non",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140202",
+          "program_name": "Giáo dục Tiểu học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7140206",
+          "program_name": "Giáo dục Thể chất",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7140210",
+          "program_name": "Sư phạm Tin học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7140221",
+          "program_name": "Sư phạm Âm nhạc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7140222",
+          "program_name": "Sư phạm Mỹ thuật",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7210104",
+          "program_name": "Đồ họa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7210205",
+          "program_name": "Thanh nhạc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7210404",
+          "program_name": "Thiết kế thời trang",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7229042",
+          "program_name": "Quản lý văn hóa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7310205",
+          "program_name": "Quản lý Nhà nước",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7320106",
+          "program_name": "Công nghệ truyền thông",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7320201",
+          "program_name": "Thông tin - Thư viện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7340404",
+          "program_name": "Quản trị nhân lực",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7760101",
+          "program_name": "Công tác Xã hội",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7810101",
+          "program_name": "Du lịch",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7810201",
+          "program_name": "Quản trị khách sạn",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7810301",
+          "program_name": "Quản lý Thể dục thể thao",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7810302",
+          "program_name": "Huấn luyện thể thao",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "22"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7140201",
+          "program_name": "Giáo dục Mầm non",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140201",
+          "program_name": "Giáo dục Mầm non",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140201",
+          "program_name": "Giáo dục Mầm non",
+          "subject_groups": [
+            "M00",
+            "M05",
+            "M07",
+            "M11",
+            "M30"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140201",
+          "program_name": "Giáo dục Mầm non",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140202",
+          "program_name": "Giáo dục Tiểu học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7140202",
+          "program_name": "Giáo dục Tiểu học",
+          "subject_groups": [
+            "B03",
+            "C02",
+            "C04",
+            "D01",
+            "M00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7140202",
+          "program_name": "Giáo dục Tiểu học",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7140202",
+          "program_name": "Giáo dục Tiểu học",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7140206",
+          "program_name": "Giáo dục Thể chất",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7140206",
+          "program_name": "Giáo dục Thể chất",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7140206",
+          "program_name": "Giáo dục Thể chất",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7140206",
+          "program_name": "Giáo dục Thể chất",
+          "subject_groups": [
+            "T02",
+            "T07",
+            "T10",
+            "T11",
+            "T12"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7140210",
+          "program_name": "Sư phạm Tin học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7140210",
+          "program_name": "Sư phạm Tin học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A04",
+            "C01"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7140210",
+          "program_name": "Sư phạm Tin học",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7140210",
+          "program_name": "Sư phạm Tin học",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7140221",
+          "program_name": "Sư phạm Âm nhạc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7140221",
+          "program_name": "Sư phạm Âm nhạc",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7140221",
+          "program_name": "Sư phạm Âm nhạc",
+          "subject_groups": [
+            "N00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7140221",
+          "program_name": "Sư phạm Âm nhạc",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7140222",
+          "program_name": "Sư phạm Mỹ thuật",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7140222",
+          "program_name": "Sư phạm Mỹ thuật",
+          "subject_groups": [
+            "H00"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7140222",
+          "program_name": "Sư phạm Mỹ thuật",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7140222",
+          "program_name": "Sư phạm Mỹ thuật",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7210104",
+          "program_name": "Đồ họa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7210104",
+          "program_name": "Đồ họa",
+          "subject_groups": [
+            "H00"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7210104",
+          "program_name": "Đồ họa",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7210104",
+          "program_name": "Đồ họa",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7210205",
+          "program_name": "Thanh nhạc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7210205",
+          "program_name": "Thanh nhạc",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7210205",
+          "program_name": "Thanh nhạc",
+          "subject_groups": [
+            "N00"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7210205",
+          "program_name": "Thanh nhạc",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7210404",
+          "program_name": "Thiết kế thời trang",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7210404",
+          "program_name": "Thiết kế thời trang",
+          "subject_groups": [
+            "H00"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7210404",
+          "program_name": "Thiết kế thời trang",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7210404",
+          "program_name": "Thiết kế thời trang",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "D01",
+            "D11",
+            "D14",
+            "D15",
+            "D66"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7229042",
+          "program_name": "Quản lý văn hóa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7229042",
+          "program_name": "Quản lý văn hóa",
+          "subject_groups": [
+            "C03",
+            "C04",
+            "D01",
+            "B03"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7229042",
+          "program_name": "Quản lý văn hóa",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7229042",
+          "program_name": "Quản lý văn hóa",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7310205",
+          "program_name": "Quản lý Nhà nước",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7310205",
+          "program_name": "Quản lý Nhà nước",
+          "subject_groups": [
+            "B03",
+            "C03",
+            "C04",
+            "X01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7310205",
+          "program_name": "Quản lý Nhà nước",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7310205",
+          "program_name": "Quản lý Nhà nước",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7320106",
+          "program_name": "Công nghệ truyền thông",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7320106",
+          "program_name": "Công nghệ truyền thông",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C04",
+            "X01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7320106",
+          "program_name": "Công nghệ truyền thông",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7320106",
+          "program_name": "Công nghệ truyền thông",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7320201",
+          "program_name": "Thông tin - Thư viện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7320201",
+          "program_name": "Thông tin - Thư viện",
+          "subject_groups": [
+            "B03",
+            "C03",
+            "C04",
+            "X01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7320201",
+          "program_name": "Thông tin - Thư viện",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7320201",
+          "program_name": "Thông tin - Thư viện",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7340404",
+          "program_name": "Quản trị nhân lực",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7340404",
+          "program_name": "Quản trị nhân lực",
+          "subject_groups": [
+            "B03",
+            "C03",
+            "C04",
+            "X01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7340404",
+          "program_name": "Quản trị nhân lực",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7340404",
+          "program_name": "Quản trị nhân lực",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7380101",
+          "program_name": "ĐGNL HCMƯu Tiên",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7380101",
+          "program_name": "ĐT THPTHọc Bạ",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C07",
+            "X70",
+            "D14"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7380101",
+          "program_name": "ĐGTD BK",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7380101",
+          "program_name": "ĐGNL HN",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7760101",
+          "program_name": "Công tác Xã hội",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7760101",
+          "program_name": "Công tác Xã hội",
+          "subject_groups": [
+            "B03",
+            "C03",
+            "C04",
+            "X01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7760101",
+          "program_name": "Công tác Xã hội",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7760101",
+          "program_name": "Công tác Xã hội",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7810101",
+          "program_name": "Du lịch",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7810101",
+          "program_name": "Du lịch",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C12",
+            "X70",
+            "D14"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7810101",
+          "program_name": "Du lịch",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7810101",
+          "program_name": "Du lịch",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C12",
+            "X70",
+            "D14"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7810201",
+          "program_name": "Quản trị khách sạn",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7810201",
+          "program_name": "Quản trị khách sạn",
+          "subject_groups": [
+            "B03",
+            "C02",
+            "C04",
+            "X01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7810201",
+          "program_name": "Quản trị khách sạn",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7810201",
+          "program_name": "Quản trị khách sạn",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7810301",
+          "program_name": "Quản lý Thể dục thể thao",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7810301",
+          "program_name": "Quản lý Thể dục thể thao",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7810301",
+          "program_name": "Quản lý Thể dục thể thao",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7810301",
+          "program_name": "Quản lý Thể dục thể thao",
+          "subject_groups": [
+            "T02",
+            "T07",
+            "T10",
+            "T11",
+            "T12"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7810302",
+          "program_name": "Huấn luyện thể thao",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7810302",
+          "program_name": "Huấn luyện thể thao",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7810302",
+          "program_name": "Huấn luyện thể thao",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7810302",
+          "program_name": "Huấn luyện thể thao",
+          "subject_groups": [
+            "T02",
+            "T07",
+            "T10",
+            "T11",
+            "T12"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Trường Đại Học Văn Hóa, Thể Thao Và Du Lịch Thanh Hóa các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-van-hoa-the-thao-va-du-lich-thanh-hoa-DVD.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140201",
+            "program_name": "Giáo dục Mầm non",
+            "subject_groups": [
+              "M01",
+              "M07",
+              "M10",
+              "M11"
+            ],
+            "score": 26.89,
+            "note": null
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "M00",
+              "A01",
+              "D01",
+              "C04"
+            ],
+            "score": 27.32,
+            "note": null
+          },
+          {
+            "program_code": "7140206",
+            "program_name": "Giáo dục Thể chất",
+            "subject_groups": [
+              "T00",
+              "T03",
+              "T05",
+              "T06",
+              "T08",
+              "T09"
+            ],
+            "score": 26.76,
+            "note": null
+          },
+          {
+            "program_code": "7140210",
+            "program_name": "Sư phạm Tin học",
+            "subject_groups": [
+              "A00",
+              "C01",
+              "C04",
+              "D01"
+            ],
+            "score": 26,
+            "note": null
+          },
+          {
+            "program_code": "7140221",
+            "program_name": "Sư phạm Âm nhạc",
+            "subject_groups": [
+              "N00"
+            ],
+            "score": 25.27,
+            "note": null
+          },
+          {
+            "program_code": "7140222",
+            "program_name": "Sư phạm Mỹ thuật",
+            "subject_groups": [
+              "H00"
+            ],
+            "score": 26.46,
+            "note": null
+          },
+          {
+            "program_code": "7210104",
+            "program_name": "Đồ họa",
+            "subject_groups": [
+              "H00"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7210205",
+            "program_name": "Thanh nhạc",
+            "subject_groups": [
+              "N00"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7210404",
+            "program_name": "Thiết kế thời trang",
+            "subject_groups": [
+              "H00"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "D15",
+              "D66",
+              "X78"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7229042",
+            "program_name": "Quản lý văn hóa",
+            "subject_groups": [
+              "C00",
+              "C04",
+              "C20",
+              "X74",
+              "D66",
+              "X78"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7310205",
+            "program_name": "Quản lý nhà nước",
+            "subject_groups": [
+              "C00",
+              "C04",
+              "C20",
+              "X74",
+              "D66",
+              "X78"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7320106",
+            "program_name": "Công nghệ truyền thông",
+            "subject_groups": [
+              "C00",
+              "C01",
+              "C04",
+              "D66",
+              "X78"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7320201",
+            "program_name": "Thông tin - Thư viện",
+            "subject_groups": [
+              "C00",
+              "C20",
+              "X74",
+              "D15",
+              "D66",
+              "X78"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7320201A",
+            "program_name": "Chuyên ngành: Thư viên - Thiết bị trường học",
+            "subject_groups": [
+              "C00",
+              "C20",
+              "X74",
+              "D15",
+              "D66",
+              "X78"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7320201B",
+            "program_name": "Chuyên ngành: Văn thư - Lưu trữ",
+            "subject_groups": [
+              "C00",
+              "C20",
+              "X74",
+              "D15",
+              "D66",
+              "X78"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340404",
+            "program_name": "Quản trị nhân lực",
+            "subject_groups": [
+              "A00",
+              "C00",
+              "C20",
+              "X74",
+              "D01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "C00",
+              "C20",
+              "X74",
+              "D15",
+              "D66",
+              "X78"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "C00",
+              "C04",
+              "C20",
+              "X74",
+              "D66",
+              "X78"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7810101",
+            "program_name": "Du lịch",
+            "subject_groups": [
+              "C00",
+              "C04",
+              "D01",
+              "D66",
+              "X78"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [
+              "C00",
+              "C04",
+              "D01",
+              "D84",
+              "X25"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7810201",
+            "program_name": "Quản trị khách sạn",
+            "subject_groups": [
+              "C00",
+              "C04",
+              "D01",
+              "D84",
+              "X25"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7810301",
+            "program_name": "Quản lý thể dục thể thao",
+            "subject_groups": [
+              "T00",
+              "T03",
+              "T05",
+              "T06",
+              "T08",
+              "T09"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7810302",
+            "program_name": "Huấn luyện thể thao",
+            "subject_groups": [
+              "T00",
+              "T03",
+              "T05",
+              "T06",
+              "T08",
+              "T09"
+            ],
+            "score": 15,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140201",
+            "program_name": "Giáo dục Mầm non",
+            "subject_groups": [
+              "M01",
+              "M07",
+              "M10",
+              "M11"
+            ],
+            "score": 27.58,
+            "note": null
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "M00",
+              "A01",
+              "D01",
+              "C04"
+            ],
+            "score": 27.77,
+            "note": null
+          },
+          {
+            "program_code": "7140206",
+            "program_name": "Giáo dục Thể chất",
+            "subject_groups": [
+              "T00",
+              "T03",
+              "T05",
+              "T06",
+              "T08",
+              "T09"
+            ],
+            "score": 27.35,
+            "note": null
+          },
+          {
+            "program_code": "7140210",
+            "program_name": "Sư phạm Tin học",
+            "subject_groups": [
+              "A00",
+              "C01",
+              "C04",
+              "D01"
+            ],
+            "score": 27.09,
+            "note": null
+          },
+          {
+            "program_code": "7140221",
+            "program_name": "Sư phạm Âm nhạc",
+            "subject_groups": [
+              "N00"
+            ],
+            "score": 26.08,
+            "note": null
+          },
+          {
+            "program_code": "7140222",
+            "program_name": "Sư phạm Mỹ thuật",
+            "subject_groups": [
+              "H00"
+            ],
+            "score": 27.09,
+            "note": null
+          },
+          {
+            "program_code": "7210104",
+            "program_name": "Đồ họa",
+            "subject_groups": [
+              "H00"
+            ],
+            "score": 16.5,
+            "note": null
+          },
+          {
+            "program_code": "7210205",
+            "program_name": "Thanh nhạc",
+            "subject_groups": [
+              "N00"
+            ],
+            "score": 16.5,
+            "note": null
+          },
+          {
+            "program_code": "7210404",
+            "program_name": "Thiết kế thời trang",
+            "subject_groups": [
+              "H00"
+            ],
+            "score": 16.5,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "D15",
+              "D66",
+              "X78"
+            ],
+            "score": 16.5,
+            "note": null
+          },
+          {
+            "program_code": "7229042",
+            "program_name": "Quản lý văn hóa",
+            "subject_groups": [
+              "C00",
+              "C04",
+              "C20",
+              "X74",
+              "D66",
+              "X78"
+            ],
+            "score": 16.5,
+            "note": null
+          },
+          {
+            "program_code": "7310205",
+            "program_name": "Quản lý nhà nước",
+            "subject_groups": [
+              "C00",
+              "C04",
+              "C20",
+              "X74",
+              "D66",
+              "X78"
+            ],
+            "score": 16.5,
+            "note": null
+          },
+          {
+            "program_code": "7320106",
+            "program_name": "Công nghệ truyền thông",
+            "subject_groups": [
+              "C00",
+              "C01",
+              "C04",
+              "D66",
+              "X78"
+            ],
+            "score": 16.5,
+            "note": null
+          },
+          {
+            "program_code": "7320201",
+            "program_name": "Thông tin - Thư viện",
+            "subject_groups": [
+              "C00",
+              "C20",
+              "X74",
+              "D15",
+              "D66",
+              "X78"
+            ],
+            "score": 16.5,
+            "note": null
+          },
+          {
+            "program_code": "7320201A",
+            "program_name": "Chuyên ngành: Thư viên - Thiết bị trường học",
+            "subject_groups": [
+              "C00",
+              "C20",
+              "X74",
+              "D15",
+              "D66",
+              "X78"
+            ],
+            "score": 16.5,
+            "note": null
+          },
+          {
+            "program_code": "7320201B",
+            "program_name": "Chuyên ngành: Văn thư - Lưu trữ",
+            "subject_groups": [
+              "C00",
+              "C20",
+              "X74",
+              "D15",
+              "D66",
+              "X78"
+            ],
+            "score": 16.5,
+            "note": null
+          },
+          {
+            "program_code": "7340404",
+            "program_name": "Quản trị nhân lực",
+            "subject_groups": [
+              "A00",
+              "C00",
+              "C20",
+              "X74",
+              "D01"
+            ],
+            "score": 16.5,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "C00",
+              "C20",
+              "X74",
+              "D15",
+              "D66",
+              "X78"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "C00",
+              "C04",
+              "C20",
+              "X74",
+              "D66",
+              "X78"
+            ],
+            "score": 16.5,
+            "note": null
+          },
+          {
+            "program_code": "7810101",
+            "program_name": "Du lịch",
+            "subject_groups": [
+              "C00",
+              "C04",
+              "D01",
+              "D66",
+              "X78"
+            ],
+            "score": 16.5,
+            "note": null
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [
+              "C00",
+              "C04",
+              "D01",
+              "D84",
+              "X25"
+            ],
+            "score": 16.5,
+            "note": null
+          },
+          {
+            "program_code": "7810201",
+            "program_name": "Quản trị khách sạn",
+            "subject_groups": [
+              "C00",
+              "C04",
+              "D01",
+              "D84",
+              "X25"
+            ],
+            "score": 16.5,
+            "note": null
+          },
+          {
+            "program_code": "7810301",
+            "program_name": "Quản lý thể dục thể thao",
+            "subject_groups": [
+              "T00",
+              "T03",
+              "T05",
+              "T06",
+              "T08",
+              "T09"
+            ],
+            "score": 16.5,
+            "note": null
+          },
+          {
+            "program_code": "7810302",
+            "program_name": "Huấn luyện thể thao",
+            "subject_groups": [
+              "T00",
+              "T03",
+              "T05",
+              "T06",
+              "T08",
+              "T09"
+            ],
+            "score": 16.5,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140201",
+            "program_name": "Giáo dục Mầm non",
+            "subject_groups": [],
+            "score": 98.35,
+            "note": null
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [],
+            "score": 101.28,
+            "note": null
+          },
+          {
+            "program_code": "7140206",
+            "program_name": "Giáo dục Thể chất",
+            "subject_groups": [],
+            "score": 97.03,
+            "note": null
+          },
+          {
+            "program_code": "7140210",
+            "program_name": "Sư phạm Tin học",
+            "subject_groups": [],
+            "score": 92.75,
+            "note": null
+          },
+          {
+            "program_code": "7140221",
+            "program_name": "Sư phạm Âm nhạc",
+            "subject_groups": [],
+            "score": 88.53,
+            "note": null
+          },
+          {
+            "program_code": "7140222",
+            "program_name": "Sư phạm Mỹ thuật",
+            "subject_groups": [],
+            "score": 95.36,
+            "note": null
+          },
+          {
+            "program_code": "7210104",
+            "program_name": "Đồ họa",
+            "subject_groups": [],
+            "score": 53.6,
+            "note": null
+          },
+          {
+            "program_code": "7210205",
+            "program_name": "Thanh nhạc",
+            "subject_groups": [],
+            "score": 53.6,
+            "note": null
+          },
+          {
+            "program_code": "7210404",
+            "program_name": "Thiết kế thời trang",
+            "subject_groups": [],
+            "score": 53.6,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [],
+            "score": 53.6,
+            "note": null
+          },
+          {
+            "program_code": "7229042",
+            "program_name": "Quản lý văn hóa",
+            "subject_groups": [],
+            "score": 53.6,
+            "note": null
+          },
+          {
+            "program_code": "7310205",
+            "program_name": "Quản lý nhà nước",
+            "subject_groups": [],
+            "score": 53.6,
+            "note": null
+          },
+          {
+            "program_code": "7320106",
+            "program_name": "Công nghệ truyền thông",
+            "subject_groups": [],
+            "score": 53.6,
+            "note": null
+          },
+          {
+            "program_code": "7320201",
+            "program_name": "Thông tin - Thư viện",
+            "subject_groups": [],
+            "score": 53.6,
+            "note": null
+          },
+          {
+            "program_code": "7320201A",
+            "program_name": "Chuyên ngành: Thư viên - Thiết bị trường học",
+            "subject_groups": [],
+            "score": 53.6,
+            "note": null
+          },
+          {
+            "program_code": "7320201B",
+            "program_name": "Chuyên ngành: Văn thư - Lưu trữ",
+            "subject_groups": [],
+            "score": 53.6,
+            "note": null
+          },
+          {
+            "program_code": "7340404",
+            "program_name": "Quản trị nhân lực",
+            "subject_groups": [],
+            "score": 53.6,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [],
+            "score": 62.6,
+            "note": null
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [],
+            "score": 53.6,
+            "note": null
+          },
+          {
+            "program_code": "7810101",
+            "program_name": "Du lịch",
+            "subject_groups": [],
+            "score": 53.6,
+            "note": null
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [],
+            "score": 53.6,
+            "note": null
+          },
+          {
+            "program_code": "7810201",
+            "program_name": "Quản trị khách sạn",
+            "subject_groups": [],
+            "score": 53.6,
+            "note": null
+          },
+          {
+            "program_code": "7810301",
+            "program_name": "Quản lý thể dục thể thao",
+            "subject_groups": [],
+            "score": 53.6,
+            "note": null
+          },
+          {
+            "program_code": "7810302",
+            "program_name": "Huấn luyện thể thao",
+            "subject_groups": [],
+            "score": 53.6,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-anh-gia-tu-duy",
+        "method_name": "Điểm chuẩn theo phương thức Điểm Đánh giá Tư duy năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140201",
+            "program_name": "Giáo dục Mầm non",
+            "subject_groups": [],
+            "score": 66.28,
+            "note": null
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [],
+            "score": 68.23,
+            "note": null
+          },
+          {
+            "program_code": "7140206",
+            "program_name": "Giáo dục Thể chất",
+            "subject_groups": [],
+            "score": 65.5,
+            "note": null
+          },
+          {
+            "program_code": "7140210",
+            "program_name": "Sư phạm Tin học",
+            "subject_groups": [],
+            "score": 62.51,
+            "note": null
+          },
+          {
+            "program_code": "7140221",
+            "program_name": "Sư phạm Âm nhạc",
+            "subject_groups": [],
+            "score": 60.07,
+            "note": null
+          },
+          {
+            "program_code": "7140222",
+            "program_name": "Sư phạm Mỹ thuật",
+            "subject_groups": [],
+            "score": 64.26,
+            "note": null
+          },
+          {
+            "program_code": "7210104",
+            "program_name": "Đồ họa",
+            "subject_groups": [],
+            "score": 37.44,
+            "note": null
+          },
+          {
+            "program_code": "7210205",
+            "program_name": "Thanh nhạc",
+            "subject_groups": [],
+            "score": 37.44,
+            "note": null
+          },
+          {
+            "program_code": "7210404",
+            "program_name": "Thiết kế thời trang",
+            "subject_groups": [],
+            "score": 37.44,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [],
+            "score": 37.44,
+            "note": null
+          },
+          {
+            "program_code": "7229042",
+            "program_name": "Quản lý văn hóa",
+            "subject_groups": [],
+            "score": 37.44,
+            "note": null
+          },
+          {
+            "program_code": "7310205",
+            "program_name": "Quản lý nhà nước",
+            "subject_groups": [],
+            "score": 37.44,
+            "note": null
+          },
+          {
+            "program_code": "7320106",
+            "program_name": "Công nghệ truyền thông",
+            "subject_groups": [],
+            "score": 37.44,
+            "note": null
+          },
+          {
+            "program_code": "7320201",
+            "program_name": "Thông tin - Thư viện",
+            "subject_groups": [],
+            "score": 37.44,
+            "note": null
+          },
+          {
+            "program_code": "7320201A",
+            "program_name": "Chuyên ngành: Thư viên - Thiết bị trường học",
+            "subject_groups": [],
+            "score": 37.44,
+            "note": null
+          },
+          {
+            "program_code": "7320201B",
+            "program_name": "Chuyên ngành: Văn thư - Lưu trữ",
+            "subject_groups": [],
+            "score": 37.44,
+            "note": null
+          },
+          {
+            "program_code": "7340404",
+            "program_name": "Quản trị nhân lực",
+            "subject_groups": [],
+            "score": 37.44,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [],
+            "score": 43.97,
+            "note": null
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [],
+            "score": 37.44,
+            "note": null
+          },
+          {
+            "program_code": "7810101",
+            "program_name": "Du lịch",
+            "subject_groups": [],
+            "score": 37.44,
+            "note": null
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [],
+            "score": 37.44,
+            "note": null
+          },
+          {
+            "program_code": "7810201",
+            "program_name": "Quản trị khách sạn",
+            "subject_groups": [],
+            "score": 37.44,
+            "note": null
+          },
+          {
+            "program_code": "7810301",
+            "program_name": "Quản lý thể dục thể thao",
+            "subject_groups": [],
+            "score": 37.44,
+            "note": null
+          },
+          {
+            "program_code": "7810302",
+            "program_name": "Huấn luyện thể thao",
+            "subject_groups": [],
+            "score": 37.44,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-xet-tot-nghiep-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm xét tốt nghiệp THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140201",
+            "program_name": "Giáo dục Mầm non",
+            "subject_groups": [
+              "M01",
+              "M07",
+              "M10",
+              "M11"
+            ],
+            "score": 26.89,
+            "note": "Điểm thi THPT 2023/2024"
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "M00",
+              "A01",
+              "D01",
+              "C04"
+            ],
+            "score": 27.32,
+            "note": "Điểm thi THPT 2023/2024"
+          },
+          {
+            "program_code": "7140206",
+            "program_name": "Giáo dục Thể chất",
+            "subject_groups": [
+              "T00",
+              "T03",
+              "T05",
+              "T06",
+              "T08",
+              "T09"
+            ],
+            "score": 26.76,
+            "note": "Điểm thi THPT 2023/2024"
+          },
+          {
+            "program_code": "7140210",
+            "program_name": "Sư phạm Tin học",
+            "subject_groups": [
+              "A00",
+              "C01",
+              "C04",
+              "D01"
+            ],
+            "score": 26,
+            "note": "Điểm thi THPT 2023/2024"
+          },
+          {
+            "program_code": "7140221",
+            "program_name": "Sư phạm Âm nhạc",
+            "subject_groups": [
+              "N00"
+            ],
+            "score": 25.27,
+            "note": "Điểm thi THPT 2023/2024"
+          },
+          {
+            "program_code": "7140222",
+            "program_name": "Sư phạm Mỹ thuật",
+            "subject_groups": [
+              "H00"
+            ],
+            "score": 26.46,
+            "note": "Điểm thi THPT 2023/2024"
+          },
+          {
+            "program_code": "7210104",
+            "program_name": "Đồ họa",
+            "subject_groups": [
+              "H00"
+            ],
+            "score": 15,
+            "note": "Điểm thi THPT 2023/2024"
+          },
+          {
+            "program_code": "7210205",
+            "program_name": "Thanh nhạc",
+            "subject_groups": [
+              "N00"
+            ],
+            "score": 15,
+            "note": "Điểm thi THPT 2023/2024"
+          },
+          {
+            "program_code": "7210404",
+            "program_name": "Thiết kế thời trang",
+            "subject_groups": [
+              "H00"
+            ],
+            "score": 15,
+            "note": "Điểm thi THPT 2023/2024"
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "D15",
+              "D66",
+              "X78"
+            ],
+            "score": 15,
+            "note": "Điểm thi THPT 2023/2024"
+          },
+          {
+            "program_code": "7229042",
+            "program_name": "Quản lý văn hóa",
+            "subject_groups": [
+              "C00",
+              "C04",
+              "C20",
+              "X74",
+              "D66",
+              "X78"
+            ],
+            "score": 15,
+            "note": "Điểm thi THPT 2023/2024"
+          },
+          {
+            "program_code": "7310205",
+            "program_name": "Quản lý nhà nước",
+            "subject_groups": [
+              "C00",
+              "C04",
+              "C20",
+              "X74",
+              "D66",
+              "X78"
+            ],
+            "score": 15,
+            "note": "Điểm thi THPT 2023/2024"
+          },
+          {
+            "program_code": "7320106",
+            "program_name": "Công nghệ truyền thông",
+            "subject_groups": [
+              "C00",
+              "C01",
+              "C04",
+              "D66",
+              "X78"
+            ],
+            "score": 15,
+            "note": "Điểm thi THPT 2023/2024"
+          },
+          {
+            "program_code": "7320201",
+            "program_name": "Thông tin - Thư viện",
+            "subject_groups": [
+              "C00",
+              "C20",
+              "X74",
+              "D15",
+              "D66",
+              "X78"
+            ],
+            "score": 15,
+            "note": "Điểm thi THPT 2023/2024"
+          },
+          {
+            "program_code": "7320201A",
+            "program_name": "Chuyên ngành: Thư viên - Thiết bị trường học",
+            "subject_groups": [
+              "C00",
+              "C20",
+              "X74",
+              "D15",
+              "D66",
+              "X78"
+            ],
+            "score": 15,
+            "note": "Điểm thi THPT 2023/2024"
+          },
+          {
+            "program_code": "7320201B",
+            "program_name": "Chuyên ngành: Văn thư - Lưu trữ",
+            "subject_groups": [
+              "C00",
+              "C20",
+              "X74",
+              "D15",
+              "D66",
+              "X78"
+            ],
+            "score": 15,
+            "note": "Điểm thi THPT 2023/2024"
+          },
+          {
+            "program_code": "7340404",
+            "program_name": "Quản trị nhân lực",
+            "subject_groups": [
+              "A00",
+              "C00",
+              "C20",
+              "X74",
+              "D01"
+            ],
+            "score": 15,
+            "note": "Điểm thi THPT 2023/2024"
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "C00",
+              "C20",
+              "X74",
+              "D15",
+              "D66",
+              "X78"
+            ],
+            "score": 18,
+            "note": "Điểm thi THPT 2023/2024"
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "C00",
+              "C04",
+              "C20",
+              "X74",
+              "D66",
+              "X78"
+            ],
+            "score": 15,
+            "note": "Điểm thi THPT 2023/2024"
+          },
+          {
+            "program_code": "7810101",
+            "program_name": "Du lịch",
+            "subject_groups": [
+              "C00",
+              "C04",
+              "D01",
+              "D66",
+              "X78"
+            ],
+            "score": 15,
+            "note": "Điểm thi THPT 2023/2024"
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [
+              "C00",
+              "C04",
+              "D01",
+              "D84",
+              "X25"
+            ],
+            "score": 15,
+            "note": "Điểm thi THPT 2023/2024"
+          },
+          {
+            "program_code": "7810201",
+            "program_name": "Quản trị khách sạn",
+            "subject_groups": [
+              "C00",
+              "C04",
+              "D01",
+              "D84",
+              "X25"
+            ],
+            "score": 15,
+            "note": "Điểm thi THPT 2023/2024"
+          },
+          {
+            "program_code": "7810301",
+            "program_name": "Quản lý thể dục thể thao",
+            "subject_groups": [
+              "T00",
+              "T03",
+              "T05",
+              "T06",
+              "T08",
+              "T09"
+            ],
+            "score": 15,
+            "note": "Điểm thi THPT 2023/2024"
+          },
+          {
+            "program_code": "7810302",
+            "program_name": "Huấn luyện thể thao",
+            "subject_groups": [
+              "T00",
+              "T03",
+              "T05",
+              "T06",
+              "T08",
+              "T09"
+            ],
+            "score": 15,
+            "note": "Điểm thi THPT 2023/2024"
+          }
+        ]
+      }
+    ]
+  }
+}

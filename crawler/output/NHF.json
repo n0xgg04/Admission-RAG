@@ -1,0 +1,1316 @@
+{
+  "university": {
+    "code": "NHF",
+    "name": "Đại học Hà Nội",
+    "short_name": "HANU",
+    "location": [
+      "Hà Nội"
+    ],
+    "address": "Km9, đường Nguyễn Trãi, Q.Thanh Xuân, Hà Nội",
+    "website": "https://www.hanu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": 705,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-ha-noi-NHF.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0406/thong-tin-tuyen-sinh-dai-hoc-ha-noi-2026.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC HÀ NỘI 2026 Thông tin tuyển sinh Đại học Hà Nội (HANU) năm 2026 Năm 2026, Đại học Hà Nội HANU dự kiến tuyển sinh 3705 chỉ tiêu qua 3 phương thức xét tuyển như sau: 1) Xét tuyển thẳng và ưu tiên xét tuyển theo quy định của Bộ GD&ĐT. 2) Xét tuyển kết hợp theo quy định của Trường Đại học Hà Nội. 3) Xét tuyển theo kết quả của kỳ thi tốt nghiệp THPT năm 2026. Xem thời gian và hồ sơ đăng ký xét tuyển HANU năm 2026 TẠI ĐÂY",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 ĐỐI TƯỢNG - Thí sinh đã tốt nghiệp trung học phổ thông (THPT) của Việt Nam hoặc có bằng tốt nghiệp của nước ngoài được công nhận trình độ tương đương hoặc có bằng tốt nghiệp trung cấp ngành nghề thuộc cùng nhóm ngành dự tuyển và đã hoàn thành đủ yêu cầu khối lượng kiến thức văn hóa cấp THPT theo quy định của pháp luật. - Có đủ sức khoẻ để học tập theo quy định hiện hành. - Đối với thí sinh khuyết tật được cấp có thẩm quyền công nhận suy giảm khả năng học tập, Hiệu trưởng xem xét, quyết định ",
+      "eligibility": "ĐỐI TƯỢNG - Thí sinh đã tốt nghiệp trung học phổ thông (THPT) của Việt Nam hoặc có bằng tốt nghiệp của nước ngoài được công nhận trình độ tương đương hoặc có bằng tốt nghiệp trung cấp ngành nghề thuộc cùng nhóm ngành dự tuyển và đã hoàn thành đủ yêu cầu khối lượng kiến thức văn hóa cấp THPT theo quy định của pháp luật. - Có đủ sức khoẻ để học tập theo quy định hiện hành. - Đối với thí sinh khuyết tật được cấp có thẩm quyền công nhận suy giảm khả năng học tập, Hiệu trưởng xem xét, quyết định việc theo học ngành học phù hợp với",
+      "rules": "QUY CHẾ Ngưỡng đầu vào: Tổng điểm 03 môn thi mỗi tổ hợp của kỳ thi tốt nghiệp THPT năm 2026 đạt từ 22 điểm trở lên. Quy tắc tính điểm: (1) Môn Ngoại ngữ nhân hệ số 2; (2) tùy từng ngành đào tạo, môn Toán hoặc môn Ngữ văn nhân hệ số 2. Tổng điểm 03 môn thi sau khi nhân hệ số (tối đa 50 điểm) sẽ được quy đổi về thang điểm 40.",
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7220202",
+          "program_name": "Ngôn ngữ Nga",
+          "subject_groups": [
+            "D01",
+            "D02",
+            "D03",
+            "D10"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7220203",
+          "program_name": "Ngôn ngữ Pháp",
+          "subject_groups": [
+            "D01",
+            "D03"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7220204",
+          "program_name": "Ngôn ngữ Trung Quốc",
+          "subject_groups": [
+            "D01",
+            "D04"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7220205",
+          "program_name": "Ngôn ngữ Đức",
+          "subject_groups": [
+            "D01",
+            "D05"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7220206",
+          "program_name": "Ngôn ngữ Tây Ban Nha",
+          "subject_groups": [
+            "D01",
+            "D10"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7220207",
+          "program_name": "Ngôn ngữ Bồ Đào Nha",
+          "subject_groups": [
+            "D01",
+            "D04",
+            "D10"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7220208",
+          "program_name": "Ngôn ngữ Italia",
+          "subject_groups": [
+            "D01",
+            "D10"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7220209",
+          "program_name": "Ngôn ngữ Nhật",
+          "subject_groups": [
+            "D01",
+            "D06"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7220210",
+          "program_name": "Ngôn ngữ Hàn Quốc",
+          "subject_groups": [
+            "D01",
+            "D04",
+            "DD2",
+            "D06"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7310111",
+          "program_name": "Nghiên cứu phát triển",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7310206",
+          "program_name": "Quan hệ quốc tế",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "17"
+        },
+        {
+          "program_code": "7310601",
+          "program_name": "Quốc tế học",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "18"
+        },
+        {
+          "program_code": "7320104",
+          "program_name": "Truyền thông đa phương tiện",
+          "subject_groups": [
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7320109",
+          "program_name": "Truyền thông doanh nghiệp",
+          "subject_groups": [
+            "D01",
+            "D03"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7340205",
+          "program_name": "Công nghệ tài chính",
+          "subject_groups": [
+            "A01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "24"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "25"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A01",
+            "D01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "26"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị Dịch vụ du lịch và lữ hành",
+          "subject_groups": [
+            "D01",
+            "D10"
+          ],
+          "program_type": "chuẩn",
+          "note": "28"
+        }
+      ]
+    },
+    {
+      "method_id": "2-xet-tuyen-ket-hop-theo-quy-inh-cua-h-ha-noi",
+      "method_name": "2 XÉT TUYỂN KẾT HỢP THEO QUY ĐỊNH CỦA ĐH HÀ NỘI",
+      "description": "2.1 ĐỐI TƯỢNG - Thí sinh đã tốt nghiệp trung học phổ thông (THPT) của Việt Nam hoặc có bằng tốt nghiệp của nước ngoài được công nhận trình độ tương đương hoặc có bằng tốt nghiệp trung cấp ngành nghề thuộc cùng nhóm ngành dự tuyển và đã hoàn thành đủ yêu cầu khối lượng kiến thức văn hóa cấp THPT theo quy định của pháp luật. - Có đủ sức khoẻ để học tập theo quy định hiện hành. - Đối với thí sinh khuyết tật được cấp có thẩm quyền công nhận suy giảm khả năng học tập, Hiệu trưởng xem xét, quyết định ",
+      "eligibility": "ĐỐI TƯỢNG - Thí sinh đã tốt nghiệp trung học phổ thông (THPT) của Việt Nam hoặc có bằng tốt nghiệp của nước ngoài được công nhận trình độ tương đương hoặc có bằng tốt nghiệp trung cấp ngành nghề thuộc cùng nhóm ngành dự tuyển và đã hoàn thành đủ yêu cầu khối lượng kiến thức văn hóa cấp THPT theo quy định của pháp luật. - Có đủ sức khoẻ để học tập theo quy định hiện hành. - Đối với thí sinh khuyết tật được cấp có thẩm quyền công nhận suy giảm khả năng học tập, Hiệu trưởng xem xét, quyết định việc theo học ngành học phù hợp với",
+      "rules": "QUY CHẾ I.",
+      "programs": [
+        {
+          "program_code": "TT",
+          "program_name": "Ngoại ngữ",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "Tên chứng chỉ"
+        },
+        {
+          "program_code": "IELTS",
+          "program_name": "Tiếng Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "ETS",
+          "program_name": "Tiếng Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "TRKI",
+          "program_name": "Tiếng Nga",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "DELF",
+          "program_name": "Tiếng Pháp",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "TCF",
+          "program_name": "Tiếng Pháp",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "DSD",
+          "program_name": "Tiếng Đức",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "DSH",
+          "program_name": "Tiếng Đức",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "JLPT",
+          "program_name": "Tiếng Nhật",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "TOPIK",
+          "program_name": "Tiếng Hàn Quốc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "DEPLE",
+          "program_name": "Tiếng Bồ Đào Nha",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "DELE",
+          "program_name": "Tiếng Tây Ban Nha",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "SIELE",
+          "program_name": "Tiếng Tây Ban Nha",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "CELI",
+          "program_name": "Tiếng Italia",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "24"
+        },
+        {
+          "program_code": "CILS",
+          "program_name": "Tiếng Italia",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "25"
+        },
+        {
+          "program_code": "PLIDIA",
+          "program_name": "Tiếng Italia",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "27"
+        }
+      ]
+    },
+    {
+      "method_id": "3-utxt-xt-thang",
+      "method_name": "3 ƯTXT, XT THẲNG",
+      "description": "3.1 ĐỐI TƯỢNG - Thí sinh đã tốt nghiệp trung học phổ thông (THPT) của Việt Nam hoặc có bằng tốt nghiệp của nước ngoài được công nhận trình độ tương đương hoặc có bằng tốt nghiệp trung cấp ngành nghề thuộc cùng nhóm ngành dự tuyển và đã hoàn thành đủ yêu cầu khối lượng kiến thức văn hóa cấp THPT theo quy định của pháp luật. - Có đủ sức khoẻ để học tập theo quy định hiện hành. - Đối với thí sinh khuyết tật được cấp có thẩm quyền công nhận suy giảm khả năng học tập, Hiệu trưởng xem xét, quyết định ",
+      "eligibility": "ĐỐI TƯỢNG - Thí sinh đã tốt nghiệp trung học phổ thông (THPT) của Việt Nam hoặc có bằng tốt nghiệp của nước ngoài được công nhận trình độ tương đương hoặc có bằng tốt nghiệp trung cấp ngành nghề thuộc cùng nhóm ngành dự tuyển và đã hoàn thành đủ yêu cầu khối lượng kiến thức văn hóa cấp THPT theo quy định của pháp luật. - Có đủ sức khoẻ để học tập theo quy định hiện hành. - Đối với thí sinh khuyết tật được cấp có thẩm quyền công nhận suy giảm khả năng học tập, Hiệu trưởng xem xét, quyết định việc theo học ngành học phù hợp với",
+      "rules": "Quy chế tuyển sinh trình độ đại học của Trường Đại học Hà Nội ban hành theo Quyết định số 623/QĐ-ĐHHN ngày 02 tháng 3 năm 2026 của Hiệu trưởng Trường Đại học Hà Nội (ĐHHN). 3.2 ĐIỀU KIỆN XÉT TUYỂN Ngưỡng đầu vào: Tổng điểm 03 môn thi mỗi tổ hợp của kỳ thi tốt nghiệp THPT năm 2026 đạt từ 22 điểm trở lên. Quy tắc tính điểm: (1) Môn Ngoại ngữ nhân hệ số 2; (2) tùy từng ngành đào tạo, môn Toán hoặc môn Ngữ văn nhân hệ số 2. Tổng điểm 03 môn thi sau khi nhân hệ số (tối đa 50 điểm) sẽ được quy đổi về thang điểm 40. 3.3 QUY CHẾ 1.",
+      "programs": []
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7220101",
+          "program_name": "Tiếng Việt và Văn hoá Việt Nam (dành cho người nước ngoài)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7220202",
+          "program_name": "Ngôn ngữ Nga",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7220202",
+          "program_name": "Ngôn ngữ Nga",
+          "subject_groups": [
+            "D01",
+            "D02",
+            "D03",
+            "D10"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7220203",
+          "program_name": "Ngôn ngữ Pháp",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7220203",
+          "program_name": "Ngôn ngữ Pháp",
+          "subject_groups": [
+            "D01",
+            "D03"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7220204",
+          "program_name": "Ngôn ngữ Trung Quốc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7220204",
+          "program_name": "Ngôn ngữ Trung Quốc",
+          "subject_groups": [
+            "D01",
+            "D04"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7220205",
+          "program_name": "Ngôn ngữ Đức",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7220205",
+          "program_name": "Ngôn ngữ Đức",
+          "subject_groups": [
+            "D01",
+            "D05"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7220206",
+          "program_name": "Ngôn ngữ Tây Ban Nha",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7220206",
+          "program_name": "Ngôn ngữ Tây Ban Nha",
+          "subject_groups": [
+            "D01",
+            "D10"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7220207",
+          "program_name": "Ngôn ngữ Bồ Đào Nha",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7220207",
+          "program_name": "Ngôn ngữ Bồ Đào Nha",
+          "subject_groups": [
+            "D01",
+            "D04",
+            "D10"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7220208",
+          "program_name": "Ngôn ngữ Italia",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7220208",
+          "program_name": "Ngôn ngữ Italia",
+          "subject_groups": [
+            "D01",
+            "D10"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7220209",
+          "program_name": "Ngôn ngữ Nhật",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7220209",
+          "program_name": "Ngôn ngữ Nhật",
+          "subject_groups": [
+            "D01",
+            "D06"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7220210",
+          "program_name": "Ngôn ngữ Hàn Quốc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7220210",
+          "program_name": "Ngôn ngữ Hàn Quốc",
+          "subject_groups": [
+            "D01",
+            "D04",
+            "DD2",
+            "D06"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7310111",
+          "program_name": "Nghiên cứu phát triển",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7310111",
+          "program_name": "Nghiên cứu phát triển",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7310206",
+          "program_name": "Quan hệ quốc tế",
+          "subject_groups": [],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "18"
+        },
+        {
+          "program_code": "7310206",
+          "program_name": "Quan hệ quốc tế",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "18"
+        },
+        {
+          "program_code": "7310601",
+          "program_name": "Quốc tế học",
+          "subject_groups": [],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "19"
+        },
+        {
+          "program_code": "7310601",
+          "program_name": "Quốc tế học",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "19"
+        },
+        {
+          "program_code": "7320104",
+          "program_name": "Truyền thông đa phương tiện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7320104",
+          "program_name": "Truyền thông đa phương tiện",
+          "subject_groups": [
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7320109",
+          "program_name": "Truyền thông doanh nghiệp",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7320109",
+          "program_name": "Truyền thông doanh nghiệp",
+          "subject_groups": [
+            "D01",
+            "D03"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "24"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "24"
+        },
+        {
+          "program_code": "7340205",
+          "program_name": "Công nghệ tài chính",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "25"
+        },
+        {
+          "program_code": "7340205",
+          "program_name": "Công nghệ tài chính",
+          "subject_groups": [
+            "A01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "25"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "26"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "26"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "27"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A01",
+            "D01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "27"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị Dịch vụ du lịch và lữ hành",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "29"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị Dịch vụ du lịch và lữ hành",
+          "subject_groups": [
+            "D01",
+            "D10"
+          ],
+          "program_type": "chuẩn",
+          "note": "29"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Đại học Hà Nội các năm Tại đây",
+  "tuition_text": "1. Đối với các chương trình tiêu chuẩn: - Nhóm chuyên ngành giảng dạy bằng ngoại ngữ: + Các học phần thuộc khối kiến thức giáo dục đại cương: 860.000đ/tín chỉ. + Các học phần thuộc khối kiến thức cơ sở ngành, chuyên ngành, bổ trợ, dự án tốt nghiệp, thực tập và khóa luận tốt nghiệp: • 970.000 đ/tín chỉ (với ngành Truyền thông doanh nghiệp dạy bằng tiếng Pháp). • 1.030.000 đ/tín chỉ (với các chuyên ngành dạy bằng tiếng Anh, trừ ngành Công nghệ tài chính dạy bằng tiếng Anh). • 1.200.000 đ/tín chỉ (với ngành Công nghệ tài chính dạy bằng tiếng Anh) - Nhóm ngành Ngôn ngữ: 860.000 đ/tín chỉ. 2. Đối với các chương trình tiên tiến: - Nhóm chuyên ngành giảng dạy bằng ngoại ngữ: + Các học phần thuộc khối kiến thức giáo dục đại cương: 860.000 đ/tín chỉ. + Các học phần thuộc khối kiến thức cơ sở ngành, chuyên ngành, bổ trợ, dự án TN, thực tập và khóa luận tốt nghiệp: • 1.700.000 đ/tín chỉ (với ngành Quản trị Dịch vụ du lịch và lữ hành dạy bằng tiếng Anh). • 1.750.000 đ/tín chỉ (với ngành Công nghệ thông tin dạy bằng tiếng Anh). - Nhóm ngành Ngôn ngữ: + Các học phần thuộc khối kiến thức giáo dục đại cương và cơ sở ngành (dạy bằng tiếng Việt): 860.000 đ/tín chỉ. + Các học phần thuộc khối kiến thức cơ sở ngành (dạy bằng ngoại ngữ), ngành, chuyên ngành, thực tập và khóa luận tốt nghiệp: 1.180.000 đ/tín chỉ (với ngành Ngôn ngữ Italia, Ngôn ngữ Anh, Ngôn ngữ Trung Quốc, Ngôn ngữ Hàn Quốc). 3. Đối với sinh viên nước ngoài: - Đối với sinh viên các quốc gia và nền kinh tế thuộc nhóm I: 1.450.000 đ/tín chỉ. - Đối với sinh viên các quốc gia và nền kinh tế thuộc nhóm II: 1.150.000 đ/tín chỉ Ghi chú: Mức học phí được thực hiện theo Nghị đinh 238/2025/NĐ-CP ngày 09/9/2025 của Chính phủ quy định về chính sách học phí, miễn, giảm, hỗ trợ học phí, hỗ trợ chi phí học tập và giá dịch vụ trong lĩnh vực giáo dục, đào tạo.",
+  "timeline_text": "1. Thời gian và hình thức nộp hồ sơ Thí sinh đăng ký xét tuyển kết hợp: Nộp hồ sơ trực tuyến (dự kiến) từ 8h00 ngày 13/5 đến 17h00 ngày 19/5/2026 tại Cổng tuyển sinh: tuyensinh.hanu.edu.vn. 2. Hồ sơ xét tuyển của thí sinh đăng ký Xét tuyển kết hợp: - Phiếu đăng ký Xét tuyển kết hợp đại học chính quy năm 2026 (Khai báo trên hệ thống). - 01 bản sao hợp pháp Học bạ THPT. - 01 bản sao hợp pháp Chứng chỉ ngoại ngữ quốc tế hoặc Phiếu kết quả thi được chuyển từ đơn vị tổ chức thi tới HĐTS Trường ĐHHN (đối với thí sinh là đối tượng 1). - 01 bản sao hợp pháp Kết quả thi SAT, ACT, A-level hoặc Kết quả thi được chuyển từ đơn vị tổ chức thi tới HĐTS Trường ĐHHN (đối với thí sinh là đối tượng 2). - 01 Giấy xác nhận là học sinh đã trúng tuyển và theo học hệ chuyên của trường THPT chuyên quốc gia theo mẫu Phụ lục 3.1 (đối với thí sinh là đối tượng 3). - 01 bản sao hợp pháp Kết quả thi V-SAT hoặc Kết quả thi được chuyển từ đơn vị tổ chức thi tới HĐTS Trường ĐHHN (đối với thí sinh là đối tượng 4).",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-ha-noi-NHF.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 33.89,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7220201 TT",
+            "program_name": "Ngôn ngữ Anh - CTTT",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 32.48,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7220202",
+            "program_name": "Ngôn ngữ Nga",
+            "subject_groups": [
+              "D01",
+              "D02",
+              "D03"
+            ],
+            "score": 23.67,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7220203",
+            "program_name": "Ngôn ngữ Pháp",
+            "subject_groups": [
+              "D01",
+              "D03"
+            ],
+            "score": 27.25,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "D01",
+              "D04"
+            ],
+            "score": 34.35,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7220204 TT",
+            "program_name": "Ngôn ngữ Trung Quốc - CTTT",
+            "subject_groups": [
+              "D01",
+              "D04"
+            ],
+            "score": 33,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7220205",
+            "program_name": "Ngôn ngữ Đức",
+            "subject_groups": [
+              "D01",
+              "D05"
+            ],
+            "score": 28.35,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7220206",
+            "program_name": "Ngôn ngữ Tây Ban Nha",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 27.08,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7220207",
+            "program_name": "Ngôn ngữ Bồ Đào Nha",
+            "subject_groups": [
+              "D01",
+              "D04"
+            ],
+            "score": 23.35,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7220208",
+            "program_name": "Ngôn ngữ Italia",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 25.08,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7220208 TT",
+            "program_name": "Ngôn ngữ Italia - CTTT",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 22.1,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7220209",
+            "program_name": "Ngôn ngữ Nhật",
+            "subject_groups": [
+              "D01",
+              "D06"
+            ],
+            "score": 29,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7220210",
+            "program_name": "Ngôn ngữ Hàn Quốc",
+            "subject_groups": [
+              "D01",
+              "D04",
+              "DD2"
+            ],
+            "score": 32.07,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7220210 TT",
+            "program_name": "Ngôn ngữ Hàn Quốc - CTTT",
+            "subject_groups": [
+              "D01",
+              "D04",
+              "DD2"
+            ],
+            "score": 28.17,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7310111",
+            "program_name": "Nghiên cứu phát triển (dạy bằng tiếng Anh)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 25.75,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7310601",
+            "program_name": "Quốc tế học (dạy bằng tiếng Anh)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 26.83,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện (dạy bằng tiếng Anh)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 30.82,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7320109",
+            "program_name": "Truyền thông doanh nghiệp (dạy bằng tiếng Pháp)",
+            "subject_groups": [
+              "D01",
+              "D03"
+            ],
+            "score": 26.35,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị Kinh doanh (dạy bằng tiếng Anh)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 28.25,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7340115",
+            "program_name": "Marketing (dạy bằng tiếng Anh)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 30.17,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng (dạy bằng tiếng Anh)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 26.1,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7340205",
+            "program_name": "Công nghệ tài chính (dạy bằng tiếng Anh)",
+            "subject_groups": [
+              "A01",
+              "D01"
+            ],
+            "score": 27.25,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán (dạy bằng tiếng Anh)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 26.67,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ Thông tin (dạy bằng tiếng Anh)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "X26"
+            ],
+            "score": 26.02,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7480201 TT",
+            "program_name": "Công nghệ thông tin (dạy bằng tiếng Anh) - CTTT",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "X26"
+            ],
+            "score": 24.8,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị Dịch vụ Du lịch và Lữ hành (dạy bằng tiếng Anh)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 27.58,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7810103 TT",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành (dạy bằng tiếng Anh) - CTTT",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 23.08,
+            "note": "Thang điểm 40"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-xet-tuyen-ket-hop",
+        "method_name": "Điểm chuẩn theo phương thức Điểm xét tuyển kết hợp năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 33.89,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7220201 TT",
+            "program_name": "Ngôn ngữ Anh - CTTT",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 32.48,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7220202",
+            "program_name": "Ngôn ngữ Nga",
+            "subject_groups": [
+              "D01",
+              "D02",
+              "D03"
+            ],
+            "score": 23.67,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7220203",
+            "program_name": "Ngôn ngữ Pháp",
+            "subject_groups": [
+              "D01",
+              "D03"
+            ],
+            "score": 27.25,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "D01",
+              "D04"
+            ],
+            "score": 34.35,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7220204 TT",
+            "program_name": "Ngôn ngữ Trung Quốc - CTTT",
+            "subject_groups": [
+              "D01",
+              "D04"
+            ],
+            "score": 33,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7220205",
+            "program_name": "Ngôn ngữ Đức",
+            "subject_groups": [
+              "D01",
+              "D05"
+            ],
+            "score": 28.35,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7220206",
+            "program_name": "Ngôn ngữ Tây Ban Nha",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 27.08,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7220207",
+            "program_name": "Ngôn ngữ Bồ Đào Nha",
+            "subject_groups": [
+              "D01",
+              "D04"
+            ],
+            "score": 23.35,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7220208",
+            "program_name": "Ngôn ngữ Italia",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 25.08,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7220208 TT",
+            "program_name": "Ngôn ngữ Italia - CTTT",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 22.1,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7220209",
+            "program_name": "Ngôn ngữ Nhật",
+            "subject_groups": [
+              "D01",
+              "D06"
+            ],
+            "score": 29,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7220210",
+            "program_name": "Ngôn ngữ Hàn Quốc",
+            "subject_groups": [],
+            "score": 32.07,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7220210 TT",
+            "program_name": "Ngôn ngữ Hàn Quốc - CTTT",
+            "subject_groups": [
+              "D01",
+              "D04",
+              "DD2"
+            ],
+            "score": 28.17,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7310111",
+            "program_name": "Nghiên cứu phát triển (dạy bằng tiếng Anh)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 25.75,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7310601",
+            "program_name": "Quốc tế học (dạy bằng tiếng Anh)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 26.83,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện (dạy bằng tiếng Anh)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 30.82,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7320109",
+            "program_name": "Truyền thông doanh nghiệp (dạy bằng tiếng Pháp)",
+            "subject_groups": [
+              "D01",
+              "D03"
+            ],
+            "score": 26.35,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị Kinh doanh (dạy bằng tiếng Anh)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 28.25,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7340115",
+            "program_name": "Marketing (dạy bằng tiếng Anh)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 30.17,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng (dạy bằng tiếng Anh)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 26.1,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7340205",
+            "program_name": "Công nghệ tài chính (dạy bằng tiếng Anh)",
+            "subject_groups": [
+              "A01",
+              "D01"
+            ],
+            "score": 27.25,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán (dạy bằng tiếng Anh)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 26.67,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ Thông tin (dạy bằng tiếng Anh)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "X26"
+            ],
+            "score": 26.02,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7480201 TT",
+            "program_name": "Công nghệ thông tin (dạy bằng tiếng Anh) - CTTT",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "X26"
+            ],
+            "score": 24.8,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị Dịch vụ Du lịch và Lữ hành (dạy bằng tiếng Anh)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 27.58,
+            "note": "Thang điểm 40"
+          },
+          {
+            "program_code": "7810103 TT",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành (dạy bằng tiếng Anh) - CTTT",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 23.08,
+            "note": "Thang điểm 40"
+          }
+        ]
+      }
+    ]
+  }
+}

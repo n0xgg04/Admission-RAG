@@ -1,0 +1,2777 @@
+{
+  "university": {
+    "code": "GHA",
+    "name": "Đại học Giao thông vận tải",
+    "short_name": "UTC",
+    "location": [
+      "Hà Nội"
+    ],
+    "address": "Trụ sở chính: Số 3 phố Cầu giấy, phường Láng Thượng, quận Đống Đa, Tp. Hà Nội.",
+    "website": "tuyensinh.utc.edu.vn",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": 6660,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-giao-thong-van-tai-co-so-phia-bac-GHA.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0114/thong-tin-tuyen-sinh-dh-giao-thong-van-tai-2026-du-kien.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC GIAO THÔNG VẬN TẢI 2026 Thông tin tuyển sinh Đại Học Giao Thông Vận Tải (UTC) năm 2026 ĐH Giao thông Vận tải - UTC tuyển sinh 2026 tuyển sinh 6.660 chỉ tiêu các chương trình đào tạo chuẩn và chất lượng cao; 70 chỉ tiêu chương trình đào tạo liên kết quốc tế. Như vậy, năm nay trường tăng 340 chỉ tiêu so với năm 2025, trong đó cơ sở chính Hà Nội tăng 160 chỉ tiêu, phân hiệu tăng 180 chỉ tiêu. Trường tuyển sinh với 4 phương thức xét tuyển như sau: Phương thức 1 (PT1): Xét tuyển theo kết quả kỳ thi tốt nghiệp THPT năm 2026 và xét tuyển thẳng thí sinh đoạt giải quốc gia, quốc tế. Phương thức 2 (PT2 - xét tuyển kết hợp): Xét tuyển kết hợp giữa kết quả học tập bậc THPT và điều kiện điểm thi tốt nghiệp THPT năm 2026. Phương thức 3 (PT3): Xét tuyển theo kết quả thi đánh giá năng lực của ĐH Quốc gia Hà Nội năm 2026 với một số ngành đào tạo tại Hà Nội và xét tuyển theo kết quả đánh giá năng lực của ĐH Quốc gia TPHCM năm 2026 với các ngành đào tạo tại Phân hiệu TPHCM. Phương thức 4 (PT4): Xét tuyển theo kết quả thi đánh giá tư duy năm 2026 của ĐH Bách khoa Hà Nội với một số ngành đào tạo tại Hà Nội.",
+  "admission_methods": [
+    {
+      "method_id": "1-pt1-xet-tuyen-theo-ket-qua-ky-thi-tot-nghiep-trung-hoc-pho-thong-thpt-nam-2026-va-hoc-sinh-oat-giai-quoc-gia-quoc-te",
+      "method_name": "1 PT1: XÉT TUYỂN THEO KẾT QUẢ KỲ THI TỐT NGHIỆP TRUNG HỌC PHỔ THÔNG (THPT) NĂM 2026 VÀ HỌC SINH ĐOẠT GIẢI QUỐC GIA, QUỐC TẾ",
+      "description": "1.1 QUY CHẾ - Sử dụng kết quả kỳ thi tốt nghiệp THPT năm 2026 để xét tuyển. Điểm xét tuyển là tổng điểm 3 môn của tổ hợp đăng ký xét tuyển (trong đó điểm môn Toán nhân 2; trừ ngành Ngôn ngữ Anh, điểm môn Tiếng Anh nhân 2) và điểm ưu tiên (nếu có). - Xét tuyển thẳng học sinh đoạt giải quốc gia, quốc tế. Cụ thể: Thí sinh đoạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia, quốc tế hoặc thi khoa học, kỹ thuật cấp quốc gia, quốc tế do Bộ Giáo dục và Đào tạo (GD&ĐT) tổ chức, cử tham gia;",
+      "eligibility": null,
+      "rules": "QUY CHẾ - Sử dụng kết quả kỳ thi tốt nghiệp THPT năm 2026 để xét tuyển. Điểm xét tuyển là tổng điểm 3 môn của tổ hợp đăng ký xét tuyển (trong đó điểm môn Toán nhân 2; trừ ngành Ngôn ngữ Anh, điểm môn Tiếng Anh nhân 2) và điểm ưu tiên (nếu có). - Xét tuyển thẳng học sinh đoạt giải quốc gia, quốc tế. Cụ thể: Thí sinh đoạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia, quốc tế hoặc thi khoa học, kỹ thuật cấp quốc gia, quốc tế do Bộ Giáo dục và Đào tạo (GD&ĐT) tổ chức, cử tham gia; thời gian đoạt giải không quá 3 năm tính tới thời điểm xét tuyển, đã tốt nghiệp THPT, được xét tuyển thẳng vào trường theo ngành phù hợp với môn thi. Cụ thể như sau: TT Tên môn thi HSG/ Nội dung đề tài dự thi Tên ngành xét tuyển 1 Toán, Tin học Tất cả các ngành 2 Vật lý, Hóa học Tất cả các ngành (trừ ngành Ngôn ngữ Anh) 3 Sinh học Kỹ thuật môi trường 4 Tiếng Anh, Ngữ văn, Lịch sử, Địa lý Ngôn ngữ Anh",
+      "programs": []
+    },
+    {
+      "method_id": "2-pt2-xet-tuyen-ket-hop-giua-ket-qua-hoc-tap-bac-thpt-va-ieu-kien-iem-thi-tot-nghiep-thpt-2026",
+      "method_name": "2 PT2: XÉT TUYỂN KẾT HỢP GIỮA KẾT QUẢ HỌC TẬP BẬC THPT VÀ ĐIỀU KIỆN ĐIỂM THI TỐT NGHIỆP THPT 2026",
+      "description": "2.1 QUY CHẾ Phương thức 2 (PT2 - xét tuyển kết hợp): Xét tuyển kết hợp giữa kết quả học tập bậc THPT và điều kiện điểm thi tốt nghiệp THPT năm 2026. Xét tuyển kết hợp chỉ áp dụng với các thí sinh có điểm thi môn Toán trong kỳ thi tốt nghiệp THPT năm 2026 từ 5.0 trở lên (trừ ngành Toán ứng dụng, điểm thi môn Toán phải đạt từ 6.0 trở lên). Điểm xét tuyển là tổng điểm ba môn học trong tổ hợp xét tuyển (đủ 3 năm học THPT) (trong đó điểm môn Toán nhân 2; trừ ngành Ngôn ngữ Anh, điểm môn Tiếng Anh nhâ",
+      "eligibility": null,
+      "rules": "QUY CHẾ Phương thức 2 (PT2 - xét tuyển kết hợp): Xét tuyển kết hợp giữa kết quả học tập bậc THPT và điều kiện điểm thi tốt nghiệp THPT năm 2026. Xét tuyển kết hợp chỉ áp dụng với các thí sinh có điểm thi môn Toán trong kỳ thi tốt nghiệp THPT năm 2026 từ 5.0 trở lên (trừ ngành Toán ứng dụng, điểm thi môn Toán phải đạt từ 6.0 trở lên). Điểm xét tuyển là tổng điểm ba môn học trong tổ hợp xét tuyển (đủ 3 năm học THPT) (trong đó điểm môn Toán nhân 2; trừ ngành Ngôn ngữ Anh, điểm môn Tiếng Anh nhân 2) và điểm ưu tiên (nếu có). Trong đó điểm từng môn của ba môn trong tổ hợp xét tuyển không có điểm trung bình môn nào (xét theo mỗi năm học) dưới 5.5 điểm",
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế (chuyên ngành: Kinh tế và quản lý đầu tư, Kinh tế bưu chính viễn thông)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán (chuyên ngành Kế toán tổng hợp)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7460112",
+          "program_name": "Toán ứng dụng (chuyên ngành Toán tin ứng dụng)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7520115",
+          "program_name": "Kỹ thuật nhiệt (chuyên ngành: Kỹ thuật nhiệt lạnh và điều hoà không khí)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7520116",
+          "program_name": "Kỹ thuật cơ khí động lực (chuyên ngành: Kỹ thuật phương tiện đường sắt, Máy xây dựng, Kỹ thuật máy động lực)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7520320",
+          "program_name": "Kỹ thuật môi trường",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7580101",
+          "program_name": "Kiến trúc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7580106",
+          "program_name": "Quản lý đô thị và công trình",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Kỹ thuật xây dựng (chuyên ngành: Xây dựng dân dụng và công nghiệp, Kết cấu xây dựng, Vật liệu và công nghệ xây dựng)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7580202",
+          "program_name": "Kỹ thuật xây dựng công trình thủy",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7580205",
+          "program_name": "Kỹ thuật xây dựng công trình giao thông (chuyên ngành: Cầu đường bộ, Đường bộ và kỹ thuật giao thông, Cầu và kết cấu, Đường sắt, Xây dựng sân bay cảng hàng không, Công trình giao thông đô thị)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7580210",
+          "program_name": "Kỹ thuật cơ sở hạ tầng (chuyên ngành: Cơ sở hạ tầng kỹ thuật đô thị)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7580215",
+          "program_name": "Kỹ thuật an toàn giao thông",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7580301",
+          "program_name": "Kinh tế xây dựng (chuyên ngành: Kinh tế và quản lý cơ sở hạ tầng, Kinh tế và quản lý đầu tư xây dựng)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7580302",
+          "program_name": "Quản lý xây dựng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7840101",
+          "program_name": "Khai thác vận tải (chuyên ngành: Vận tải - Thương mại quốc tế, Quy hoạch và quản lý GTVT đô thị, Vận tải – Kinh tế đường bộ và thành phố, Vận tải đường sắt)",
+          "subject_groups": [],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "20"
+        },
+        {
+          "program_code": "7840104",
+          "program_name": "Kinh tế vận tải (chuyên ngành: Kinh tế vận tải ô tô, Kinh tế vận tải hàng không, Kinh tế vận tải đường sắt, Kinh tế vận tải thuỷ bộ)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "21"
+        }
+      ]
+    },
+    {
+      "method_id": "3-pt3-xet-ket-qua-gnl-cua-hqghn-2026",
+      "method_name": "3 PT3: XÉT KẾT QUẢ ĐGNL CỦA ĐHQGHN 2026",
+      "description": "3.1 QUY CHẾ Thí sinh lưu ý chọn bài thi phù hợp với ngành đăng ký xét tuyển trong phần thi thứ ba (bài thi khoa học/bài thi tiếng Anh) và điều kiện xét tuyển trong phần ghi chú. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐGNL HN STT Mã ngành Tên ngành Tổ hợp Ghi chú 1. Các chương trình đào tạo chuẩn 1 7220201 Ngôn ngữ Anh HSA - Tiếng Anh Thí sinh phải chọn thi môn tiếng Anh trong phần thi thứ ba 2 7310101 Kinh tế (chuyên ngành: Kinh tế và quản lý đầu tư, Kinh tế bưu chính viễn thông) Q00 3 73",
+      "eligibility": null,
+      "rules": "QUY CHẾ Thí sinh lưu ý chọn bài thi phù hợp với ngành đăng ký xét tuyển trong phần thi thứ ba (bài thi khoa học/bài thi tiếng Anh) và điều kiện xét tuyển trong phần ghi chú.",
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế (chuyên ngành: Kinh tế và quản lý đầu tư, Kinh tế bưu chính viễn thông)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán (chuyên ngành Kế toán tổng hợp)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7480107",
+          "program_name": "Trí tuệ nhân tạo",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics và quản lý chuỗi cung ứng",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7520103",
+          "program_name": "Kỹ thuật cơ khí (chuyên ngành: Công nghệ chế tạo cơ khí, Tự động hoá thiết kế cơ khí)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7520107",
+          "program_name": "Kỹ thuật robot (chuyên ngành Kỹ thuật robot & trí tuệ nhân tạo)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7520115",
+          "program_name": "Kỹ thuật nhiệt (chuyên ngành: Kỹ thuật nhiệt lạnh và điều hoà không khí)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7520116",
+          "program_name": "Kỹ thuật cơ khí động lực (chuyên ngành: Kỹ thuật phương tiện đường sắt, Máy xây dựng, Kỹ thuật máy động lực)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7520130",
+          "program_name": "Kỹ thuật ô tô",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "Kỹ thuật điện (chuyên ngành: Trang bị điện trong công nghiệp và GTVT, Hệ thống điện trong giao thông và công nghiệp)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật điện tử - viễn thông (chuyên ngành: Kỹ thuật viễn thông, Kỹ thuật thông tin và truyền thông)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hoá (chuyên ngành: Tự động hoá, Kỹ thuật điều khiển và tự động hoá giao thông)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7580301",
+          "program_name": "Kinh tế xây dựng (chuyên ngành: Kinh tế và quản lý cơ sở hạ tầng, Kinh tế và quản lý đầu tư xây dựng)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7580302",
+          "program_name": "Quản lý xây dựng",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7840101",
+          "program_name": "Khai thác vận tải (chuyên ngành: Vận tải - Thương mại quốc tế, Quy hoạch và quản lý GTVT đô thị, Vận tải – Kinh tế đường bộ và thành phố, Vận tải đường sắt)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "22"
+        },
+        {
+          "program_code": "7840104",
+          "program_name": "Kinh tế vận tải (chuyên ngành: Kinh tế vận tải ô tô, Kinh tế vận tải hàng không, Kinh tế vận tải đường sắt, Kinh tế vận tải thuỷ bộ)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7480106",
+          "program_name": "Kỹ thuật máy tính (theo hướng chuyên sâu vi mạch-bán dẫn, bao gồm lớp kỹ sư tài năng)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "24"
+        }
+      ]
+    },
+    {
+      "method_id": "4-pt4-xet-ket-qua-gtd-hbkhn",
+      "method_name": "4 PT4: XÉT KẾT QUẢ ĐGTD ĐHBKHN",
+      "description": "4.1 QUY CHẾ Xét tuyển theo kết quả đánh giá tư duy năm 2026 của Đại học Bách khoa Hà Nội (ĐHBK HN) với một số ngành tuyển sinh và đào tạo tại Hà Nội DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐÁNH GIÁ TƯ DUY STT Mã ngành Tên ngành Tổ hợp Ghi chú 1. Các chương trình đào tạo chuẩn 1 7460112 Toán ứng dụng (chuyên ngành Toán tin ứng dụng) K00 2 7480101 Khoa học máy tính K00 3 7480107 Trí tuệ nhân tạo K00 4 7480201 Công nghệ thông tin K00 5 7520103 Kỹ thuật cơ khí (chuyên ngành: Công nghệ chế tạo ",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét tuyển theo kết quả đánh giá tư duy năm 2026 của Đại học Bách khoa Hà Nội (ĐHBK HN) với một số ngành tuyển sinh và đào tạo tại Hà Nội",
+      "programs": [
+        {
+          "program_code": "7460112",
+          "program_name": "Toán ứng dụng (chuyên ngành Toán tin ứng dụng)",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7480107",
+          "program_name": "Trí tuệ nhân tạo",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7520103",
+          "program_name": "Kỹ thuật cơ khí (chuyên ngành: Công nghệ chế tạo cơ khí, Tự động hoá thiết kế cơ khí)",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7520107",
+          "program_name": "Kỹ thuật robot (chuyên ngành Kỹ thuật robot & trí tuệ nhân tạo)",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7520114",
+          "program_name": "Kỹ thuật cơ điện tử",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7520115",
+          "program_name": "Kỹ thuật nhiệt (chuyên ngành: Kỹ thuật nhiệt lạnh và điều hoà không khí)",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7520116",
+          "program_name": "Kỹ thuật cơ khí động lực (chuyên ngành: Kỹ thuật phương tiện đường sắt, Máy xây dựng, Kỹ thuật máy động lực)",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7520130",
+          "program_name": "Kỹ thuật ô tô",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "Kỹ thuật điện (chuyên ngành: Trang bị điện trong công nghiệp và GTVT, Hệ thống điện trong giao thông và công nghiệp)",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật điện tử - viễn thông (chuyên ngành: Kỹ thuật viễn thông, Kỹ thuật thông tin và truyền thông)",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hoá (chuyên ngành: Tự động hoá, Kỹ thuật điều khiển và tự động hoá giao thông)",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7520320",
+          "program_name": "Kỹ thuật môi trường",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7580106",
+          "program_name": "Quản lý đô thị và công trình",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Kỹ thuật xây dựng (chuyên ngành: Xây dựng dân dụng và công nghiệp, Kết cấu xây dựng, Vật liệu và công nghệ xây dựng)",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7580202",
+          "program_name": "Kỹ thuật xây dựng công trình thủy",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7580205",
+          "program_name": "Kỹ thuật xây dựng công trình giao thông (chuyên ngành: Cầu đường bộ, Đường bộ và kỹ thuật giao thông, Cầu và kết cấu, Đường sắt, Xây dựng sân bay cảng hàng không, Công trình giao thông đô thị)",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7580210",
+          "program_name": "Kỹ thuật cơ sở hạ tầng (chuyên ngành: Cơ sở hạ tầng kỹ thuật đô thị)",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7580215",
+          "program_name": "Kỹ thuật an toàn giao thông",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7480106",
+          "program_name": "Kỹ thuật máy tính (theo hướng chuyên sâu vi mạch-bán dẫn, bao gồm lớp kỹ sư tài năng)",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế (chuyên ngành: Kinh tế và quản lý đầu tư, Kinh tế bưu chính viễn thông)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế (chuyên ngành: Kinh tế và quản lý đầu tư, Kinh tế bưu chính viễn thông)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán (chuyên ngành Kế toán tổng hợp)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán (chuyên ngành Kế toán tổng hợp)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7460112",
+          "program_name": "Toán ứng dụng (chuyên ngành Toán tin ứng dụng)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7460112",
+          "program_name": "Toán ứng dụng (chuyên ngành Toán tin ứng dụng)",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7480107",
+          "program_name": "Trí tuệ nhân tạo",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7480107",
+          "program_name": "Trí tuệ nhân tạo",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7480107",
+          "program_name": "Trí tuệ nhân tạo",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics và quản lý chuỗi cung ứng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics và quản lý chuỗi cung ứng",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7520103",
+          "program_name": "Kỹ thuật cơ khí (chuyên ngành: Công nghệ chế tạo cơ khí, Tự động hoá thiết kế cơ khí)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7520103",
+          "program_name": "Kỹ thuật cơ khí (chuyên ngành: Công nghệ chế tạo cơ khí, Tự động hoá thiết kế cơ khí)",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7520103",
+          "program_name": "Kỹ thuật cơ khí (chuyên ngành: Công nghệ chế tạo cơ khí, Tự động hoá thiết kế cơ khí)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7520107",
+          "program_name": "Kỹ thuật robot (chuyên ngành Kỹ thuật robot & trí tuệ nhân tạo)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7520107",
+          "program_name": "Kỹ thuật robot (chuyên ngành Kỹ thuật robot & trí tuệ nhân tạo)",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7520107",
+          "program_name": "Kỹ thuật robot (chuyên ngành Kỹ thuật robot & trí tuệ nhân tạo)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7520114",
+          "program_name": "Kỹ thuật cơ điện tử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7520114",
+          "program_name": "Kỹ thuật cơ điện tử",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7520115",
+          "program_name": "Kỹ thuật nhiệt (chuyên ngành: Kỹ thuật nhiệt lạnh và điều hoà không khí)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7520115",
+          "program_name": "Kỹ thuật nhiệt (chuyên ngành: Kỹ thuật nhiệt lạnh và điều hoà không khí)",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7520115",
+          "program_name": "Kỹ thuật nhiệt (chuyên ngành: Kỹ thuật nhiệt lạnh và điều hoà không khí)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7520116",
+          "program_name": "Kỹ thuật cơ khí động lực (chuyên ngành: Kỹ thuật phương tiện đường sắt, Máy xây dựng, Kỹ thuật máy động lực)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7520116",
+          "program_name": "Kỹ thuật cơ khí động lực (chuyên ngành: Kỹ thuật phương tiện đường sắt, Máy xây dựng, Kỹ thuật máy động lực)",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7520116",
+          "program_name": "Kỹ thuật cơ khí động lực (chuyên ngành: Kỹ thuật phương tiện đường sắt, Máy xây dựng, Kỹ thuật máy động lực)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7520130",
+          "program_name": "Kỹ thuật ô tô",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7520130",
+          "program_name": "Kỹ thuật ô tô",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7520130",
+          "program_name": "Kỹ thuật ô tô",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "Kỹ thuật điện (chuyên ngành: Trang bị điện trong công nghiệp và GTVT, Hệ thống điện trong giao thông và công nghiệp)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "Kỹ thuật điện (chuyên ngành: Trang bị điện trong công nghiệp và GTVT, Hệ thống điện trong giao thông và công nghiệp)",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "Kỹ thuật điện (chuyên ngành: Trang bị điện trong công nghiệp và GTVT, Hệ thống điện trong giao thông và công nghiệp)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật điện tử - viễn thông (chuyên ngành: Kỹ thuật viễn thông, Kỹ thuật thông tin và truyền thông)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật điện tử - viễn thông (chuyên ngành: Kỹ thuật viễn thông, Kỹ thuật thông tin và truyền thông)",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật điện tử - viễn thông (chuyên ngành: Kỹ thuật viễn thông, Kỹ thuật thông tin và truyền thông)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hoá (chuyên ngành: Tự động hoá, Kỹ thuật điều khiển và tự động hoá giao thông)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hoá (chuyên ngành: Tự động hoá, Kỹ thuật điều khiển và tự động hoá giao thông)",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hoá (chuyên ngành: Tự động hoá, Kỹ thuật điều khiển và tự động hoá giao thông)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7520320",
+          "program_name": "Kỹ thuật môi trường",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7520320",
+          "program_name": "Kỹ thuật môi trường",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7580101",
+          "program_name": "Kiến trúc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7580106",
+          "program_name": "Quản lý đô thị và công trình",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7580106",
+          "program_name": "Quản lý đô thị và công trình",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Kỹ thuật xây dựng (chuyên ngành: Xây dựng dân dụng và công nghiệp, Kết cấu xây dựng, Vật liệu và công nghệ xây dựng)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "24"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Kỹ thuật xây dựng (chuyên ngành: Xây dựng dân dụng và công nghiệp, Kết cấu xây dựng, Vật liệu và công nghệ xây dựng)",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "24"
+        },
+        {
+          "program_code": "7580202",
+          "program_name": "Kỹ thuật xây dựng công trình thủy",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "25"
+        },
+        {
+          "program_code": "7580202",
+          "program_name": "Kỹ thuật xây dựng công trình thủy",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "25"
+        },
+        {
+          "program_code": "7580205",
+          "program_name": "Kỹ thuật xây dựng công trình giao thông (chuyên ngành: Cầu đường bộ, Đường bộ và kỹ thuật giao thông, Cầu và kết cấu, Đường sắt, Xây dựng sân bay cảng hàng không, Công trình giao thông đô thị)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "26"
+        },
+        {
+          "program_code": "7580205",
+          "program_name": "Kỹ thuật xây dựng công trình giao thông (chuyên ngành: Cầu đường bộ, Đường bộ và kỹ thuật giao thông, Cầu và kết cấu, Đường sắt, Xây dựng sân bay cảng hàng không, Công trình giao thông đô thị)",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "26"
+        },
+        {
+          "program_code": "7580210",
+          "program_name": "Kỹ thuật cơ sở hạ tầng (chuyên ngành: Cơ sở hạ tầng kỹ thuật đô thị)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "27"
+        },
+        {
+          "program_code": "7580210",
+          "program_name": "Kỹ thuật cơ sở hạ tầng (chuyên ngành: Cơ sở hạ tầng kỹ thuật đô thị)",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "27"
+        },
+        {
+          "program_code": "7580215",
+          "program_name": "Kỹ thuật an toàn giao thông",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "28"
+        },
+        {
+          "program_code": "7580215",
+          "program_name": "Kỹ thuật an toàn giao thông",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "28"
+        },
+        {
+          "program_code": "7580301",
+          "program_name": "Kinh tế xây dựng (chuyên ngành: Kinh tế và quản lý cơ sở hạ tầng, Kinh tế và quản lý đầu tư xây dựng)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "29"
+        },
+        {
+          "program_code": "7580301",
+          "program_name": "Kinh tế xây dựng (chuyên ngành: Kinh tế và quản lý cơ sở hạ tầng, Kinh tế và quản lý đầu tư xây dựng)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "29"
+        },
+        {
+          "program_code": "7580302",
+          "program_name": "Quản lý xây dựng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "30"
+        },
+        {
+          "program_code": "7580302",
+          "program_name": "Quản lý xây dựng",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "30"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "31"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "31"
+        },
+        {
+          "program_code": "7840101",
+          "program_name": "Khai thác vận tải (chuyên ngành: Vận tải - Thương mại quốc tế, Quy hoạch và quản lý GTVT đô thị, Vận tải – Kinh tế đường bộ và thành phố, Vận tải đường sắt)",
+          "subject_groups": [],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "32"
+        },
+        {
+          "program_code": "7840101",
+          "program_name": "Khai thác vận tải (chuyên ngành: Vận tải - Thương mại quốc tế, Quy hoạch và quản lý GTVT đô thị, Vận tải – Kinh tế đường bộ và thành phố, Vận tải đường sắt)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "32"
+        },
+        {
+          "program_code": "7840104",
+          "program_name": "Kinh tế vận tải (chuyên ngành: Kinh tế vận tải ô tô, Kinh tế vận tải hàng không, Kinh tế vận tải đường sắt, Kinh tế vận tải thuỷ bộ)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "33"
+        },
+        {
+          "program_code": "7840104",
+          "program_name": "Kinh tế vận tải (chuyên ngành: Kinh tế vận tải ô tô, Kinh tế vận tải hàng không, Kinh tế vận tải đường sắt, Kinh tế vận tải thuỷ bộ)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "33"
+        },
+        {
+          "program_code": "7480106",
+          "program_name": "Kỹ thuật máy tính (theo hướng chuyên sâu vi mạch-bán dẫn, bao gồm lớp kỹ sư tài năng)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "34"
+        },
+        {
+          "program_code": "7480106",
+          "program_name": "Kỹ thuật máy tính (theo hướng chuyên sâu vi mạch-bán dẫn, bao gồm lớp kỹ sư tài năng)",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "34"
+        },
+        {
+          "program_code": "7480106",
+          "program_name": "Kỹ thuật máy tính (theo hướng chuyên sâu vi mạch-bán dẫn, bao gồm lớp kỹ sư tài năng)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "34"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn của trường Đại học Giao thông vận tải các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-giao-thong-van-tai-co-so-phia-bac-GHA.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01",
+              "D09",
+              "D10"
+            ],
+            "score": 25.33,
+            "note": null
+          },
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế (chuyên ngành: kinh tế và quản lý đầu tư, kinh tế bưu chính viễn thông)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 25.15,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 25.41,
+            "note": null
+          },
+          {
+            "program_code": "7340101 QT",
+            "program_name": "Quản trị kinh doanh (Chương trình CLC Quản trị kinh doanh Việt-Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 22.63,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 25.86,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán (chuyên ngành Kế toán tổng hợp)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 25.41,
+            "note": null
+          },
+          {
+            "program_code": "7340301 QT",
+            "program_name": "Kế toán (Chương trình CLC Kế toán tổng hợp Việt-Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 21.15,
+            "note": null
+          },
+          {
+            "program_code": "7460112",
+            "program_name": "Toán ứng dụng (chuyên ngành toán tin ứng dụng)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 24.15,
+            "note": null
+          },
+          {
+            "program_code": "7480101",
+            "program_name": "Khoa học máy tính",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07",
+              "X06"
+            ],
+            "score": 24.35,
+            "note": null
+          },
+          {
+            "program_code": "7480106",
+            "program_name": "Kỹ thuật máy tính (theo hướng chuyên sâu vi mạch bán dẫn, bao gồm lớp kỹ sư tài năng)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07",
+              "X06"
+            ],
+            "score": 23.95,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07",
+              "X06"
+            ],
+            "score": 23.7,
+            "note": null
+          },
+          {
+            "program_code": "7480201 QT",
+            "program_name": "Công nghệ thông tin (Chương trình CLC Công nghệ thông tin Việt-Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07",
+              "X06"
+            ],
+            "score": 23.1,
+            "note": null
+          },
+          {
+            "program_code": "7510605",
+            "program_name": "Logistics và quản lý chuỗi cung ứng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 27.52,
+            "note": null
+          },
+          {
+            "program_code": "7520103",
+            "program_name": "Kỹ thuật cơ khí (chuyên ngành: Công nghệ chế tạo cơ khí, Tự động hoá thiết kế cơ khí)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07",
+              "X06"
+            ],
+            "score": 25.95,
+            "note": null
+          },
+          {
+            "program_code": "7520103 QT",
+            "program_name": "Kỹ thuật cơ khí (Chương trình CLC Cơ khí ô tô Việt - Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 22.78,
+            "note": null
+          },
+          {
+            "program_code": "7520107",
+            "program_name": "Kỹ thuật robot (chuyên ngành Kỹ thuật robot và trí tuệ nhân tạo)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07",
+              "X06"
+            ],
+            "score": 24.2,
+            "note": null
+          },
+          {
+            "program_code": "7520114",
+            "program_name": "Kỹ thuật cơ điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07",
+              "X06"
+            ],
+            "score": 24.93,
+            "note": null
+          },
+          {
+            "program_code": "7520115",
+            "program_name": "Kỹ thuật nhiệt (chuyên ngành: Kỹ thuật nhiệt lạnh và điều hoà không khí)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 24.71,
+            "note": null
+          },
+          {
+            "program_code": "7520116",
+            "program_name": "Kỹ thuật cơ khí động lực (chuyên ngành: Kỹ thuật phương tiện đường sắt, Máy xây dựng, Kỹ thuật máy động lực)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 23.82,
+            "note": null
+          },
+          {
+            "program_code": "7520116 DS",
+            "program_name": "Kỹ thuật cơ khí động lực (chuyên ngành Kỹ thuật phương tiện đường sắt tốc độ cao)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 22.63,
+            "note": null
+          },
+          {
+            "program_code": "7520130",
+            "program_name": "Kỹ thuật ô tô (bao gồm lớp kỹ sư tài năng)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07"
+            ],
+            "score": 23.66,
+            "note": null
+          },
+          {
+            "program_code": "7520201",
+            "program_name": "Kỹ thuật điện (chuyên ngành: Trang bị điện trong công nghiệp và GTVT, Hệ thống điện trong giao thông và công nghiệp)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07",
+              "X06"
+            ],
+            "score": 23.88,
+            "note": null
+          },
+          {
+            "program_code": "7520201 DS",
+            "program_name": "Kỹ thuật điện (chuyên ngành Hệ thống điện đường sắt tốc độ cao, đường sắt đô thị)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07",
+              "X06"
+            ],
+            "score": 23.39,
+            "note": null
+          },
+          {
+            "program_code": "7520207",
+            "program_name": "Kỹ thuật điện tử - viễn thông (chuyên ngành: Kỹ thuật viễn thông, Kỹ thuật thông tin và truyền thông, Kỹ thuật điện tử và tin học công nghiệp)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07",
+              "X06"
+            ],
+            "score": 23.67,
+            "note": null
+          },
+          {
+            "program_code": "7520216",
+            "program_name": "Kỹ thuật điều khiển và tự động hoá (chuyên ngành: Tự động hoá)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07",
+              "X06"
+            ],
+            "score": 25.42,
+            "note": null
+          },
+          {
+            "program_code": "7520216 DS",
+            "program_name": "Kỹ thuật điều khiển và tự động hoá (chuyên ngành Điều khiển và thông tin tín hiệu đường sắt hiện đại)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07",
+              "X06"
+            ],
+            "score": 24.39,
+            "note": null
+          },
+          {
+            "program_code": "7520216-GTTM",
+            "program_name": "Kỹ thuật điều khiển và tự động hoá (chuyên ngành Hệ thống giao thông thông minh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07",
+              "X06"
+            ],
+            "score": 25.56,
+            "note": null
+          },
+          {
+            "program_code": "7520320",
+            "program_name": "Kỹ thuật môi trường",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 21.38,
+            "note": null
+          },
+          {
+            "program_code": "7580101",
+            "program_name": "Kiến trúc",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "V00",
+              "V01"
+            ],
+            "score": 23.52,
+            "note": null
+          },
+          {
+            "program_code": "7580106",
+            "program_name": "Quản lý đô thị và công trình",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 22.62,
+            "note": null
+          },
+          {
+            "program_code": "7580201",
+            "program_name": "Kỹ thuật xây dựng (chuyên ngành: Xây dựng dân dụng và công nghiệp, Kết cấu xây dựng, Vật liệu và công nghệ xây dựng)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 22.44,
+            "note": null
+          },
+          {
+            "program_code": "7580201 QT",
+            "program_name": "Kỹ thuật xây dựng (Chương trình tiên tiến Kỹ thuật xây dựng công trình GT)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 19.71,
+            "note": null
+          },
+          {
+            "program_code": "7580202",
+            "program_name": "Kỹ thuật xây dựng công trình thủy",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 20.48,
+            "note": null
+          },
+          {
+            "program_code": "7580205",
+            "program_name": "Kỹ thuật xây dựng công trình giao thông (chuyên ngành: Cầu đường bộ, Đường bộ và kỹ thuật giao thông, Cầu và kết cấu, ĐS/ ĐS đô thị, XD sân bay cảng hàng không, Công trình GT đô thị)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 17.94,
+            "note": null
+          },
+          {
+            "program_code": "7580205 DS",
+            "program_name": "Kỹ thuật xây dựng công trình giao thông (chuyên ngành đường sắt tốc độ cao)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 22.47,
+            "note": null
+          },
+          {
+            "program_code": "7580205 QT1",
+            "program_name": "Kỹ thuật xây dựng công trình giao thông (Chương trình CLC Cầu-Đường bộ Việt-Pháp)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D03",
+              "D07",
+              "X06"
+            ],
+            "score": 20.01,
+            "note": null
+          },
+          {
+            "program_code": "7580205 QT2",
+            "program_name": "Kỹ thuật xây dựng công trình giao thông (Chương trình CLC Cầu-Đường bộ Việt-Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 17.25,
+            "note": null
+          },
+          {
+            "program_code": "7580205 QT3",
+            "program_name": "Kỹ thuật xây dựng công trình giao thông (Chương trình CLC Công trình giao thông đô thị Việt-Nhật)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 16.19,
+            "note": null
+          },
+          {
+            "program_code": "7580210",
+            "program_name": "Kỹ thuật cơ sở hạ tầng (chuyên ngành: cơ sở hạ tầng kỹ thuật đô thị)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 22.28,
+            "note": null
+          },
+          {
+            "program_code": "7580215",
+            "program_name": "Kỹ thuật an toàn giao thông (Ngành tuyển sinh các năm trước: Công nghệ kỹ thuật giao thông - Chuyên ngành: Kỹ thuật an toàn giao thông)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 21.44,
+            "note": null
+          },
+          {
+            "program_code": "7580301",
+            "program_name": "Kinh tế xây dựng (chuyên ngành: Kinh tế và quản lý đầu tư xây dựng)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 24.08,
+            "note": null
+          },
+          {
+            "program_code": "7580301 QT",
+            "program_name": "Kinh tế xây dựng (Chương trình CLC Kinh tế xây dựng công trình GT Việt-Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 20.52,
+            "note": null
+          },
+          {
+            "program_code": "7580302",
+            "program_name": "Quản lý xây dựng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 23.24,
+            "note": null
+          },
+          {
+            "program_code": "7580302 QT",
+            "program_name": "Quản lý xây dựng (Chương trình CLC Quản lý xây dựng Việt - Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 16.36,
+            "note": null
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 24.02,
+            "note": null
+          },
+          {
+            "program_code": "7840101",
+            "program_name": "Khai thác vận tải (chuyên ngành: Vận tải - Thương mại quốc tế, Quy hoạch và quản lý GTVT đô thị, Vận tải - Kinh tế đường bộ và thành phố, Vận tải đường sắt)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 24.99,
+            "note": null
+          },
+          {
+            "program_code": "7840101 DS",
+            "program_name": "Khai thác vận tải (chuyên ngành Khai thác và quản lý đường sắt tốc độ cao, Khai thác và quản lý đường sắt đô thị)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 21.29,
+            "note": null
+          },
+          {
+            "program_code": "7840104",
+            "program_name": "Kinh tế vận tải (chuyên ngành: Kinh tế vận tải ô tô, Kinh tế vận tải hàng không, Kinh tế vận tải đường sắt, Kinh tế vận tải thuỷ bộ)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 25.07,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01",
+              "D09",
+              "D10"
+            ],
+            "score": 26.88,
+            "note": null
+          },
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế (chuyên ngành: kinh tế và quản lý đầu tư, kinh tế bưu chính viễn thông)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 26.76,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 26.94,
+            "note": null
+          },
+          {
+            "program_code": "7340101 QT",
+            "program_name": "Quản trị kinh doanh (Chương trình CLC Quản trị kinh doanh Việt-Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 25.08,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 27.23,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán (chuyên ngành Kế toán tổng hợp)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 26.93,
+            "note": null
+          },
+          {
+            "program_code": "7340301 QT",
+            "program_name": "Kế toán (Chương trình CLC Kế toán tổng hợp Việt-Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 24.09,
+            "note": null
+          },
+          {
+            "program_code": "7460112",
+            "program_name": "Toán ứng dụng (chuyên ngành toán tin ứng dụng)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 26.09,
+            "note": null
+          },
+          {
+            "program_code": "7480201 QT",
+            "program_name": "Công nghệ thông tin (Chương trình CLC Công nghệ thông tin Việt-Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07",
+              "X06"
+            ],
+            "score": 25.39,
+            "note": null
+          },
+          {
+            "program_code": "7510605",
+            "program_name": "Logistics và quản lý chuỗi cung ứng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 28.34,
+            "note": null
+          },
+          {
+            "program_code": "7520103",
+            "program_name": "Kỹ thuật cơ khí (chuyên ngành: Công nghệ chế tạo cơ khí, Tự động hoá thiết kế cơ khí)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07",
+              "X06"
+            ],
+            "score": 27.29,
+            "note": null
+          },
+          {
+            "program_code": "7520103 QT",
+            "program_name": "Kỹ thuật cơ khí (Chương trình CLC Cơ khí ô tô Việt - Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 25.18,
+            "note": null
+          },
+          {
+            "program_code": "7520115",
+            "program_name": "Kỹ thuật nhiệt (chuyên ngành: Kỹ thuật nhiệt lạnh và điều hoà không khí)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 26.46,
+            "note": null
+          },
+          {
+            "program_code": "7520116",
+            "program_name": "Kỹ thuật cơ khí động lực (chuyên ngành: Kỹ thuật phương tiện đường sắt, Máy xây dựng, Kỹ thuật máy động lực)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 25.87,
+            "note": null
+          },
+          {
+            "program_code": "7520116 DS",
+            "program_name": "Kỹ thuật cơ khí động lực (chuyên ngành Kỹ thuật phương tiện đường sắt tốc độ cao)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 25.08,
+            "note": null
+          },
+          {
+            "program_code": "7520201 DS",
+            "program_name": "Kỹ thuật điện (chuyên ngành Hệ thống điện đường sắt tốc độ cao, đường sắt đô thị)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07",
+              "X06"
+            ],
+            "score": 25.58,
+            "note": null
+          },
+          {
+            "program_code": "7520216 DS",
+            "program_name": "Kỹ thuật điều khiển và tự động hoá (chuyên ngành Điều khiển và thông tin tín hiệu đường sắt hiện đại)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07",
+              "X06"
+            ],
+            "score": 26.25,
+            "note": null
+          },
+          {
+            "program_code": "7520216-GTTM",
+            "program_name": "Kỹ thuật điều khiển và tự động hoá (chuyên ngành Hệ thống giao thông thông minh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07",
+              "X06"
+            ],
+            "score": 27.03,
+            "note": null
+          },
+          {
+            "program_code": "7520320",
+            "program_name": "Kỹ thuật môi trường",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 24.24,
+            "note": null
+          },
+          {
+            "program_code": "7580101",
+            "program_name": "Kiến trúc",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "V00",
+              "V01"
+            ],
+            "score": 25.67,
+            "note": null
+          },
+          {
+            "program_code": "7580106",
+            "program_name": "Quản lý đô thị và công trình",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 25.07,
+            "note": null
+          },
+          {
+            "program_code": "7580201",
+            "program_name": "Kỹ thuật xây dựng (chuyên ngành: Xây dựng dân dụng và công nghiệp, Kết cấu xây dựng, Vật liệu và công nghệ xây dựng)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 24.95,
+            "note": null
+          },
+          {
+            "program_code": "7580201 QT",
+            "program_name": "Kỹ thuật xây dựng (Chương trình tiên tiến Kỹ thuật xây dựng công trình GT)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 23.13,
+            "note": null
+          },
+          {
+            "program_code": "7580202",
+            "program_name": "Kỹ thuật xây dựng công trình thủy",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 23.64,
+            "note": null
+          },
+          {
+            "program_code": "7580205",
+            "program_name": "Kỹ thuật xây dựng công trình giao thông (chuyên ngành: Cầu đường bộ, Đường bộ và kỹ thuật giao thông, Cầu và kết cấu, ĐS/ ĐS đô thị, XD sân bay cảng hàng không, Công trình GT đô thị)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 21.95,
+            "note": null
+          },
+          {
+            "program_code": "7580205 DS",
+            "program_name": "Kỹ thuật xây dựng công trình giao thông (chuyên ngành đường sắt tốc độ cao)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 24.97,
+            "note": null
+          },
+          {
+            "program_code": "7580205 QT1",
+            "program_name": "Kỹ thuật xây dựng công trình giao thông (Chương trình CLC Cầu-Đường bộ Việt-Pháp)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D03",
+              "D07",
+              "X06"
+            ],
+            "score": 23.33,
+            "note": null
+          },
+          {
+            "program_code": "7580205 QT2",
+            "program_name": "Kỹ thuật xây dựng công trình giao thông (Chương trình CLC Cầu-Đường bộ Việt-Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 21.49,
+            "note": null
+          },
+          {
+            "program_code": "7580205 QT3",
+            "program_name": "Kỹ thuật xây dựng công trình giao thông (Chương trình CLC Công trình giao thông đô thị Việt-Nhật)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 20.78,
+            "note": null
+          },
+          {
+            "program_code": "7580210",
+            "program_name": "Kỹ thuật cơ sở hạ tầng (chuyên ngành: cơ sở hạ tầng kỹ thuật đô thị)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 24.84,
+            "note": null
+          },
+          {
+            "program_code": "7580215",
+            "program_name": "Kỹ thuật an toàn giao thông (Ngành tuyển sinh các năm trước: Công nghệ kỹ thuật giao thông - Chuyên ngành: Kỹ thuật an toàn giao thông)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 24.28,
+            "note": null
+          },
+          {
+            "program_code": "7580301",
+            "program_name": "Kinh tế xây dựng (chuyên ngành: Kinh tế và quản lý đầu tư xây dựng)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 26.04,
+            "note": null
+          },
+          {
+            "program_code": "7580301 QT",
+            "program_name": "Kinh tế xây dựng (Chương trình CLC Kinh tế xây dựng công trình GT Việt-Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 23.67,
+            "note": null
+          },
+          {
+            "program_code": "7580302",
+            "program_name": "Quản lý xây dựng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 25.48,
+            "note": null
+          },
+          {
+            "program_code": "7580302 QT",
+            "program_name": "Quản lý xây dựng (Chương trình CLC Quản lý xây dựng Việt - Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 20.89,
+            "note": null
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 26,
+            "note": null
+          },
+          {
+            "program_code": "7840101",
+            "program_name": "Khai thác vận tải (chuyên ngành: Vận tải - Thương mại quốc tế, Quy hoạch và quản lý GTVT đô thị, Vận tải - Kinh tế đường bộ và thành phố, Vận tải đường sắt)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 26.65,
+            "note": null
+          },
+          {
+            "program_code": "7840101 DS",
+            "program_name": "Khai thác vận tải (chuyên ngành Khai thác và quản lý đường sắt tốc độ cao, Khai thác và quản lý đường sắt đô thị)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 24.19,
+            "note": null
+          },
+          {
+            "program_code": "7840104",
+            "program_name": "Kinh tế vận tải (chuyên ngành: Kinh tế vận tải ô tô, Kinh tế vận tải hàng không, Kinh tế vận tải đường sắt, Kinh tế vận tải thuỷ bộ)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 26.7,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [],
+            "score": 89.77,
+            "note": null
+          },
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế (chuyên ngành: kinh tế và quản lý đầu tư, kinh tế bưu chính viễn thông)",
+            "subject_groups": [],
+            "score": 88.69,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 90.25,
+            "note": null
+          },
+          {
+            "program_code": "7340101 QT",
+            "program_name": "Quản trị kinh doanh (Chương trình CLC Quản trị kinh doanh Việt-Anh)",
+            "subject_groups": [],
+            "score": 77.94,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [],
+            "score": 92.93,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán (chuyên ngành Kế toán tổng hợp)",
+            "subject_groups": [],
+            "score": 90.22,
+            "note": null
+          },
+          {
+            "program_code": "7340301 QT",
+            "program_name": "Kế toán (Chương trình CLC Kế toán tổng hợp Việt-Anh)",
+            "subject_groups": [],
+            "score": 72.75,
+            "note": null
+          },
+          {
+            "program_code": "7480106",
+            "program_name": "Kỹ thuật máy tính (theo hướng chuyên sâu vi mạch bán dẫn, bao gồm lớp kỹ sư tài năng)",
+            "subject_groups": [],
+            "score": 83.07,
+            "note": null
+          },
+          {
+            "program_code": "7510605",
+            "program_name": "Logistics và quản lý chuỗi cung ứng",
+            "subject_groups": [],
+            "score": 102.95,
+            "note": null
+          },
+          {
+            "program_code": "7520107",
+            "program_name": "Kỹ thuật robot (chuyên ngành Kỹ thuật robot và trí tuệ nhân tạo)",
+            "subject_groups": [],
+            "score": 84.22,
+            "note": null
+          },
+          {
+            "program_code": "7520201",
+            "program_name": "Kỹ thuật điện (chuyên ngành: Trang bị điện trong công nghiệp và GTVT, Hệ thống điện trong giao thông và công nghiệp)",
+            "subject_groups": [],
+            "score": 82.76,
+            "note": null
+          },
+          {
+            "program_code": "7520207",
+            "program_name": "Kỹ thuật điện tử - viễn thông (chuyên ngành: Kỹ thuật viễn thông, Kỹ thuật thông tin và truyền thông, Kỹ thuật điện tử và tin học công nghiệp)",
+            "subject_groups": [],
+            "score": 81.8,
+            "note": null
+          },
+          {
+            "program_code": "7520216",
+            "program_name": "Kỹ thuật điều khiển và tự động hoá (chuyên ngành: Tự động hoá)",
+            "subject_groups": [],
+            "score": 90.3,
+            "note": null
+          },
+          {
+            "program_code": "7580301",
+            "program_name": "Kinh tế xây dựng (chuyên ngành: Kinh tế và quản lý đầu tư xây dựng)",
+            "subject_groups": [],
+            "score": 83.65,
+            "note": null
+          },
+          {
+            "program_code": "7580301 QT",
+            "program_name": "Kinh tế xây dựng (Chương trình CLC Kinh tế xây dựng công trình GT Việt-Anh)",
+            "subject_groups": [],
+            "score": 70.57,
+            "note": null
+          },
+          {
+            "program_code": "7580302",
+            "program_name": "Quản lý xây dựng",
+            "subject_groups": [],
+            "score": 80.06,
+            "note": null
+          },
+          {
+            "program_code": "7580302 QT",
+            "program_name": "Quản lý xây dựng (Chương trình CLC Quản lý xây dựng Việt - Anh)",
+            "subject_groups": [],
+            "score": 57.65,
+            "note": null
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [],
+            "score": 83.38,
+            "note": null
+          },
+          {
+            "program_code": "7840101",
+            "program_name": "Khai thác vận tải (chuyên ngành: Vận tải - Thương mại quốc tế, Quy hoạch và quản lý GTVT đô thị, Vận tải - Kinh tế đường bộ và thành phố, Vận tải đường sắt)",
+            "subject_groups": [],
+            "score": 87.82,
+            "note": null
+          },
+          {
+            "program_code": "7840101 DS",
+            "program_name": "Khai thác vận tải (chuyên ngành Khai thác và quản lý đường sắt tốc độ cao, Khai thác và quản lý đường sắt đô thị)",
+            "subject_groups": [],
+            "score": 87.82,
+            "note": null
+          },
+          {
+            "program_code": "7840104",
+            "program_name": "Kinh tế vận tải (chuyên ngành: Kinh tế vận tải ô tô, Kinh tế vận tải hàng không, Kinh tế vận tải đường sắt, Kinh tế vận tải thuỷ bộ)",
+            "subject_groups": [],
+            "score": 88.17,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-anh-gia-tu-duy",
+        "method_name": "Điểm chuẩn theo phương thức Điểm Đánh giá Tư duy năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7460112",
+            "program_name": "Toán ứng dụng (chuyên ngành toán tin ứng dụng)",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 57.14,
+            "note": null
+          },
+          {
+            "program_code": "7480101",
+            "program_name": "Khoa học máy tính",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 57.7,
+            "note": null
+          },
+          {
+            "program_code": "7480106",
+            "program_name": "Kỹ thuật máy tính (theo hướng chuyên sâu vi mạch bán dẫn, bao gồm lớp kỹ sư tài năng)",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 56.57,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 55.89,
+            "note": null
+          },
+          {
+            "program_code": "7480201 QT",
+            "program_name": "Công nghệ thông tin (Chương trình CLC Công nghệ thông tin Việt-Anh)",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 54.47,
+            "note": null
+          },
+          {
+            "program_code": "7520103",
+            "program_name": "Kỹ thuật cơ khí (chuyên ngành: Công nghệ chế tạo cơ khí, Tự động hoá thiết kế cơ khí)",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 63.29,
+            "note": null
+          },
+          {
+            "program_code": "7520103 QT",
+            "program_name": "Kỹ thuật cơ khí (Chương trình CLC Cơ khí ô tô Việt - Anh)",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 53.8,
+            "note": null
+          },
+          {
+            "program_code": "7520107",
+            "program_name": "Kỹ thuật robot (chuyên ngành Kỹ thuật robot và trí tuệ nhân tạo)",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 57.28,
+            "note": null
+          },
+          {
+            "program_code": "7520114",
+            "program_name": "Kỹ thuật cơ điện tử",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 59.3,
+            "note": null
+          },
+          {
+            "program_code": "7520115",
+            "program_name": "Kỹ thuật nhiệt (chuyên ngành: Kỹ thuật nhiệt lạnh và điều hoà không khí)",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 58.68,
+            "note": null
+          },
+          {
+            "program_code": "7520116",
+            "program_name": "Kỹ thuật cơ khí động lực (chuyên ngành: Kỹ thuật phương tiện đường sắt, Máy xây dựng, Kỹ thuật máy động lực)",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 56.22,
+            "note": null
+          },
+          {
+            "program_code": "7520116 DS",
+            "program_name": "Kỹ thuật cơ khí động lực (chuyên ngành Kỹ thuật phương tiện đường sắt tốc độ cao)",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 53.49,
+            "note": null
+          },
+          {
+            "program_code": "7520130",
+            "program_name": "Kỹ thuật ô tô (bao gồm lớp kỹ sư tài năng)",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 55.78,
+            "note": null
+          },
+          {
+            "program_code": "7520201",
+            "program_name": "Kỹ thuật điện (chuyên ngành: Trang bị điện trong công nghiệp và GTVT, Hệ thống điện trong giao thông và công nghiệp)",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 56.39,
+            "note": null
+          },
+          {
+            "program_code": "7520201 DS",
+            "program_name": "Kỹ thuật điện (chuyên ngành Hệ thống điện đường sắt tốc độ cao, đường sắt đô thị)",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 55.07,
+            "note": null
+          },
+          {
+            "program_code": "7520207",
+            "program_name": "Kỹ thuật điện tử - viễn thông (chuyên ngành: Kỹ thuật viễn thông, Kỹ thuật thông tin và truyền thông, Kỹ thuật điện tử và tin học công nghiệp)",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 55.8,
+            "note": null
+          },
+          {
+            "program_code": "7520216",
+            "program_name": "Kỹ thuật điều khiển và tự động hoá (chuyên ngành: Tự động hoá)",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 61.12,
+            "note": null
+          },
+          {
+            "program_code": "7520216 DS",
+            "program_name": "Kỹ thuật điều khiển và tự động hoá (chuyên ngành Điều khiển và thông tin tín hiệu đường sắt hiện đại)",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 57.8,
+            "note": null
+          },
+          {
+            "program_code": "7520216-GTTM",
+            "program_name": "Kỹ thuật điều khiển và tự động hoá (chuyên ngành Hệ thống giao thông thông minh)",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 61.69,
+            "note": null
+          },
+          {
+            "program_code": "7520320",
+            "program_name": "Kỹ thuật môi trường",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 50.87,
+            "note": null
+          },
+          {
+            "program_code": "7580106",
+            "program_name": "Quản lý đô thị và công trình",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 53.47,
+            "note": null
+          },
+          {
+            "program_code": "7580201",
+            "program_name": "Kỹ thuật xây dựng (chuyên ngành: Xây dựng dân dụng và công nghiệp, Kết cấu xây dựng, Vật liệu và công nghệ xây dựng)",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 53.09,
+            "note": null
+          },
+          {
+            "program_code": "7580201 QT",
+            "program_name": "Kỹ thuật xây dựng (Chương trình tiên tiến Kỹ thuật xây dựng công trình GT)",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 47.39,
+            "note": null
+          },
+          {
+            "program_code": "7580202",
+            "program_name": "Kỹ thuật xây dựng công trình thủy",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 48.99,
+            "note": null
+          },
+          {
+            "program_code": "7580205",
+            "program_name": "Kỹ thuật xây dựng công trình giao thông (chuyên ngành: Cầu đường bộ, Đường bộ và kỹ thuật giao thông, Cầu và kết cấu, ĐS/ ĐS đô thị, XD sân bay cảng hàng không, Công trình GT đô thị)",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 43.66,
+            "note": null
+          },
+          {
+            "program_code": "7580205 DS",
+            "program_name": "Kỹ thuật xây dựng công trình giao thông (chuyên ngành đường sắt tốc độ cao)",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 53.16,
+            "note": null
+          },
+          {
+            "program_code": "7580205 QT1",
+            "program_name": "Kỹ thuật xây dựng công trình giao thông (Chương trình CLC Cầu-Đường bộ Việt-Pháp)",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 48.02,
+            "note": null
+          },
+          {
+            "program_code": "7580205 QT2",
+            "program_name": "Kỹ thuật xây dựng công trình giao thông (Chương trình CLC Cầu-Đường bộ Việt-Anh)",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 42.2,
+            "note": null
+          },
+          {
+            "program_code": "7580205 QT3",
+            "program_name": "Kỹ thuật xây dựng công trình giao thông (Chương trình CLC Công trình giao thông đô thị Việt-Nhật)",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 39.96,
+            "note": null
+          },
+          {
+            "program_code": "7580210",
+            "program_name": "Kỹ thuật cơ sở hạ tầng (chuyên ngành: cơ sở hạ tầng kỹ thuật đô thị)",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 52.75,
+            "note": null
+          },
+          {
+            "program_code": "7580215",
+            "program_name": "Kỹ thuật an toàn giao thông (Ngành tuyển sinh các năm trước: Công nghệ kỹ thuật giao thông - Chuyên ngành: Kỹ thuật an toàn giao thông)",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 51,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

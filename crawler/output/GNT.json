@@ -1,0 +1,584 @@
+{
+  "university": {
+    "code": "GNT",
+    "name": "Trường Đại Học Sư Phạm Nghệ Thuật Trung Ương",
+    "short_name": "NUAE",
+    "location": [
+      "Hà Nội"
+    ],
+    "address": "Số 18 ngõ 55, Trần Phú, Hà Đông, Hà Nội",
+    "website": "http://www.spnttw.edu.vn",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-su-pham-nghe-thuat-trung-uong-GNT.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0314/2026-thong-bao-so-513-tuyen-sinh-dai-hoc-cq_1.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC SƯ PHẠM NGHỆ THUẬT TRUNG ƯƠNG 2026 Thông tin tuyển sinh Đại Học Sư Phạm Nghệ Thuật Trung Ương (NUAE) năm 2026 Năm 2026, Đại học Sư phạm Nghệ thuật Trung ương thông báo tuyển sinh với 4 phương thức xét tuyển Phương thức 1: Xét tuyển thẳng theo Quy chế của Bộ Giáo dục & đào tạo Phương thức 2: Xét kết quả thi THPT 2026 Phương thức 3: Xét học bạ Phương thức 4: Xét tuyển kết hợp thi tuyển",
+  "admission_methods": [
+    {
+      "method_id": "1-utxt-xt-thang",
+      "method_name": "1 ƯTXT, XT THẲNG",
+      "description": "1.1 ĐỐI TƯỢNG Thực hiện theo quy định tại Điều 8 của Quy chế tuyển sinh các ngành đào tạo trình độ đại học và ngành giáo dục mầm non trình độ cao đẳng (Ban hành kèm theo Thông tư số 06/2026/TT-BGDĐT ngày 15/02/2026 của Bộ trưởng Bộ GDĐT). Thí sinh đủ điều kiện xét tuyển thẳng nhưng không dùng quyền xét tuyển thẳng, được cộng điểm ưu tiên (điểm thưởng) để xét tuyển vào các chương trình đào tạo phù hợp với môn thi theo nguyện vọng, cụ thể trong các trường hợp sau: Thí sinh đạt giải chính thức tron",
+      "eligibility": "ĐỐI TƯỢNG Thực hiện theo quy định tại Điều 8 của",
+      "rules": "Quy chế tuyển sinh các ngành đào tạo trình độ đại học và ngành giáo dục mầm non trình độ cao đẳng (Ban hành kèm theo Thông tư số 06/2026/TT-BGDĐT ngày 15/02/2026 của Bộ trưởng Bộ GDĐT). Thí sinh đủ điều kiện xét tuyển thẳng nhưng không dùng quyền xét tuyển thẳng, được cộng điểm ưu tiên (điểm thưởng) để xét tuyển vào các chương trình đào tạo phù hợp với môn thi theo nguyện vọng, cụ thể trong các trường hợp sau: Thí sinh đạt giải chính thức trong các cuộc thi nghệ thuật quốc tế về ca, múa, nhạc, mỹ thuật được Bộ Văn hóa, Thể thao và Du lịch công nhận. Thời gian đạt giải không quá 04 năm tính tới thời điểm xét tuyển (phụ lục I). Giải Điểm quy đổi Ghi chú Nhất 3.0 Nhì 1.5 Ba 1.0 Thí sinh đạt giải chính thức trong các cuộc thi nghệ thuật chuyên nghiệp chính thức toàn quốc về ca, múa, nhạc, mỹ thuật dự tuyển vào các chương trình đào tạo nghệ thuật phù hợp; thời gian đạt giải không quá 04 năm tính tới thời điểm xét tuyển (phụ lục I). Giải Điểm quy đổi Ghi chú Giải Nhất hoặc Huy chương Vàng 1.5 Giải Nhì hoặc Huy chương Bạc 1.0 Giải Ba hoặc Huy chương Đồng 0.5",
+      "programs": []
+    },
+    {
+      "method_id": "2-iem-thi-thpt",
+      "method_name": "2 ĐIỂM THI THPT",
+      "description": "2.1 ĐIỀU KIỆN XÉT TUYỂN Điểm môn thi trong tổ hợp xét tuyển đối với tổ hợp xét tuyển theo 03 môn của ngành đăng ký đạt từ 5,0 trở lên. 2.2 QUY CHẾ Là tổng điểm của 03 môn trong tổ hợp xét tuyển lấy từ cao xuống thấp. Riêng điểm môn ngoại ngữ trong tổ hợp xét tuyển D01: thí sinh có chứng chỉ ngoại ngữ IELTS được dùng để quy đổi cho điểm xét tuyển (bảng quy đổi điểm tại Phụ lục II). Chứng chỉ IELTS Điểm quy đổi Ghi chú 7.5 - 9.0 10 7.0 10 6.5 9.5 6.0 9.0 5.5 8.5 5.0 8.0 2.3 THỜI GIAN XÉT TUYỂN Thờ",
+      "eligibility": null,
+      "rules": "QUY CHẾ Là tổng điểm của 03 môn trong tổ hợp xét tuyển lấy từ cao xuống thấp. Riêng điểm môn ngoại ngữ trong tổ hợp xét tuyển D01: thí sinh có chứng chỉ ngoại ngữ IELTS được dùng để quy đổi cho điểm xét tuyển (bảng quy đổi điểm tại Phụ lục II). Chứng chỉ IELTS Điểm quy đổi Ghi chú 7.5 - 9.0 10 7.0 10 6.5 9.5 6.0 9.0 5.5 8.5 5.0 8.0 2.3 THỜI GIAN XÉT TUYỂN Thời gian đăng ký xét tuyển: từ ngày 02/7/2026 đến 17h ngày 14/7/2026. Thí sinh dùng tài khoản đã được cấp để đăng nhập vào hệ thống Cổng thông tin tuyển sinh chung (theo địa chỉ https://thisinh.thitotnghiepthpt.edu.vn). Nếu là thí sinh tự do chưa có tài khoản năm 2026, thí sinh liên hệ với Sở Giáo dục và Đào tạo xin cấp tài khoản trước thời gian đăng ký (từ ngày 01/5 - 20/5/2026). Khi đăng ký, thí sinh lựa chọn phương thức xét tuyển phù hợp: xét tuyển theo kết quả kỳ thi tốt nghiệp THPT hoặc Xét tuyển theo học bạ. Nhập nguyện vọng: thí sinh chọn trường, mã ngành, tổ hợp xét tuyển, và sắp xếp theo thứ tự ưu tiên (nguyện vọng 01 là ưu tiên cao nhất). Thí sinh được đăng ký nguyện vọng vào nhiều ngành khác nhau, nhưng phải sắp xếp các nguyện vọng theo thứ tự ưu tiên từ cao xuống thấp.",
+      "programs": []
+    },
+    {
+      "method_id": "3-iem-hoc-ba",
+      "method_name": "3 ĐIỂM HỌC BẠ",
+      "description": "3.1 ĐIỀU KIỆN XÉT TUYỂN Điểm môn trong tổ hợp xét tuyển là điểm trung bình cộng của 03 năm bậc THPT theo tổ hợp 03 môn tương ứng với ngành đăng ký đạt từ 5,0 trở lên. 3.2 QUY CHẾ Là tổng điểm của 03 môn trong tổ hợp xét tuyển lấy từ cao xuống thấp. Riêng điểm môn ngoại ngữ trong tổ hợp xét tuyển D01: thí sinh có chứng chỉ ngoại ngữ IELTS được dùng để quy đổi cho điểm xét tuyển (bảng quy đổi điểm tại Phụ lục II). Chứng chỉ IELTS Điểm quy đổi Ghi chú 7.5 - 9.0 10 7.0 10 6.5 9.5 6.0 9.0 5.5 8.5 5.0",
+      "eligibility": null,
+      "rules": "QUY CHẾ Là tổng điểm của 03 môn trong tổ hợp xét tuyển lấy từ cao xuống thấp. Riêng điểm môn ngoại ngữ trong tổ hợp xét tuyển D01: thí sinh có chứng chỉ ngoại ngữ IELTS được dùng để quy đổi cho điểm xét tuyển (bảng quy đổi điểm tại Phụ lục II). Chứng chỉ IELTS Điểm quy đổi Ghi chú 7.5 - 9.0 10 7.0 10 6.5 9.5 6.0 9.0 5.5 8.5 5.0 8.0 3.3 THỜI GIAN XÉT TUYỂN Thời gian đăng ký xét tuyển: từ ngày 02/7/2026 đến 17h ngày 14/7/2026. Thí sinh dùng tài khoản đã được cấp để đăng nhập vào hệ thống Cổng thông tin tuyển sinh chung (theo địa chỉ https://thisinh.thitotnghiepthpt.edu.vn). Nếu là thí sinh tự do chưa có tài khoản năm 2026, thí sinh liên hệ với Sở Giáo dục và Đào tạo xin cấp tài khoản trước thời gian đăng ký (từ ngày 01/5 - 20/5/2026). Khi đăng ký, thí sinh lựa chọn phương thức xét tuyển phù hợp: xét tuyển theo kết quả kỳ thi tốt nghiệp THPT hoặc Xét tuyển theo học bạ. Nhập nguyện vọng: thí sinh chọn trường, mã ngành, tổ hợp xét tuyển, và sắp xếp theo thứ tự ưu tiên (nguyện vọng 01 là ưu tiên cao nhất). Thí sinh được đăng ký nguyện vọng vào nhiều ngành khác nhau, nhưng phải sắp xếp các nguyện vọng theo thứ tự ưu tiên từ cao xuống thấp.",
+      "programs": []
+    },
+    {
+      "method_id": "4-xet-tuyen-ket-hop-thi-tuyen",
+      "method_name": "4 XÉT TUYỂN KẾT HỢP THI TUYỂN",
+      "description": "4.1 QUY CHẾ Xét tuyển môn Ngữ văn đối với các tổ hợp N00, N01, N02, N03, H00, S00. Riêng tổ hợp R00 xét tuyển môn Ngữ văn và Lịch sử. Thí sinh được lựa chọn một trong hai hình thức: xét tuyển học bạ THPT hoặc điểm thi THPTQG. Ngưỡng đầu vào các chương trình đào tạo: Điểm trung bình cộng môn văn hóa trong tổ hợp xét tuyển của 03 năm học bậc THPT hoặc điểm môn thi tốt nghiệp THPTQG trong tổ hợp xét tuyển tối thiểu đạt 5.0 trở lên. Riêng ngành Sư phạm Âm nhạc và Sư phạm Mỹ thuật: (1) Thí sinh sử dụ",
+      "eligibility": "đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT đạt 16,50 điểm trở lên hoặc điểm xét tốt nghiệp THPT (trung học nghề) từ 6,5 trở lên; (3) Thí sinh có điểm thi năng khiếu do Nhà trường tổ chức đạt loại xuất sắc (từ 9,0 trở lên theo thang điểm 10) thì điểm trung bình cộng môn Ngữ văn của 03 năm học bậc THPT tối thiểu đạt 5,0 trở lên. Sư phạm Âm nhạc Môn 2: Kiến thức âm nhạc cơ bản * Lý thuyết âm nhạc cơ bản: - Các khái niệm và thuộc tính của âm thanh. - Các ký hiệu âm nhạc; quãng, đảo quãng; điệu thức trưởng, điệu thức thứ. * Xướng âm/thẩm âm: - Xướng âm: từ 0 đến 01 dấu hóa ở các loại nhịp 2/4, 3/4, 4/4. - Thẩm âm: nghe và nhắc lại giai điệu bằng âm La theo yêu cầu của đề thi. (Thí sinh có thể chọn phần thi xướng âm hoặc phần thi thẩm âm). Vấn đáp Thí sinh thi theo thứ tự",
+      "rules": "QUY CHẾ Xét tuyển môn Ngữ văn đối với các tổ hợp N00, N01, N02, N03, H00, S00. Riêng tổ hợp R00 xét tuyển môn Ngữ văn và Lịch sử. Thí sinh được lựa chọn một trong hai hình thức: xét tuyển học bạ THPT hoặc điểm thi THPTQG. Ngưỡng đầu vào các chương trình đào tạo: Điểm trung bình cộng môn văn hóa trong tổ hợp xét tuyển của 03 năm học bậc THPT hoặc điểm môn thi tốt nghiệp THPTQG trong tổ hợp xét tuyển tối thiểu đạt 5.0 trở lên. Riêng ngành Sư phạm Âm nhạc và Sư phạm Mỹ thuật: (1) Thí sinh sử dụng điểm thi tốt nghiệp THPTQG thực hiện theo ngưỡng đảm bảo chất lượng đầu vào do Bộ GDĐT xác định năm 2026. (2) Thí sinh sử dụng kết quả học bạ THPT: học lực xếp loại từ khá trở lên (cả năm lớp 12 hoặc kết quả học tập 02 học kỳ năm cuối cấp đối với",
+      "programs": []
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7140221",
+          "program_name": "Sư phạm Âm nhạc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140221",
+          "program_name": "Sư phạm Âm nhạc",
+          "subject_groups": [
+            "N00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140222",
+          "program_name": "Sư phạm Mỹ thuật",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7140222",
+          "program_name": "Sư phạm Mỹ thuật",
+          "subject_groups": [
+            "H00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7210103",
+          "program_name": "Hội họa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7210103",
+          "program_name": "Hội họa",
+          "subject_groups": [
+            "H00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7210205",
+          "program_name": "Thanh nhạc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7210205",
+          "program_name": "Thanh nhạc",
+          "subject_groups": [
+            "N01"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7210207",
+          "program_name": "Biểu diễn nhạc cụ phương Tây",
+          "subject_groups": [
+            "N03"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7210208",
+          "program_name": "Ưu Tiên",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7210208",
+          "program_name": "Kết Hợp",
+          "subject_groups": [
+            "N02"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7210234",
+          "program_name": "Diễn viên Kịch - Điện ảnh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7210234",
+          "program_name": "Diễn viên Kịch - Điện ảnh",
+          "subject_groups": [
+            "S00"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7210403",
+          "program_name": "Thiết kế đồ họa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7210403",
+          "program_name": "Thiết kế đồ họa",
+          "subject_groups": [
+            "H00"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7210404",
+          "program_name": "Thiết kế thời trang",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7210404",
+          "program_name": "Thiết kế thời trang",
+          "subject_groups": [
+            "H00"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7210408",
+          "program_name": "Nghệ thuật số",
+          "subject_groups": [
+            "H00"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7229042",
+          "program_name": "Quản lý văn hóa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7229042",
+          "program_name": "Quản lý văn hóa",
+          "subject_groups": [
+            "C00"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7229042",
+          "program_name": "Quản lý văn hóa",
+          "subject_groups": [
+            "R00",
+            "H00",
+            "N00"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7540204",
+          "program_name": "Công nghệ may",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7540204",
+          "program_name": "Công nghệ may",
+          "subject_groups": [
+            "A00",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7540204",
+          "program_name": "Công nghệ may",
+          "subject_groups": [
+            "H00"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7760101",
+          "program_name": "Công tác xã hội",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7760101",
+          "program_name": "Công tác xã hội",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7810101",
+          "program_name": "Du lịch",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7810101",
+          "program_name": "Du lịch",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Trường Đại Học Sư Phạm Nghệ Thuật Trung Ương các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-su-pham-nghe-thuat-trung-uong-GNT.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7229042",
+            "program_name": "Quản lý văn hóa",
+            "subject_groups": [
+              "R00"
+            ],
+            "score": 26,
+            "note": null
+          },
+          {
+            "program_code": "7229042",
+            "program_name": "Quản lý văn hóa",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7540204",
+            "program_name": "Công nghệ may",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7540204",
+            "program_name": "Công nghệ may",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "D00"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7810101",
+            "program_name": "Du lịch",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "D00"
+            ],
+            "score": 19,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7229042",
+            "program_name": "Quản lý văn hóa",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7229042",
+            "program_name": "Quản lý văn hóa",
+            "subject_groups": [
+              "R00"
+            ],
+            "score": 26,
+            "note": null
+          },
+          {
+            "program_code": "7540204",
+            "program_name": "Công nghệ may",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7540204",
+            "program_name": "Công nghệ may",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "D00"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7810101",
+            "program_name": "Du lịch",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "D00"
+            ],
+            "score": 19,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-xet-tuyen-ket-hop",
+        "method_name": "Điểm chuẩn theo phương thức Điểm xét tuyển kết hợp năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140221",
+            "program_name": "Sư phạm Âm nhạc",
+            "subject_groups": [
+              "N00"
+            ],
+            "score": 28,
+            "note": "Điểm năng khiếu nhân hệ số 1.5, kết hợp học bạ hoặc điểm xét TN với năng khiếu"
+          },
+          {
+            "program_code": "7140222",
+            "program_name": "Sư phạm Mỹ thuật",
+            "subject_groups": [
+              "H00"
+            ],
+            "score": 29,
+            "note": "Điểm năng khiếu nhân hệ số 1.5, kết hợp học bạ hoặc điểm xét TN với năng khiếu"
+          },
+          {
+            "program_code": "7210103",
+            "program_name": "Hội họa",
+            "subject_groups": [
+              "H00"
+            ],
+            "score": 30.25,
+            "note": "Điểm năng khiếu nhân hệ số 1.5, kết hợp học bạ hoặc điểm xét TN với năng khiếu"
+          },
+          {
+            "program_code": "7210205",
+            "program_name": "Thanh nhạc",
+            "subject_groups": [
+              "N00"
+            ],
+            "score": 28.5,
+            "note": "Điểm năng khiếu nhân hệ số 1.5, kết hợp học bạ hoặc điểm xét TN với năng khiếu"
+          },
+          {
+            "program_code": "7210208",
+            "program_name": "Piano",
+            "subject_groups": [
+              "N00"
+            ],
+            "score": 29,
+            "note": "Điểm năng khiếu nhân hệ số 1.5, kết hợp học bạ hoặc điểm xét TN với năng khiếu"
+          },
+          {
+            "program_code": "7210234",
+            "program_name": "Diễn viên kịch-điện ảnh",
+            "subject_groups": [
+              "S00"
+            ],
+            "score": 22,
+            "note": "Điểm năng khiếu nhân hệ số 1.5, kết hợp học bạ hoặc điểm xét TN với năng khiếu"
+          },
+          {
+            "program_code": "7210403",
+            "program_name": "Thiết kế đồ họa",
+            "subject_groups": [
+              "H00"
+            ],
+            "score": 30,
+            "note": "Điểm năng khiếu nhân hệ số 1.5, kết hợp học bạ hoặc điểm xét TN với năng khiếu"
+          },
+          {
+            "program_code": "7210404",
+            "program_name": "Thiết kế Thời trang",
+            "subject_groups": [
+              "H00"
+            ],
+            "score": 26,
+            "note": "Điểm năng khiếu nhân hệ số 1.5, kết hợp học bạ hoặc điểm xét TN với năng khiếu"
+          },
+          {
+            "program_code": "7229042",
+            "program_name": "Quản lý văn hóa",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 18,
+            "note": "Điểm năng khiếu nhân hệ số 1.5, kết hợp học bạ hoặc điểm xét TN với năng khiếu"
+          },
+          {
+            "program_code": "7229042",
+            "program_name": "Quản lý văn hóa",
+            "subject_groups": [
+              "H00"
+            ],
+            "score": 23,
+            "note": "Điểm năng khiếu nhân hệ số 1.5, kết hợp học bạ hoặc điểm xét TN với năng khiếu"
+          },
+          {
+            "program_code": "7229042",
+            "program_name": "Quản lý văn hóa",
+            "subject_groups": [
+              "N00"
+            ],
+            "score": 23,
+            "note": "Điểm năng khiếu nhân hệ số 1.5, kết hợp học bạ hoặc điểm xét TN với năng khiếu"
+          },
+          {
+            "program_code": "7229042",
+            "program_name": "Quản lý văn hóa",
+            "subject_groups": [
+              "R00"
+            ],
+            "score": 26,
+            "note": "Điểm năng khiếu nhân hệ số 1.5, kết hợp học bạ hoặc điểm xét TN với năng khiếu"
+          },
+          {
+            "program_code": "7540204",
+            "program_name": "Công nghệ may",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 18,
+            "note": "Điểm năng khiếu nhân hệ số 1.5, kết hợp học bạ hoặc điểm xét TN với năng khiếu"
+          },
+          {
+            "program_code": "7540204",
+            "program_name": "Công nghệ may",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 18,
+            "note": "Điểm năng khiếu nhân hệ số 1.5, kết hợp học bạ hoặc điểm xét TN với năng khiếu"
+          },
+          {
+            "program_code": "7540204",
+            "program_name": "Công nghệ may",
+            "subject_groups": [
+              "H00"
+            ],
+            "score": 23,
+            "note": "Điểm năng khiếu nhân hệ số 1.5, kết hợp học bạ hoặc điểm xét TN với năng khiếu"
+          }
+        ]
+      }
+    ]
+  }
+}

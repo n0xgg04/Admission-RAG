@@ -1,0 +1,293 @@
+{
+  "university": {
+    "code": "SNH",
+    "name": "Trường Sĩ quan Công binh",
+    "short_name": "NQU",
+    "location": [
+      "Bình Dương"
+    ],
+    "address": "229B, Đường Bạch Đằng, Phú Cường, TP.Thủ Dầu Một, Bình Dương",
+    "website": "http://wwwtsqcb.edu.vn",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": 295,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/truong-si-quan-cong-binh-he-quan-su-dai-hoc-ngo-quyen-SNH.html",
+  "pdf_url": "https://images.tuyensinh247.com/user_data/2025/0312/thong-tin-tuyen-sinh-2025-si-quan-cong-binh.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG SĨ QUAN CÔNG BINH - HỆ QUÂN SỰ - ĐẠI HỌC NGÔ QUYỀN 2026 Thông tin tuyển sinh Trường Sĩ quan Công Binh (SNH) năm 2026 Năm 2026, Trường Sĩ quan Công Binh (SNH) thông báo tuyển sinh 295 chỉ tiêu với 3 tổ hợp xét tuyển: 1. Toán, Vật lý, Hóa học 2. Toán, Vật lý, tiếng Anh 3. Toán, Vật lý, Ngữ văn",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt---2025",
+      "method_name": "1 ĐIỂM THI THPT - 2025",
+      "description": "1.1 QUY CHẾ Cộng điểm khuyến khích - Đối tượng gồm: + Các thí sinh đủ điều kiện tuyển thẳng, ưu tiên xét tuyển quy định tại ý thứ nhất, ý thứ hai khoản 1 và khoản 2 nêu trên, không dùng quyền xét tuyển thẳng hoặc quyền ưu tiên xét tuyển mà đăng ký xét tuyển từ kết quả thi. + Thí sinh tốt nghiệp THPT trong năm 2025, đạt học lực Giỏi, hạnh kiểm Tốt năm lớp 10, lớp 11 và lớp 12 và có một trong các điều kiện sau: * Tham gia kỳ thi học sinh giỏi bậc THPT cấp tỉnh, thành phố trực thuộc Trung ương đạt ",
+      "eligibility": "Đối tượng gồm: + Các thí sinh đủ",
+      "rules": "QUY CHẾ Cộng điểm khuyến khích -",
+      "programs": [
+        {
+          "program_code": "7860228",
+          "program_name": "Chỉ huy kỹ thuật Công binh (Thí sinh miền Bắc)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7860228",
+          "program_name": "Chỉ huy kỹ thuật Công binh (Thí sinh miền Nam)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-gnl-hn---2025",
+      "method_name": "2 ĐIỂM ĐGNL HN - 2025",
+      "description": "2.1 QUY CHẾ Cộng điểm khuyến khích - Đối tượng gồm: + Các thí sinh đủ điều kiện tuyển thẳng, ưu tiên xét tuyển quy định tại ý thứ nhất, ý thứ hai khoản 1 và khoản 2 nêu trên, không dùng quyền xét tuyển thẳng hoặc quyền ưu tiên xét tuyển mà đăng ký xét tuyển từ kết quả thi. + Thí sinh tốt nghiệp THPT trong năm 2025, đạt học lực Giỏi, hạnh kiểm Tốt năm lớp 10, lớp 11 và lớp 12 và có một trong các điều kiện sau: * Tham gia kỳ thi học sinh giỏi bậc THPT cấp tỉnh, thành phố trực thuộc Trung ương đạt ",
+      "eligibility": "Đối tượng gồm: + Các thí sinh đủ",
+      "rules": "QUY CHẾ Cộng điểm khuyến khích -",
+      "programs": [
+        {
+          "program_code": "7860228",
+          "program_name": "Chỉ huy kỹ thuật Công binh (Thí sinh miền Bắc)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7860228",
+          "program_name": "Chỉ huy kỹ thuật Công binh (Thí sinh miền Nam)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    },
+    {
+      "method_id": "3-iem-gnl-hcm---2025",
+      "method_name": "3 ĐIỂM ĐGNL HCM - 2025",
+      "description": "3.1 QUY CHẾ Cộng điểm khuyến khích - Đối tượng gồm: + Các thí sinh đủ điều kiện tuyển thẳng, ưu tiên xét tuyển quy định tại ý thứ nhất, ý thứ hai khoản 1 và khoản 2 nêu trên, không dùng quyền xét tuyển thẳng hoặc quyền ưu tiên xét tuyển mà đăng ký xét tuyển từ kết quả thi. + Thí sinh tốt nghiệp THPT trong năm 2025, đạt học lực Giỏi, hạnh kiểm Tốt năm lớp 10, lớp 11 và lớp 12 và có một trong các điều kiện sau: * Tham gia kỳ thi học sinh giỏi bậc THPT cấp tỉnh, thành phố trực thuộc Trung ương đạt ",
+      "eligibility": "Đối tượng gồm: + Các thí sinh đủ",
+      "rules": "QUY CHẾ Cộng điểm khuyến khích -",
+      "programs": [
+        {
+          "program_code": "7860228",
+          "program_name": "Chỉ huy kỹ thuật Công binh (Thí sinh miền Bắc)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7860228",
+          "program_name": "Chỉ huy kỹ thuật Công binh (Thí sinh miền Nam)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    },
+    {
+      "method_id": "4-utxt-xt-thang---2025",
+      "method_name": "4 ƯTXT, XT THẲNG - 2025",
+      "description": "4.1 QUY CHẾ Phương thức 1: Xét tuyển thẳng, ưu tiên xét tuyển đối với các thí sinh đạt giải quốc gia, quốc tế theo quy định của Bộ Giáo dục và Đào tạo (GD&ĐT) và Bộ Quốc phòng. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ƯTXT, XT THẲNG NĂM 2025 STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7860228 Chỉ huy kỹ thuật Công binh (Thí sinh miền Bắc) 2 7860228 Chỉ huy kỹ thuật Công binh (Thí sinh miền Nam)",
+      "eligibility": null,
+      "rules": "QUY CHẾ Phương thức 1: Xét tuyển thẳng, ưu tiên xét tuyển đối với các thí sinh đạt giải quốc gia, quốc tế theo quy định của Bộ Giáo dục và Đào tạo (GD&ĐT) và Bộ Quốc phòng.",
+      "programs": [
+        {
+          "program_code": "7860228",
+          "program_name": "Chỉ huy kỹ thuật Công binh (Thí sinh miền Bắc)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7860228",
+          "program_name": "Chỉ huy kỹ thuật Công binh (Thí sinh miền Nam)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7860228",
+          "program_name": "Chỉ huy kỹ thuật Công binh (Thí sinh miền Bắc)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7860228",
+          "program_name": "Chỉ huy kỹ thuật Công binh (Thí sinh miền Bắc)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7860228",
+          "program_name": "Chỉ huy kỹ thuật Công binh (Thí sinh miền Bắc)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7860228",
+          "program_name": "Chỉ huy kỹ thuật Công binh (Thí sinh miền Nam)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7860228",
+          "program_name": "Chỉ huy kỹ thuật Công binh (Thí sinh miền Nam)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7860228",
+          "program_name": "Chỉ huy kỹ thuật Công binh (Thí sinh miền Nam)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn của trường Sĩ quan Công binh các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/truong-si-quan-cong-binh-he-quan-su-dai-hoc-ngo-quyen-SNH.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2024",
+        "year": 2024,
+        "entries": [
+          {
+            "program_code": "7860228",
+            "program_name": "Chỉ huy kỹ thuật Công binh",
+            "subject_groups": [
+              "A00",
+              "A01"
+            ],
+            "score": 22.45,
+            "note": "TS miền Bắc; Tiêu chí phụ 1: Toán >= 7.20; Tiêu chí phụ 2: Lý >= 7.00"
+          },
+          {
+            "program_code": "7860228",
+            "program_name": "Chỉ huy kỹ thuật Công binh",
+            "subject_groups": [
+              "A00",
+              "A01"
+            ],
+            "score": 22.05,
+            "note": "TS miền Nam"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2024",
+        "year": 2024,
+        "entries": [
+          {
+            "program_code": "7860228",
+            "program_name": "Chỉ huy kỹ thuật Công binh",
+            "subject_groups": [
+              "A00",
+              "A01"
+            ],
+            "score": 25.209,
+            "note": "TS Miền Bắc"
+          },
+          {
+            "program_code": "7860228",
+            "program_name": "Chỉ huy kỹ thuật Công binh",
+            "subject_groups": [
+              "A00",
+              "A01"
+            ],
+            "score": 24.463,
+            "note": "TS Miền Nam"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2024",
+        "year": 2024,
+        "entries": [
+          {
+            "program_code": "7860228",
+            "program_name": "Chỉ huy kỹ thuật Công binh",
+            "subject_groups": [],
+            "score": 15.6,
+            "note": "TS Miền Bắc"
+          },
+          {
+            "program_code": "7860228",
+            "program_name": "Chỉ huy kỹ thuật Công binh",
+            "subject_groups": [],
+            "score": 16.425,
+            "note": "TS Miền Nam"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2024",
+        "year": 2024,
+        "entries": [
+          {
+            "program_code": "7860228",
+            "program_name": "Chỉ huy kỹ thuật Công binh",
+            "subject_groups": [],
+            "score": 15.6,
+            "note": "TS Miền Bắc"
+          },
+          {
+            "program_code": "7860228",
+            "program_name": "Chỉ huy kỹ thuật Công binh",
+            "subject_groups": [],
+            "score": 16.425,
+            "note": "TS Miền Nam"
+          }
+        ]
+      }
+    ]
+  }
+}

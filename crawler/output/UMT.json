@@ -1,0 +1,1315 @@
+{
+  "university": {
+    "code": "UMT",
+    "name": "Trường Đại học Quản lý và công nghệ TPHCM",
+    "short_name": "UMT",
+    "location": [
+      "Hồ Chí Minh"
+    ],
+    "address": "Đường 60CL, Khu đô thị Cát Lái, Phường Cát Lái, TP. Thủ Đức, TP.HCM",
+    "website": "https://www.umt.edu.vn/vi-vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-quan-ly-va-cong-nghe-tphcm-UMT.html",
+  "pdf_url": null,
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC QUẢN LÝ VÀ CÔNG NGHỆ TPHCM 2026 Thông tin tuyển sinh Đại học Quản lý và công nghệ TPHCM (UMT) năm 2026 Năm 2026, Trường Đại học Quản lý và Công nghệ TP.HCM (mã trường: UMT) mở rộng quy mô tuyển sinh 10 ngành đào tạo bậc đại học với dự kiến 24 chuyên ngành được thiết kế bám sát xu hướng phát triển của thời đại số. Trường sử dụng 5 phương thức tuyển sinh như sau: Phương thức 1. Xét kết quả học tập THPT (học bạ) Phương thức 2. Xét kết quả thi Tốt nghiệp THPT năm 2026 Phương thức 3. Xét kết quả thi Đánh giá năng lực (ĐHQG TP.HCM) năm 2026 Phương thức 4. Xét tuyển thẳng theo quy định của UMT Phương thức 5. Xét tuyển thẳng theo quy định của Bộ GD&ĐT Năm 2026, UMT tiếp tục cam kết mang đến cho sinh viên môi trường học tập hiện đại, chương trình đào tạo tiên tiến và hành trình trải nghiệm đại học đầy cảm hứng – nơi sinh viên tự tin kiến tạo tương lai và đóng góp vào sự phát triển của đất nước. NGÀNH CHUYÊN NGÀNH MÃ NGÀNH Công nghệ thông tin Kỹ thuật phần mềm Khoa học dữ liệu Hệ thống thông tin và phần mềm ứng dụng 7480201 Khoa học máy tính Trí tuệ nhân tạo (*) Phân tích dữ liệu lớn (*) 7480101 An toàn thông tin An ninh mạng (*) An toàn thông tin trong tài chính số (*) 7480202 Truyền thông đa phương tiện Quan hệ công chúng Quản trị sản xuất sản phẩm truyền thông Quản trị và tổ chức sự kiện truyền thông (*) 7320104 Thiết kế đồ họa Thiết kế truyền thông thị giác Nghệ thuật tạo hình 7210403 Quản lý thể dục thể thao Quản lý thể thao và fitness Quản lý và kinh doanh thể thao 7810301 Marketing Marketing số Quản trị chiến lược thương hiệu 7340115 Quản trị kinh doanh Quản trị điều hành Kinh doanh số 7340101 Kinh doanh quốc tế Thương mại quốc tế 7340120 Logistics và Quản lý chuỗi cung ứng Quản trị cảng và kho hàng Quản trị xuất nhập khẩu Logistics và vận tải đa phương thức (*) Quản trị Logistics hàng không toàn cầu (*) Quản trị vận hành cảng hàng không thông minh (*) 7510605 (*) Chuyên ngành đào tạo dự kiến năm 2026 Khám phá thêm khoa học Khoa học Tài nguyên giáo dục Trên đây là thông tin về phương thức tuyển sinh của Đại học Quản lý và Công nghệ TPHCM năm 2026. Đề án tuyển sinh 2026 của trường sẽ được cập nhật trong thời gian tới, các em có thể tham khảo đề án 2025 đăng tải bên dưới.",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt---2025",
+      "method_name": "1 ĐIỂM THI THPT - 2025",
+      "description": "1.1 QUY CHẾ 1. Xét điểm kỳ thi Tốt nghiệp THPT 2025 DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM THI THPT NĂM 2025 STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7210403 Thiết kế đồ họa A00; A01; C01; C02; C03; C04; D01; D03; H01; H04; H06; H08; V03; V05; V06 2 7320104 Truyền thông đa phương tiện A00; A01; C00; C01; C02; C03; C04; D01; D03 3 7340101 Quản trị kinh doanh A00; A01; B04; B08; C00; C01; C02; C03; C04; D01; D03; D14; X01 4 7340115 Marketing A00; A01; B04; B08; C00; C01; C02; C03; C04; D01; ",
+      "eligibility": null,
+      "rules": "QUY CHẾ 1. Xét điểm kỳ thi Tốt nghiệp THPT 2025",
+      "programs": [
+        {
+          "program_code": "7210403",
+          "program_name": "Thiết kế đồ họa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "H01",
+            "H04",
+            "H06",
+            "H08",
+            "V03",
+            "V05",
+            "V06"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7320104",
+          "program_name": "Truyền thông đa phương tiện",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D03"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B04",
+            "B08",
+            "C00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D14",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B04",
+            "B08",
+            "C00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D14",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340116",
+          "program_name": "Bất động sản",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B04",
+            "B08",
+            "C00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D14",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340120",
+          "program_name": "Kinh doanh quốc tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B04",
+            "B08",
+            "C00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D14",
+            "X01"
+          ],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "6"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "A04",
+            "C01",
+            "D01",
+            "D03",
+            "D07",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics và quản lý chuỗi cung ứng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B04",
+            "B08",
+            "C00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D14",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7810301",
+          "program_name": "Quản lý thể dục thể thao",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B04",
+            "B08",
+            "C00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D14",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-hoc-ba---2025",
+      "method_name": "2 ĐIỂM HỌC BẠ - 2025",
+      "description": "2.1 QUY CHẾ 1. Xét điểm kết quả học tập THPT (học bạ) DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM HỌC BẠ NĂM 2025 STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7210403 Thiết kế đồ họa A00; A01; C01; C02; C03; C04; D01; D03 2 7320104 Truyền thông đa phương tiện A00; A01; C00; C01; C02; C03; C04; D01; D03; H01 3 7340101 Quản trị kinh doanh A00; A01; C00; C01; C02; C03; C04; D01; D03; X01 4 7340115 Marketing A00; A01; B04; B08; C00; C01; C02; C03; C04; D01; D03; D14; X01 5 7340116 Bất động sản A00; A01",
+      "eligibility": null,
+      "rules": "QUY CHẾ 1. Xét điểm kết quả học tập THPT (học bạ)",
+      "programs": [
+        {
+          "program_code": "7210403",
+          "program_name": "Thiết kế đồ họa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D03"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7320104",
+          "program_name": "Truyền thông đa phương tiện",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "H01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B04",
+            "B08",
+            "C00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D14",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340116",
+          "program_name": "Bất động sản",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B04",
+            "B08",
+            "C00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D14",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340120",
+          "program_name": "Kinh doanh quốc tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B04",
+            "B08",
+            "C00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D14",
+            "X01"
+          ],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "6"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "A04",
+            "D01",
+            "D03",
+            "D07",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics và quản lý chuỗi cung ứng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B04",
+            "B08",
+            "C00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D14",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7810301",
+          "program_name": "Quản lý thể dục thể thao",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B04",
+            "B08",
+            "C00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D14",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        }
+      ]
+    },
+    {
+      "method_id": "3-iem-gnl-hcm---2025",
+      "method_name": "3 ĐIỂM ĐGNL HCM - 2025",
+      "description": "3.1 ĐIỀU KIỆN XÉT TUYỂN Trường Đại học Quản lý và Công nghệ TP.HCM (UMT) công bố mức điểm nhận hồ sơ đăng ký xét tuyển đại học chính quy theo phương thức sử dụng kết quả kỳ thi Đánh giá năng lực (ĐGNL) do ĐHQG TP.HCM tổ chức - đợt 1 năm 2025. Theo đó, UMT xác định ngưỡng điểm nhận hồ sơ cho phương thức này là từ 15 điểm trên thang điểm 30 (tương đương 600 điểm trên thang điểm 1200). Thí sinh có điểm thi Đánh giá năng lực đạt từ mức điểm sàn trở lên có thể đăng ký xét tuyển vào các ngành đào tạo ",
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7210403",
+          "program_name": "Thiết kế đồ họa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7320104",
+          "program_name": "Truyền thông đa phương tiện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340116",
+          "program_name": "Bất động sản",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340120",
+          "program_name": "Kinh doanh quốc tế",
+          "subject_groups": [],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "6"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics và quản lý chuỗi cung ứng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7810301",
+          "program_name": "Quản lý thể dục thể thao",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        }
+      ]
+    },
+    {
+      "method_id": "4-utxt-xt-thang---2025",
+      "method_name": "4 ƯTXT, XT THẲNG - 2025",
+      "description": "4.1 QUY CHẾ 1) Xét tuyển thẳng theo quy định của Bộ GD&ĐT 2) Xét tuyển thẳng theo quy định của UMT DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ƯTXT, XT THẲNG NĂM 2025 STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7210403 Thiết kế đồ họa 2 7320104 Truyền thông đa phương tiện 3 7340101 Quản trị kinh doanh 4 7340115 Marketing 5 7340116 Bất động sản 6 7340120 Kinh doanh quốc tế 7 7480201 Công nghệ thông tin 8 7510605 Logistics và quản lý chuỗi cung ứng 9 7810301 Quản lý thể dục thể thao Xem thêm",
+      "eligibility": null,
+      "rules": "QUY CHẾ 1) Xét tuyển thẳng theo quy định của Bộ GD&ĐT 2) Xét tuyển thẳng theo quy định của UMT",
+      "programs": [
+        {
+          "program_code": "7210403",
+          "program_name": "Thiết kế đồ họa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7320104",
+          "program_name": "Truyền thông đa phương tiện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340116",
+          "program_name": "Bất động sản",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340120",
+          "program_name": "Kinh doanh quốc tế",
+          "subject_groups": [],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "6"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics và quản lý chuỗi cung ứng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7810301",
+          "program_name": "Quản lý thể dục thể thao",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7210403",
+          "program_name": "Thiết kế đồ họa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7210403",
+          "program_name": "Thiết kế đồ họa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D03"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7210403",
+          "program_name": "Thiết kế đồ họa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "H01",
+            "H04",
+            "H06",
+            "H08",
+            "V03",
+            "V05",
+            "V06"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7320104",
+          "program_name": "Truyền thông đa phương tiện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7320104",
+          "program_name": "Truyền thông đa phương tiện",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D03"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7320104",
+          "program_name": "Truyền thông đa phương tiện",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "H01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B04",
+            "B08",
+            "C00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D14",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B04",
+            "B08",
+            "C00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D14",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340116",
+          "program_name": "Bất động sản",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340116",
+          "program_name": "Bất động sản",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B04",
+            "B08",
+            "C00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D14",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340120",
+          "program_name": "Kinh doanh quốc tế",
+          "subject_groups": [],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "6"
+        },
+        {
+          "program_code": "7340120",
+          "program_name": "Kinh doanh quốc tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B04",
+            "B08",
+            "C00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D14",
+            "X01"
+          ],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "6"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "A04",
+            "C01",
+            "D01",
+            "D03",
+            "D07",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "A04",
+            "D01",
+            "D03",
+            "D07",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics và quản lý chuỗi cung ứng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics và quản lý chuỗi cung ứng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B04",
+            "B08",
+            "C00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D14",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7810301",
+          "program_name": "Quản lý thể dục thể thao",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7810301",
+          "program_name": "Quản lý thể dục thể thao",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B04",
+            "B08",
+            "C00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D14",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": null,
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-quan-ly-va-cong-nghe-tphcm-UMT.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7210403",
+            "program_name": "Thiết kế đồ họa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "D03",
+              "B04",
+              "B08",
+              "C02",
+              "C03",
+              "C04",
+              "H04",
+              "H06",
+              "H08",
+              "V03",
+              "V05",
+              "V06"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "D03",
+              "B04",
+              "B08",
+              "C02",
+              "C03",
+              "C04",
+              "C02",
+              "H01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "D03",
+              "B04",
+              "B08",
+              "C02",
+              "C03",
+              "C04",
+              "C00",
+              "D14",
+              "X01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340115",
+            "program_name": "Marketing",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "D03",
+              "B04",
+              "B08",
+              "C02",
+              "C03",
+              "C04",
+              "C00",
+              "D14",
+              "X01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340116",
+            "program_name": "Bất động sản",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "D03",
+              "B04",
+              "B08",
+              "C02",
+              "C03",
+              "C04",
+              "C00",
+              "D14",
+              "X01"
+            ],
+            "score": 25,
+            "note": null
+          },
+          {
+            "program_code": "7340120",
+            "program_name": "Kinh doanh quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "D03",
+              "B04",
+              "B08",
+              "C02",
+              "C03",
+              "C04",
+              "C00",
+              "D14",
+              "X01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "D03",
+              "A03",
+              "A04",
+              "D07",
+              "X06"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7510605",
+            "program_name": "Logistics và Quản lý chuỗi cung ứng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "D03",
+              "B04",
+              "B08",
+              "C02",
+              "C03",
+              "C04",
+              "C00",
+              "D14",
+              "X01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7810301",
+            "program_name": "Quản lý thể dục thể thao",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "D03",
+              "B04",
+              "B08",
+              "C02",
+              "C03",
+              "C04",
+              "C00",
+              "D14",
+              "X01"
+            ],
+            "score": 15,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7210403",
+            "program_name": "Thiết kế đồ họa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "D03"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "D03",
+              "H01"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "D03",
+              "X01"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340115",
+            "program_name": "Marketing",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B04",
+              "B08",
+              "C00",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "D03",
+              "D14",
+              "X01"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340116",
+            "program_name": "Bất động sản",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B04",
+              "B08",
+              "C00",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "D03",
+              "D14",
+              "X01"
+            ],
+            "score": 25,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340120",
+            "program_name": "Kinh doanh quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B04",
+              "B08",
+              "C00",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "D03",
+              "D14",
+              "X01"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A03",
+              "A04",
+              "D01",
+              "D03",
+              "D07",
+              "X06"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510605",
+            "program_name": "Logistics và quản lý chuỗi cung ứng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B04",
+              "B08",
+              "C00",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "D03",
+              "D14",
+              "X01"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7810301",
+            "program_name": "Quản lý thể dục thể thao",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B04",
+              "B08",
+              "C00",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "D03",
+              "D14",
+              "X01"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7210403",
+            "program_name": "Thiết kế đồ họa",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340115",
+            "program_name": "Marketing",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340116",
+            "program_name": "Bất động sản",
+            "subject_groups": [],
+            "score": 25,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340120",
+            "program_name": "Kinh doanh quốc tế",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510605",
+            "program_name": "Logistics và quản lý chuỗi cung ứng",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7810301",
+            "program_name": "Quản lý thể dục thể thao",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          }
+        ]
+      }
+    ]
+  }
+}

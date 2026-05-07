@@ -1,0 +1,37 @@
+{
+  "university": {
+    "code": "CIV",
+    "name": "Học viện Công giáo Việt Nam",
+    "short_name": null,
+    "location": [
+      "Hồ Chí Minh"
+    ],
+    "address": null,
+    "website": null,
+    "type": null,
+    "description": null
+  },
+  "admission_year": null,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/hoc-vien-cong-giao-viet-nam-CIV.html",
+  "pdf_url": null,
+  "admission_overview": "LỚP MỚI - DÀNH CHO 2K9 ÔN THI ĐGNL & ĐGTD • Kỳ thi Đánh giá năng lực ĐHQG Hà Nội 2027 - Xem ngay • Kỳ thi Đánh giá năng lực ĐHQG TP.HCM 2027 - Xem ngay • Kỳ thi Đánh giá năng lực Quân đội 2027 - Xem ngay • Kỳ thi Đánh giá tư duy Bách khoa HN 2027 - Xem ngay XEM THÊM các lớp dành cho kỳ thi khác (ĐGNL Bộ Công An, ĐGNL Sư phạm, TN THPT,....)",
+  "admission_methods": [
+    {
+      "method_id": "phuong-thuc",
+      "method_name": "Phương thức xét tuyển",
+      "description": "STT Mã ngành Tên ngành Chỉ tiêu Phương thức xét tuyển Tổ hợp",
+      "eligibility": null,
+      "rules": null,
+      "programs": []
+    }
+  ],
+  "cutoff_scores_text": null,
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-cong-giao-viet-nam-CIV.html",
+    "methods": []
+  }
+}

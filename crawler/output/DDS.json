@@ -1,0 +1,3540 @@
+{
+  "university": {
+    "code": "DDS",
+    "name": "Trường Đại Học Sư Phạm – Đại Học Đà Nẵng",
+    "short_name": "UED",
+    "location": [
+      "Đà Nẵng"
+    ],
+    "address": "Số 459 Tôn Đức Thắng, thành phố Đà Nẵng",
+    "website": "https://ued.udn.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-su-pham-dai-hoc-da-nang-DDS.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0325/thong-tin-tuyen-sinh-truong-dai-hoc-su-pham-da-nang-2026.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC SƯ PHẠM - ĐẠI HỌC ĐÀ NẴNG 2026 Thông tin tuyển sinh trường Đại học Sư phạm - Đại học Đà Nẵng (UED) năm 2026 Năm 2026, trường Đại học Sư phạm Đà Nẵng tuyển sinh 2912 chỉ tiểu cho 38 ngành đào tào với 3 phương thức xét tuyển Phương thức 1: Xét tuyển kết hợp giữa điểm thi tốt nghiệp THPT và kết quả học tập cấp THPT (Học bạ). Phương thức 2: Kết quả thi Đánh giá năng lực (ĐHSP Hà Nội hoặc ĐHSP TP.HCM) cùng với điểm thi TN THPT và Học bạ) Phương thức 3: Xét tuyển thẳng theo quy chế tuyển sinh của Bộ GDĐT. Xem thời gian và hồ sơ đăng ký xét tuyển UED năm 2026 TẠI ĐÂY",
+  "admission_methods": [
+    {
+      "method_id": "1-ket-hop-iem-thi-thpt-hoc-ba",
+      "method_name": "1 KẾT HỢP ĐIỂM THI THPT + HỌC BẠ",
+      "description": "1.1 ĐIỀU KIỆN XÉT TUYỂN - Trường ĐHSP: + Trường hợp tổng số thí sinh trúng tuyển của một ngành <15, các thí sinh sẽ được đăng ký chuyển sang ngành đào tạo khác cùng tổ hợp, cùng phương thức xét tuyển và có điểm xét tuyển lớn hơn hoặc bằng điểm trúng tuyển của ngành sẽ chuyển sang. + Trường hợp tổng số thí sinh đăng ký dự thi năng khiếu của một ngành <15, Trường sẽ không tổ chức thi năng khiếu cho ngành này. + Trường hợp do tình hình thiên tai, dịch bệnh diễn biến phức tạp không tiến hành tổ chức",
+      "eligibility": "đối tượng theo",
+      "rules": "QUY CHẾ 2.1. Phương thức 1: Xét tuyển kết hợp giữa điểm thi tốt nghiệp THPT và kết quả học tập cấp THPT (Học bạ): - Nhóm 1: Áp dụng cho tất cả các ngành tuyển sinh (ngoại trừ các ngành có môn năng khiếu: GDMN; GDTC, SPAN, SPMT) Trong đó: + Đ1_THPT: Tổng điểm theo tổ hợp xét tuyển môn thi tốt nghiệp THPT năm 2026. + Đ1_HB: Tổng điểm trung bình cả năm lớp 10, lớp 11 và lớp 12 của các môn thuộc tổ hợp xét tuyển. + X: Hệ số THPT (Ngành thuộc lĩnh vực đào tạo giáo viên: 0.7 và ngành thuộc lĩnh vực còn lại: 0.6). + Y: Hệ số Học bạ (Ngành thuộc lĩnh vực đào tạo giáo viên: 0.3 và ngành thuộc lĩnh vực còn lại: 0.4). + Điểm cộng: bao gồm điểm thưởng, điểm xét thưởng và điểm khuyến khích tối đa là 02 điểm theo thang điểm 30. Chi tiết về điểm cộng được quy định tại Mục 5.2 của Thông tin tuyển sinh này. + Điểm ưu tiên: bao gồm điểm ưu tiên khu vực,",
+      "programs": [
+        {
+          "program_code": "7140222",
+          "program_name": "Sư phạm Mỹ thuật",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Điểm các môn Năng khiếu >=5",
+            "- Thí sinh có Kết quả trung bình chung học tập đánh giá mức khá (học lực xếp loại từ khá trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT đạt 16",
+            "50 điểm trở lên hoặc điểm xét tốt nghiệp THPT (trung học nghề) từ 6",
+            "50 trở lên. * Lưu ý: Thí sinh là vận động viên cấp 1",
+            "vận động viên kiện tướng",
+            "vận động viên đã từng đạt huy chương tại Hội khỏe Phù Đổng",
+            "các giải trẻ quốc gia và quốc tế",
+            "thí sinh ngành Giáo dục thể chất",
+            "Sư phạm Âm nhạc",
+            "Mỹ thuật có điểm thi năng khiếu do cơ sở đào tạo tổ chức đạt loại xuất sắc (từ 9",
+            "00 trở lên theo thang điểm 10) khi đăng ký xét tuyển vào các chương trình đào tạo phù hợp không phải áp dụng ngưỡng đầu vào."
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140221",
+          "program_name": "Sư phạm Âm nhạc",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Điểm các môn Năng khiếu >=5",
+            "- Thí sinh có Kết quả trung bình chung học tập đánh giá mức khá (học lực xếp loại từ khá trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT đạt 16",
+            "50 điểm trở lên hoặc điểm xét tốt nghiệp THPT (trung học nghề) từ 6",
+            "50 trở lên. * Lưu ý: Thí sinh là vận động viên cấp 1",
+            "vận động viên kiện tướng",
+            "vận động viên đã từng đạt huy chương tại Hội khỏe Phù Đổng",
+            "các giải trẻ quốc gia và quốc tế",
+            "thí sinh ngành Giáo dục thể chất",
+            "Sư phạm Âm nhạc",
+            "Mỹ thuật có điểm thi năng khiếu do cơ sở đào tạo tổ chức đạt loại xuất sắc (từ 9",
+            "00 trở lên theo thang điểm 10) khi đăng ký xét tuyển vào các chương trình đào tạo phù hợp không phải áp dụng ngưỡng đầu vào."
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7140206",
+          "program_name": "Giáo dục Thể chất",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Điểm các môn Năng khiếu >=5",
+            "- Thí sinh có Kết quả trung bình chung học tập đánh giá mức khá (học lực xếp loại từ khá trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT đạt 16",
+            "50 điểm trở lên hoặc điểm xét tốt nghiệp THPT (trung học nghề) từ 6",
+            "50 trở lên. * Lưu ý: Thí sinh là vận động viên cấp 1",
+            "vận động viên kiện tướng",
+            "vận động viên đã từng đạt huy chương tại Hội khỏe Phù Đổng",
+            "các giải trẻ quốc gia và quốc tế",
+            "thí sinh ngành Giáo dục thể chất",
+            "Sư phạm Âm nhạc",
+            "Mỹ thuật có điểm thi năng khiếu do cơ sở đào tạo tổ chức đạt loại xuất sắc (từ 9",
+            "00 trở lên theo thang điểm 10) khi đăng ký xét tuyển vào các chương trình đào tạo phù hợp không phải áp dụng ngưỡng đầu vào."
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7140201",
+          "program_name": "Giáo dục Mầm non",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Điểm các môn Năng khiếu >=5",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và điểm môn Toán hoặc Văn trong kỳ thi tốt nghiệp THPT đạt từ 6 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên."
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7140202",
+          "program_name": "Giáo dục Tiểu học",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "- Môn Toán (THPT) ≥ 6.5."
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7140205",
+          "program_name": "Giáo dục Chính trị",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "- Môn Ngữ văn (THPT) ≥ 6.5."
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7140209",
+          "program_name": "Sư phạm Toán học",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "- Môn Toán (THPT) ≥ 6.5."
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7140210",
+          "program_name": "Sư phạm Tin học",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "Môn Toán (THPT) ≥ 6.5"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7140211",
+          "program_name": "Sư phạm Vật lý",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "- Môn Vật lý (THPT) ≥ 6.5."
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7140212",
+          "program_name": "Sư phạm Hóa học",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "- Môn Hóa học (THPT) ≥ 6.5."
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7140213",
+          "program_name": "Sư phạm Sinh học",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "- Môn Sinh học (THPT) ≥ 6.5."
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7140217",
+          "program_name": "Sư phạm Ngữ văn",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "- Môn Ngữ văn (THPT) ≥ 6.5."
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7140218",
+          "program_name": "Sư phạm Lịch sử",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "Môn Lịch sử (THPT) ≥ 6.5"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7140219",
+          "program_name": "Sư phạm Địa lý",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "- Môn Địa lý (THPT) ≥ 6.5."
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7140247",
+          "program_name": "Sư phạm Khoa học tự nhiên",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "- Môn Toán (THPT) ≥ 6.5."
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7140249",
+          "program_name": "Sư phạm Lịch sử - Địa lý",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "- Môn Ngữ văn (THPT) ≥ 6.5."
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7140204",
+          "program_name": "Giáo dục Công dân",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "- Môn Ngữ văn (THPT) ≥ 6.5."
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7140248",
+          "program_name": "Giáo dục pháp luật",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "- Môn Ngữ văn (THPT) ≥ 6.5."
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7140250",
+          "program_name": "Sư phạm Tin học và Công nghệ Tiểu học",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "- Môn Toán (THPT) ≥ 6.5."
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7140103",
+          "program_name": "Công nghệ giáo dục",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Toán (THPT) ≥ 6.5."
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Sinh học (THPT) ≥ 5.0."
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Toán (THPT) ≥ 5.0."
+          ],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7229030",
+          "program_name": "Văn học",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Ngữ văn (THPT) ≥ 5.0."
+          ],
+          "program_type": "chuẩn",
+          "note": "24"
+        },
+        {
+          "program_code": "7229010",
+          "program_name": "Lịch sử (chuyên ngành Quan hệ quốc tế)",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Lịch sử (THPT) ≥ 5.0."
+          ],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "25"
+        },
+        {
+          "program_code": "7310501",
+          "program_name": "Địa lý học (chuyên ngành Địa lý du lịch)",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Địa lý (THPT) ≥ 5.0."
+          ],
+          "program_type": "chuẩn",
+          "note": "26"
+        },
+        {
+          "program_code": "7310630",
+          "program_name": "Việt Nam học (chuyên ngành Văn hóa du lịch)",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Lịch sử (THPT) ≥ 5.0."
+          ],
+          "program_type": "chuẩn",
+          "note": "27"
+        },
+        {
+          "program_code": "7229040",
+          "program_name": "Văn hóa học",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Ngữ văn (THPT) ≥ 5.0."
+          ],
+          "program_type": "chuẩn",
+          "note": "28"
+        },
+        {
+          "program_code": "7310401",
+          "program_name": "Tâm lý học, gồm các định hướng: 1. Tâm lý học trường học và tổ chức 2. Tâm lý học lâm sàng",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Toán (THPT) ≥ 5.0."
+          ],
+          "program_type": "chuẩn",
+          "note": "29"
+        },
+        {
+          "program_code": "7760101",
+          "program_name": "Công tác xã hội",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Ngữ văn (THPT) ≥ 5.0."
+          ],
+          "program_type": "chuẩn",
+          "note": "30"
+        },
+        {
+          "program_code": "7760103",
+          "program_name": "Hỗ trợ giáo dục người khuyết tật",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Toán (THPT) ≥ 5.0."
+          ],
+          "program_type": "chuẩn",
+          "note": "31"
+        },
+        {
+          "program_code": "7320101",
+          "program_name": "Báo chí",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Ngữ văn (THPT) ≥ 5.0."
+          ],
+          "program_type": "chuẩn",
+          "note": "32"
+        },
+        {
+          "program_code": "7850101",
+          "program_name": "Quản lý tài nguyên và môi trường",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Toán (THPT) ≥ 5.0."
+          ],
+          "program_type": "chuẩn",
+          "note": "33"
+        },
+        {
+          "program_code": "7620101",
+          "program_name": "Nông nghiệp (Chuyên ngành Nông nghiệp thông minh)",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Toán (THPT) ≥ 5.0."
+          ],
+          "program_type": "chuẩn",
+          "note": "34"
+        },
+        {
+          "program_code": "7520401",
+          "program_name": "Vật lý kỹ thuật",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Vật lý (THPT) ≥ 5.0."
+          ],
+          "program_type": "chuẩn",
+          "note": "35"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Toán (THPT) ≥ 5.0."
+          ],
+          "program_type": "chuẩn",
+          "note": "36"
+        },
+        {
+          "program_code": "7320108",
+          "program_name": "Quan hệ công chúng",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Ngữ văn (THPT) ≥ 5.0."
+          ],
+          "program_type": "chuẩn",
+          "note": "37"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-gnl-h-su-pham-tphcm",
+      "method_name": "2 ĐIỂM ĐGNL ĐH SƯ PHẠM TPHCM",
+      "description": "2.1 QUY CHẾ Kết hợp sử dụng kết quả thi Đánh giá năng lực (ĐHSP Hà Nội hoặc ĐHSP TP.HCM) cùng với điểm thi TN THPT và Học bạ) - Nhóm 3: Áp dụng cho tất cả các ngành tuyển sinh (ngoại trừ các ngành có môn năng khiếu: GDMN; GDTC, SPAN, SPMT) Trong đó: + Đ3_ĐGNL&THPT: xét tổng điểm của 01 môn chính được lấy kết quả từ kỳ thi đánh giá năng lực của Trường ĐHSP HN/TP HCM năm 2026 và 02 môn còn lại được lấy kết quả thi tốt nghiệp THPT năm 2026. + Đ3_HB, Điểm cộng, Điểm ưu tiên, X, Y xác định như Nhóm 1",
+      "eligibility": "đối tượng (quy đổi) theo",
+      "rules": "QUY CHẾ Kết hợp sử dụng kết quả thi Đánh giá năng lực (ĐHSP Hà Nội hoặc ĐHSP TP.HCM) cùng với điểm thi TN THPT và Học bạ) - Nhóm 3: Áp dụng cho tất cả các ngành tuyển sinh (ngoại trừ các ngành có môn năng khiếu: GDMN; GDTC, SPAN, SPMT) Trong đó: + Đ3_ĐGNL&THPT: xét tổng điểm của 01 môn chính được lấy kết quả từ kỳ thi đánh giá năng lực của Trường ĐHSP HN/TP HCM năm 2026 và 02 môn còn lại được lấy kết quả thi tốt nghiệp THPT năm 2026. + Đ3_HB, Điểm cộng, Điểm ưu tiên, X, Y xác định như Nhóm 1. - Nhóm 4: Áp dụng cho các ngành có môn năng khiếu: GDMN; GDTC, SPAN, SPMT. Trong đó: + Đ4_ĐGNL: Xét môn Toán/Văn được lấy kết quả từ kỳ thi đánh giá năng lực của Trường ĐHSP HN/TP HCM năm 2026. + Đ4_HB, Đ_NK1, Đ_NK2, Điểm cộng, Điểm ưu tiên, X, Y xác định như Nhóm 2; - Ngưỡng xét tuyển: Xác định như ngưỡng xét tuyển của Nhóm 1 và 2. Ngành và chỉ tiêu xét tuyển nhóm 3, 4 TT Mã trường Tên ngành - Chuyên ngành Mã xét tuyển Tổ hợp Mã tổ hợp xét tuyển Cách tính điểm xét tuyển Ngưỡng đầu vào Ghi chú 1 DDS Sư phạm Mỹ thuật 7140222 1. Ngữ văn + Năng khiếu vẽ NT1 (Hình họa chì) + Năng khiếu vẽ NT2 (Trang trí) 2. Toán + Năng khiếu vẽ NT1 (Hình họa chì) + Năng khiếu vẽ NT2 (Trang trí) 1. H00 2. H07 Điểm xét tuyển (ĐXT) = (Đ4_ĐGN L * X + Đ4_HB *Y) Toán/Ngữ văn + Đ_NK1 + Đ_NK2 + Điểm cộng + Điểm ưu tiên khu vực,",
+      "programs": [
+        {
+          "program_code": "DDS",
+          "program_name": "Sư phạm Mỹ thuật",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Điểm các môn Năng khiếu >=5",
+            "- Thí sinh có Kết quả trung bình chung học tập đánh giá mức khá (học lực xếp loại từ khá trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT đạt 16",
+            "50 điểm trở lên hoặc điểm xét tốt nghiệp THPT (trung học nghề) từ 6",
+            "50 trở lên. * Lưu ý: Thí sinh là vận động viên cấp 1",
+            "vận động viên kiện tướng",
+            "vận động viên đã từng đạt huy chương tại Hội khỏe Phù Đổng",
+            "các giải trẻ quốc gia và quốc tế",
+            "thí sinh ngành Giáo dục thể chất",
+            "Sư phạm Âm nhạc",
+            "Mỹ thuật có điểm thi năng khiếu do cơ sở đào tạo tổ chức đạt loại xuất sắc (từ 9",
+            "00 trở lên theo thang điểm 10) khi đăng ký xét tuyển vào các chương trình đào tạo phù hợp không phải áp dụng ngưỡng đầu vào."
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Sư phạm Âm nhạc",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Điểm các môn Năng khiếu >=5",
+            "- Thí sinh có Kết quả trung bình chung học tập đánh giá mức khá (học lực xếp loại từ khá trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT đạt 16",
+            "50 điểm trở lên hoặc điểm xét tốt nghiệp THPT (trung học nghề) từ 6",
+            "50 trở lên. * Lưu ý: Thí sinh là vận động viên cấp 1",
+            "vận động viên kiện tướng",
+            "vận động viên đã từng đạt huy chương tại Hội khỏe Phù Đổng",
+            "các giải trẻ quốc gia và quốc tế",
+            "thí sinh ngành Giáo dục thể chất",
+            "Sư phạm Âm nhạc",
+            "Mỹ thuật có điểm thi năng khiếu do cơ sở đào tạo tổ chức đạt loại xuất sắc (từ 9",
+            "00 trở lên theo thang điểm 10) khi đăng ký xét tuyển vào các chương trình đào tạo phù hợp không phải áp dụng ngưỡng đầu vào."
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Giáo dục Thể chất",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Điểm các môn Năng khiếu >=5",
+            "- Thí sinh có Kết quả trung bình chung học tập đánh giá mức khá (học lực xếp loại từ khá trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT đạt 16",
+            "50 điểm trở lên hoặc điểm xét tốt nghiệp THPT (trung học nghề) từ 6",
+            "50 trở lên. * Lưu ý: Thí sinh là vận động viên cấp 1",
+            "vận động viên kiện tướng",
+            "vận động viên đã từng đạt huy chương tại Hội khỏe Phù Đổng",
+            "các giải trẻ quốc gia và quốc tế",
+            "thí sinh ngành Giáo dục thể chất",
+            "Sư phạm Âm nhạc",
+            "Mỹ thuật có điểm thi năng khiếu do cơ sở đào tạo tổ chức đạt loại xuất sắc (từ 9",
+            "00 trở lên theo thang điểm 10) khi đăng ký xét tuyển vào các chương trình đào tạo phù hợp không phải áp dụng ngưỡng đầu vào."
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Giáo dục Mầm non",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Điểm các môn Năng khiếu >=5",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và điểm môn Toán hoặc Văn trong kỳ thi tốt nghiệp THPT đạt từ 6 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên."
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Giáo dục Tiểu học",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "- Môn Toán hoặc Ngữ văn (ĐGNL) ≥ 6.5."
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Giáo dục Chính trị",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "- Môn Lịch sử hoặc Ngữ văn (ĐGNL) ≥ 6.5."
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Sư phạm Toán học",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "- Môn Toán (ĐGNL) ≥ 6.5."
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Sư phạm Tin học",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "Môn Toán (ĐGNL) ≥ 6.5"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Sư phạm Vật lý",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "- Môn Vật lý (ĐGNL) ≥ 6.5."
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Sư phạm Hóa học",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "- Môn Hóa học (ĐGNL) ≥ 6.5."
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Sư phạm Sinh học",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "- Môn Sinh học (ĐGNL) ≥ 6.5."
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Sư phạm Ngữ văn",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "- Môn Ngữ văn (ĐGNL) ≥ 6.5."
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Sư phạm Lịch sử",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "Môn Toán (ĐGNL) ≥ 6.5"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Sư phạm Địa lý",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "- Môn Địa lý (ĐGNL) ≥ 6.5."
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Sư phạm Khoa học tự nhiên",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "- Môn Toán hoặc Hóa học (ĐGNL) ≥ 6.5."
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Sư phạm Lịch sử -Địa lý",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "- Môn Ngữ văn hoặc Lịch sử (ĐGNL) ≥ 6.5."
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Giáo dục Công dân",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "- Môn Ngữ văn hoặc Lịch sử (ĐGNL) ≥ 6.5."
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Giáo dục pháp luật",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "- Môn Toán hoặc Ngữ văn (ĐGNL) ≥ 6.5."
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Sư phạm Tin học và Công nghệ Tiểu học",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "- Môn Toán hoặc Ngữ văn (ĐGNL) ≥ 6.5."
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Công nghệ giáo dục",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Toán hoặc Ngữ văn (ĐGNL) ≥ 6.5."
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Toán hoặc Sinh học (ĐGNL) ≥ 5.0."
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Toán hoặc Vật lý (ĐGNL) ≥ 5.0."
+          ],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Văn học",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Lịch sử hoặc Ngữ văn (ĐGNL) ≥ 5.0."
+          ],
+          "program_type": "chuẩn",
+          "note": "24"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Lịch sử (chuyên ngành Quan hệ quốc tế)",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Lịch sử hoặc Ngữ văn (ĐGNL) ≥ 5.0."
+          ],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "25"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Địa lý học (chuyên ngành Địa lý du lịch)",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Địa lý hoặc Ngữ văn (ĐGNL) ≥ 5.0."
+          ],
+          "program_type": "chuẩn",
+          "note": "26"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Việt Nam học (chuyên ngành Văn hóa du lịch)",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Lịch sử hoặc Ngữ văn (ĐGNL) ≥ 5.0."
+          ],
+          "program_type": "chuẩn",
+          "note": "27"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Văn hóa học",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Lịch sử hoặc Ngữ văn (ĐGNL) ≥ 5.0."
+          ],
+          "program_type": "chuẩn",
+          "note": "28"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Tâm lý học, gồm các định hướng: 1. Tâm lý học trường học và tổ chức 2. Tâm lý học lâm sàng",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Toán hoặc Ngữ văn (ĐGNL) ≥ 5.0."
+          ],
+          "program_type": "chuẩn",
+          "note": "29"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Công tác xã hội",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Toán hoặc Ngữ văn (ĐGNL) ≥ 5.0."
+          ],
+          "program_type": "chuẩn",
+          "note": "30"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Hỗ trợ giáo dục người khuyết tật",
+          "subject_groups": [
+            "- Nhóm 1: Xét kết hợp điểm thi Đánh giá NL của Trường Đại học Sư phạm Hà Nội (môn chính: Toán hoặc Ngữ văn) với điểm thi tốt nghiệp THPT các môn còn lại trong tổ hợp và điểm học bạ THPT",
+            "- Nhóm 2: Xét kết hợp điểm thi Đánh giá NL của Trường Đại học Sư phạm thành phố Hồ Chí Minh (môn chính: (môn Toán hoặc Ngữ văn) với điểm thi tốt nghiệp THPT các môn còn lại trong tổ hợp và điểm học bạ THPT."
+          ],
+          "program_type": "chuẩn",
+          "note": "31"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Báo chí",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Ngữ văn hoặc Lịch sử (ĐGNL) ≥ 5.0."
+          ],
+          "program_type": "chuẩn",
+          "note": "32"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Quản lý tài nguyên và môi trường",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Toán hoặc Ngữ văn (ĐGNL) ≥ 5.0."
+          ],
+          "program_type": "chuẩn",
+          "note": "33"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Nông nghiệp",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Toán hoặc Ngữ văn (ĐGNL) ≥ 5.0."
+          ],
+          "program_type": "chuẩn",
+          "note": "34"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Vật lý kỹ thuật",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Toán hoặc Vật lý (ĐGNL) ≥ 5.0."
+          ],
+          "program_type": "chuẩn",
+          "note": "35"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Toán hoặc Ngữ văn (ĐGNL) ≥ 5.0."
+          ],
+          "program_type": "chuẩn",
+          "note": "36"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Quan hệ công chúng",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Ngữ văn hoặc Tiếng Anh (ĐGNL) ≥ 5.0."
+          ],
+          "program_type": "chuẩn",
+          "note": "37"
+        }
+      ]
+    },
+    {
+      "method_id": "3-iem-gnl-h-su-pham-hn",
+      "method_name": "3 ĐIỂM ĐGNL ĐH SƯ PHẠM HN",
+      "description": "3.1 QUY CHẾ Kết hợp sử dụng kết quả thi Đánh giá năng lực (ĐHSP Hà Nội hoặc ĐHSP TP.HCM) cùng với điểm thi TN THPT và Học bạ) - Nhóm 3: Áp dụng cho tất cả các ngành tuyển sinh (ngoại trừ các ngành có môn năng khiếu: GDMN; GDTC, SPAN, SPMT) Trong đó: + Đ3_ĐGNL&THPT: xét tổng điểm của 01 môn chính được lấy kết quả từ kỳ thi đánh giá năng lực của Trường ĐHSP HN/TP HCM năm 2026 và 02 môn còn lại được lấy kết quả thi tốt nghiệp THPT năm 2026. + Đ3_HB, Điểm cộng, Điểm ưu tiên, X, Y xác định như Nhóm 1",
+      "eligibility": "đối tượng (quy đổi) theo",
+      "rules": "QUY CHẾ Kết hợp sử dụng kết quả thi Đánh giá năng lực (ĐHSP Hà Nội hoặc ĐHSP TP.HCM) cùng với điểm thi TN THPT và Học bạ) - Nhóm 3: Áp dụng cho tất cả các ngành tuyển sinh (ngoại trừ các ngành có môn năng khiếu: GDMN; GDTC, SPAN, SPMT) Trong đó: + Đ3_ĐGNL&THPT: xét tổng điểm của 01 môn chính được lấy kết quả từ kỳ thi đánh giá năng lực của Trường ĐHSP HN/TP HCM năm 2026 và 02 môn còn lại được lấy kết quả thi tốt nghiệp THPT năm 2026. + Đ3_HB, Điểm cộng, Điểm ưu tiên, X, Y xác định như Nhóm 1. - Nhóm 4: Áp dụng cho các ngành có môn năng khiếu: GDMN; GDTC, SPAN, SPMT. Trong đó: + Đ4_ĐGNL: Xét môn Toán/Văn được lấy kết quả từ kỳ thi đánh giá năng lực của Trường ĐHSP HN/TP HCM năm 2026. + Đ4_HB, Đ_NK1, Đ_NK2, Điểm cộng, Điểm ưu tiên, X, Y xác định như Nhóm 2; - Ngưỡng xét tuyển: Xác định như ngưỡng xét tuyển của Nhóm 1 và 2. Ngành và chỉ tiêu xét tuyển nhóm 3, 4 TT Mã trường Tên ngành - Chuyên ngành Mã xét tuyển Tổ hợp Mã tổ hợp xét tuyển Cách tính điểm xét tuyển Ngưỡng đầu vào Ghi chú 1 DDS Sư phạm Mỹ thuật 7140222 1. Ngữ văn + Năng khiếu vẽ NT1 (Hình họa chì) + Năng khiếu vẽ NT2 (Trang trí) 2. Toán + Năng khiếu vẽ NT1 (Hình họa chì) + Năng khiếu vẽ NT2 (Trang trí) 1. H00 2. H07 Điểm xét tuyển (ĐXT) = (Đ4_ĐGN L * X + Đ4_HB *Y) Toán/Ngữ văn + Đ_NK1 + Đ_NK2 + Điểm cộng + Điểm ưu tiên khu vực,",
+      "programs": [
+        {
+          "program_code": "DDS",
+          "program_name": "Sư phạm Mỹ thuật",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Điểm các môn Năng khiếu >=5",
+            "- Thí sinh có Kết quả trung bình chung học tập đánh giá mức khá (học lực xếp loại từ khá trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT đạt 16",
+            "50 điểm trở lên hoặc điểm xét tốt nghiệp THPT (trung học nghề) từ 6",
+            "50 trở lên. * Lưu ý: Thí sinh là vận động viên cấp 1",
+            "vận động viên kiện tướng",
+            "vận động viên đã từng đạt huy chương tại Hội khỏe Phù Đổng",
+            "các giải trẻ quốc gia và quốc tế",
+            "thí sinh ngành Giáo dục thể chất",
+            "Sư phạm Âm nhạc",
+            "Mỹ thuật có điểm thi năng khiếu do cơ sở đào tạo tổ chức đạt loại xuất sắc (từ 9",
+            "00 trở lên theo thang điểm 10) khi đăng ký xét tuyển vào các chương trình đào tạo phù hợp không phải áp dụng ngưỡng đầu vào."
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Sư phạm Âm nhạc",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Điểm các môn Năng khiếu >=5",
+            "- Thí sinh có Kết quả trung bình chung học tập đánh giá mức khá (học lực xếp loại từ khá trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT đạt 16",
+            "50 điểm trở lên hoặc điểm xét tốt nghiệp THPT (trung học nghề) từ 6",
+            "50 trở lên. * Lưu ý: Thí sinh là vận động viên cấp 1",
+            "vận động viên kiện tướng",
+            "vận động viên đã từng đạt huy chương tại Hội khỏe Phù Đổng",
+            "các giải trẻ quốc gia và quốc tế",
+            "thí sinh ngành Giáo dục thể chất",
+            "Sư phạm Âm nhạc",
+            "Mỹ thuật có điểm thi năng khiếu do cơ sở đào tạo tổ chức đạt loại xuất sắc (từ 9",
+            "00 trở lên theo thang điểm 10) khi đăng ký xét tuyển vào các chương trình đào tạo phù hợp không phải áp dụng ngưỡng đầu vào."
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Giáo dục Thể chất",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Điểm các môn Năng khiếu >=5",
+            "- Thí sinh có Kết quả trung bình chung học tập đánh giá mức khá (học lực xếp loại từ khá trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT đạt 16",
+            "50 điểm trở lên hoặc điểm xét tốt nghiệp THPT (trung học nghề) từ 6",
+            "50 trở lên. * Lưu ý: Thí sinh là vận động viên cấp 1",
+            "vận động viên kiện tướng",
+            "vận động viên đã từng đạt huy chương tại Hội khỏe Phù Đổng",
+            "các giải trẻ quốc gia và quốc tế",
+            "thí sinh ngành Giáo dục thể chất",
+            "Sư phạm Âm nhạc",
+            "Mỹ thuật có điểm thi năng khiếu do cơ sở đào tạo tổ chức đạt loại xuất sắc (từ 9",
+            "00 trở lên theo thang điểm 10) khi đăng ký xét tuyển vào các chương trình đào tạo phù hợp không phải áp dụng ngưỡng đầu vào."
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Giáo dục Mầm non",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Điểm các môn Năng khiếu >=5",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và điểm môn Toán hoặc Văn trong kỳ thi tốt nghiệp THPT đạt từ 6 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên."
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Giáo dục Tiểu học",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "- Môn Toán hoặc Ngữ văn (ĐGNL) ≥ 6.5."
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Giáo dục Chính trị",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "- Môn Lịch sử hoặc Ngữ văn (ĐGNL) ≥ 6.5."
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Sư phạm Toán học",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "- Môn Toán (ĐGNL) ≥ 6.5."
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Sư phạm Tin học",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "Môn Toán (ĐGNL) ≥ 6.5"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Sư phạm Vật lý",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "- Môn Vật lý (ĐGNL) ≥ 6.5."
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Sư phạm Hóa học",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "- Môn Hóa học (ĐGNL) ≥ 6.5."
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Sư phạm Sinh học",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "- Môn Sinh học (ĐGNL) ≥ 6.5."
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Sư phạm Ngữ văn",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "- Môn Ngữ văn (ĐGNL) ≥ 6.5."
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Sư phạm Lịch sử",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "Môn Toán (ĐGNL) ≥ 6.5"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Sư phạm Địa lý",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "- Môn Địa lý (ĐGNL) ≥ 6.5."
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Sư phạm Khoa học tự nhiên",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "- Môn Toán hoặc Hóa học (ĐGNL) ≥ 6.5."
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Sư phạm Lịch sử -Địa lý",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "- Môn Ngữ văn hoặc Lịch sử (ĐGNL) ≥ 6.5."
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Giáo dục Công dân",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "- Môn Ngữ văn hoặc Lịch sử (ĐGNL) ≥ 6.5."
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Giáo dục pháp luật",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "- Môn Toán hoặc Ngữ văn (ĐGNL) ≥ 6.5."
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Sư phạm Tin học và Công nghệ Tiểu học",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán",
+            "Ngữ văn và một môn thi khác) đạt 18",
+            "00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8",
+            "50 trở lên",
+            "- Môn Toán hoặc Ngữ văn (ĐGNL) ≥ 6.5."
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Công nghệ giáo dục",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Toán hoặc Ngữ văn (ĐGNL) ≥ 6.5."
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Toán hoặc Sinh học (ĐGNL) ≥ 5.0."
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Toán hoặc Vật lý (ĐGNL) ≥ 5.0."
+          ],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Văn học",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Lịch sử hoặc Ngữ văn (ĐGNL) ≥ 5.0."
+          ],
+          "program_type": "chuẩn",
+          "note": "24"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Lịch sử (chuyên ngành Quan hệ quốc tế)",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Lịch sử hoặc Ngữ văn (ĐGNL) ≥ 5.0."
+          ],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "25"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Địa lý học (chuyên ngành Địa lý du lịch)",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Địa lý hoặc Ngữ văn (ĐGNL) ≥ 5.0."
+          ],
+          "program_type": "chuẩn",
+          "note": "26"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Việt Nam học (chuyên ngành Văn hóa du lịch)",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Lịch sử hoặc Ngữ văn (ĐGNL) ≥ 5.0."
+          ],
+          "program_type": "chuẩn",
+          "note": "27"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Văn hóa học",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Lịch sử hoặc Ngữ văn (ĐGNL) ≥ 5.0."
+          ],
+          "program_type": "chuẩn",
+          "note": "28"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Tâm lý học, gồm các định hướng: 1. Tâm lý học trường học và tổ chức 2. Tâm lý học lâm sàng",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Toán hoặc Ngữ văn (ĐGNL) ≥ 5.0."
+          ],
+          "program_type": "chuẩn",
+          "note": "29"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Công tác xã hội",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Toán hoặc Ngữ văn (ĐGNL) ≥ 5.0."
+          ],
+          "program_type": "chuẩn",
+          "note": "30"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Hỗ trợ giáo dục người khuyết tật",
+          "subject_groups": [
+            "- Nhóm 1: Xét kết hợp điểm thi Đánh giá NL của Trường Đại học Sư phạm Hà Nội (môn chính: Toán hoặc Ngữ văn) với điểm thi tốt nghiệp THPT các môn còn lại trong tổ hợp và điểm học bạ THPT",
+            "- Nhóm 2: Xét kết hợp điểm thi Đánh giá NL của Trường Đại học Sư phạm thành phố Hồ Chí Minh (môn chính: (môn Toán hoặc Ngữ văn) với điểm thi tốt nghiệp THPT các môn còn lại trong tổ hợp và điểm học bạ THPT."
+          ],
+          "program_type": "chuẩn",
+          "note": "31"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Báo chí",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Ngữ văn hoặc Lịch sử (ĐGNL) ≥ 5.0."
+          ],
+          "program_type": "chuẩn",
+          "note": "32"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Quản lý tài nguyên và môi trường",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Toán hoặc Ngữ văn (ĐGNL) ≥ 5.0."
+          ],
+          "program_type": "chuẩn",
+          "note": "33"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Nông nghiệp",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Toán hoặc Ngữ văn (ĐGNL) ≥ 5.0."
+          ],
+          "program_type": "chuẩn",
+          "note": "34"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Vật lý kỹ thuật",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Toán hoặc Vật lý (ĐGNL) ≥ 5.0."
+          ],
+          "program_type": "chuẩn",
+          "note": "35"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Toán hoặc Ngữ văn (ĐGNL) ≥ 5.0."
+          ],
+          "program_type": "chuẩn",
+          "note": "36"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Quan hệ công chúng",
+          "subject_groups": [
+            "- Thí sinh đã tốt nghiệp THPT",
+            "- Thí sinh có Tổng điểm 3 môn theo tổ hợp >=15",
+            "00",
+            "- Môn Ngữ văn hoặc Tiếng Anh (ĐGNL) ≥ 5.0."
+          ],
+          "program_type": "chuẩn",
+          "note": "37"
+        }
+      ]
+    },
+    {
+      "method_id": "4-utxt-xt-thang",
+      "method_name": "4 ƯTXT, XT THẲNG",
+      "description": "4.1 ĐỐI TƯỢNG TT Mã trường Tên ngành - Chuyên ngành Mã xét tuyển Đối tượng xét tuyển thẳng Anh hùng lao động, Anh hùng lực lượng vũ trang nhân dân, Chiến sĩ thi đua toàn quốc Thí sinh là người dân tộc thiểu số rất ít người Thí sinh là người nước ngoài; Thí sinh là người Việt Nam học tập cấp THPT, trung học nghề ở nước ngoài hoặc học tập chương trình giáo dục nước ngoài bằng tiếng nước ngoài ở Việt Nam Thí sinh là người khuyết tật nặng Thí sinh đoạt giải các cuộc thi nghệ thuật quốc tế về ca, múa",
+      "eligibility": "ĐỐI TƯỢNG TT Mã trường Tên ngành - Chuyên ngành Mã xét tuyển Đối tượng xét tuyển thẳng Anh hùng lao động, Anh hùng lực lượng vũ trang nhân dân, Chiến sĩ thi đua toàn quốc Thí sinh là người dân tộc thiểu số rất ít người Thí sinh là người nước ngoài; Thí sinh là người Việt Nam học tập cấp THPT, trung học nghề ở nước ngoài hoặc học tập chương trình giáo dục nước ngoài bằng tiếng nước ngoài ở Việt Nam Thí sinh là người khuyết tật nặng Thí sinh đoạt giải các cuộc thi nghệ thuật quốc tế về ca, múa, nhạc Thí sinh đoạt giải các cuộc thi nghệ thuật quốc tế về mỹ thuật Thí sinh tham gia đội tuyển quốc gia thi đấu tại các giải quốc tế chính thức 1 DDS Giáo dục Tiểu học 7140202 x x x 2 DDS Giáo dục Chính trị 7140205 x x x 3 DDS Sư phạm Toán học 7140209 x x x 4 DDS Sư phạm Tin học 7140210 x x x 5 DDS Sư phạm Vật lý 7140211 x x x 6 DDS Sư phạm Hóa học 7140212 x x x 7 DDS Sư phạm Sinh học 7140213 x x x 8 DDS Sư phạm Ngữ văn 7140217 x x x 9 DDS Sư phạm Lịch sử 7140218 x x x 10 DDS Sư phạm Địa lý 7140219 x x x 11 DDS Sư phạm Khoa học tự nhiên 7140247 x x x 12 DDS Sư phạm Lịch sử - Địa lý 7140249 x x x 13 DDS Giáo dục Công dân 7140204 x x x 14 DDS Giáo dục pháp luật 7140248 x x x 15 DDS Sư phạm Tin học và Công nghệ Tiểu học 7140250 x x x 16 DDS Công nghệ giáo dục 7140103 x x x x 17 DDS Công nghệ sinh học 7420201 x x x x 18 DDS Hóa học Chuyên ngành Hóa Dược 7440112A x x x x Hóa học Chuyên ngành Hóa phân tích - Ứng dụng 7440112B x x x x 19 DDS Công nghệ thông tin 7480201 x x x x 20 DDS Văn học 7229030 x x x x 21 DDS Lịch sử (chuyên ngành Quan hệ quốc tế) 7229010 x x x x 22 DDS Địa lý học (chuyên ngành Địa lý du lịch) 7310501 x x x x 23 DDS Việt Nam học (chuyên ngành Văn hóa du lịch) 7310630 x x x x 24 DDS Văn hóa học 7229040 x x x x 25 DDS Tâm lý học, gồm các chuyên ngành: 1. Tâm lý học trường học và tổ chức 2. Tâm lý học lâm sàng 7310401 x x x x 26 DDS Công tác xã hội 7760101 x x x x 27 DDS Hỗ trợ giáo dục người khuyết tật 7760103 x x x x 28 DDS Báo chí 7320101 x x x x 29 DDS Quản lý tài nguyên và môi trường 7850101 x x x x 30 DDS Nông nghiệp (Chuyên ngành Nông nghiệp thông minh) 7620101 x x x x 31 DDS Vật lý kỹ thuật 7520401 x x x x 32 DDS Khoa học dữ liệu 7460108 x x x x 33 DDS Quan hệ công chúng 7320108 x x x x 34 DDS Sư phạm Mỹ thuật 7140222 x x 35 DDS Sư phạm Âm nhạc 7140221 x x 36 DDS Giáo dục Thể chất 7140206 x x",
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "DDS",
+          "program_name": "Giáo dục Tiểu học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Giáo dục Chính trị",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Sư phạm Toán học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Sư phạm Tin học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Sư phạm Vật lý",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Sư phạm Hóa học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Sư phạm Sinh học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Sư phạm Ngữ văn",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Sư phạm Lịch sử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Sư phạm Địa lý",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Sư phạm Khoa học tự nhiên",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Sư phạm Lịch sử - Địa lý",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Giáo dục Công dân",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Giáo dục pháp luật",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Sư phạm Tin học và Công nghệ Tiểu học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Công nghệ giáo dục",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Hóa học Chuyên ngành Hóa Dược",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Hóa học Chuyên ngành Hóa phân tích - Ứng dụng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Văn học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Lịch sử (chuyên ngành Quan hệ quốc tế)",
+          "subject_groups": [],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "21"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Địa lý học (chuyên ngành Địa lý du lịch)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Việt Nam học (chuyên ngành Văn hóa du lịch)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Văn hóa học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "24"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Tâm lý học, gồm các chuyên ngành: 1. Tâm lý học trường học và tổ chức 2. Tâm lý học lâm sàng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "25"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Công tác xã hội",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "26"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Hỗ trợ giáo dục người khuyết tật",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "27"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Báo chí",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "28"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Quản lý tài nguyên và môi trường",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "29"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Nông nghiệp (Chuyên ngành Nông nghiệp thông minh)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "30"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Vật lý kỹ thuật",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "31"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "32"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Quan hệ công chúng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "33"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Sư phạm Mỹ thuật",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "34"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Sư phạm Âm nhạc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "35"
+        },
+        {
+          "program_code": "DDS",
+          "program_name": "Giáo dục Thể chất",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "36"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7140103",
+          "program_name": "Công nghệ giáo dục",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140103",
+          "program_name": "Công nghệ giáo dục",
+          "subject_groups": [
+            "D01",
+            "C01",
+            "C02",
+            "X02",
+            "X03"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140201",
+          "program_name": "Giáo dục Mầm non",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7140201",
+          "program_name": "Giáo dục Mầm non",
+          "subject_groups": [
+            "M09",
+            "M01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7140202",
+          "program_name": "Giáo dục Tiểu học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7140202",
+          "program_name": "Giáo dục Tiểu học",
+          "subject_groups": [
+            "D01",
+            "C03",
+            "C04",
+            "X02",
+            "X03"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7140204",
+          "program_name": "Giáo dục Công dân",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7140204",
+          "program_name": "Giáo dục Công dân",
+          "subject_groups": [
+            "C00",
+            "C19",
+            "X70",
+            "C03"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7140205",
+          "program_name": "Giáo dục Chính trị",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7140205",
+          "program_name": "Giáo dục Chính trị",
+          "subject_groups": [
+            "C00",
+            "C19",
+            "X70",
+            "C03"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7140206",
+          "program_name": "Giáo dục thể chất",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7140206",
+          "program_name": "Giáo dục thể chất",
+          "subject_groups": [
+            "T01",
+            "T08"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7140209",
+          "program_name": "Sư phạm Toán học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7140209",
+          "program_name": "Sư phạm Toán học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7140210",
+          "program_name": "Sư phạm Tin học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7140210",
+          "program_name": "Sư phạm Tin học",
+          "subject_groups": [
+            "A00",
+            "X06",
+            "A01"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7140211",
+          "program_name": "Sư phạm Vật lý",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7140211",
+          "program_name": "Sư phạm Vật lý",
+          "subject_groups": [
+            "A01",
+            "A00",
+            "X06",
+            "C01"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7140212",
+          "program_name": "Sư phạm Hóa học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7140212",
+          "program_name": "Sư phạm Hóa học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "C02"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7140213",
+          "program_name": "Sư phạm Sinh học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7140213",
+          "program_name": "Sư phạm Sinh học",
+          "subject_groups": [
+            "B00",
+            "B03",
+            "B08",
+            "X16",
+            "X14"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7140217",
+          "program_name": "Sư phạm Ngữ văn",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7140217",
+          "program_name": "Sư phạm Ngữ văn",
+          "subject_groups": [
+            "C00",
+            "D14",
+            "C03"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7140218",
+          "program_name": "Sư phạm Lịch sử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7140218",
+          "program_name": "Sư phạm Lịch sử",
+          "subject_groups": [
+            "C00",
+            "D14",
+            "C19",
+            "X70"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7140219",
+          "program_name": "Sư phạm Địa lý",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7140219",
+          "program_name": "Sư phạm Địa lý",
+          "subject_groups": [
+            "C00",
+            "D15",
+            "C04"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7140221",
+          "program_name": "Sư phạm Âm nhạc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7140221",
+          "program_name": "Sư phạm Âm nhạc",
+          "subject_groups": [
+            "N00",
+            "N01"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7140222",
+          "program_name": "Sư phạm Mỹ thuật",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7140222",
+          "program_name": "Sư phạm Mỹ thuật",
+          "subject_groups": [
+            "H00",
+            "H07"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7140247",
+          "program_name": "Sư phạm Khoa học tự nhiên",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7140247",
+          "program_name": "Sư phạm Khoa học tự nhiên",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "C02"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7140248",
+          "program_name": "Giáo dục Pháp luật",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7140248",
+          "program_name": "Giáo dục Pháp luật",
+          "subject_groups": [
+            "C03",
+            "C14",
+            "X01",
+            "C04"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7140249",
+          "program_name": "Sư phạm Lịch sử - Địa lý",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7140249",
+          "program_name": "Sư phạm Lịch sử - Địa lý",
+          "subject_groups": [
+            "C00",
+            "D14",
+            "C19",
+            "X70"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7140249",
+          "program_name": "Sư phạm Lịch sử - Địa lý",
+          "subject_groups": [
+            "C00",
+            "D143",
+            "C19",
+            "X70"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7140250",
+          "program_name": "Sư phạm Tin học và Công nghệ Tiểu học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7140250",
+          "program_name": "Sư phạm Tin học và Công nghệ Tiểu học",
+          "subject_groups": [
+            "D01",
+            "C01",
+            "C02",
+            "X02",
+            "X03"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7229010",
+          "program_name": "Quan hệ quốc tế/Lịch sử",
+          "subject_groups": [],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "21"
+        },
+        {
+          "program_code": "7229010",
+          "program_name": "Quan hệ quốc tế/Lịch sử",
+          "subject_groups": [
+            "C00",
+            "D14",
+            "C19",
+            "X70"
+          ],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "21"
+        },
+        {
+          "program_code": "7229030",
+          "program_name": "Văn học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7229030",
+          "program_name": "Văn học",
+          "subject_groups": [
+            "C00",
+            "D14",
+            "C03"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7229040",
+          "program_name": "Văn hóa học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7229040",
+          "program_name": "Văn hóa học",
+          "subject_groups": [
+            "C00",
+            "D14",
+            "C03"
+          ],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7310401",
+          "program_name": "Tâm lý học, gồm các chuyên ngành: 1. Tâm lý học trường học và tổ chức 2. Tâm lý học lâm sàng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "24"
+        },
+        {
+          "program_code": "7310401",
+          "program_name": "Tâm lý học, gồm các chuyên ngành: 1. Tâm lý học trường học và tổ chức 2. Tâm lý học lâm sàng",
+          "subject_groups": [
+            "C02",
+            "D01",
+            "B03",
+            "C03",
+            "C04",
+            "C14",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "24"
+        },
+        {
+          "program_code": "7310501",
+          "program_name": "Địa lý du lịch/Địa lý học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "25"
+        },
+        {
+          "program_code": "7310501",
+          "program_name": "Địa lý du lịch/Địa lý học",
+          "subject_groups": [
+            "C00",
+            "C20",
+            "X74",
+            "C04"
+          ],
+          "program_type": "chuẩn",
+          "note": "25"
+        },
+        {
+          "program_code": "7310630",
+          "program_name": "Văn hóa du lịch/Việt Nam học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "26"
+        },
+        {
+          "program_code": "7310630",
+          "program_name": "Văn hóa du lịch/Việt Nam học",
+          "subject_groups": [
+            "C00",
+            "D14",
+            "C19",
+            "X70"
+          ],
+          "program_type": "chuẩn",
+          "note": "26"
+        },
+        {
+          "program_code": "7320101",
+          "program_name": "Báo chí",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "27"
+        },
+        {
+          "program_code": "7320101",
+          "program_name": "Báo chí",
+          "subject_groups": [
+            "C00",
+            "D14",
+            "C03"
+          ],
+          "program_type": "chuẩn",
+          "note": "27"
+        },
+        {
+          "program_code": "7320108",
+          "program_name": "Quan hệ công chúng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "28"
+        },
+        {
+          "program_code": "7320108",
+          "program_name": "Quan hệ công chúng",
+          "subject_groups": [
+            "D14",
+            "D15",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "28"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "Công nghệ Sinh học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "29"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "Công nghệ Sinh học",
+          "subject_groups": [
+            "B00",
+            "B03",
+            "B08",
+            "X14",
+            "A02"
+          ],
+          "program_type": "chuẩn",
+          "note": "29"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "32"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [
+            "C01",
+            "D01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "32"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "33"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "X06",
+            "A01"
+          ],
+          "program_type": "chuẩn",
+          "note": "33"
+        },
+        {
+          "program_code": "7520401",
+          "program_name": "Vật lý kỹ thuật",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "34"
+        },
+        {
+          "program_code": "7520401",
+          "program_name": "Vật lý kỹ thuật",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X06",
+            "C01"
+          ],
+          "program_type": "chuẩn",
+          "note": "34"
+        },
+        {
+          "program_code": "7620101",
+          "program_name": "Nông nghiệp thông minh/Nông nghiệp",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "35"
+        },
+        {
+          "program_code": "7620101",
+          "program_name": "Nông nghiệp thông minh/Nông nghiệp",
+          "subject_groups": [
+            "B03",
+            "C04",
+            "X04",
+            "D01",
+            "C01"
+          ],
+          "program_type": "chuẩn",
+          "note": "35"
+        },
+        {
+          "program_code": "7760101",
+          "program_name": "Công tác xã hội",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "36"
+        },
+        {
+          "program_code": "7760101",
+          "program_name": "Công tác xã hội",
+          "subject_groups": [
+            "D01",
+            "B03",
+            "C03",
+            "C04",
+            "C02",
+            "C14",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "36"
+        },
+        {
+          "program_code": "7760103",
+          "program_name": "Hỗ trợ giáo dục người khuyết tật",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "37"
+        },
+        {
+          "program_code": "7760103",
+          "program_name": "Hỗ trợ giáo dục người khuyết tật",
+          "subject_groups": [
+            "D01",
+            "B03",
+            "C03",
+            "C04",
+            "C02",
+            "C14",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "37"
+        },
+        {
+          "program_code": "7850101",
+          "program_name": "Quản lý tài nguyên và môi trường",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "38"
+        },
+        {
+          "program_code": "7850101",
+          "program_name": "Quản lý tài nguyên và môi trường",
+          "subject_groups": [
+            "B03",
+            "C04",
+            "X04",
+            "D01",
+            "C02"
+          ],
+          "program_type": "chuẩn",
+          "note": "38"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Trường Đại Học Sư Phạm – Đại Học Đà Nẵng các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": "1. Thời gian - Thời gian dự kiến các phương thức tuyển sinh được thực hiện theo kế hoạch, hướng dẫn chung và thông báo của Bộ GDĐT, ĐHĐN và Trường Đại học Sư phạm- ĐHĐN. - Thời gian đăng ký nguyện vọng xét tuyển: Theo Kế hoạch của Bộ GDĐT. - Kỳ thi năng khiếu: Đăng ký hồ sơ dự thi các môn Năng khiếu dự kiến từ ngày 24/3 đến ngày 20/4/2026. - Thi tuyển các môn Năng khiếu (Giáo dục Mầm non, Giáo dục thể chất, Sư phạm Âm nhạc, Sư phạm Mỹ thuật): dự kiến ngày 15-17/5/2026. 2. Hình thức - Thí sinh đăng ký nguyện vọng xét tuyển bằng hình thức trực tuyến trên Hệ thống hỗ trợ tuyển sinh chung của Bộ GDĐT: https://thisinh.thitotnghiepthpt.edu.vn/. - Thí sinh đăng ký xét tuyển thẳng theo quy chế tuyển sinh của Bộ GDĐT: Sau khi có kết quả xét tuyển thẳng, thí sinh trúng tuyển thực hiện đăng ký nguyện vọng trên Hệ thống hỗ trợ tuyển sinh chung theo kế hoạch của Bộ GDĐT. - Đăng ký hồ sơ dự thi các môn Năng khiếu: Thí sinh đăng ký trực tuyến và nộp hồ sơ theo hướng dẫn trên trang web tuyển sinh của Trường: https://qlht.ued.udn.vn/dknk (thời gian từ 24/3 đến ngày 20/4/2026). 6.3. Điều kiện xét tuyển/thi tuyển Xét tuyển thí sinh đã tốt nghiệp THPT; điểm xét tuyển dựa trên kết quả thi tốt nghiệp THPT năm 2026; kết quả học tập cấp THPT đối với thí sinh đã tốt nghiệp THPT; kết quả kỳ thi ĐGNL của Trường ĐHSP Hà Nội năm 2026; kết quả kỳ thi ĐGNL của Trường ĐHSP thành phố Hồ Chí Minh năm 2026; kết quả kỳ thi năng khiếu do Trường Đại học Sư phạm - ĐHĐN tổ chức năm 2026. - Điểm xét trúng tuyển theo ngành. - Điểm môn học dùng để xét tuyển theo kết quả học tập THPT là điểm trung bình cộng của điểm trung bình môn học cả năm lớp 10, lớp 11 và lớp 12 theo tổ hợp xét tuyển tương ứng. - Các thông tin khác: + Trường hợp tổng số thí sinh trúng tuyển của một ngành + Trường hợp tổng số thí sinh đăng ký dự thi năng khiếu của một ngành - Các nội dung khác theo Quy định chung của Bộ GDĐT và ĐHĐN.",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-su-pham-dai-hoc-da-nang-DDS.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140201",
+            "program_name": "Giáo dục Mầm non",
+            "subject_groups": [
+              "M09",
+              "M01"
+            ],
+            "score": 25.88,
+            "note": null
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "D01",
+              "C03",
+              "C04",
+              "X02",
+              "X03"
+            ],
+            "score": 24.88,
+            "note": null
+          },
+          {
+            "program_code": "7140204",
+            "program_name": "Giáo dục Công dân",
+            "subject_groups": [
+              "C00",
+              "C19",
+              "X70",
+              "C03"
+            ],
+            "score": 27.79,
+            "note": null
+          },
+          {
+            "program_code": "7140205",
+            "program_name": "Giáo dục Chính trị",
+            "subject_groups": [
+              "C00",
+              "C19",
+              "X70",
+              "C03"
+            ],
+            "score": 28.33,
+            "note": null
+          },
+          {
+            "program_code": "7140206",
+            "program_name": "Giáo dục Thể chất",
+            "subject_groups": [
+              "T01",
+              "T08"
+            ],
+            "score": 26.86,
+            "note": null
+          },
+          {
+            "program_code": "7140209",
+            "program_name": "Sư phạm Toán học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06"
+            ],
+            "score": 28.07,
+            "note": null
+          },
+          {
+            "program_code": "7140210",
+            "program_name": "Sư phạm Tin học",
+            "subject_groups": [
+              "A00",
+              "X06",
+              "A01"
+            ],
+            "score": 25.99,
+            "note": null
+          },
+          {
+            "program_code": "7140211",
+            "program_name": "Sư phạm Vật lý",
+            "subject_groups": [
+              "A01",
+              "A00",
+              "X06",
+              "C01"
+            ],
+            "score": 28.06,
+            "note": null
+          },
+          {
+            "program_code": "7140212",
+            "program_name": "Sư phạm Hóa học",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D07",
+              "C02"
+            ],
+            "score": 27.53,
+            "note": null
+          },
+          {
+            "program_code": "7140213",
+            "program_name": "Sư phạm Sinh học",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "B08",
+              "X16",
+              "X14"
+            ],
+            "score": 24.87,
+            "note": null
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [
+              "C00",
+              "D14",
+              "C03"
+            ],
+            "score": 28.84,
+            "note": null
+          },
+          {
+            "program_code": "7140218",
+            "program_name": "Sư phạm Lịch sử",
+            "subject_groups": [
+              "C00",
+              "D14",
+              "C19",
+              "X70"
+            ],
+            "score": 28.76,
+            "note": null
+          },
+          {
+            "program_code": "7140219",
+            "program_name": "Sư phạm Địa lý",
+            "subject_groups": [
+              "C00",
+              "D15",
+              "C04"
+            ],
+            "score": 28.61,
+            "note": null
+          },
+          {
+            "program_code": "7140221",
+            "program_name": "Sư phạm Âm nhạc",
+            "subject_groups": [
+              "N00",
+              "N01"
+            ],
+            "score": 22.75,
+            "note": null
+          },
+          {
+            "program_code": "7140222",
+            "program_name": "Sư phạm Mỹ thuật",
+            "subject_groups": [
+              "H00",
+              "H07"
+            ],
+            "score": 23.46,
+            "note": null
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm Khoa học tự nhiên",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D07",
+              "C02"
+            ],
+            "score": 26.81,
+            "note": null
+          },
+          {
+            "program_code": "7140248",
+            "program_name": "Giáo dục pháp luật",
+            "subject_groups": [
+              "C03",
+              "C14",
+              "X01",
+              "C04"
+            ],
+            "score": 27.33,
+            "note": null
+          },
+          {
+            "program_code": "7140249",
+            "program_name": "Sư phạm Lịch sử - Địa lý",
+            "subject_groups": [
+              "C00",
+              "D14",
+              "C19",
+              "X70"
+            ],
+            "score": 28.2,
+            "note": null
+          },
+          {
+            "program_code": "7140250",
+            "program_name": "Sư phạm Tin học và Công nghệ Tiểu học",
+            "subject_groups": [
+              "D01",
+              "C01",
+              "C02",
+              "X02",
+              "X03"
+            ],
+            "score": 22.25,
+            "note": null
+          },
+          {
+            "program_code": "7229010",
+            "program_name": "Lịch sử (chuyên ngành Quan hệ quốc tế)",
+            "subject_groups": [
+              "C00",
+              "D14",
+              "C19",
+              "X70"
+            ],
+            "score": 27,
+            "note": null
+          },
+          {
+            "program_code": "7229030",
+            "program_name": "Văn học",
+            "subject_groups": [
+              "C00",
+              "D14",
+              "C03"
+            ],
+            "score": 27.38,
+            "note": null
+          },
+          {
+            "program_code": "7229040",
+            "program_name": "Văn hóa học",
+            "subject_groups": [
+              "C00",
+              "D14",
+              "C03"
+            ],
+            "score": 26.52,
+            "note": null
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học, gồm các chuyên ngành: Tâm lý học trường học và tổ chức ; Tâm lý học lâm sàng",
+            "subject_groups": [
+              "C02",
+              "D01",
+              "B03",
+              "C03",
+              "C04",
+              "C14",
+              "X01"
+            ],
+            "score": 22.7,
+            "note": null
+          },
+          {
+            "program_code": "7310501",
+            "program_name": "Địa lý học (chuyên ngành Địa lý du lịch)",
+            "subject_groups": [
+              "C00",
+              "C20",
+              "X74",
+              "C04"
+            ],
+            "score": 26.98,
+            "note": null
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học (chuyên ngành Văn hóa du lịch)",
+            "subject_groups": [
+              "C00",
+              "D14",
+              "C19",
+              "X70"
+            ],
+            "score": 26.87,
+            "note": null
+          },
+          {
+            "program_code": "7320101",
+            "program_name": "Báo chí",
+            "subject_groups": [
+              "C00",
+              "D14",
+              "C03"
+            ],
+            "score": 27.16,
+            "note": null
+          },
+          {
+            "program_code": "7320108",
+            "program_name": "Quan hệ công chúng",
+            "subject_groups": [
+              "D14",
+              "D15",
+              "D01"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "B08",
+              "X14",
+              "A02"
+            ],
+            "score": 16.71,
+            "note": null
+          },
+          {
+            "program_code": "7440112",
+            "program_name": "Hóa học, gồm các chuyên ngành: Hóa Dược; ; Hóa phân tích môi trường",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D07",
+              "C02",
+              "X11"
+            ],
+            "score": 21.25,
+            "note": null
+          },
+          {
+            "program_code": "7460108",
+            "program_name": "Khoa học dữ liệu",
+            "subject_groups": [
+              "C01",
+              "D01",
+              "X02"
+            ],
+            "score": 19.25,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "X06",
+              "A01"
+            ],
+            "score": 17.5,
+            "note": null
+          },
+          {
+            "program_code": "7520401",
+            "program_name": "Vật lý kỹ thuật",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "C01",
+              "X07"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "D01",
+              "B03",
+              "C03",
+              "C04",
+              "C02",
+              "C14",
+              "X01"
+            ],
+            "score": 21.35,
+            "note": null
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lý tài nguyên và môi trường",
+            "subject_groups": [
+              "B03",
+              "C04",
+              "X04",
+              "D01",
+              "C02"
+            ],
+            "score": 20,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140201",
+            "program_name": "Giáo dục Mầm non",
+            "subject_groups": [
+              "M09",
+              "M01"
+            ],
+            "score": 25.57,
+            "note": null
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "D01",
+              "C03",
+              "C04",
+              "X02",
+              "X03"
+            ],
+            "score": 28.48,
+            "note": null
+          },
+          {
+            "program_code": "7140204",
+            "program_name": "Giáo dục Công dân",
+            "subject_groups": [
+              "C00",
+              "C19",
+              "X70",
+              "C03"
+            ],
+            "score": 27.18,
+            "note": null
+          },
+          {
+            "program_code": "7140205",
+            "program_name": "Giáo dục Chính trị",
+            "subject_groups": [
+              "C00",
+              "C19",
+              "X70",
+              "C03"
+            ],
+            "score": 27.77,
+            "note": null
+          },
+          {
+            "program_code": "7140206",
+            "program_name": "Giáo dục thể chất",
+            "subject_groups": [
+              "T01",
+              "T08"
+            ],
+            "score": 26.54,
+            "note": null
+          },
+          {
+            "program_code": "7140209",
+            "program_name": "Sư phạm Toán học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06"
+            ],
+            "score": 29.26,
+            "note": null
+          },
+          {
+            "program_code": "7140210",
+            "program_name": "Sư phạm Tin học",
+            "subject_groups": [
+              "A00",
+              "X06",
+              "A01"
+            ],
+            "score": 28.07,
+            "note": null
+          },
+          {
+            "program_code": "7140211",
+            "program_name": "Sư phạm Vật lý",
+            "subject_groups": [
+              "A01",
+              "A00",
+              "X06",
+              "C01"
+            ],
+            "score": 29.25,
+            "note": null
+          },
+          {
+            "program_code": "7140212",
+            "program_name": "Sư phạm Hóa học",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D07",
+              "C02"
+            ],
+            "score": 29.3,
+            "note": null
+          },
+          {
+            "program_code": "7140213",
+            "program_name": "Sư phạm Sinh học",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "B08",
+              "X16",
+              "X14"
+            ],
+            "score": 28.31,
+            "note": null
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [
+              "C00",
+              "D14",
+              "C03"
+            ],
+            "score": 28.39,
+            "note": null
+          },
+          {
+            "program_code": "7140218",
+            "program_name": "Sư phạm Lịch sử",
+            "subject_groups": [
+              "C00",
+              "D14",
+              "C19",
+              "X70"
+            ],
+            "score": 28.25,
+            "note": null
+          },
+          {
+            "program_code": "7140219",
+            "program_name": "Sư phạm Địa lý",
+            "subject_groups": [
+              "C00",
+              "D15",
+              "C04"
+            ],
+            "score": 28.08,
+            "note": null
+          },
+          {
+            "program_code": "7140221",
+            "program_name": "Sư phạm Âm nhạc",
+            "subject_groups": [
+              "N00",
+              "N01"
+            ],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "7140222",
+            "program_name": "Sư phạm Mỹ thuật",
+            "subject_groups": [
+              "H00",
+              "H07"
+            ],
+            "score": 23.2,
+            "note": null
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm Khoa học tự nhiên",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D07",
+              "C02"
+            ],
+            "score": 28.57,
+            "note": null
+          },
+          {
+            "program_code": "7140248",
+            "program_name": "Giáo dục pháp luật",
+            "subject_groups": [
+              "C03",
+              "C14",
+              "X01",
+              "C04"
+            ],
+            "score": 26.59,
+            "note": null
+          },
+          {
+            "program_code": "7140249",
+            "program_name": "Sư phạm Lịch sử - Địa lý",
+            "subject_groups": [
+              "C00",
+              "D14",
+              "C19",
+              "X70"
+            ],
+            "score": 27.63,
+            "note": null
+          },
+          {
+            "program_code": "7140250",
+            "program_name": "Sư phạm Tin học và Công nghệ Tiểu học",
+            "subject_groups": [
+              "D01",
+              "C01",
+              "C02",
+              "X02",
+              "X03"
+            ],
+            "score": 27.14,
+            "note": null
+          },
+          {
+            "program_code": "7229010",
+            "program_name": "Lịch sử (chuyên ngành Quan hệ quốc tế)",
+            "subject_groups": [
+              "C00",
+              "D14",
+              "C19",
+              "X70"
+            ],
+            "score": 26.1,
+            "note": null
+          },
+          {
+            "program_code": "7229030",
+            "program_name": "Văn học",
+            "subject_groups": [
+              "C00",
+              "D14",
+              "C03"
+            ],
+            "score": 26.67,
+            "note": null
+          },
+          {
+            "program_code": "7229040",
+            "program_name": "Văn hóa học",
+            "subject_groups": [
+              "C00",
+              "D14",
+              "C03"
+            ],
+            "score": 25.55,
+            "note": null
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học, gồm các chuyên ngành: 1. Tâm lý học trường học và tổ chức 2. Tâm lý học lâm sàng",
+            "subject_groups": [
+              "C02",
+              "D01",
+              "B03",
+              "C03",
+              "C04",
+              "C14",
+              "X01"
+            ],
+            "score": 27.44,
+            "note": null
+          },
+          {
+            "program_code": "7310501",
+            "program_name": "Địa lý học (chuyên ngành Địa lý du lịch)",
+            "subject_groups": [
+              "C00",
+              "C20",
+              "X74",
+              "C04"
+            ],
+            "score": 26.08,
+            "note": null
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học (chuyên ngành Văn hóa du lịch)",
+            "subject_groups": [
+              "C00",
+              "D14",
+              "C19",
+              "X70"
+            ],
+            "score": 25.96,
+            "note": null
+          },
+          {
+            "program_code": "7320101",
+            "program_name": "Báo chí",
+            "subject_groups": [
+              "C00",
+              "D14",
+              "C03"
+            ],
+            "score": 26.33,
+            "note": null
+          },
+          {
+            "program_code": "7320108",
+            "program_name": "Quan hệ công chúng",
+            "subject_groups": [
+              "D14",
+              "D15",
+              "D01"
+            ],
+            "score": 26.97,
+            "note": null
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ Sinh học",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "B08",
+              "X14",
+              "A02"
+            ],
+            "score": 24.23,
+            "note": null
+          },
+          {
+            "program_code": "7440112",
+            "program_name": "Hóa học, gồm các chuyên ngành: 1. Hóa Dược; 2. Hóa phân tích môi trường",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D07",
+              "C02",
+              "X11"
+            ],
+            "score": 26.66,
+            "note": null
+          },
+          {
+            "program_code": "7460108",
+            "program_name": "Khoa học dữ liệu",
+            "subject_groups": [
+              "C01",
+              "D01",
+              "X02"
+            ],
+            "score": 25.02,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "X06",
+              "A01"
+            ],
+            "score": 23.63,
+            "note": null
+          },
+          {
+            "program_code": "7520401",
+            "program_name": "Vật lý kỹ thuật",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "C01",
+              "X07"
+            ],
+            "score": 25.63,
+            "note": null
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "D01",
+              "B03",
+              "C03",
+              "C04",
+              "C02",
+              "C14",
+              "X01"
+            ],
+            "score": 26.63,
+            "note": null
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lý tài nguyên và môi trường",
+            "subject_groups": [
+              "B03",
+              "C04",
+              "X04",
+              "D01",
+              "C02"
+            ],
+            "score": 25.55,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-h-su-pham-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL ĐH Sư phạm HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140201",
+            "program_name": "Giáo dục Mầm non",
+            "subject_groups": [],
+            "score": 23.61,
+            "note": null
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [],
+            "score": 20.99,
+            "note": null
+          },
+          {
+            "program_code": "7140204",
+            "program_name": "Giáo dục Công dân",
+            "subject_groups": [],
+            "score": 22.23,
+            "note": null
+          },
+          {
+            "program_code": "7140205",
+            "program_name": "Giáo dục Chính trị",
+            "subject_groups": [],
+            "score": 23.15,
+            "note": null
+          },
+          {
+            "program_code": "7140206",
+            "program_name": "Giáo dục Thể chất",
+            "subject_groups": [],
+            "score": 24.81,
+            "note": null
+          },
+          {
+            "program_code": "7140209",
+            "program_name": "Sư phạm Toán học",
+            "subject_groups": [],
+            "score": 24.12,
+            "note": null
+          },
+          {
+            "program_code": "7140210",
+            "program_name": "Sư phạm Tin học",
+            "subject_groups": [],
+            "score": 19.86,
+            "note": null
+          },
+          {
+            "program_code": "7140211",
+            "program_name": "Sư phạm Vật lý",
+            "subject_groups": [],
+            "score": 24.1,
+            "note": null
+          },
+          {
+            "program_code": "7140212",
+            "program_name": "Sư phạm Hóa học",
+            "subject_groups": [],
+            "score": 23.91,
+            "note": null
+          },
+          {
+            "program_code": "7140213",
+            "program_name": "Sư phạm Sinh học",
+            "subject_groups": [],
+            "score": 19.72,
+            "note": null
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [],
+            "score": 24.33,
+            "note": null
+          },
+          {
+            "program_code": "7140218",
+            "program_name": "Sư phạm Lịch sử",
+            "subject_groups": [],
+            "score": 24.17,
+            "note": null
+          },
+          {
+            "program_code": "7140219",
+            "program_name": "Sư phạm Địa lý",
+            "subject_groups": [],
+            "score": 23.73,
+            "note": null
+          },
+          {
+            "program_code": "7140221",
+            "program_name": "Sư phạm Âm nhạc",
+            "subject_groups": [],
+            "score": 20.2,
+            "note": null
+          },
+          {
+            "program_code": "7140222",
+            "program_name": "Sư phạm Mỹ thuật",
+            "subject_groups": [],
+            "score": 20.81,
+            "note": null
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm Khoa học tự nhiên",
+            "subject_groups": [],
+            "score": 21.37,
+            "note": null
+          },
+          {
+            "program_code": "7140248",
+            "program_name": "Giáo dục pháp luật",
+            "subject_groups": [],
+            "score": 21.09,
+            "note": null
+          },
+          {
+            "program_code": "7140249",
+            "program_name": "Sư phạm Lịch sử - Địa lý",
+            "subject_groups": [],
+            "score": 22.95,
+            "note": null
+          },
+          {
+            "program_code": "7140250",
+            "program_name": "Sư phạm Tin học và Công nghệ Tiểu học",
+            "subject_groups": [],
+            "score": 17.45,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-h-su-pham-tphcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL ĐH Sư phạm TPHCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140201",
+            "program_name": "Giáo dục Mầm non",
+            "subject_groups": [],
+            "score": 25.09,
+            "note": null
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [],
+            "score": 22.98,
+            "note": null
+          },
+          {
+            "program_code": "7140206",
+            "program_name": "Giáo dục Thể chất",
+            "subject_groups": [],
+            "score": 26.07,
+            "note": null
+          },
+          {
+            "program_code": "7140209",
+            "program_name": "Sư phạm Toán học",
+            "subject_groups": [],
+            "score": 23.9,
+            "note": null
+          },
+          {
+            "program_code": "7140210",
+            "program_name": "Sư phạm Tin học",
+            "subject_groups": [],
+            "score": 21.48,
+            "note": null
+          },
+          {
+            "program_code": "7140211",
+            "program_name": "Sư phạm Vật lý",
+            "subject_groups": [],
+            "score": 23.87,
+            "note": null
+          },
+          {
+            "program_code": "7140212",
+            "program_name": "Sư phạm Hóa học",
+            "subject_groups": [],
+            "score": 24.19,
+            "note": null
+          },
+          {
+            "program_code": "7140213",
+            "program_name": "Sư phạm Sinh học",
+            "subject_groups": [],
+            "score": 21.3,
+            "note": null
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [],
+            "score": 27.17,
+            "note": null
+          },
+          {
+            "program_code": "7140221",
+            "program_name": "Sư phạm Âm nhạc",
+            "subject_groups": [],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "7140222",
+            "program_name": "Sư phạm Mỹ thuật",
+            "subject_groups": [],
+            "score": 22.6,
+            "note": null
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm Khoa học tự nhiên",
+            "subject_groups": [],
+            "score": 22.15,
+            "note": null
+          },
+          {
+            "program_code": "7140250",
+            "program_name": "Sư phạm Tin học và Công nghệ Tiểu học",
+            "subject_groups": [],
+            "score": 20.77,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

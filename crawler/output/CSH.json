@@ -1,0 +1,593 @@
+{
+  "university": {
+    "code": "CSH",
+    "name": "Học viện Cảnh sát nhân dân",
+    "short_name": "PPA",
+    "location": [
+      "Hà Nội"
+    ],
+    "address": "Phường Cổ Nhuế 2, quận Bắc Từ Liêm, Thành phố Hà Nội",
+    "website": "http://www.hvcsnd.edu.vn",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": 400,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/hoc-vien-canh-sat-nhan-dan-CSH.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2025/0213/hoc-vien-canh-sat-nhan-dan.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH HỌC VIỆN CẢNH SÁT NHÂN DÂN 2026 Thông tin tuyển sinh Học Viện Cảnh Sát Nhân Dân (PPA) năm 2026 Năm 2026, Học viện Cảnh sát nhân dân tuyển sinh dựa trên 3 phương thức xét tuyển như sau: Phương thức 1: Tuyển thẳng theo quy chế tuyển sinh hiện hành của Bộ Giáo dục và Đào tạo và quy định của Bộ Công an. Phương thức 2: Xét tuyển kết hợp chứng chỉ ngoại ngữ quốc tế với kết quả bài thi đánh giá của Bộ Công an. Phương thức 3: Xét tuyển kết hợp kết quả thi tốt nghiệp THPT với kết quả bài thi đánh giá của Bộ Công an. Tổng chỉ tiêu tuyển sinh: 400 chỉ tiêu tuyển sinh đào tạo nhóm ngành nghiệp vụ Cảnh sát (Nam: 360; Nữ: 40). Cụ thể: + Chỉ tiêu theo Phương thức 1: 20 (Nam:18; Nữ: 02). + Chỉ tiêu theo Phương thức 2, 3: 380 (Nam: 342; Nữ: 38). Xem thời gian và hồ sơ đăng ký xét tuyển PPA năm 2026 TẠI ĐÂY Khám phá thêm khoa học Giáo dục Tài nguyên giáo dục",
+  "admission_methods": [
+    {
+      "method_id": "1-utxt-xt-thang",
+      "method_name": "1 ƯTXT, XT THẲNG",
+      "description": "1.1 ĐỐI TƯỢNG Phương thức 1: Tuyển thẳng theo quy chế tuyển sinh hiện hành của Bộ Giáo dục và Đào tạo và quy định của Bộ Công an. - Chiến sĩ nghĩa vụ Công an tại ngũ. - Công dân hoàn thành nghĩa vụ tham gia CAND có quyết định xuất ngũ trong vòng 12 tháng tính đến tháng dự tuyển. - Học sinh T11. - Công dân thường trú tại địa phương nơi đăng ký sơ tuyển. 1.2 CHỈ TIÊU Chỉ tiêu theo Phương thức 1: 20 (Nam:18; Nữ: 02) 1.3 ĐIỀU KIỆN XÉT TUYỂN Đối tượng: Thí sinh đạt giải thưởng theo quy định của Bộ GD",
+      "eligibility": "ĐỐI TƯỢNG Phương thức 1: Tuyển thẳng theo",
+      "rules": "quy chế tuyển sinh hiện hành của Bộ Giáo dục và Đào tạo và quy định của Bộ Công an. - Chiến sĩ nghĩa vụ Công an tại ngũ. - Công dân hoàn thành nghĩa vụ tham gia CAND có quyết định xuất ngũ trong vòng 12 tháng tính đến tháng dự tuyển. - Học sinh T11. - Công dân thường trú tại địa phương nơi đăng ký sơ tuyển. 1.2 CHỈ TIÊU Chỉ tiêu theo Phương thức 1: 20 (Nam:18; Nữ: 02) 1.3 ĐIỀU KIỆN XÉT TUYỂN",
+      "programs": [
+        {
+          "program_code": "7860100",
+          "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 1)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 2)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 3)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 8)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 1)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 2)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 3)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 8)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        }
+      ]
+    },
+    {
+      "method_id": "2-ket-hop-ccnn-voi-iem-thi-gnl-bca",
+      "method_name": "2 KẾT HỢP CCNN VỚI ĐIỂM THI ĐGNL BCA",
+      "description": "2.1 ĐỐI TƯỢNG Phương thức 2: Xét tuyển kết hợp chứng chỉ ngoại ngữ quốc tế với kết quả bài thi đánh giá của Bộ Công an. - Chiến sĩ nghĩa vụ Công an tại ngũ. - Công dân hoàn thành nghĩa vụ tham gia CAND có quyết định xuất ngũ trong vòng 12 tháng tính đến tháng dự tuyển. - Học sinh T11. - Công dân thường trú tại địa phương nơi đăng ký sơ tuyển. 2.2 CHỈ TIÊU Chỉ tiêu theo Phương thức 2, 3: 380 (Nam: 342; Nữ: 38). 2.3 ĐIỀU KIỆN XÉT TUYỂN - Có chứng chỉ ngoại ngữ quốc tế không quá 02 (hai) năm kể từ ",
+      "eligibility": "ĐỐI TƯỢNG Phương thức 2: Xét tuyển kết hợp chứng chỉ ngoại ngữ quốc tế với kết quả bài thi đánh giá của Bộ Công an. - Chiến sĩ nghĩa vụ Công an tại ngũ. - Công dân hoàn thành nghĩa vụ tham gia CAND có quyết định xuất ngũ trong vòng 12 tháng tính đến tháng dự tuyển. - Học sinh T11. - Công dân thường trú tại địa phương nơi đăng ký sơ tuyển. 2.2 CHỈ TIÊU Chỉ tiêu theo Phương thức 2, 3: 380 (Nam: 342; Nữ: 38). 2.3",
+      "rules": "QUY CHẾ - Bài thi đánh giá của Bộ Công an gồm 04 mã bài thi. Thí sinh chọn 01 trong 04 mã bài thi để đăng ký dự thi, cụ thể: TT Mã bài thi Phần Tự luận bắt buộc Phần Trắc nghiệm Trắc nghiệm bắt buộc Trắc nghiệm tự chọn 1 CA1 Ngữ văn Toán, Lịch sử, Ngôn ngữ Anh Vật lí 2 CA2 Ngữ văn Toán, Lịch sử, Ngôn ngữ Anh Hóa học 3 CA3 Ngữ văn Toán, Lịch sử, Ngôn ngữ Anh Sinh học 4 CA4 Ngữ văn Toán, Lịch sử, Ngôn ngữ Anh Địa lí",
+      "programs": [
+        {
+          "program_code": "TT",
+          "program_name": "Mã bài thi",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "Phần Tự luận bắt buộc"
+        },
+        {
+          "program_code": "TT",
+          "program_name": "Mã bài thi",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "Phần Tự luận bắt buộc"
+        },
+        {
+          "program_code": "CA1",
+          "program_name": "Ngữ văn",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "CA2",
+          "program_name": "Ngữ văn",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "CA3",
+          "program_name": "Ngữ văn",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "CA4",
+          "program_name": "Ngữ văn",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        }
+      ]
+    },
+    {
+      "method_id": "3-ket-hop-iem-thi-thpt-voi-iem-thi-gnl-bca",
+      "method_name": "3 KẾT HỢP ĐIỂM THI THPT VỚI ĐIỂM THI ĐGNL BCA",
+      "description": "3.1 ĐỐI TƯỢNG Phương thức 3: Xét tuyển kết hợp kết quả thi tốt nghiệp THPT với kết quả bài thi đánh giá của Bộ Công an. Chiến sĩ nghĩa vụ Công an tại ngũ. - Công dân hoàn thành nghĩa vụ tham gia CAND có quyết định xuất ngũ trong vòng 12 tháng tính đến tháng dự tuyển. - Học sinh T11. - Công dân thường trú tại địa phương nơi đăng ký sơ tuyển. 3.2 CHỈ TIÊU Chỉ tiêu theo Phương thức 2, 3: 380 (Nam: 342; Nữ: 38). 3.3 ĐIỀU KIỆN XÉT TUYỂN - Đối với thí sinh học THPT có môn ngoại ngữ là ngôn ngữ khác ng",
+      "eligibility": "ĐỐI TƯỢNG Phương thức 3: Xét tuyển kết hợp kết quả thi tốt nghiệp THPT với kết quả bài thi đánh giá của Bộ Công an. Chiến sĩ nghĩa vụ Công an tại ngũ. - Công dân hoàn thành nghĩa vụ tham gia CAND có quyết định xuất ngũ trong vòng 12 tháng tính đến tháng dự tuyển. - Học sinh T11. - Công dân thường trú tại địa phương nơi đăng ký sơ tuyển. 3.2 CHỈ TIÊU Chỉ tiêu theo Phương thức 2, 3: 380 (Nam: 342; Nữ: 38). 3.3",
+      "rules": "QUY CHẾ Tổng chỉ tiêu tuyển sinh: 400 chỉ tiêu tuyển sinh đào tạo nhóm ngành nghiệp vụ Cảnh sát (Nam: 360; Nữ: 40). Cụ thể: + Chỉ tiêu theo Phương thức 1: 20 (Nam:18; Nữ: 02). + Chỉ tiêu theo Phương thức 2, 3: 380 (Nam: 342; Nữ: 38). - Tổ hợp xét tuyển: A00; A01; C03; D01; X02; X03; X04. Cụ thể: TT Mã tổ hợp Môn 1 A00 Toán, Vật lý, Hóa học 2 A01 Toán, Vật lý, tiếng Anh 3 C03 Toán, Ngữ văn, Lịch sử 4 D01 Toán, Ngữ văn, tiếng Anh 5 X02 Toán, Ngữ văn, Tin học 6 X03 Toán, Ngữ văn, Công nghệ công nghiệp 7 X04 Toán, Ngữ văn, Công nghệ nông nghiệp - Bài thi đánh giá của Bộ Công an gồm 04 mã bài thi. Thí sinh chọn 01 trong 04 mã bài thi để đăng ký dự thi, cụ thể: TT Mã bài thi Phần Tự luận bắt buộc Phần Trắc nghiệm Trắc nghiệm bắt buộc Trắc nghiệm tự chọn 1 CA1 Ngữ văn Toán, Lịch sử, Ngôn ngữ Anh Vật lí 2 CA2 Ngữ văn Toán, Lịch sử, Ngôn ngữ Anh Hóa học 3 CA3 Ngữ văn Toán, Lịch sử, Ngôn ngữ Anh Sinh học 4 CA4 Ngữ văn Toán, Lịch sử, Ngôn ngữ Anh Địa lí 4. Thời gian tổ chức thi kỳ thi của Bộ Công an - Ngày thi: 21/6/2026. - Thời gian làm bài: 180 phút. - Hình thức thi: thi viết. 5. Cấu trúc đề thi kỳ thi đánh giá của Bộ Công an - Đề thi gồm 03 phần: Tự luận bắt buộc; Trắc nghiệm bắt buộc và Trắc nghiệm tự chọn. - Tổng điểm của bài thi là 100 điểm, trong đó phần tự luận bắt buộc là 25 điểm, phần trắc nghiệm là 75 điểm. - Lĩnh vực kiến thức: + Phần tự luận bắt buộc gồm 01 câu hỏi Văn nghị luận xã hội; + Phần trắc nghiệm gồm 70% kiến thức lớp 12 và 30% kiến thức lớp 10, lớp 11. 6.",
+      "programs": []
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7860100",
+          "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 1)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 1)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 2)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 2)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 3)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 3)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 8)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 8)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 1)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 1)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 2)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 2)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 3)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 3)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 8)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 8)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Học viện Cảnh sát nhân dân các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": "Thí sinh hoàn thiện hồ sơ đăng ký dự tuyển và nộp hồ sơ dự tuyển theo hướng dẫn của Công an đơn vị, địa phương nơi sơ tuyển (Công an phường, xã nơi đăng ký HKTT) - Công an các đơn vị, địa phương cử cán bộ đơn vị chức năng (có giấy giới thiệu) trực tiếp mang hồ sơ dự tuyển, file mềm danh sách thí sinh dự tuyển trích xuất từ phần mềm tuyển sinh CAND, lệ phí tuyển sinh đến bàn giao cho Học viện CSND trước 17h00 ngày 20/05/2026. - Địa điểm nhận hồ sơ: Phòng Quản lý đào tạo và bồi dưỡng nâng cao, phòng 608, nhà Điều hành, Học viện CSND, Phường Đông Ngạc, Thành phố Hà Nội (thông tin liên hệ: Thượng tá Nguyễn Thị Mỹ Lệ, ĐT: 0975132383 hoặc Trung tá Tống Sơn Huy, ĐT: 0906111299; cán bộ tuyển sinh, Phòng Quản lý đào tạo và bồi dưỡng nâng cao, Học viện CSND). - Một số lưu ý về hồ sơ xét tuyển + Hồ sơ đăng ký xét tuyển do cán bộ tuyển sinh của Công an các đơn vị, địa phương chuyển đến, nộp trực tiếp tại Phòng Quản lý đào tạo và bồi dưỡng nâng cao - Học viện CSND. Học viện không nhận hồ sơ do thí sinh tự nộp và không nhận hồ sơ nộp muộn thời gian theo quy định. + Học viện không nhận hồ sơ tẩy xoá, sửa chữa, ghi thiếu thông tin. Sau ngày nộp hồ sơ, mọi yêu cầu sửa đổi, bổ sung nội dung đã khai trên hồ sơ đăng ký xét tuyển sẽ không được chấp nhận. + Các đơn vị lập danh sách thí sinh đăng ký xét tuyển đối với từng phương thức xét tuyển theo mẫu của Bộ Công an và gửi kèm theo file dữ liệu đảm bảo cấu trúc theo quy định phần mềm tuyển sinh của Bộ Công an. Học viện không nhận hồ sơ của các đơn vị không đảm bảo đúng quy định. Tổ chức xét tuyển Căn cứ quy định của Bộ Giáo dục và Đào tạo, quy định của Bộ Công an, Hướng dẫn tuyển sinh trong Công an nhân dân năm 2026 và chỉ tiêu được giao, Học viện CSND tổ chức xét tuyển đối với thí sinh đủ điều kiện xét tuyển và đăng ký nguyện vọng xét tuyển vào Học viện CSND là nguyện vọng 1 trên Cổng Thông tin của Bộ Giáo dục và Đào tạo. Thí sinh trúng tuyển theo từng phương thức thực hiện xác nhận nhập học theo quy định của Bộ Giáo dục và Đào tạo. Chiêu sinh và điều kiện nhập học Thời gian nhập học Dự kiến ngày 25/09 – 26/09/2026. Điều kiện nhập học - Đã tốt nghiệp THPT; - Đạt yêu cầu sơ tuyển; - Nộp hồ sơ đăng ký tuyển thẳng theo Phương thức 1; đăng ký xét tuyển theo Phương thức 2; đăng ký xét tuyển theo Phương thức 3 gửi về Học viện CSND theo quy định; - Đạt điểm trúng tuyển vào Học viện CSND (đối với các trường hợp đăng ký xét tuyển và ưu tiên xét tuyển tại Học viện CSND). - Xác nhận nguyện vọng nhập học sau khi nhận thông báo trúng tuyển trong thời gian quy định.",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-canh-sat-nhan-dan-CSH.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860100",
+            "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 1)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 21.72,
+            "note": "Kết hợp điểm thi THPT với điểm ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 2)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 23.71,
+            "note": "Kết hợp điểm thi THPT với điểm ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 3)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 22.89,
+            "note": "Kết hợp điểm thi THPT với điểm ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 8)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 18.67,
+            "note": "Kết hợp điểm thi THPT với điểm ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 1)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 25.24,
+            "note": "Kết hợp điểm thi THPT với điểm ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 2)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 26.01,
+            "note": "Kết hợp điểm thi THPT với điểm ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 3)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 25.38,
+            "note": "Kết hợp điểm thi THPT với điểm ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 8)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 20.64,
+            "note": "Kết hợp điểm thi THPT với điểm ĐGNL BCA"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-chung-chi-quoc-te",
+        "method_name": "Điểm chuẩn theo phương thức Chứng chỉ quốc tế năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860100",
+            "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 1)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 21.72,
+            "note": "Kết hợp CCNN Quốc tế với kết quả ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 2)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 23.71,
+            "note": "Kết hợp CCNN Quốc tế với kết quả ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 3)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 22.89,
+            "note": "Kết hợp CCNN Quốc tế với kết quả ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nam, vùng 8)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 18.67,
+            "note": "Kết hợp CCNN Quốc tế với kết quả ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 1)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 25.24,
+            "note": "Kết hợp CCNN Quốc tế với kết quả ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 2)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 26.01,
+            "note": "Kết hợp CCNN Quốc tế với kết quả ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 3)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 25.38,
+            "note": "Kết hợp CCNN Quốc tế với kết quả ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Nhóm ngành nghiệp vụ Cảnh sát (Thí sinh Nữ, vùng 8)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 20.64,
+            "note": "Kết hợp CCNN Quốc tế với kết quả ĐGNL BCA"
+          }
+        ]
+      }
+    ]
+  }
+}

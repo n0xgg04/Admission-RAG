@@ -1,0 +1,1569 @@
+{
+  "university": {
+    "code": "LNS",
+    "name": "Phân hiệu Đại Học Lâm nghiệp tại Đồng Nai",
+    "short_name": "VNUF2",
+    "location": [
+      "Đồng Nai"
+    ],
+    "address": "KP5, Thị trấn Trảng Bom, Huyện Trảng Bom, Tỉnh Đồng Nai",
+    "website": "www.vnuf2.edu.vn",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": 1000,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/phan-hieu-dai-hoc-lam-nghiep-tai-dong-nai-LNS.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2025/0725/thong-tin-tuyen-sinh-dai-hoc-lam-nghiep-tai-dong-nai-2025.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH PHÂN HIỆU ĐẠI HỌC LÂM NGHIỆP TẠI ĐỒNG NAI 2026 Thông tin tuyển sinh Phân hiệu Đại học Lâm nghiệp tại Đồng Nai (VNUF2) năm 2026 Năm 2026, Phân hiệu trường Đại học Lâm nghiệp tại tỉnh Đồng Nai (VNUF2) dự kiến tuyển sinh 1.000 chỉ tiêu trình độ Đại học chính quy cho 15 ngành đào tạo theo 03 phương thức xét tuyển gồm: 1. Xét tuyển bằng kết quả thi THPT năm 2026 2. Xét tuyển dựa vào kết quả học tập bậc THPT (Học bạ) 3. Xét tuyển dựa vào kết quả của kỳ thi đánh giá năng lực 2025 của ĐH Quốc Gia TP. HCM a) Phương thức 1: Xét tuyển theo điểm thi tốt nghiệp THPT (mã 100) Tổng điểm của tổ hợp 3 môn xét tuyển ≥ 15,0 điểm (Thang điểm 30). Trong đó, môn toán hoặc ngữ văn với trọng số tính điểm xét không thấp hơn 1/3 của tổng điểm theo thang điểm 30; b) Phương thức 2: Xét tuyển theo kết quả học tập bậc THPT (mã 200) Tổng điểm tổ hợp 3 môn xét tuyển của năm lớp 10, lớp 11, lớp 12 ≥ 18,0 điểm (Thang điểm 30). Trong đó, môn toán hoặc ngữ văn với trọng số tính điểm xét không thấp hơn 1/3 của tổng điểm theo thang điểm 30; c) Phương thức 3: Xét kết quả thi đánh giá năng lực của Đại học Quốc gia TP. HCM (mã 402) Tổng điểm xét tuyển ≥ 600 điểm (Thang điểm 1.200), tương đương với ≥ 15 điểm (Thang điểm 30). => Những thí sinh đã tốt nghiệp THPT (hoặc tương đương) từ năm 2025 trở về trước có thể đăng ký xét tuyển Online bằng kết quả học bạ THPT từ tháng 01/3/2026 Link đăng ký: https://xettuyen.vnuf2.edu.vn/#/dkxettuyen Với mức học phí chỉ từ 481.000 đồng/tín chỉ (tương đương 4-5 triệu đồng/học kỳ), nhằm trao cơ hội thực hiện ước mơ đại học cho thí sinh cả nước, VNUF2 thực hiện nhiều chính sách học bổng đa dạng và hấp dẫn trong năm 2026 và các chế độ miễn giảm học phí theo quy định của Nhà nước. Theo TTHN Khám phá thêm khoa học Máy tính và đồ điện tử Khóa học Trên đây là thông tin về phương thức tuyển sinh của trường Đại Học Lâm nghiệp tại tỉnh Đồng Nai 2026. Đề án tuyển sinh 2026 của trường sẽ được cập nhật trong thời gian tới, các em có thể tham khảo đề án 2025 đăng tải bên dưới.",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt---2025",
+      "method_name": "1 ĐIỂM THI THPT - 2025",
+      "description": "1.1 QUY CHẾ Xét tuyển những thí sinh đạt các điều kiện sau: Tốt nghiệp THPT; Có điểm thi TNTHPT năm 2025 các trong tổ hợp môn xét tuyển đạt ngưỡng đảm bảo chất lượng theo quy định của nhà trường. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM THI THPT NĂM 2025 STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7340101 Quản trị kinh doanh C00; C03; C04; D01; X01; X02 2 7340201 Tài chính ngân hàng C00; C03; C04; D01; X01; X02 3 7340301 Kế toán C00; C03; C04; D01; X01; X02 4 7480104 Hệ thống thông tin A00; A01",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét tuyển những thí sinh đạt các điều kiện sau: Tốt nghiệp THPT; Có điểm thi TNTHPT năm 2025 các trong tổ hợp môn xét tuyển đạt ngưỡng đảm bảo chất lượng theo quy định của nhà trường.",
+      "programs": [
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính ngân hàng",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7480104",
+          "program_name": "Hệ thống thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics & quản lý chuỗi cung ứng",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7580108",
+          "program_name": "Thiết kế nội thất",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7620105",
+          "program_name": "Chăn nuôi",
+          "subject_groups": [
+            "B00",
+            "B03",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7620110",
+          "program_name": "Khoa học cây trồng",
+          "subject_groups": [
+            "B00",
+            "B03",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7620112",
+          "program_name": "Bảo vệ thực vật",
+          "subject_groups": [
+            "B00",
+            "B03",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7620205",
+          "program_name": "Lâm sinh",
+          "subject_groups": [
+            "B00",
+            "B03",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7620211",
+          "program_name": "Quản lí tài nguyên rừng",
+          "subject_groups": [
+            "B00",
+            "B03",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị dịch vụ du lịch & lữ hành",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7850101",
+          "program_name": "Quản lí tài nguyên & Môi trường",
+          "subject_groups": [
+            "B00",
+            "B03",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7850103",
+          "program_name": "Quản lí đất đai",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-hoc-ba---2025",
+      "method_name": "2 ĐIỂM HỌC BẠ - 2025",
+      "description": "2.1 QUY CHẾ Xét tuyển những thí sinh đạt các điều kiện sau: Tốt nghiệp THPT; Đạt ít nhất 1 trong 2 tiêu chí sau: Điểm trung bình chung của tổ hợp các môn học dùng để xét tuyển cả năm lớp 12 đạt từ 6,0 điểm trở lên (theo thang điểm 10); Trung bình chung của tổng điểm trung bình chung học tập lớp 10, 11, 12 đạt từ 6,0 điểm trở lên (theo thang điểm 10). Những thí sinh đã tốt nghiệp THPT (hoặc tương đương) từ năm 2024 trở về trước có thể đăng ký xét tuyển Online bằng kết quả học bạ THPT từ tháng 01/",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét tuyển những thí sinh đạt các điều kiện sau: Tốt nghiệp THPT; Đạt ít nhất 1 trong 2 tiêu chí sau: Điểm trung bình chung của tổ hợp các môn học dùng để xét tuyển cả năm lớp 12 đạt từ 6,0 điểm trở lên (theo thang điểm 10); Trung bình chung của tổng điểm trung bình chung học tập lớp 10, 11, 12 đạt từ 6,0 điểm trở lên (theo thang điểm 10). Những thí sinh đã tốt nghiệp THPT (hoặc tương đương) từ năm 2024 trở về trước có thể đăng ký xét tuyển Online bằng kết quả học bạ THPT từ tháng 01/3/2025 2.2 THỜI GIAN XÉT TUYỂN Thời gian đăng ký: Từ 14/02/2025 Đến 15/07/2025",
+      "programs": [
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính ngân hàng",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7480104",
+          "program_name": "Hệ thống thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics & quản lý chuỗi cung ứng",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7580108",
+          "program_name": "Thiết kế nội thất",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7620105",
+          "program_name": "Chăn nuôi",
+          "subject_groups": [
+            "B00",
+            "B03",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7620110",
+          "program_name": "Khoa học cây trồng",
+          "subject_groups": [
+            "B00",
+            "B03",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7620112",
+          "program_name": "Bảo vệ thực vật",
+          "subject_groups": [
+            "B00",
+            "B03",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7620205",
+          "program_name": "Lâm sinh",
+          "subject_groups": [
+            "B00",
+            "B03",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7620211",
+          "program_name": "Quản lí tài nguyên rừng",
+          "subject_groups": [
+            "B00",
+            "B03",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị dịch vụ du lịch & lữ hành",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7850101",
+          "program_name": "Quản lí tài nguyên & Môi trường",
+          "subject_groups": [
+            "B00",
+            "B03",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7850103",
+          "program_name": "Quản lí đất đai",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        }
+      ]
+    },
+    {
+      "method_id": "3-iem-gnl-hcm---2025",
+      "method_name": "3 ĐIỂM ĐGNL HCM - 2025",
+      "description": "3.1 QUY CHẾ Xét tuyển những thí sinh đạt các điều kiện sau: Tốt nghiệp THPT; Có điểm kỳ thi đánh giá năng lực của trường ĐHQG TP. Hồ Chí Minh đảm bảo ngưỡng đảm bảo chất lượng đầu vào của nhà trường. 3.2 THỜI GIAN XÉT TUYỂN Thời gian đăng ký: Từ 14/02/2025 Đến 15/07/2025 DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐGNL HCM NĂM 2025 STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7340101 Quản trị kinh doanh C00; C03; C04; D01; X01; X02 2 7340201 Tài chính ngân hàng C00; C03; C04; D01; X01; X02 3 734030",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét tuyển những thí sinh đạt các điều kiện sau: Tốt nghiệp THPT; Có điểm kỳ thi đánh giá năng lực của trường ĐHQG TP. Hồ Chí Minh đảm bảo ngưỡng đảm bảo chất lượng đầu vào của nhà trường. 3.2 THỜI GIAN XÉT TUYỂN Thời gian đăng ký: Từ 14/02/2025 Đến 15/07/2025",
+      "programs": [
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính ngân hàng",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7480104",
+          "program_name": "Hệ thống thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics & quản lý chuỗi cung ứng",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7580108",
+          "program_name": "Thiết kế nội thất",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7620105",
+          "program_name": "Chăn nuôi",
+          "subject_groups": [
+            "B00",
+            "B03",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7620110",
+          "program_name": "Khoa học cây trồng",
+          "subject_groups": [
+            "B00",
+            "B03",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7620112",
+          "program_name": "Bảo vệ thực vật",
+          "subject_groups": [
+            "B00",
+            "B03",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7620205",
+          "program_name": "Lâm sinh",
+          "subject_groups": [
+            "B00",
+            "B03",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7620211",
+          "program_name": "Quản lí tài nguyên rừng",
+          "subject_groups": [
+            "B00",
+            "B03",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị dịch vụ du lịch & lữ hành",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7850101",
+          "program_name": "Quản lí tài nguyên & Môi trường",
+          "subject_groups": [
+            "B00",
+            "B03",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7850103",
+          "program_name": "Quản lí đất đai",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        }
+      ]
+    },
+    {
+      "method_id": "4-utxt-xt-thang---2025",
+      "method_name": "4 ƯTXT, XT THẲNG - 2025",
+      "description": "4.1 ĐỐI TƯỢNG Xét tuyển đối với thí sinh đạt các tiêu chí theo quy định trong quy chế tuyển sinh của Bộ Giáo dục & Đào tạo. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ƯTXT, XT THẲNG NĂM 2025 STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7340101 Quản trị kinh doanh C00; C03; C04; D01; X01; X02 2 7340201 Tài chính ngân hàng C00; C03; C04; D01; X01; X02 3 7340301 Kế toán C00; C03; C04; D01; X01; X02 4 7480104 Hệ thống thông tin A00; A01; C01; D01; X02; X03; X04 5 7510605 Logistics & quản lý chuỗi cung ứng ",
+      "eligibility": "ĐỐI TƯỢNG Xét tuyển đối với thí sinh đạt các tiêu chí theo quy định trong",
+      "rules": "quy chế tuyển sinh của Bộ Giáo dục & Đào tạo.",
+      "programs": [
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính ngân hàng",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7480104",
+          "program_name": "Hệ thống thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics & quản lý chuỗi cung ứng",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7580108",
+          "program_name": "Thiết kế nội thất",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7620105",
+          "program_name": "Chăn nuôi",
+          "subject_groups": [
+            "B00",
+            "B03",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7620110",
+          "program_name": "Khoa học cây trồng",
+          "subject_groups": [
+            "B00",
+            "B03",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7620112",
+          "program_name": "Bảo vệ thực vật",
+          "subject_groups": [
+            "B00",
+            "B03",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7620205",
+          "program_name": "Lâm sinh",
+          "subject_groups": [
+            "B00",
+            "B03",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7620211",
+          "program_name": "Quản lí tài nguyên rừng",
+          "subject_groups": [
+            "B00",
+            "B03",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị dịch vụ du lịch & lữ hành",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7850101",
+          "program_name": "Quản lí tài nguyên & Môi trường",
+          "subject_groups": [
+            "B00",
+            "B03",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7850103",
+          "program_name": "Quản lí đất đai",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính ngân hàng",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7480104",
+          "program_name": "Hệ thống thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics & quản lý chuỗi cung ứng",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7580108",
+          "program_name": "Thiết kế nội thất",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7620105",
+          "program_name": "Chăn nuôi",
+          "subject_groups": [
+            "B00",
+            "B03",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7620110",
+          "program_name": "Khoa học cây trồng",
+          "subject_groups": [
+            "B00",
+            "B03",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7620112",
+          "program_name": "Bảo vệ thực vật",
+          "subject_groups": [
+            "B00",
+            "B03",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7620205",
+          "program_name": "Lâm sinh",
+          "subject_groups": [
+            "B00",
+            "B03",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7620211",
+          "program_name": "Quản lí tài nguyên rừng",
+          "subject_groups": [
+            "B00",
+            "B03",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7640101",
+          "program_name": "ĐT THPTHọc BạƯu TiênĐGNL HCM",
+          "subject_groups": [
+            "B00",
+            "B03",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị dịch vụ du lịch & lữ hành",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7850101",
+          "program_name": "Quản lí tài nguyên & Môi trường",
+          "subject_groups": [
+            "B00",
+            "B03",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7850103",
+          "program_name": "Quản lí đất đai",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Phân hiệu Đại Học Lâm nghiệp tại Đồng Nai các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/phan-hieu-dai-hoc-lam-nghiep-tai-dong-nai-LNS.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "D01",
+              "X01",
+              "X02"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính ngân hàng",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "D01",
+              "X01",
+              "X02"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "D01",
+              "X01",
+              "X02"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7480104",
+            "program_name": "Hệ thống thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7510605",
+            "program_name": "Logistics & quản lý chuỗi cung ứng",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "D01",
+              "X01",
+              "X02"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7580108",
+            "program_name": "Thiết kế nội thất",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7620105",
+            "program_name": "Chăn nuôi",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "C02",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7620110",
+            "program_name": "Khoa học cây trồng",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "C02",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7620112",
+            "program_name": "Bảo vệ thực vật",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "C02",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7620205",
+            "program_name": "Lâm sinh",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "C02",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7620211",
+            "program_name": "Quản lí tài nguyên rừng",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "C02",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7640101",
+            "program_name": "Thú y",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "C02",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch & lữ hành",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "D01",
+              "X01",
+              "X02"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lí tài nguyên & Môi trường",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "C02",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7850103",
+            "program_name": "Quản lí đất đai",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 15,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "D01",
+              "X01",
+              "X02"
+            ],
+            "score": 18.8,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính ngân hàng",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "D01",
+              "X01",
+              "X02"
+            ],
+            "score": 18.8,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "D01",
+              "X01",
+              "X02"
+            ],
+            "score": 18.8,
+            "note": null
+          },
+          {
+            "program_code": "7480104",
+            "program_name": "Hệ thống thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7510605",
+            "program_name": "Logistics & quản lý chuỗi cung ứng",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "D01",
+              "X01",
+              "X02"
+            ],
+            "score": 18.8,
+            "note": null
+          },
+          {
+            "program_code": "7580108",
+            "program_name": "Thiết kế nội thất",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7620105",
+            "program_name": "Chăn nuôi",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "C02",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7620110",
+            "program_name": "Khoa học cây trồng",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "C02",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7620112",
+            "program_name": "Bảo vệ thực vật",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "C02",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7620205",
+            "program_name": "Lâm sinh",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "C02",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7620211",
+            "program_name": "Quản lí tài nguyên rừng",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "C02",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7640101",
+            "program_name": "Thú y",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "C02",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 18.8,
+            "note": null
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch & lữ hành",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "D01",
+              "X01",
+              "X02"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lí tài nguyên & Môi trường",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "C02",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7850103",
+            "program_name": "Quản lí đất đai",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 18,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

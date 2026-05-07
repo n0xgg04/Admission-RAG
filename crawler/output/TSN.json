@@ -1,0 +1,3877 @@
+{
+  "university": {
+    "code": "TSN",
+    "name": "Đại học Nha Trang",
+    "short_name": "NTU",
+    "location": [
+      "Khánh Hòa"
+    ],
+    "address": "Số 02, Nguyễn Đình Chiểu, phường Vĩnh Thọ, Thành phố Nha Trang, Khánh Hòa.",
+    "website": "http://www.ntu.edu.vn",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": 3800,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-nha-trang-TSN.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0408/thong-tin-tuyen-sinh-truong-dai-hoc-nha-trang-2026.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC NHA TRANG 2026 Thông tin tuyển sinh trường Đại Học Nha Trang (NTU) năm 2026 Trường Đại học Nha Trang dự kiến tuyển 3.800 chỉ tiêu cho 71 chương trình đào tạo thuộc 50 mã xét tuyển. Trường tuyển sinh theo 3 phương thức: - Phương thức 1: Xét tuyển thẳng và ưu tiên xét tuyển theo quy chế của Bộ GD&ĐT; - Phương thức 2: Xét tuyển dựa vào điểm đánh giá năng lực của Đại học Quốc gia TPHCM và điểm đánh giá năng lực của Đại học Quốc gia Hà Nội năm 2026; - Phương thức 3: Xét tuyển dựa vào điểm thi tốt nghiệp THPT năm 2026 Khám phá thêm khoá học Toán học Khoa học Máy tính",
+  "admission_methods": [
+    {
+      "method_id": "1-utxt-xt-thang",
+      "method_name": "1 ƯTXT, XT THẲNG",
+      "description": "1.1 QUY CHẾ Tuyển thẳng theo quy định của Bộ GD-ĐT DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ƯTXT, XT THẲNG STT Mã ngành Tên ngành Tổ hợp Ghi chú 1. Chương trình đào tạo chuẩn 1 7220201 Ngôn ngữ Anh (04 chuyên ngành: Biên - phiên dịch; Tiếng Anh du lịch; Giảng dạy Tiếng Anh; Song ngữ Anh -Trung) 2 7310101 Kinh tế (02 chuyên ngành: Kinh tế thủy sản; Quản lý kinh tế) 3 7310105 Kinh tế phát triển 4 7340101 Quản trị kinh doanh 5 7340115 Marketing 6 7340121 Kinh doanh thương mại 7 7340201 Tài chính - ",
+      "eligibility": null,
+      "rules": "QUY CHẾ Tuyển thẳng theo quy định của Bộ GD-ĐT",
+      "programs": [
+        {
+          "program_code": "7310105",
+          "program_name": "Kinh tế phát triển",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340121",
+          "program_name": "Kinh doanh thương mại",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7340302",
+          "program_name": "Kiểm toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7340405",
+          "program_name": "Hệ thống thông tin quản lý",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7510202",
+          "program_name": "Công nghệ chế tạo máy",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7520116",
+          "program_name": "Kỹ thuật cơ khí động lực",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7520122",
+          "program_name": "Kỹ thuật tàu thủy",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7520130",
+          "program_name": "Kỹ thuật ô tô",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "Kỹ thuật điện (chuyên ngành Kỹ thuật điện, điện tử)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7520206",
+          "program_name": "Kỹ thuật biển (Giàn khoan và Tuabin gió)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "24"
+        },
+        {
+          "program_code": "7520301",
+          "program_name": "Kỹ thuật hoá học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "25"
+        },
+        {
+          "program_code": "7540105",
+          "program_name": "Công nghệ chế biến thuỷ sản",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "28"
+        },
+        {
+          "program_code": "7540106",
+          "program_name": "Đảm bảo chất lượng và an toàn thưc phẩm",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "29"
+        },
+        {
+          "program_code": "7580205",
+          "program_name": "Kỹ thuật xây dựng công trình giao thông",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "31"
+        },
+        {
+          "program_code": "7620301",
+          "program_name": "Nuôi trồng thuỷ sản",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "32"
+        },
+        {
+          "program_code": "7620303",
+          "program_name": "Khoa học thủy sản (02 chuyên ngành: Khoa học thủy sản, Khai thác thủy sản)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "33"
+        },
+        {
+          "program_code": "7620305",
+          "program_name": "Quản lý thuỷ sản",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "34"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "35"
+        },
+        {
+          "program_code": "7810201",
+          "program_name": "Quản trị khách sạn",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "50"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-thi-thpt",
+      "method_name": "2 ĐIỂM THI THPT",
+      "description": "2.1 QUY CHẾ Điểm thi tốt nghiệp THPT năm 2026 (Tổ hợp 4 môn thi, thang điểm 40) DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM THI THPT STT Mã ngành Tên ngành Tổ hợp Ghi chú 1. Chương trình đào tạo chuẩn 1 7220201 Ngôn ngữ Anh (04 chuyên ngành: Biên - phiên dịch; Tiếng Anh du lịch; Giảng dạy Tiếng Anh; Song ngữ Anh -Trung) D01; (Toán, Văn, Anh, Sử); (Toán, Văn, Anh, Địa); (Toán, Văn, Anh, GDKTPL) Toán nhân hệ số 2 2 7310101 Kinh tế (02 chuyên ngành: Kinh tế thủy sản; Quản lý kinh tế) D01; X01; X0",
+      "eligibility": null,
+      "rules": "QUY CHẾ Điểm thi tốt nghiệp THPT năm 2026 (Tổ hợp 4 môn thi, thang điểm 40)",
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Toán nhân hệ số 2",
+          "subject_groups": [
+            "Ngôn ngữ Anh (04 chuyên ngành: Biên - phiên dịch",
+            "Tiếng Anh du lịch",
+            "Giảng dạy Tiếng Anh",
+            "Song ngữ Anh -Trung)"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310101",
+          "program_name": "Toán nhân hệ số 2",
+          "subject_groups": [
+            "Kinh tế (02 chuyên ngành: Kinh tế thủy sản",
+            "Quản lý kinh tế)"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7310105",
+          "program_name": "Kinh tế phát triển",
+          "subject_groups": [
+            "D01",
+            "X01",
+            "X02",
+            "C04"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "D01",
+            "X01",
+            "X02",
+            "C04"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [
+            "D01",
+            "X01",
+            "X02",
+            "C04"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340121",
+          "program_name": "Kinh doanh thương mại",
+          "subject_groups": [
+            "D01",
+            "X01",
+            "X02",
+            "C04"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Toán nhân hệ số 2",
+          "subject_groups": [
+            "Tài chính - Ngân hàng (02 chuyên ngành: Tài chính - Ngân hàng",
+            "Công nghệ tài chính)"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "D01",
+            "X01",
+            "X02",
+            "C04"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7340302",
+          "program_name": "Kiểm toán",
+          "subject_groups": [
+            "D01",
+            "X01",
+            "X02",
+            "C04"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7340405",
+          "program_name": "Hệ thống thông tin quản lý",
+          "subject_groups": [
+            "D01",
+            "X01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7380101",
+          "program_name": "Văn nhân hệ số 2",
+          "subject_groups": [
+            "Luật (02 chuyên ngành: Luật",
+            "Luật kinh tế)"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [
+            "(Toán",
+            "Văn",
+            "Anh",
+            "Sinh)",
+            "(Toán",
+            "Văn",
+            "Anh",
+            "Hóa)",
+            "B03",
+            "C02",
+            "X03",
+            "X04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính",
+          "subject_groups": [
+            "X02",
+            "C01",
+            "X03",
+            "X04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "X02",
+            "C01",
+            "X03",
+            "D01",
+            "C01",
+            "X02",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7510202",
+          "program_name": "Công nghệ chế tạo máy",
+          "subject_groups": [
+            "(Toán",
+            "Văn",
+            "Anh",
+            "Lí)",
+            "(Toán",
+            "Văn",
+            "Lí",
+            "Hóa)",
+            "C01",
+            "X02",
+            "X03",
+            "X04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7520103",
+          "program_name": "Toán nhân hệ số 2",
+          "subject_groups": [
+            "Kỹ thuật cơ khí (02 chuyên ngành: Kỹ thuật cơ khí",
+            "Thiết kế và chế tạo số)"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7520114",
+          "program_name": "Toán nhân hệ số 2",
+          "subject_groups": [
+            "Kỹ thuật cơ điện tử (02 chuyên ngành: Kỹ thuật cơ điện tử",
+            "Hệ thống nhúng và IoT)"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7520115",
+          "program_name": "Toán nhân hệ số 2",
+          "subject_groups": [
+            "Kỹ thuật nhiệt (03 chuyên ngành: Kỹ thuật cơ điện lạnh",
+            "Điện lạnh",
+            "Cơ điện lạnh)"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7520116",
+          "program_name": "Kỹ thuật cơ khí động lực",
+          "subject_groups": [
+            "(Toán",
+            "Văn",
+            "Anh",
+            "Lí)",
+            "(Toán",
+            "Văn",
+            "Lí",
+            "Hóa)",
+            "C01",
+            "X02",
+            "X03",
+            "X04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7520122",
+          "program_name": "Kỹ thuật tàu thủy",
+          "subject_groups": [
+            "(Toán",
+            "Văn",
+            "Anh",
+            "Lí)",
+            "(Toán",
+            "Văn",
+            "Lí",
+            "Hóa)",
+            "C01",
+            "X02",
+            "X03",
+            "X04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7520130",
+          "program_name": "Kỹ thuật ô tô",
+          "subject_groups": [
+            "(Toán",
+            "Văn",
+            "Anh",
+            "Lí)",
+            "(Toán",
+            "Văn",
+            "Lí",
+            "Hóa)",
+            "C01",
+            "X02",
+            "X03",
+            "X04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "Kỹ thuật điện (chuyên ngành Kỹ thuật điện, điện tử)",
+          "subject_groups": [
+            "(Toán",
+            "Văn",
+            "Anh",
+            "Lí)",
+            "(Toán",
+            "Văn",
+            "Lí",
+            "Hóa)",
+            "C01",
+            "X02",
+            "X03",
+            "X04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7520206",
+          "program_name": "Kỹ thuật biển (Giàn khoan và Tuabin gió)",
+          "subject_groups": [
+            "(Toán",
+            "Văn",
+            "Anh",
+            "Lí)",
+            "(Toán",
+            "Văn",
+            "Lí",
+            "Hóa)",
+            "C01",
+            "X02",
+            "X03",
+            "X04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [
+            "(Toán",
+            "Văn",
+            "Anh",
+            "Lí)",
+            "(Toán",
+            "Văn",
+            "Lí",
+            "Hóa)",
+            "C01",
+            "X02",
+            "X03",
+            "X04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "24"
+        },
+        {
+          "program_code": "7520301",
+          "program_name": "Kỹ thuật hoá học",
+          "subject_groups": [
+            "(Toán",
+            "Văn",
+            "Anh",
+            "Hóa)",
+            "(Toán",
+            "Văn",
+            "Lí",
+            "Hóa)",
+            "B03",
+            "C02",
+            "X03",
+            "X04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "25"
+        },
+        {
+          "program_code": "7520320",
+          "program_name": "Toán nhân hệ số 2",
+          "subject_groups": [
+            "Kỹ thuật môi trường (02 chuyên ngành: Kỹ thuật môi trường",
+            "Quản lý môi trường và an toàn vệ sinh lao động)"
+          ],
+          "program_type": "chuẩn",
+          "note": "26"
+        },
+        {
+          "program_code": "7540101",
+          "program_name": "Toán nhân hệ số 2",
+          "subject_groups": [
+            "Công nghệ thực phẩm (02 chuyên ngành: Công nghệ thực phẩm",
+            "Dinh dưỡng và ẩm thực)"
+          ],
+          "program_type": "chuẩn",
+          "note": "27"
+        },
+        {
+          "program_code": "7540105",
+          "program_name": "Công nghệ chế biến thuỷ sản",
+          "subject_groups": [
+            "(Toán",
+            "Văn",
+            "Anh",
+            "Sinh)",
+            "(Toán",
+            "Văn",
+            "Anh",
+            "Hóa)",
+            "B03",
+            "C02",
+            "X03",
+            "X04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "28"
+        },
+        {
+          "program_code": "7540106",
+          "program_name": "Đảm bảo chất lượng và an toàn thưc phẩm",
+          "subject_groups": [
+            "(Toán",
+            "Văn",
+            "Anh",
+            "Sinh)",
+            "(Toán",
+            "Văn",
+            "Anh",
+            "Hóa)",
+            "B03",
+            "C02",
+            "X03",
+            "X04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "29"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Toán nhân hệ số 2",
+          "subject_groups": [
+            "Kỹ thuật xây dựng (02 chuyên ngành: Kỹ thuật xây dựng",
+            "Quản lý xây dựng)"
+          ],
+          "program_type": "chuẩn",
+          "note": "30"
+        },
+        {
+          "program_code": "7580205",
+          "program_name": "Kỹ thuật xây dựng công trình giao thông",
+          "subject_groups": [
+            "(Toán",
+            "Văn",
+            "Anh",
+            "Lí)",
+            "(Toán",
+            "Văn",
+            "Lí",
+            "Hóa)",
+            "C01",
+            "X02",
+            "X03",
+            "X04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "31"
+        },
+        {
+          "program_code": "7620301",
+          "program_name": "Nuôi trồng thuỷ sản",
+          "subject_groups": [
+            "B03",
+            "C02",
+            "X03",
+            "X04",
+            "D01",
+            "(Toán",
+            "Văn",
+            "Anh",
+            "Sinh)",
+            "(Toán",
+            "Văn",
+            "Anh",
+            "Hóa)",
+            "(Toán",
+            "Văn",
+            "Lí",
+            "Hóa)",
+            "B03"
+          ],
+          "program_type": "chuẩn",
+          "note": "32"
+        },
+        {
+          "program_code": "7620303",
+          "program_name": "Khoa học thủy sản (02 chuyên ngành: Khoa học thủy sản, Khai thác thủy sản)",
+          "subject_groups": [
+            "B03",
+            "C02",
+            "X02",
+            "X03",
+            "X04",
+            "D01",
+            "(Toán",
+            "Văn",
+            "Anh",
+            "Sinh)"
+          ],
+          "program_type": "chuẩn",
+          "note": "33"
+        },
+        {
+          "program_code": "7620305",
+          "program_name": "Quản lý thuỷ sản",
+          "subject_groups": [
+            "(Toán",
+            "Văn",
+            "Anh",
+            "Sinh)",
+            "B03",
+            "C02",
+            "X02",
+            "X03",
+            "X04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "34"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+          "subject_groups": [
+            "D01",
+            "X01",
+            "X02",
+            "C03",
+            "C04"
+          ],
+          "program_type": "chuẩn",
+          "note": "35"
+        },
+        {
+          "program_code": "7810201",
+          "program_name": "Quản trị khách sạn",
+          "subject_groups": [
+            "D01",
+            "X01",
+            "X02",
+            "C03",
+            "C04"
+          ],
+          "program_type": "chuẩn",
+          "note": "36"
+        },
+        {
+          "program_code": "7840106",
+          "program_name": "Toán nhân hệ số 2",
+          "subject_groups": [
+            "Khoa học hàng hải (02 chuyên ngành: Khoa học hàng hải",
+            "Quản lý hàng hải và Logistics)"
+          ],
+          "program_type": "chuẩn",
+          "note": "37"
+        }
+      ]
+    },
+    {
+      "method_id": "3-iem-gnl-hn",
+      "method_name": "3 ĐIỂM ĐGNL HN",
+      "description": "3.1 QUY CHẾ Thang điểm 150 của ĐHQG-HN) DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐGNL HN STT Mã ngành Tên ngành Tổ hợp Ghi chú 1. Chương trình đào tạo chuẩn 1 7220201 Ngôn ngữ Anh (04 chuyên ngành: Biên - phiên dịch; Tiếng Anh du lịch; Giảng dạy Tiếng Anh; Song ngữ Anh -Trung) 2 7310101 Kinh tế (02 chuyên ngành: Kinh tế thủy sản; Quản lý kinh tế) 3 7310105 Kinh tế phát triển 4 7340101 Quản trị kinh doanh 5 7340115 Marketing 6 7340121 Kinh doanh thương mại 7 7340201 Tài chính - Ngân hàng (02",
+      "eligibility": null,
+      "rules": "QUY CHẾ Thang điểm 150 của ĐHQG-HN)",
+      "programs": [
+        {
+          "program_code": "7310105",
+          "program_name": "Kinh tế phát triển",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340121",
+          "program_name": "Kinh doanh thương mại",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7340302",
+          "program_name": "Kiểm toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7340405",
+          "program_name": "Hệ thống thông tin quản lý",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7510202",
+          "program_name": "Công nghệ chế tạo máy",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7520116",
+          "program_name": "Kỹ thuật cơ khí động lực",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7520122",
+          "program_name": "Kỹ thuật tàu thủy",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7520130",
+          "program_name": "Kỹ thuật ô tô",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "Kỹ thuật điện (chuyên ngành Kỹ thuật điện, điện tử)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7520206",
+          "program_name": "Kỹ thuật biển (Giàn khoan và Tuabin gió)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "24"
+        },
+        {
+          "program_code": "7520301",
+          "program_name": "Kỹ thuật hoá học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "25"
+        },
+        {
+          "program_code": "7540105",
+          "program_name": "Công nghệ chế biến thuỷ sản",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "28"
+        },
+        {
+          "program_code": "7540106",
+          "program_name": "Đảm bảo chất lượng và an toàn thưc phẩm",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "29"
+        },
+        {
+          "program_code": "7580205",
+          "program_name": "Kỹ thuật xây dựng công trình giao thông",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "31"
+        },
+        {
+          "program_code": "7620301",
+          "program_name": "Nuôi trồng thuỷ sản",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "32"
+        },
+        {
+          "program_code": "7620303",
+          "program_name": "Khoa học thủy sản (02 chuyên ngành: Khoa học thủy sản, Khai thác thủy sản)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "33"
+        },
+        {
+          "program_code": "7620305",
+          "program_name": "Quản lý thuỷ sản",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "34"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "35"
+        },
+        {
+          "program_code": "7810201",
+          "program_name": "Quản trị khách sạn",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "50"
+        }
+      ]
+    },
+    {
+      "method_id": "4-iem-gnl-hcm",
+      "method_name": "4 ĐIỂM ĐGNL HCM",
+      "description": "4.1 QUY CHẾ Thang điểm 1200 của ĐHQG-HCM DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐGNL HCM STT Mã ngành Tên ngành Tổ hợp Ghi chú 1. Chương trình đào tạo chuẩn 1 7220201 Ngôn ngữ Anh (04 chuyên ngành: Biên - phiên dịch; Tiếng Anh du lịch; Giảng dạy Tiếng Anh; Song ngữ Anh -Trung) 2 7310101 Kinh tế (02 chuyên ngành: Kinh tế thủy sản; Quản lý kinh tế) 3 7310105 Kinh tế phát triển 4 7340101 Quản trị kinh doanh 5 7340115 Marketing 6 7340121 Kinh doanh thương mại 7 7340201 Tài chính - Ngân hàng (",
+      "eligibility": null,
+      "rules": "QUY CHẾ Thang điểm 1200 của ĐHQG-HCM",
+      "programs": [
+        {
+          "program_code": "7310105",
+          "program_name": "Kinh tế phát triển",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340121",
+          "program_name": "Kinh doanh thương mại",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7340302",
+          "program_name": "Kiểm toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7340405",
+          "program_name": "Hệ thống thông tin quản lý",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7510202",
+          "program_name": "Công nghệ chế tạo máy",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7520116",
+          "program_name": "Kỹ thuật cơ khí động lực",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7520122",
+          "program_name": "Kỹ thuật tàu thủy",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7520130",
+          "program_name": "Kỹ thuật ô tô",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "Kỹ thuật điện (chuyên ngành Kỹ thuật điện, điện tử)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7520206",
+          "program_name": "Kỹ thuật biển (Giàn khoan và Tuabin gió)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "24"
+        },
+        {
+          "program_code": "7520301",
+          "program_name": "Kỹ thuật hoá học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "25"
+        },
+        {
+          "program_code": "7540105",
+          "program_name": "Công nghệ chế biến thuỷ sản",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "28"
+        },
+        {
+          "program_code": "7540106",
+          "program_name": "Đảm bảo chất lượng và an toàn thưc phẩm",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "29"
+        },
+        {
+          "program_code": "7580205",
+          "program_name": "Kỹ thuật xây dựng công trình giao thông",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "31"
+        },
+        {
+          "program_code": "7620301",
+          "program_name": "Nuôi trồng thuỷ sản",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "32"
+        },
+        {
+          "program_code": "7620303",
+          "program_name": "Khoa học thủy sản (02 chuyên ngành: Khoa học thủy sản, Khai thác thủy sản)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "33"
+        },
+        {
+          "program_code": "7620305",
+          "program_name": "Quản lý thuỷ sản",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "34"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "35"
+        },
+        {
+          "program_code": "7810201",
+          "program_name": "Quản trị khách sạn",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "50"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "ĐGNL HCMĐGNL HNƯu Tiên",
+          "subject_groups": [
+            "Ngôn ngữ Anh (04 chuyên ngành: Biên - phiên dịch",
+            "Tiếng Anh du lịch",
+            "Giảng dạy Tiếng Anh",
+            "Song ngữ Anh -Trung)"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "ĐT THPT",
+          "subject_groups": [
+            "Ngôn ngữ Anh (04 chuyên ngành: Biên - phiên dịch",
+            "Tiếng Anh du lịch",
+            "Giảng dạy Tiếng Anh",
+            "Song ngữ Anh -Trung)"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310101",
+          "program_name": "Ưu TiênĐGNL HCMĐGNL HN",
+          "subject_groups": [
+            "Kinh tế (02 chuyên ngành: Kinh tế thủy sản",
+            "Quản lý kinh tế)"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7310101",
+          "program_name": "ĐT THPT",
+          "subject_groups": [
+            "Kinh tế (02 chuyên ngành: Kinh tế thủy sản",
+            "Quản lý kinh tế)"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7310105",
+          "program_name": "Kinh tế phát triển",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7310105",
+          "program_name": "Kinh tế phát triển",
+          "subject_groups": [
+            "D01",
+            "X01",
+            "X02",
+            "C04"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "D01",
+            "X01",
+            "X02",
+            "C04"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [
+            "D01",
+            "X01",
+            "X02",
+            "C04"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340121",
+          "program_name": "Kinh doanh thương mại",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340121",
+          "program_name": "Kinh doanh thương mại",
+          "subject_groups": [
+            "D01",
+            "X01",
+            "X02",
+            "C04"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "ĐGNL HCMĐGNL HNƯu Tiên",
+          "subject_groups": [
+            "Tài chính - Ngân hàng (02 chuyên ngành: Tài chính - Ngân hàng",
+            "Công nghệ tài chính)"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "ĐT THPT",
+          "subject_groups": [
+            "Tài chính - Ngân hàng (02 chuyên ngành: Tài chính - Ngân hàng",
+            "Công nghệ tài chính)"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "D01",
+            "X01",
+            "X02",
+            "C04"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7340302",
+          "program_name": "Kiểm toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7340302",
+          "program_name": "Kiểm toán",
+          "subject_groups": [
+            "D01",
+            "X01",
+            "X02",
+            "C04"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7340405",
+          "program_name": "Hệ thống thông tin quản lý",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7340405",
+          "program_name": "Hệ thống thông tin quản lý",
+          "subject_groups": [
+            "D01",
+            "X01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7380101",
+          "program_name": "ĐGNL HCMĐGNL HNƯu Tiên",
+          "subject_groups": [
+            "Luật (02 chuyên ngành: Luật",
+            "Luật kinh tế)"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7380101",
+          "program_name": "ĐT THPT",
+          "subject_groups": [
+            "Luật (02 chuyên ngành: Luật",
+            "Luật kinh tế)"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [
+            "(Toán",
+            "Văn",
+            "Anh",
+            "Sinh)",
+            "(Toán",
+            "Văn",
+            "Anh",
+            "Hóa)",
+            "B03",
+            "C02",
+            "X03",
+            "X04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính",
+          "subject_groups": [
+            "X02",
+            "C01",
+            "X03",
+            "X04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "X02",
+            "C01",
+            "X03",
+            "D01",
+            "C01",
+            "X02",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7510202",
+          "program_name": "Công nghệ chế tạo máy",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7510202",
+          "program_name": "Công nghệ chế tạo máy",
+          "subject_groups": [
+            "(Toán",
+            "Văn",
+            "Anh",
+            "Lí)",
+            "(Toán",
+            "Văn",
+            "Lí",
+            "Hóa)",
+            "C01",
+            "X02",
+            "X03",
+            "X04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7520103",
+          "program_name": "ĐGNL HCMĐGNL HNƯu Tiên",
+          "subject_groups": [
+            "Kỹ thuật cơ khí (02 chuyên ngành: Kỹ thuật cơ khí",
+            "Thiết kế và chế tạo số)"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7520103",
+          "program_name": "ĐT THPT",
+          "subject_groups": [
+            "Kỹ thuật cơ khí (02 chuyên ngành: Kỹ thuật cơ khí",
+            "Thiết kế và chế tạo số)"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7520114",
+          "program_name": "ĐGNL HCMĐGNL HNƯu Tiên",
+          "subject_groups": [
+            "Kỹ thuật cơ điện tử (02 chuyên ngành: Kỹ thuật cơ điện tử",
+            "Hệ thống nhúng và IoT)"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7520114",
+          "program_name": "ĐT THPT",
+          "subject_groups": [
+            "Kỹ thuật cơ điện tử (02 chuyên ngành: Kỹ thuật cơ điện tử",
+            "Hệ thống nhúng và IoT)"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7520115",
+          "program_name": "ĐGNL HCMĐGNL HNƯu Tiên",
+          "subject_groups": [
+            "Kỹ thuật nhiệt (03 chuyên ngành: Kỹ thuật cơ điện lạnh",
+            "Điện lạnh",
+            "Cơ điện lạnh)"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7520115",
+          "program_name": "ĐT THPT",
+          "subject_groups": [
+            "Kỹ thuật nhiệt (03 chuyên ngành: Kỹ thuật cơ điện lạnh",
+            "Điện lạnh",
+            "Cơ điện lạnh)"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7520116",
+          "program_name": "Kỹ thuật cơ khí động lực",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7520116",
+          "program_name": "Kỹ thuật cơ khí động lực",
+          "subject_groups": [
+            "(Toán",
+            "Văn",
+            "Anh",
+            "Lí)",
+            "(Toán",
+            "Văn",
+            "Lí",
+            "Hóa)",
+            "C01",
+            "X02",
+            "X03",
+            "X04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7520122",
+          "program_name": "Kỹ thuật tàu thủy",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7520122",
+          "program_name": "Kỹ thuật tàu thủy",
+          "subject_groups": [
+            "(Toán",
+            "Văn",
+            "Anh",
+            "Lí)",
+            "(Toán",
+            "Văn",
+            "Lí",
+            "Hóa)",
+            "C01",
+            "X02",
+            "X03",
+            "X04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7520130",
+          "program_name": "Kỹ thuật ô tô",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7520130",
+          "program_name": "Kỹ thuật ô tô",
+          "subject_groups": [
+            "(Toán",
+            "Văn",
+            "Anh",
+            "Lí)",
+            "(Toán",
+            "Văn",
+            "Lí",
+            "Hóa)",
+            "C01",
+            "X02",
+            "X03",
+            "X04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "Kỹ thuật điện (chuyên ngành Kỹ thuật điện, điện tử)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "Kỹ thuật điện (chuyên ngành Kỹ thuật điện, điện tử)",
+          "subject_groups": [
+            "(Toán",
+            "Văn",
+            "Anh",
+            "Lí)",
+            "(Toán",
+            "Văn",
+            "Lí",
+            "Hóa)",
+            "C01",
+            "X02",
+            "X03",
+            "X04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7520206",
+          "program_name": "Kỹ thuật biển (Giàn khoan và Tuabin gió)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7520206",
+          "program_name": "Kỹ thuật biển (Giàn khoan và Tuabin gió)",
+          "subject_groups": [
+            "(Toán",
+            "Văn",
+            "Anh",
+            "Lí)",
+            "(Toán",
+            "Văn",
+            "Lí",
+            "Hóa)",
+            "C01",
+            "X02",
+            "X03",
+            "X04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "24"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [
+            "(Toán",
+            "Văn",
+            "Anh",
+            "Lí)",
+            "(Toán",
+            "Văn",
+            "Lí",
+            "Hóa)",
+            "C01",
+            "X02",
+            "X03",
+            "X04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "24"
+        },
+        {
+          "program_code": "7520301",
+          "program_name": "Kỹ thuật hoá học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "25"
+        },
+        {
+          "program_code": "7520301",
+          "program_name": "Kỹ thuật hoá học",
+          "subject_groups": [
+            "(Toán",
+            "Văn",
+            "Anh",
+            "Hóa)",
+            "(Toán",
+            "Văn",
+            "Lí",
+            "Hóa)",
+            "B03",
+            "C02",
+            "X03",
+            "X04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "25"
+        },
+        {
+          "program_code": "7520320",
+          "program_name": "ĐGNL HCMĐGNL HNƯu Tiên",
+          "subject_groups": [
+            "Kỹ thuật môi trường (02 chuyên ngành: Kỹ thuật môi trường",
+            "Quản lý môi trường và an toàn vệ sinh lao động)"
+          ],
+          "program_type": "chuẩn",
+          "note": "26"
+        },
+        {
+          "program_code": "7520320",
+          "program_name": "ĐT THPT",
+          "subject_groups": [
+            "Kỹ thuật môi trường (02 chuyên ngành: Kỹ thuật môi trường",
+            "Quản lý môi trường và an toàn vệ sinh lao động)"
+          ],
+          "program_type": "chuẩn",
+          "note": "26"
+        },
+        {
+          "program_code": "7540101",
+          "program_name": "ĐGNL HCMĐGNL HNƯu Tiên",
+          "subject_groups": [
+            "Công nghệ thực phẩm (02 chuyên ngành: Công nghệ thực phẩm",
+            "Dinh dưỡng và ẩm thực)"
+          ],
+          "program_type": "chuẩn",
+          "note": "27"
+        },
+        {
+          "program_code": "7540101",
+          "program_name": "ĐT THPT",
+          "subject_groups": [
+            "Công nghệ thực phẩm (02 chuyên ngành: Công nghệ thực phẩm",
+            "Dinh dưỡng và ẩm thực)"
+          ],
+          "program_type": "chuẩn",
+          "note": "27"
+        },
+        {
+          "program_code": "7540105",
+          "program_name": "Công nghệ chế biến thuỷ sản",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "28"
+        },
+        {
+          "program_code": "7540105",
+          "program_name": "Công nghệ chế biến thuỷ sản",
+          "subject_groups": [
+            "(Toán",
+            "Văn",
+            "Anh",
+            "Sinh)",
+            "(Toán",
+            "Văn",
+            "Anh",
+            "Hóa)",
+            "B03",
+            "C02",
+            "X03",
+            "X04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "28"
+        },
+        {
+          "program_code": "7540106",
+          "program_name": "Đảm bảo chất lượng và an toàn thưc phẩm",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "29"
+        },
+        {
+          "program_code": "7540106",
+          "program_name": "Đảm bảo chất lượng và an toàn thưc phẩm",
+          "subject_groups": [
+            "(Toán",
+            "Văn",
+            "Anh",
+            "Sinh)",
+            "(Toán",
+            "Văn",
+            "Anh",
+            "Hóa)",
+            "B03",
+            "C02",
+            "X03",
+            "X04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "29"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "ĐGNL HCMĐGNL HNƯu Tiên",
+          "subject_groups": [
+            "Kỹ thuật xây dựng (02 chuyên ngành: Kỹ thuật xây dựng",
+            "Quản lý xây dựng)"
+          ],
+          "program_type": "chuẩn",
+          "note": "30"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "ĐT THPT",
+          "subject_groups": [
+            "Kỹ thuật xây dựng (02 chuyên ngành: Kỹ thuật xây dựng",
+            "Quản lý xây dựng)"
+          ],
+          "program_type": "chuẩn",
+          "note": "30"
+        },
+        {
+          "program_code": "7580205",
+          "program_name": "Kỹ thuật xây dựng công trình giao thông",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "31"
+        },
+        {
+          "program_code": "7580205",
+          "program_name": "Kỹ thuật xây dựng công trình giao thông",
+          "subject_groups": [
+            "(Toán",
+            "Văn",
+            "Anh",
+            "Lí)",
+            "(Toán",
+            "Văn",
+            "Lí",
+            "Hóa)",
+            "C01",
+            "X02",
+            "X03",
+            "X04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "31"
+        },
+        {
+          "program_code": "7620301",
+          "program_name": "Nuôi trồng thuỷ sản",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "32"
+        },
+        {
+          "program_code": "7620301",
+          "program_name": "Nuôi trồng thuỷ sản",
+          "subject_groups": [
+            "B03",
+            "C02",
+            "X03",
+            "X04",
+            "D01",
+            "(Toán",
+            "Văn",
+            "Anh",
+            "Sinh)",
+            "(Toán",
+            "Văn",
+            "Anh",
+            "Hóa)",
+            "(Toán",
+            "Văn",
+            "Lí",
+            "Hóa)",
+            "B03"
+          ],
+          "program_type": "chuẩn",
+          "note": "32"
+        },
+        {
+          "program_code": "7620303",
+          "program_name": "Khoa học thủy sản (02 chuyên ngành: Khoa học thủy sản, Khai thác thủy sản)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "33"
+        },
+        {
+          "program_code": "7620303",
+          "program_name": "Khoa học thủy sản (02 chuyên ngành: Khoa học thủy sản, Khai thác thủy sản)",
+          "subject_groups": [
+            "B03",
+            "C02",
+            "X02",
+            "X03",
+            "X04",
+            "D01",
+            "(Toán",
+            "Văn",
+            "Anh",
+            "Sinh)"
+          ],
+          "program_type": "chuẩn",
+          "note": "33"
+        },
+        {
+          "program_code": "7620305",
+          "program_name": "Quản lý thuỷ sản",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "34"
+        },
+        {
+          "program_code": "7620305",
+          "program_name": "Quản lý thuỷ sản",
+          "subject_groups": [
+            "(Toán",
+            "Văn",
+            "Anh",
+            "Sinh)",
+            "B03",
+            "C02",
+            "X02",
+            "X03",
+            "X04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "34"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "35"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+          "subject_groups": [
+            "D01",
+            "X01",
+            "X02",
+            "C03",
+            "C04"
+          ],
+          "program_type": "chuẩn",
+          "note": "35"
+        },
+        {
+          "program_code": "7810201",
+          "program_name": "Quản trị khách sạn",
+          "subject_groups": [
+            "D01",
+            "X01",
+            "X02",
+            "C03",
+            "C04"
+          ],
+          "program_type": "chuẩn",
+          "note": "36"
+        },
+        {
+          "program_code": "7840106",
+          "program_name": "ĐGNL HCMĐGNL HNƯu Tiên",
+          "subject_groups": [
+            "Khoa học hàng hải (02 chuyên ngành: Khoa học hàng hải",
+            "Quản lý hàng hải và Logistics)"
+          ],
+          "program_type": "chuẩn",
+          "note": "38"
+        },
+        {
+          "program_code": "7840106",
+          "program_name": "ĐT THPT",
+          "subject_groups": [
+            "Khoa học hàng hải (02 chuyên ngành: Khoa học hàng hải",
+            "Quản lý hàng hải và Logistics)"
+          ],
+          "program_type": "chuẩn",
+          "note": "38"
+        },
+        {
+          "program_code": "7810201",
+          "program_name": "Quản trị khách sạn",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "51"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem thêm điểm chuẩn Đại học Nha Trang các năm Tại đây",
+  "tuition_text": "Học phí khoảng 5 - 6 triệu đồng/1 học kỳ, tùy theo số tín chỉ SV đăng ký học. Các chương trình song ngữ Anh – Việt. Chi phí đào tạo gấp đôi chương trình chuẩn, khoảng 10 -12 triệu/học kỳ. Lộ trình tăng học phí (nếu có) thực hiện theo quy định hiên hành của Nhà nước.",
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-nha-trang-TSN.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh (04 chuyên ngành: Biên - phiên dịch; Tiếng Anh du lịch; Giảng dạy Tiếng Anh; Song ngữ Anh -Trung)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 23.58,
+            "note": "Điểm ĐK tiếng Anh học bạ: 7; Tiếng Anh nhân 2"
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh (04 chuyên ngành: Biên - phiên dịch; Tiếng Anh du lịch; Giảng dạy Tiếng Anh; Song ngữ Anh -Trung)",
+            "subject_groups": [
+              "(Toán",
+              "Văn",
+              "Anh",
+              "GDKTPL)",
+              "C03",
+              "C04"
+            ],
+            "score": 25,
+            "note": null
+          },
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế (02 chuyên ngành: Kinh tế thủy sản; Quản lý kinh tế)",
+            "subject_groups": [
+              "D01",
+              "X01",
+              "X02",
+              "C04"
+            ],
+            "score": 19.81,
+            "note": "Toán nhân 2"
+          },
+          {
+            "program_code": "7310105",
+            "program_name": "Kinh tế phát triển",
+            "subject_groups": [
+              "D01",
+              "X01",
+              "X02",
+              "C04"
+            ],
+            "score": 19.81,
+            "note": "Toán nhân 2"
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "D01",
+              "X01",
+              "X02",
+              "C04"
+            ],
+            "score": 22.64,
+            "note": "Điểm ĐK tiếng Anh học bạ: 5, Toán nhân 2"
+          },
+          {
+            "program_code": "7340101A",
+            "program_name": "Quản trị kinh doanh (Chương trình đặc biệt)",
+            "subject_groups": [
+              "X02",
+              "X01",
+              "D01"
+            ],
+            "score": 22.64,
+            "note": "Điểm ĐK tiếng Anh học bạ: 5, Toán nhân 2"
+          },
+          {
+            "program_code": "7340115",
+            "program_name": "Marketing",
+            "subject_groups": [
+              "D01",
+              "X01",
+              "X02",
+              "C04"
+            ],
+            "score": 25.47,
+            "note": "Điểm ĐK tiếng Anh học bạ: 5, Toán nhân 2"
+          },
+          {
+            "program_code": "7340121",
+            "program_name": "Kinh doanh thương mại",
+            "subject_groups": [
+              "D01",
+              "X01",
+              "X02",
+              "C04"
+            ],
+            "score": 22.64,
+            "note": "Điểm ĐK tiếng Anh học bạ: 5, Toán nhân 2"
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng (02 chuyên ngành: Tài chính - Ngân hàng; Công nghệ tài chính)",
+            "subject_groups": [
+              "D01",
+              "X01",
+              "X02",
+              "C04"
+            ],
+            "score": 22.64,
+            "note": "Điểm ĐK tiếng Anh học bạ: 5, Toán nhân 2"
+          },
+          {
+            "program_code": "7340201A",
+            "program_name": "Tài chính - Ngân hàng (Chương trình đặc biệt)",
+            "subject_groups": [
+              "X02",
+              "X01",
+              "D01"
+            ],
+            "score": 22.64,
+            "note": "Điểm ĐK tiếng Anh học bạ: 5, Toán nhân 2"
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "D01",
+              "X01",
+              "X02",
+              "C04"
+            ],
+            "score": 21.7,
+            "note": "Điểm ĐK tiếng Anh học bạ: 5, Toán nhân 2"
+          },
+          {
+            "program_code": "7340301A",
+            "program_name": "Kế toán (Chương trình đặc biệt)",
+            "subject_groups": [
+              "X02",
+              "X01",
+              "D01"
+            ],
+            "score": 21.7,
+            "note": "Điểm ĐK tiếng Anh học bạ: 5, Toán nhân 2"
+          },
+          {
+            "program_code": "7340302",
+            "program_name": "Kiểm toán",
+            "subject_groups": [
+              "D01",
+              "X01",
+              "X02",
+              "C04"
+            ],
+            "score": 21.7,
+            "note": "Điểm ĐK tiếng Anh học bạ: 5, Toán nhân 2"
+          },
+          {
+            "program_code": "7340405",
+            "program_name": "Hệ thống thông tin quản lý",
+            "subject_groups": [
+              "D01",
+              "X01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 19.81,
+            "note": "Toán nhân 2"
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật (02 chuyên ngành: Luật; Luật kinh tế)",
+            "subject_groups": [
+              "D01",
+              "X01",
+              "C03",
+              "C04"
+            ],
+            "score": 25.47,
+            "note": "Văn nhân 2"
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [
+              "B03",
+              "C02",
+              "X03",
+              "X04",
+              "D01"
+            ],
+            "score": 18.87,
+            "note": "Toán nhân 2"
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [
+              "(Toán",
+              "Văn",
+              "Anh",
+              "Sinh)",
+              "(Toán",
+              "Văn",
+              "Anh",
+              "Hóa)"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7420201MP",
+            "program_name": "Công nghệ sinh học (Chương trình Minh Phú -NTU)",
+            "subject_groups": [
+              "(Toán",
+              "Văn",
+              "Anh",
+              "Sinh)",
+              "(Toán",
+              "Văn",
+              "Anh",
+              "Hóa)"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7420201MP",
+            "program_name": "Công nghệ sinh học (Chương trình Minh Phú -NTU)",
+            "subject_groups": [
+              "B03",
+              "C02",
+              "X03",
+              "X04",
+              "D01"
+            ],
+            "score": 18.87,
+            "note": "Toán nhân 2"
+          },
+          {
+            "program_code": "7480101",
+            "program_name": "Khoa học máy tính",
+            "subject_groups": [
+              "X02",
+              "C01",
+              "X03",
+              "X04",
+              "D01"
+            ],
+            "score": 20.75,
+            "note": "Điểm ĐK tiếng Anh học bạ: 5, Toán nhân 2"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "X02",
+              "C01",
+              "X03",
+              "X04",
+              "D01"
+            ],
+            "score": 20.75,
+            "note": "Điểm ĐK tiếng Anh học bạ: 5, Toán nhân 2"
+          },
+          {
+            "program_code": "7480201A",
+            "program_name": "Công nghệ thông tin (Chương trình đặc biệt)",
+            "subject_groups": [
+              "X02",
+              "C01",
+              "X03",
+              "X04",
+              "D01"
+            ],
+            "score": 20.75,
+            "note": "Điểm ĐK tiếng Anh học bạ: 5, Toán nhân 2"
+          },
+          {
+            "program_code": "7480201B",
+            "program_name": "Công nghệ thông tin Việt Nhật",
+            "subject_groups": [
+              "X02",
+              "C01",
+              "X03",
+              "X04",
+              "D01"
+            ],
+            "score": 20.75,
+            "note": "Điểm ĐK tiếng Anh học bạ: 5, Toán nhân 2"
+          },
+          {
+            "program_code": "7510202",
+            "program_name": "Công nghệ chế tạo máy",
+            "subject_groups": [
+              "C01",
+              "X02",
+              "X03",
+              "X04",
+              "D01"
+            ],
+            "score": 18.87,
+            "note": "Toán nhân 2"
+          },
+          {
+            "program_code": "7510202",
+            "program_name": "Công nghệ chế tạo máy",
+            "subject_groups": [
+              "(Toán",
+              "Văn",
+              "Anh",
+              "Lí)"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7520103",
+            "program_name": "Kỹ thuật cơ khí (02 chuyên ngành: Kỹ thuật cơ khí; Thiết kế và chế tạo số)",
+            "subject_groups": [
+              "(Toán",
+              "Văn",
+              "Anh",
+              "Lí)"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7520103",
+            "program_name": "Kỹ thuật cơ khí (02 chuyên ngành: Kỹ thuật cơ khí; Thiết kế và chế tạo số)",
+            "subject_groups": [
+              "C01",
+              "X02",
+              "X03",
+              "X04",
+              "D01"
+            ],
+            "score": 19.81,
+            "note": "Toán nhân 2"
+          },
+          {
+            "program_code": "7520103MP",
+            "program_name": "Cơ khí thủy sản thông minh (Chương trình Minh Phú - NTU)",
+            "subject_groups": [
+              "(Toán",
+              "Văn",
+              "Anh",
+              "Lí)"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7520103MP",
+            "program_name": "Cơ khí thủy sản thông minh (Chương trình Minh Phú - NTU)",
+            "subject_groups": [
+              "C01",
+              "X02",
+              "X03",
+              "X04",
+              "D01"
+            ],
+            "score": 18.87,
+            "note": "Toán nhân 2"
+          },
+          {
+            "program_code": "7520114",
+            "program_name": "Kỹ thuật cơ điện tử",
+            "subject_groups": [
+              "C01",
+              "X02",
+              "X03",
+              "X04",
+              "D01"
+            ],
+            "score": 19.81,
+            "note": "Toán nhân 2"
+          },
+          {
+            "program_code": "7520114",
+            "program_name": "Kỹ thuật cơ điện tử",
+            "subject_groups": [
+              "(Toán",
+              "Văn",
+              "Anh",
+              "Lí)"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7520115",
+            "program_name": "Kỹ thuật nhiệt",
+            "subject_groups": [
+              "C01",
+              "X02",
+              "X03",
+              "X04",
+              "D01"
+            ],
+            "score": 18.87,
+            "note": "Toán nhân 2"
+          },
+          {
+            "program_code": "7520115",
+            "program_name": "Kỹ thuật nhiệt",
+            "subject_groups": [
+              "(Toán",
+              "Văn",
+              "Anh",
+              "Lí)"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7520116",
+            "program_name": "Kỹ thuật cơ khí động lực",
+            "subject_groups": [
+              "C01",
+              "X02",
+              "X03",
+              "X04",
+              "D01"
+            ],
+            "score": 18.87,
+            "note": "Toán nhân 2"
+          },
+          {
+            "program_code": "7520116",
+            "program_name": "Kỹ thuật cơ khí động lực",
+            "subject_groups": [
+              "(Toán",
+              "Văn",
+              "Anh",
+              "Lí)"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7520122",
+            "program_name": "Kỹ thuật tàu thủy",
+            "subject_groups": [
+              "C01",
+              "X02",
+              "X03",
+              "X04",
+              "D01"
+            ],
+            "score": 19.34,
+            "note": "Toán nhân 2"
+          },
+          {
+            "program_code": "7520122",
+            "program_name": "Kỹ thuật tàu thủy",
+            "subject_groups": [
+              "(Toán",
+              "Văn",
+              "Anh",
+              "Lí)"
+            ],
+            "score": 20.5,
+            "note": null
+          },
+          {
+            "program_code": "7520130",
+            "program_name": "Kỹ thuật ô tô",
+            "subject_groups": [
+              "C01",
+              "X02",
+              "X03",
+              "X04",
+              "D01"
+            ],
+            "score": 20.28,
+            "note": "Toán nhân 2"
+          },
+          {
+            "program_code": "7520130",
+            "program_name": "Kỹ thuật ô tô",
+            "subject_groups": [
+              "(Toán",
+              "Văn",
+              "Anh",
+              "Lí)"
+            ],
+            "score": 21.5,
+            "note": null
+          },
+          {
+            "program_code": "7520201",
+            "program_name": "Kỹ thuật điện (chuyên ngành Kỹ thuật điện, điện tử)",
+            "subject_groups": [
+              "C01",
+              "X02",
+              "X03",
+              "X04",
+              "D01"
+            ],
+            "score": 20.28,
+            "note": "Toán nhân 2"
+          },
+          {
+            "program_code": "7520201",
+            "program_name": "Kỹ thuật điện (chuyên ngành Kỹ thuật điện, điện tử)",
+            "subject_groups": [
+              "(Toán",
+              "Văn",
+              "Anh",
+              "Lí)"
+            ],
+            "score": 21.5,
+            "note": null
+          },
+          {
+            "program_code": "7520206",
+            "program_name": "Kỹ thuật biển",
+            "subject_groups": [
+              "C01",
+              "X02",
+              "X03",
+              "X04",
+              "D01"
+            ],
+            "score": 18.87,
+            "note": "Toán nhân 2"
+          },
+          {
+            "program_code": "7520206",
+            "program_name": "Kỹ thuật biển",
+            "subject_groups": [
+              "(Toán",
+              "Văn",
+              "Anh",
+              "Lí)"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7520216",
+            "program_name": "Kỹ thuật điều khiển và tự động hóa",
+            "subject_groups": [
+              "C01",
+              "X02",
+              "X03",
+              "X04",
+              "D01"
+            ],
+            "score": 19.81,
+            "note": "Toán nhân 2"
+          },
+          {
+            "program_code": "7520216",
+            "program_name": "Kỹ thuật điều khiển và tự động hóa",
+            "subject_groups": [
+              "(Toán",
+              "Văn",
+              "Anh",
+              "Lí)"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7520301",
+            "program_name": "Kỹ thuật hoá học",
+            "subject_groups": [
+              "(Toán",
+              "Văn",
+              "Anh",
+              "Hóa)"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7520301",
+            "program_name": "Kỹ thuật hoá học",
+            "subject_groups": [
+              "B03",
+              "C02",
+              "X03",
+              "X04",
+              "D01"
+            ],
+            "score": 18.87,
+            "note": "Toán nhân 2"
+          },
+          {
+            "program_code": "7520320",
+            "program_name": "Kỹ thuật môi trường (02 chuyên ngành: Kỹ thuật môi trường; Quản lý môi trường và an toàn vệ sinh lao động)",
+            "subject_groups": [
+              "(Toán",
+              "Văn",
+              "Anh",
+              "Sinh)",
+              "(Toán",
+              "Văn",
+              "Anh",
+              "Hóa)"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7520320",
+            "program_name": "Kỹ thuật môi trường (02 chuyên ngành: Kỹ thuật môi trường; Quản lý môi trường và an toàn vệ sinh lao động)",
+            "subject_groups": [
+              "B03",
+              "C02",
+              "X03",
+              "X04",
+              "D01"
+            ],
+            "score": 18.87,
+            "note": "Toán nhân 2"
+          },
+          {
+            "program_code": "7540101",
+            "program_name": "Công nghệ thực phẩm (02 chuyên ngành: Công nghệ thực phẩm; Dinh dưỡng và ẩm thực)",
+            "subject_groups": [
+              "(Toán",
+              "Văn",
+              "Anh",
+              "Sinh)",
+              "(Toán",
+              "Văn",
+              "Anh",
+              "Hóa)"
+            ],
+            "score": 20.5,
+            "note": null
+          },
+          {
+            "program_code": "7540101",
+            "program_name": "Công nghệ thực phẩm (02 chuyên ngành: Công nghệ thực phẩm; Dinh dưỡng và ẩm thực)",
+            "subject_groups": [
+              "B03",
+              "C02",
+              "X03",
+              "X04",
+              "D01"
+            ],
+            "score": 19.34,
+            "note": "Toán nhân 2"
+          },
+          {
+            "program_code": "7540105",
+            "program_name": "Công nghệ chế biến thuỷ sản (02 chuyên ngành: Công nghệ chế biến thủy sản; Công nghệ sau thu hoạch)",
+            "subject_groups": [
+              "B03",
+              "C02",
+              "X03",
+              "X04",
+              "D01"
+            ],
+            "score": 18.87,
+            "note": "Toán nhân 2"
+          },
+          {
+            "program_code": "7540105",
+            "program_name": "Công nghệ chế biến thuỷ sản (02 chuyên ngành: Công nghệ chế biến thủy sản; Công nghệ sau thu hoạch)",
+            "subject_groups": [
+              "(Toán",
+              "Văn",
+              "Anh",
+              "Sinh)",
+              "(Toán",
+              "Văn",
+              "Anh",
+              "Hóa)"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7540105HV",
+            "program_name": "Công nghệ chế biến thuỷ sản (chương trình Hải Vương - NTU)",
+            "subject_groups": [
+              "B03",
+              "C02",
+              "X03",
+              "X04",
+              "D01"
+            ],
+            "score": 18.87,
+            "note": "Toán nhân 2"
+          },
+          {
+            "program_code": "7540105HV",
+            "program_name": "Công nghệ chế biến thuỷ sản (chương trình Hải Vương - NTU)",
+            "subject_groups": [
+              "(Toán",
+              "Văn",
+              "Anh",
+              "Sinh)",
+              "(Toán",
+              "Văn",
+              "Anh",
+              "Hóa)"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7540105MP",
+            "program_name": "Công nghệ chế biến thuỷ sản (Chương trình Minh Phú - NTU)",
+            "subject_groups": [
+              "B03",
+              "C02",
+              "X03",
+              "X04",
+              "D01"
+            ],
+            "score": 18.87,
+            "note": "Toán nhân 2"
+          },
+          {
+            "program_code": "7540105MP",
+            "program_name": "Công nghệ chế biến thuỷ sản (Chương trình Minh Phú - NTU)",
+            "subject_groups": [
+              "(Toán",
+              "Văn",
+              "Anh",
+              "Sinh)",
+              "(Toán",
+              "Văn",
+              "Anh",
+              "Hóa)"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7540106",
+            "program_name": "Đảm bảo chất lượng và an toàn thưc phẩm",
+            "subject_groups": [
+              "B03",
+              "C02",
+              "X03",
+              "X04",
+              "D01"
+            ],
+            "score": 18.87,
+            "note": "Toán nhân 2"
+          },
+          {
+            "program_code": "7540106",
+            "program_name": "Đảm bảo chất lượng và an toàn thưc phẩm",
+            "subject_groups": [
+              "(Toán",
+              "Văn",
+              "Anh",
+              "Sinh)",
+              "(Toán",
+              "Văn",
+              "Anh",
+              "Hóa)"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7580201",
+            "program_name": "Kỹ thuật xây dựng (02 chuyên ngành: Kỹ thuật xây dựng; Quản lý xây dựng)",
+            "subject_groups": [
+              "C01",
+              "X02",
+              "X03",
+              "X04",
+              "D01"
+            ],
+            "score": 18.87,
+            "note": "Toán nhân 2"
+          },
+          {
+            "program_code": "7580201",
+            "program_name": "Kỹ thuật xây dựng (02 chuyên ngành: Kỹ thuật xây dựng; Quản lý xây dựng)",
+            "subject_groups": [
+              "(Toán",
+              "Văn",
+              "Anh",
+              "Lí)"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7580205",
+            "program_name": "Kỹ thuật xây dựng công trình giao thông",
+            "subject_groups": [
+              "C01",
+              "X02",
+              "X03",
+              "X04",
+              "D01"
+            ],
+            "score": 18.87,
+            "note": "Toán nhân 2"
+          },
+          {
+            "program_code": "7580205",
+            "program_name": "Kỹ thuật xây dựng công trình giao thông",
+            "subject_groups": [
+              "(Toán",
+              "Văn",
+              "Anh",
+              "Lí)"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7620301",
+            "program_name": "Nuôi trồng thuỷ sản",
+            "subject_groups": [
+              "B03",
+              "C02",
+              "X03",
+              "X04",
+              "D01"
+            ],
+            "score": 18.87,
+            "note": "Toán nhân 2"
+          },
+          {
+            "program_code": "7620301",
+            "program_name": "Nuôi trồng thuỷ sản",
+            "subject_groups": [
+              "(Toán",
+              "Văn",
+              "Anh",
+              "Sinh)",
+              "(Toán",
+              "Văn",
+              "Anh",
+              "Hóa)"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7620301MP",
+            "program_name": "Nuôi trồng thuỷ sản (Chương trình Minh Phú - NTU)",
+            "subject_groups": [
+              "(Toán",
+              "Văn",
+              "Anh",
+              "Sinh)",
+              "(Toán",
+              "Văn",
+              "Anh",
+              "Hóa)"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7620301MP",
+            "program_name": "Nuôi trồng thuỷ sản (Chương trình Minh Phú - NTU)",
+            "subject_groups": [
+              "B03",
+              "C02",
+              "X03",
+              "X04",
+              "D01"
+            ],
+            "score": 18.87,
+            "note": "Toán nhân 2"
+          },
+          {
+            "program_code": "7620303",
+            "program_name": "Khoa học thủy sản (02 chuyên ngành: Khoa học thủy sản, Khai thác thủy sản)",
+            "subject_groups": [
+              "B03",
+              "C02",
+              "X03",
+              "X04",
+              "D01"
+            ],
+            "score": 18.87,
+            "note": "Toán nhân 2"
+          },
+          {
+            "program_code": "7620303",
+            "program_name": "Khoa học thủy sản (02 chuyên ngành: Khoa học thủy sản, Khai thác thủy sản)",
+            "subject_groups": [
+              "(Toán",
+              "Văn",
+              "Anh",
+              "Sinh)"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7620305",
+            "program_name": "Quản lý thuỷ sản",
+            "subject_groups": [
+              "B03",
+              "C02",
+              "X02",
+              "X03",
+              "X04",
+              "D01"
+            ],
+            "score": 18.87,
+            "note": "Toán nhân 2"
+          },
+          {
+            "program_code": "7620305",
+            "program_name": "Quản lý thuỷ sản",
+            "subject_groups": [
+              "(Toán",
+              "Văn",
+              "Anh",
+              "Sinh)"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [
+              "D01",
+              "X01",
+              "X02",
+              "C03",
+              "C04"
+            ],
+            "score": 23.58,
+            "note": "Điểm ĐK tiếng Anh học bạ: 5, Toán nhân 2"
+          },
+          {
+            "program_code": "7810103A",
+            "program_name": "Quản trị dịch vụ du lịch lữ hành (Chương trình đặc biệt)",
+            "subject_groups": [
+              "D01",
+              "X01",
+              "C03",
+              "C04"
+            ],
+            "score": 23.58,
+            "note": "Điểm ĐK tiếng Anh học bạ: 5, Toán nhân 2"
+          },
+          {
+            "program_code": "7810103P",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành (Chương trình song ngữ Pháp - Việt)",
+            "subject_groups": [
+              "D01",
+              "X01",
+              "C03",
+              "C04",
+              "D03"
+            ],
+            "score": 21.7,
+            "note": "Toán nhân 2"
+          },
+          {
+            "program_code": "7810201",
+            "program_name": "Quản trị khách sạn",
+            "subject_groups": [
+              "D01",
+              "X01",
+              "X02",
+              "C03",
+              "C04"
+            ],
+            "score": 23.58,
+            "note": "Điểm ĐK tiếng Anh học bạ: 5, Toán nhân 2"
+          },
+          {
+            "program_code": "7810201A",
+            "program_name": "Quản trị khách sạn (Chương trình đặc biệt)",
+            "subject_groups": [
+              "D01",
+              "X01",
+              "C03",
+              "C04"
+            ],
+            "score": 23.58,
+            "note": "Điểm ĐK tiếng Anh học bạ: 5, Toán nhân 2"
+          },
+          {
+            "program_code": "7840106",
+            "program_name": "Khoa học hàng hải (02 chuyên ngành: Khoa học hàng hải; Quản lý hàng hải và Logistics)",
+            "subject_groups": [
+              "(Toán",
+              "Văn",
+              "Anh",
+              "Lí)"
+            ],
+            "score": 24,
+            "note": null
+          },
+          {
+            "program_code": "7840106",
+            "program_name": "Khoa học hàng hải (02 chuyên ngành: Khoa học hàng hải; Quản lý hàng hải và Logistics)",
+            "subject_groups": [
+              "C01",
+              "X02",
+              "X03",
+              "X04",
+              "D01"
+            ],
+            "score": 22.64,
+            "note": "Điểm ĐK tiếng Anh học bạ: 5, Toán nhân 2"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh (04 chuyên ngành: Biên - phiên dịch; Tiếng Anh du lịch; Giảng dạy Tiếng Anh; Song ngữ Anh -Trung)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 87.64,
+            "note": null
+          },
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế (02 chuyên ngành: Kinh tế thủy sản; Quản lý kinh tế)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 72.87,
+            "note": null
+          },
+          {
+            "program_code": "7310105",
+            "program_name": "Kinh tế phát triển",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 72.87,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 83.74,
+            "note": null
+          },
+          {
+            "program_code": "7340101A",
+            "program_name": "Quản trị kinh doanh (Chương trình đặc biệt)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 83.74,
+            "note": null
+          },
+          {
+            "program_code": "7340115",
+            "program_name": "Marketing",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 95.74,
+            "note": null
+          },
+          {
+            "program_code": "7340121",
+            "program_name": "Kinh doanh thương mại",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 83.74,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng (02 chuyên ngành: Tài chính - Ngân hàng; Công nghệ tài chính)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 83.74,
+            "note": null
+          },
+          {
+            "program_code": "7340201A",
+            "program_name": "Tài chính - Ngân hàng (Chương trình đặc biệt)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 83.74,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 80.11,
+            "note": null
+          },
+          {
+            "program_code": "7340301A",
+            "program_name": "Kế toán (Chương trình đặc biệt)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 80.11,
+            "note": null
+          },
+          {
+            "program_code": "7340302",
+            "program_name": "Kiểm toán",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 80.11,
+            "note": null
+          },
+          {
+            "program_code": "7340405",
+            "program_name": "Hệ thống thông tin quản lý",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 72.87,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật (02 chuyên ngành: Luật; Luật kinh tế)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 95.74,
+            "note": null
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 69.24,
+            "note": null
+          },
+          {
+            "program_code": "7420201MP",
+            "program_name": "Công nghệ sinh học (Chương trình Minh Phú -NTU)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 69.24,
+            "note": null
+          },
+          {
+            "program_code": "7480101",
+            "program_name": "Khoa học máy tính",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 76.49,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 76.49,
+            "note": null
+          },
+          {
+            "program_code": "7480201A",
+            "program_name": "Công nghệ thông tin (Chương trình đặc biệt)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 76.49,
+            "note": null
+          },
+          {
+            "program_code": "7480201B",
+            "program_name": "Công nghệ thông tin Việt Nhật",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 76.49,
+            "note": null
+          },
+          {
+            "program_code": "7510202",
+            "program_name": "Công nghệ chế tạo máy",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 69.24,
+            "note": null
+          },
+          {
+            "program_code": "7520103",
+            "program_name": "Kỹ thuật cơ khí (02 chuyên ngành: Kỹ thuật cơ khí; Thiết kế và chế tạo số)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 72.87,
+            "note": null
+          },
+          {
+            "program_code": "7520103MP",
+            "program_name": "Cơ khí thủy sản thông minh (Chương trình Minh Phú - NTU)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 69.24,
+            "note": null
+          },
+          {
+            "program_code": "7520114",
+            "program_name": "Kỹ thuật cơ điện tử",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 72.87,
+            "note": null
+          },
+          {
+            "program_code": "7520115",
+            "program_name": "Kỹ thuật nhiệt",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 69.24,
+            "note": null
+          },
+          {
+            "program_code": "7520116",
+            "program_name": "Kỹ thuật cơ khí động lực",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 69.24,
+            "note": null
+          },
+          {
+            "program_code": "7520122",
+            "program_name": "Kỹ thuật tàu thủy",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 71.05,
+            "note": null
+          },
+          {
+            "program_code": "7520130",
+            "program_name": "Kỹ thuật ô tô",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 74.68,
+            "note": null
+          },
+          {
+            "program_code": "7520201",
+            "program_name": "Kỹ thuật điện (chuyên ngành Kỹ thuật điện, điện tử)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 74.68,
+            "note": null
+          },
+          {
+            "program_code": "7520206",
+            "program_name": "Kỹ thuật biển",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 69.24,
+            "note": null
+          },
+          {
+            "program_code": "7520216",
+            "program_name": "Kỹ thuật điều khiển và tự động hóa",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 72.87,
+            "note": null
+          },
+          {
+            "program_code": "7520301",
+            "program_name": "Kỹ thuật hoá học",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 69.24,
+            "note": null
+          },
+          {
+            "program_code": "7520320",
+            "program_name": "Kỹ thuật môi trường (02 chuyên ngành: Kỹ thuật môi trường; Quản lý môi trường và an toàn vệ sinh lao động)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 69.24,
+            "note": null
+          },
+          {
+            "program_code": "7540101",
+            "program_name": "Công nghệ thực phẩm (02 chuyên ngành: Công nghệ thực phẩm; Dinh dưỡng và ẩm thực)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 71.05,
+            "note": null
+          },
+          {
+            "program_code": "7540105",
+            "program_name": "Công nghệ chế biến thuỷ sản (02 chuyên ngành: Công nghệ chế biến thủy sản; Công nghệ sau thu hoạch)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 69.24,
+            "note": null
+          },
+          {
+            "program_code": "7540105HV",
+            "program_name": "Công nghệ chế biến thuỷ sản (chương trình Hải Vương - NTU)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 69.24,
+            "note": null
+          },
+          {
+            "program_code": "7540105MP",
+            "program_name": "Công nghệ chế biến thuỷ sản (Chương trình Minh Phú - NTU)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 69.24,
+            "note": null
+          },
+          {
+            "program_code": "7540106",
+            "program_name": "Đảm bảo chất lượng và an toàn thưc phẩm",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 69.24,
+            "note": null
+          },
+          {
+            "program_code": "7580201",
+            "program_name": "Kỹ thuật xây dựng (02 chuyên ngành: Kỹ thuật xây dựng; Quản lý xây dựng)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 69.24,
+            "note": null
+          },
+          {
+            "program_code": "7580205",
+            "program_name": "Kỹ thuật xây dựng công trình giao thông",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 69.24,
+            "note": null
+          },
+          {
+            "program_code": "7620301",
+            "program_name": "Nuôi trồng thuỷ sản",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 69.24,
+            "note": null
+          },
+          {
+            "program_code": "7620301MP",
+            "program_name": "Nuôi trồng thuỷ sản (Chương trình Minh Phú - NTU)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 69.24,
+            "note": null
+          },
+          {
+            "program_code": "7620303",
+            "program_name": "Khoa học thủy sản (02 chuyên ngành: Khoa học thủy sản, Khai thác thủy sản)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 69.24,
+            "note": null
+          },
+          {
+            "program_code": "7620305",
+            "program_name": "Quản lý thuỷ sản",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 69.24,
+            "note": null
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 87.64,
+            "note": null
+          },
+          {
+            "program_code": "7810103A",
+            "program_name": "Quản trị dịch vụ du lịch lữ hành (Chương trình đặc biệt)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 87.64,
+            "note": null
+          },
+          {
+            "program_code": "7810103P",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành (Chương trình song ngữ Pháp - Việt)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 80.11,
+            "note": null
+          },
+          {
+            "program_code": "7810201",
+            "program_name": "Quản trị khách sạn",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 87.64,
+            "note": null
+          },
+          {
+            "program_code": "7810201A",
+            "program_name": "Quản trị khách sạn (Chương trình đặc biệt)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 87.64,
+            "note": null
+          },
+          {
+            "program_code": "7840106",
+            "program_name": "Khoa học hàng hải (02 chuyên ngành: Khoa học hàng hải; Quản lý hàng hải và Logistics)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 83.74,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh (04 chuyên ngành: Biên - phiên dịch; Tiếng Anh du lịch; Giảng dạy Tiếng Anh; Song ngữ Anh -Trung)",
+            "subject_groups": [],
+            "score": 666.21,
+            "note": null
+          },
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế (02 chuyên ngành: Kinh tế thủy sản; Quản lý kinh tế)",
+            "subject_groups": [],
+            "score": 554.41,
+            "note": null
+          },
+          {
+            "program_code": "7310105",
+            "program_name": "Kinh tế phát triển",
+            "subject_groups": [],
+            "score": 554.41,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 633.82,
+            "note": null
+          },
+          {
+            "program_code": "7340101A",
+            "program_name": "Quản trị kinh doanh (Chương trình đặc biệt)",
+            "subject_groups": [],
+            "score": 633.82,
+            "note": null
+          },
+          {
+            "program_code": "7340115",
+            "program_name": "Marketing",
+            "subject_groups": [],
+            "score": 737.29,
+            "note": null
+          },
+          {
+            "program_code": "7340121",
+            "program_name": "Kinh doanh thương mại",
+            "subject_groups": [],
+            "score": 633.82,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng (02 chuyên ngành: Tài chính - Ngân hàng; Công nghệ tài chính)",
+            "subject_groups": [],
+            "score": 633.82,
+            "note": null
+          },
+          {
+            "program_code": "7340201A",
+            "program_name": "Tài chính - Ngân hàng (Chương trình đặc biệt)",
+            "subject_groups": [],
+            "score": 633.82,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [],
+            "score": 607.35,
+            "note": null
+          },
+          {
+            "program_code": "7340301A",
+            "program_name": "Kế toán (Chương trình đặc biệt)",
+            "subject_groups": [],
+            "score": 607.35,
+            "note": null
+          },
+          {
+            "program_code": "7340302",
+            "program_name": "Kiểm toán",
+            "subject_groups": [],
+            "score": 607.35,
+            "note": null
+          },
+          {
+            "program_code": "7340405",
+            "program_name": "Hệ thống thông tin quản lý",
+            "subject_groups": [],
+            "score": 554.41,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật (02 chuyên ngành: Luật; Luật kinh tế)",
+            "subject_groups": [],
+            "score": 737.29,
+            "note": null
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [],
+            "score": 527.94,
+            "note": null
+          },
+          {
+            "program_code": "7420201MP",
+            "program_name": "Công nghệ sinh học (Chương trình Minh Phú -NTU)",
+            "subject_groups": [],
+            "score": 527.94,
+            "note": null
+          },
+          {
+            "program_code": "7480101",
+            "program_name": "Khoa học máy tính",
+            "subject_groups": [],
+            "score": 580.88,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [],
+            "score": 580.88,
+            "note": null
+          },
+          {
+            "program_code": "7480201A",
+            "program_name": "Công nghệ thông tin (Chương trình đặc biệt)",
+            "subject_groups": [],
+            "score": 580.88,
+            "note": null
+          },
+          {
+            "program_code": "7480201B",
+            "program_name": "Công nghệ thông tin Việt Nhật",
+            "subject_groups": [],
+            "score": 580.88,
+            "note": null
+          },
+          {
+            "program_code": "7510202",
+            "program_name": "Công nghệ chế tạo máy",
+            "subject_groups": [],
+            "score": 527.94,
+            "note": null
+          },
+          {
+            "program_code": "7520103",
+            "program_name": "Kỹ thuật cơ khí (02 chuyên ngành: Kỹ thuật cơ khí; Thiết kế và chế tạo số)",
+            "subject_groups": [],
+            "score": 554.41,
+            "note": null
+          },
+          {
+            "program_code": "7520103MP",
+            "program_name": "Cơ khí thủy sản thông minh (Chương trình Minh Phú - NTU)",
+            "subject_groups": [],
+            "score": 527.94,
+            "note": null
+          },
+          {
+            "program_code": "7520114",
+            "program_name": "Kỹ thuật cơ điện tử",
+            "subject_groups": [],
+            "score": 554.41,
+            "note": null
+          },
+          {
+            "program_code": "7520115",
+            "program_name": "Kỹ thuật nhiệt",
+            "subject_groups": [],
+            "score": 527.94,
+            "note": null
+          },
+          {
+            "program_code": "7520116",
+            "program_name": "Kỹ thuật cơ khí động lực",
+            "subject_groups": [],
+            "score": 527.94,
+            "note": null
+          },
+          {
+            "program_code": "7520122",
+            "program_name": "Kỹ thuật tàu thủy",
+            "subject_groups": [],
+            "score": 541.17,
+            "note": null
+          },
+          {
+            "program_code": "7520130",
+            "program_name": "Kỹ thuật ô tô",
+            "subject_groups": [],
+            "score": 567.64,
+            "note": null
+          },
+          {
+            "program_code": "7520201",
+            "program_name": "Kỹ thuật điện (chuyên ngành Kỹ thuật điện, điện tử)",
+            "subject_groups": [],
+            "score": 567.64,
+            "note": null
+          },
+          {
+            "program_code": "7520206",
+            "program_name": "Kỹ thuật biển",
+            "subject_groups": [],
+            "score": 527.94,
+            "note": null
+          },
+          {
+            "program_code": "7520216",
+            "program_name": "Kỹ thuật điều khiển và tự động hóa",
+            "subject_groups": [],
+            "score": 554.41,
+            "note": null
+          },
+          {
+            "program_code": "7520301",
+            "program_name": "Kỹ thuật hoá học",
+            "subject_groups": [],
+            "score": 527.94,
+            "note": null
+          },
+          {
+            "program_code": "7520320",
+            "program_name": "Kỹ thuật môi trường (02 chuyên ngành: Kỹ thuật môi trường; Quản lý môi trường và an toàn vệ sinh lao động)",
+            "subject_groups": [],
+            "score": 527.94,
+            "note": null
+          },
+          {
+            "program_code": "7540101",
+            "program_name": "Công nghệ thực phẩm (02 chuyên ngành: Công nghệ thực phẩm; Dinh dưỡng và ẩm thực)",
+            "subject_groups": [],
+            "score": 541.17,
+            "note": null
+          },
+          {
+            "program_code": "7540105",
+            "program_name": "Công nghệ chế biến thuỷ sản (02 chuyên ngành: Công nghệ chế biến thủy sản; Công nghệ sau thu hoạch)",
+            "subject_groups": [],
+            "score": 527.94,
+            "note": null
+          },
+          {
+            "program_code": "7540105HV",
+            "program_name": "Công nghệ chế biến thuỷ sản (chương trình Hải Vương - NTU)",
+            "subject_groups": [],
+            "score": 527.94,
+            "note": null
+          },
+          {
+            "program_code": "7540105MP",
+            "program_name": "Công nghệ chế biến thuỷ sản (Chương trình Minh Phú - NTU)",
+            "subject_groups": [],
+            "score": 527.94,
+            "note": null
+          },
+          {
+            "program_code": "7540106",
+            "program_name": "Đảm bảo chất lượng và an toàn thưc phẩm",
+            "subject_groups": [],
+            "score": 527.94,
+            "note": null
+          },
+          {
+            "program_code": "7580201",
+            "program_name": "Kỹ thuật xây dựng (02 chuyên ngành: Kỹ thuật xây dựng; Quản lý xây dựng)",
+            "subject_groups": [],
+            "score": 527.94,
+            "note": null
+          },
+          {
+            "program_code": "7580205",
+            "program_name": "Kỹ thuật xây dựng công trình giao thông",
+            "subject_groups": [],
+            "score": 527.94,
+            "note": null
+          },
+          {
+            "program_code": "7620301",
+            "program_name": "Nuôi trồng thuỷ sản",
+            "subject_groups": [],
+            "score": 527.94,
+            "note": null
+          },
+          {
+            "program_code": "7620301MP",
+            "program_name": "Nuôi trồng thuỷ sản (Chương trình Minh Phú - NTU)",
+            "subject_groups": [],
+            "score": 527.94,
+            "note": null
+          },
+          {
+            "program_code": "7620303",
+            "program_name": "Khoa học thủy sản (02 chuyên ngành: Khoa học thủy sản, Khai thác thủy sản)",
+            "subject_groups": [],
+            "score": 527.94,
+            "note": null
+          },
+          {
+            "program_code": "7620305",
+            "program_name": "Quản lý thuỷ sản",
+            "subject_groups": [],
+            "score": 527.94,
+            "note": null
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [],
+            "score": 666.21,
+            "note": null
+          },
+          {
+            "program_code": "7810103A",
+            "program_name": "Quản trị dịch vụ du lịch lữ hành (Chương trình đặc biệt)",
+            "subject_groups": [],
+            "score": 666.21,
+            "note": null
+          },
+          {
+            "program_code": "7810103P",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành (Chương trình song ngữ Pháp - Việt)",
+            "subject_groups": [],
+            "score": 607.35,
+            "note": null
+          },
+          {
+            "program_code": "7810201",
+            "program_name": "Quản trị khách sạn",
+            "subject_groups": [],
+            "score": 666.21,
+            "note": null
+          },
+          {
+            "program_code": "7810201A",
+            "program_name": "Quản trị khách sạn (Chương trình đặc biệt)",
+            "subject_groups": [],
+            "score": 666.21,
+            "note": null
+          },
+          {
+            "program_code": "7840106",
+            "program_name": "Khoa học hàng hải (02 chuyên ngành: Khoa học hàng hải; Quản lý hàng hải và Logistics)",
+            "subject_groups": [],
+            "score": 633.82,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

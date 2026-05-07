@@ -1,0 +1,4581 @@
+{
+  "university": {
+    "code": "QSQ",
+    "name": "Đại học Quốc tế, Đại học Quốc gia TPHCM",
+    "short_name": "HCMIU",
+    "location": [
+      "HCM - Hồ Chí Minh"
+    ],
+    "address": "Khu phố 6, phường Linh Trung, Q.Thủ Đức, Tp.HCM",
+    "website": "https://hcmiu.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-quoc-te-dhqg-tphcm-QSQ.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0302/thong-tin-tuyen-sinh-dai-hoc-nam-2026.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC QUỐC TẾ - ĐHQG TPHCM 2026 Thông tin tuyển sinh Đại Học Quốc Tế – Đại Học Quốc Gia TPHCM (HCMIU) năm 2026 Năm 2026, trường Đại học Quốc tế - ĐHQG TPHCM sử dụng 2 Phương thức tuyển sinh gồm: Phương thức 1: Xét tuyển thẳng, ưu tiên xét tuyển theo Quy chế tuyển sinh của Bộ GD&ĐT Phương thức 2: Xét tuyển tổng hợp",
+  "admission_methods": [
+    {
+      "method_id": "1-utxt-xt-thang",
+      "method_name": "1 ƯTXT, XT THẲNG",
+      "description": "1.1 ĐỐI TƯỢNG Xét tuyển thẳng, ưu tiên xét tuyển theo Quy chế tuyển sinh của Bộ GD&ĐT Đối tượng xét tuyển: Theo Quy chế tuyển sinh của Bộ GD&ĐT. 1.2 CHỈ TIÊU Chỉ tiêu: 1%. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ƯTXT, XT THẲNG STT Mã ngành Tên ngành Tổ hợp Ghi chú 01. Các ngành đào tạo đại học do trường ĐHQT cấp bằng 1 7220201 Ngôn ngữ Anh D09; D10; D01; D14; D15 2 7310101 Kinh tế (Phân tích dữ liệu trong kinh tế) A01; D07; D09; D10; X25; D01 3 7340101 Quản trị kinh doanh A01; D07; D09; D10; X2",
+      "eligibility": "ĐỐI TƯỢNG Xét tuyển thẳng, ưu tiên xét tuyển theo",
+      "rules": "Quy chế tuyển sinh của Bộ GD&ĐT",
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "D09",
+            "D10",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế (Phân tích dữ liệu trong kinh tế)",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính – Ngân hàng",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7440112",
+          "program_name": "Hóa học (Hóa sinh)",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7460112",
+          "program_name": "Toán ứng dụng (Kỹ thuật Tài chính và Quản trị rủi ro)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7460201",
+          "program_name": "Thống kê (Thống kê ứng dụng)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics và Quản lý chuỗi cung ứng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7520118",
+          "program_name": "Kỹ thuật hệ thống công nghiệp",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7520121",
+          "program_name": "Kỹ thuật không gian (Phân tích và ứng dụng dữ liệu lớn)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật điện tử – viễn thông",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7520212",
+          "program_name": "Kỹ thuật y sinh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7520301",
+          "program_name": "Kỹ thuật hóa học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7540101",
+          "program_name": "Công nghệ thực phẩm",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Kỹ thuật xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7580302",
+          "program_name": "Quản lý xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "24"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-xet-tuyen-ket-hop",
+      "method_name": "2 ĐIỂM XÉT TUYỂN KẾT HỢP",
+      "description": "2.1 ĐIỀU KIỆN XÉT TUYỂN Ngưỡng đảm bảo chất lượng đầu vào Đối với các ngành đào tạo chương trình liên kết đào tạo với nước ngoài phải đạt điều kiện ngoại ngữ đầu vào như sau: Thí sinh phải có chứng chỉ tiếng Anh quốc tế tương đương tối thiểu IELTS 5.5, hoặc phải có trình độ tối thiểu bậc 4 theo khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam hoặc trình độ tiếng Anh tương đương B2 theo Khung tham chiếu Châu Âu (CEFR). Đối với những thí sinh chưa đáp ứng chứng chỉ tiếng Anh theo tiêu chuẩn trên s",
+      "eligibility": "Đối tượng và nguyên tắc xét tuyển: Thí sinh đã tốt nghiệp THPT hoặc dự kiến tốt nghiệp năm 2026. Công thức tính điểm xét tuyển theo nguyên tắc chung như sau: Điểm xét tuyển (ĐXT) = (k1 x Điểm thi Trung học phố thông (THPT) (quy đổi)) + (k2 x Điểm thi Đánh giá năng lực (ĐGNL) (quy đổi)) + (k3 x Điểm học bạ (quy đổi)) + Điểm cộng (nếu có) + Điểm ưu tiên (nếu có). Trong đó: Thang điểm xét tuyển là 100. Điểm thi THPT (quy đổi) = Tổng điểm 3 môn kỳ thi Tốt nghiệp THPT năm 2026 theo tổ hợp quy về thang điểm 100. Điểm thi ĐGNL (quy đổi) = Điểm thi ĐGNL của ĐHQG-HCM năm 2026 quy về thang điểm 100. Điểm học bạ (quy đổi) = Điểm trung bình cả năm của 3 môn trong tổ hợp quy về thang điểm 100. Điểm cộng (chứng chỉ tiếng anh, giải thưởng học sinh giỏi các cấp, giải thưởng nghiên cứu khoa học các cấp,…) quy về thang điểm 100. Điểm ưu tiên đối tượng, ưu tiên khu vực theo quy định của Bộ GD&ĐT quy về thang 100. Điểm cộng Điểm cộng dự kiến áp dụng cho các thí sinh có chứng chỉ tiếng Anh IELTS hoặc các chứng chỉ tương đương được Bộ GD&ĐT công nhận; Thí sinh đạt giải Học sinh giỏi các cấp; Thí sinh đạt giải các kỳ thi nghiên cứu khoa học hoặc một số kỳ thi uy tín;…. Tổng điểm cộng tối đa và điểm thành phần của từng điểm cộng theo quy định tại",
+      "rules": "QUY CHẾ Phương thức 2: Xét tuyển tổng hợp",
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "D09",
+            "D10",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế (Phân tích dữ liệu trong kinh tế)",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính – Ngân hàng",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7440112",
+          "program_name": "Hóa học (Hóa sinh)",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7460112",
+          "program_name": "Toán ứng dụng (Kỹ thuật Tài chính và Quản trị rủi ro)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7460201",
+          "program_name": "Thống kê (Thống kê ứng dụng)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics và Quản lý chuỗi cung ứng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7520118",
+          "program_name": "Kỹ thuật hệ thống công nghiệp",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7520121",
+          "program_name": "Kỹ thuật không gian (Phân tích và ứng dụng dữ liệu lớn)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật điện tử – viễn thông",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7520212",
+          "program_name": "Kỹ thuật y sinh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7520301",
+          "program_name": "Kỹ thuật hóa học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7540101",
+          "program_name": "Công nghệ thực phẩm",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Kỹ thuật xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7580302",
+          "program_name": "Quản lý xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "24"
+        }
+      ]
+    },
+    {
+      "method_id": "3-iem-xet-tuyen-ket-hop",
+      "method_name": "3 ĐIỂM XÉT TUYỂN KẾT HỢP",
+      "description": "3.1 ĐIỀU KIỆN XÉT TUYỂN Ngưỡng đảm bảo chất lượng đầu vào Đối với các ngành đào tạo chương trình liên kết đào tạo với nước ngoài phải đạt điều kiện ngoại ngữ đầu vào như sau: Thí sinh phải có chứng chỉ tiếng Anh quốc tế tương đương tối thiểu IELTS 5.5, hoặc phải có trình độ tối thiểu bậc 4 theo khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam hoặc trình độ tiếng Anh tương đương B2 theo Khung tham chiếu Châu Âu (CEFR). Đối với những thí sinh chưa đáp ứng chứng chỉ tiếng Anh theo tiêu chuẩn trên s",
+      "eligibility": "Đối tượng và nguyên tắc xét tuyển: Thí sinh đã tốt nghiệp THPT hoặc dự kiến tốt nghiệp năm 2026. Công thức tính điểm xét tuyển theo nguyên tắc chung như sau: Điểm xét tuyển (ĐXT) = (k1 x Điểm thi Trung học phố thông (THPT) (quy đổi)) + (k2 x Điểm thi Đánh giá năng lực (ĐGNL) (quy đổi)) + (k3 x Điểm học bạ (quy đổi)) + Điểm cộng (nếu có) + Điểm ưu tiên (nếu có). Trong đó: Thang điểm xét tuyển là 100. Điểm thi THPT (quy đổi) = Tổng điểm 3 môn kỳ thi Tốt nghiệp THPT năm 2026 theo tổ hợp quy về thang điểm 100. Điểm thi ĐGNL (quy đổi) = Điểm thi ĐGNL của ĐHQG-HCM năm 2026 quy về thang điểm 100. Điểm học bạ (quy đổi) = Điểm trung bình cả năm của 3 môn trong tổ hợp quy về thang điểm 100. Điểm cộng (chứng chỉ tiếng anh, giải thưởng học sinh giỏi các cấp, giải thưởng nghiên cứu khoa học các cấp,…) quy về thang điểm 100. Điểm ưu tiên đối tượng, ưu tiên khu vực theo quy định của Bộ GD&ĐT quy về thang 100. Điểm cộng Điểm cộng dự kiến áp dụng cho các thí sinh có chứng chỉ tiếng Anh IELTS hoặc các chứng chỉ tương đương được Bộ GD&ĐT công nhận; Thí sinh đạt giải Học sinh giỏi các cấp; Thí sinh đạt giải các kỳ thi nghiên cứu khoa học hoặc một số kỳ thi uy tín;…. Tổng điểm cộng tối đa và điểm thành phần của từng điểm cộng theo quy định tại",
+      "rules": "QUY CHẾ Phương thức 2: Xét tuyển tổng hợp",
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "D09",
+            "D10",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế (Phân tích dữ liệu trong kinh tế)",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính – Ngân hàng",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7440112",
+          "program_name": "Hóa học (Hóa sinh)",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7460112",
+          "program_name": "Toán ứng dụng (Kỹ thuật Tài chính và Quản trị rủi ro)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7460201",
+          "program_name": "Thống kê (Thống kê ứng dụng)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics và Quản lý chuỗi cung ứng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7520118",
+          "program_name": "Kỹ thuật hệ thống công nghiệp",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7520121",
+          "program_name": "Kỹ thuật không gian (Phân tích và ứng dụng dữ liệu lớn)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật điện tử – viễn thông",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7520212",
+          "program_name": "Kỹ thuật y sinh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7520301",
+          "program_name": "Kỹ thuật hóa học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7540101",
+          "program_name": "Công nghệ thực phẩm",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Kỹ thuật xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7580302",
+          "program_name": "Quản lý xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "24"
+        }
+      ]
+    },
+    {
+      "method_id": "4-iem-xet-tuyen-ket-hop",
+      "method_name": "4 ĐIỂM XÉT TUYỂN KẾT HỢP",
+      "description": "4.1 ĐIỀU KIỆN XÉT TUYỂN Ngưỡng đảm bảo chất lượng đầu vào Đối với các ngành đào tạo chương trình liên kết đào tạo với nước ngoài phải đạt điều kiện ngoại ngữ đầu vào như sau: Thí sinh phải có chứng chỉ tiếng Anh quốc tế tương đương tối thiểu IELTS 5.5, hoặc phải có trình độ tối thiểu bậc 4 theo khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam hoặc trình độ tiếng Anh tương đương B2 theo Khung tham chiếu Châu Âu (CEFR). Đối với những thí sinh chưa đáp ứng chứng chỉ tiếng Anh theo tiêu chuẩn trên s",
+      "eligibility": "Đối tượng và nguyên tắc xét tuyển: Thí sinh đã tốt nghiệp THPT hoặc dự kiến tốt nghiệp năm 2026. Công thức tính điểm xét tuyển theo nguyên tắc chung như sau: Điểm xét tuyển (ĐXT) = (k1 x Điểm thi Trung học phố thông (THPT) (quy đổi)) + (k2 x Điểm thi Đánh giá năng lực (ĐGNL) (quy đổi)) + (k3 x Điểm học bạ (quy đổi)) + Điểm cộng (nếu có) + Điểm ưu tiên (nếu có). Trong đó: Thang điểm xét tuyển là 100. Điểm thi THPT (quy đổi) = Tổng điểm 3 môn kỳ thi Tốt nghiệp THPT năm 2026 theo tổ hợp quy về thang điểm 100. Điểm thi ĐGNL (quy đổi) = Điểm thi ĐGNL của ĐHQG-HCM năm 2026 quy về thang điểm 100. Điểm học bạ (quy đổi) = Điểm trung bình cả năm của 3 môn trong tổ hợp quy về thang điểm 100. Điểm cộng (chứng chỉ tiếng anh, giải thưởng học sinh giỏi các cấp, giải thưởng nghiên cứu khoa học các cấp,…) quy về thang điểm 100. Điểm ưu tiên đối tượng, ưu tiên khu vực theo quy định của Bộ GD&ĐT quy về thang 100. Điểm cộng Điểm cộng dự kiến áp dụng cho các thí sinh có chứng chỉ tiếng Anh IELTS hoặc các chứng chỉ tương đương được Bộ GD&ĐT công nhận; Thí sinh đạt giải Học sinh giỏi các cấp; Thí sinh đạt giải các kỳ thi nghiên cứu khoa học hoặc một số kỳ thi uy tín;…. Tổng điểm cộng tối đa và điểm thành phần của từng điểm cộng theo quy định tại",
+      "rules": "QUY CHẾ Phương thức 2: Xét tuyển tổng hợp",
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "D09",
+            "D10",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế (Phân tích dữ liệu trong kinh tế)",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính – Ngân hàng",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7440112",
+          "program_name": "Hóa học (Hóa sinh)",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7460112",
+          "program_name": "Toán ứng dụng (Kỹ thuật Tài chính và Quản trị rủi ro)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7460201",
+          "program_name": "Thống kê (Thống kê ứng dụng)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics và Quản lý chuỗi cung ứng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7520118",
+          "program_name": "Kỹ thuật hệ thống công nghiệp",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7520121",
+          "program_name": "Kỹ thuật không gian (Phân tích và ứng dụng dữ liệu lớn)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật điện tử – viễn thông",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7520212",
+          "program_name": "Kỹ thuật y sinh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7520301",
+          "program_name": "Kỹ thuật hóa học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7540101",
+          "program_name": "Công nghệ thực phẩm",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Kỹ thuật xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7580302",
+          "program_name": "Quản lý xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "24"
+        }
+      ]
+    },
+    {
+      "method_id": "5-iem-xet-tuyen-ket-hop",
+      "method_name": "5 ĐIỂM XÉT TUYỂN KẾT HỢP",
+      "description": "5.1 ĐIỀU KIỆN XÉT TUYỂN Ngưỡng đảm bảo chất lượng đầu vào Đối với các ngành đào tạo chương trình liên kết đào tạo với nước ngoài phải đạt điều kiện ngoại ngữ đầu vào như sau: Thí sinh phải có chứng chỉ tiếng Anh quốc tế tương đương tối thiểu IELTS 5.5, hoặc phải có trình độ tối thiểu bậc 4 theo khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam hoặc trình độ tiếng Anh tương đương B2 theo Khung tham chiếu Châu Âu (CEFR). Đối với những thí sinh chưa đáp ứng chứng chỉ tiếng Anh theo tiêu chuẩn trên s",
+      "eligibility": "Đối tượng và nguyên tắc xét tuyển: Thí sinh đã tốt nghiệp THPT hoặc dự kiến tốt nghiệp năm 2026. Công thức tính điểm xét tuyển theo nguyên tắc chung như sau: Điểm xét tuyển (ĐXT) = (k1 x Điểm thi Trung học phố thông (THPT) (quy đổi)) + (k2 x Điểm thi Đánh giá năng lực (ĐGNL) (quy đổi)) + (k3 x Điểm học bạ (quy đổi)) + Điểm cộng (nếu có) + Điểm ưu tiên (nếu có). Trong đó: Thang điểm xét tuyển là 100. Điểm thi THPT (quy đổi) = Tổng điểm 3 môn kỳ thi Tốt nghiệp THPT năm 2026 theo tổ hợp quy về thang điểm 100. Điểm thi ĐGNL (quy đổi) = Điểm thi ĐGNL của ĐHQG-HCM năm 2026 quy về thang điểm 100. Điểm học bạ (quy đổi) = Điểm trung bình cả năm của 3 môn trong tổ hợp quy về thang điểm 100. Điểm cộng (chứng chỉ tiếng anh, giải thưởng học sinh giỏi các cấp, giải thưởng nghiên cứu khoa học các cấp,…) quy về thang điểm 100. Điểm ưu tiên đối tượng, ưu tiên khu vực theo quy định của Bộ GD&ĐT quy về thang 100. Điểm cộng Điểm cộng dự kiến áp dụng cho các thí sinh có chứng chỉ tiếng Anh IELTS hoặc các chứng chỉ tương đương được Bộ GD&ĐT công nhận; Thí sinh đạt giải Học sinh giỏi các cấp; Thí sinh đạt giải các kỳ thi nghiên cứu khoa học hoặc một số kỳ thi uy tín;…. Tổng điểm cộng tối đa và điểm thành phần của từng điểm cộng theo quy định tại",
+      "rules": "QUY CHẾ Phương thức 2: Xét tuyển tổng hợp",
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "D09",
+            "D10",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế (Phân tích dữ liệu trong kinh tế)",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính – Ngân hàng",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7440112",
+          "program_name": "Hóa học (Hóa sinh)",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7460112",
+          "program_name": "Toán ứng dụng (Kỹ thuật Tài chính và Quản trị rủi ro)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7460201",
+          "program_name": "Thống kê (Thống kê ứng dụng)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics và Quản lý chuỗi cung ứng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7520118",
+          "program_name": "Kỹ thuật hệ thống công nghiệp",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7520121",
+          "program_name": "Kỹ thuật không gian (Phân tích và ứng dụng dữ liệu lớn)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật điện tử – viễn thông",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7520212",
+          "program_name": "Kỹ thuật y sinh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7520301",
+          "program_name": "Kỹ thuật hóa học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7540101",
+          "program_name": "Công nghệ thực phẩm",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Kỹ thuật xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7580302",
+          "program_name": "Quản lý xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "24"
+        }
+      ]
+    },
+    {
+      "method_id": "6-iem-xet-tuyen-ket-hop",
+      "method_name": "6 ĐIỂM XÉT TUYỂN KẾT HỢP",
+      "description": "6.1 ĐIỀU KIỆN XÉT TUYỂN Ngưỡng đảm bảo chất lượng đầu vào Đối với các ngành đào tạo chương trình liên kết đào tạo với nước ngoài phải đạt điều kiện ngoại ngữ đầu vào như sau: Thí sinh phải có chứng chỉ tiếng Anh quốc tế tương đương tối thiểu IELTS 5.5, hoặc phải có trình độ tối thiểu bậc 4 theo khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam hoặc trình độ tiếng Anh tương đương B2 theo Khung tham chiếu Châu Âu (CEFR). Đối với những thí sinh chưa đáp ứng chứng chỉ tiếng Anh theo tiêu chuẩn trên s",
+      "eligibility": "Đối tượng và nguyên tắc xét tuyển: Thí sinh đã tốt nghiệp THPT hoặc dự kiến tốt nghiệp năm 2026. Công thức tính điểm xét tuyển theo nguyên tắc chung như sau: Điểm xét tuyển (ĐXT) = (k1 x Điểm thi Trung học phố thông (THPT) (quy đổi)) + (k2 x Điểm thi Đánh giá năng lực (ĐGNL) (quy đổi)) + (k3 x Điểm học bạ (quy đổi)) + Điểm cộng (nếu có) + Điểm ưu tiên (nếu có). Trong đó: Thang điểm xét tuyển là 100. Điểm thi THPT (quy đổi) = Tổng điểm 3 môn kỳ thi Tốt nghiệp THPT năm 2026 theo tổ hợp quy về thang điểm 100. Điểm thi ĐGNL (quy đổi) = Điểm thi ĐGNL của ĐHQG-HCM năm 2026 quy về thang điểm 100. Điểm học bạ (quy đổi) = Điểm trung bình cả năm của 3 môn trong tổ hợp quy về thang điểm 100. Điểm cộng (chứng chỉ tiếng anh, giải thưởng học sinh giỏi các cấp, giải thưởng nghiên cứu khoa học các cấp,…) quy về thang điểm 100. Điểm ưu tiên đối tượng, ưu tiên khu vực theo quy định của Bộ GD&ĐT quy về thang 100. Điểm cộng Điểm cộng dự kiến áp dụng cho các thí sinh có chứng chỉ tiếng Anh IELTS hoặc các chứng chỉ tương đương được Bộ GD&ĐT công nhận; Thí sinh đạt giải Học sinh giỏi các cấp; Thí sinh đạt giải các kỳ thi nghiên cứu khoa học hoặc một số kỳ thi uy tín;…. Tổng điểm cộng tối đa và điểm thành phần của từng điểm cộng theo quy định tại",
+      "rules": "QUY CHẾ Phương thức 2: Xét tuyển tổng hợp",
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "D09",
+            "D10",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế (Phân tích dữ liệu trong kinh tế)",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính – Ngân hàng",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7440112",
+          "program_name": "Hóa học (Hóa sinh)",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7460112",
+          "program_name": "Toán ứng dụng (Kỹ thuật Tài chính và Quản trị rủi ro)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7460201",
+          "program_name": "Thống kê (Thống kê ứng dụng)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics và Quản lý chuỗi cung ứng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7520118",
+          "program_name": "Kỹ thuật hệ thống công nghiệp",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7520121",
+          "program_name": "Kỹ thuật không gian (Phân tích và ứng dụng dữ liệu lớn)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật điện tử – viễn thông",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7520212",
+          "program_name": "Kỹ thuật y sinh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7520301",
+          "program_name": "Kỹ thuật hóa học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7540101",
+          "program_name": "Công nghệ thực phẩm",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Kỹ thuật xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7580302",
+          "program_name": "Quản lý xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "24"
+        }
+      ]
+    },
+    {
+      "method_id": "7-iem-xet-tuyen-ket-hop",
+      "method_name": "7 ĐIỂM XÉT TUYỂN KẾT HỢP",
+      "description": "7.1 ĐIỀU KIỆN XÉT TUYỂN Ngưỡng đảm bảo chất lượng đầu vào Đối với các ngành đào tạo chương trình liên kết đào tạo với nước ngoài phải đạt điều kiện ngoại ngữ đầu vào như sau: Thí sinh phải có chứng chỉ tiếng Anh quốc tế tương đương tối thiểu IELTS 5.5, hoặc phải có trình độ tối thiểu bậc 4 theo khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam hoặc trình độ tiếng Anh tương đương B2 theo Khung tham chiếu Châu Âu (CEFR). Đối với những thí sinh chưa đáp ứng chứng chỉ tiếng Anh theo tiêu chuẩn trên s",
+      "eligibility": "Đối tượng và nguyên tắc xét tuyển: Thí sinh đã tốt nghiệp THPT hoặc dự kiến tốt nghiệp năm 2026. Công thức tính điểm xét tuyển theo nguyên tắc chung như sau: Điểm xét tuyển (ĐXT) = (k1 x Điểm thi Trung học phố thông (THPT) (quy đổi)) + (k2 x Điểm thi Đánh giá năng lực (ĐGNL) (quy đổi)) + (k3 x Điểm học bạ (quy đổi)) + Điểm cộng (nếu có) + Điểm ưu tiên (nếu có). Trong đó: Thang điểm xét tuyển là 100. Điểm thi THPT (quy đổi) = Tổng điểm 3 môn kỳ thi Tốt nghiệp THPT năm 2026 theo tổ hợp quy về thang điểm 100. Điểm thi ĐGNL (quy đổi) = Điểm thi ĐGNL của ĐHQG-HCM năm 2026 quy về thang điểm 100. Điểm học bạ (quy đổi) = Điểm trung bình cả năm của 3 môn trong tổ hợp quy về thang điểm 100. Điểm cộng (chứng chỉ tiếng anh, giải thưởng học sinh giỏi các cấp, giải thưởng nghiên cứu khoa học các cấp,…) quy về thang điểm 100. Điểm ưu tiên đối tượng, ưu tiên khu vực theo quy định của Bộ GD&ĐT quy về thang 100. Điểm cộng Điểm cộng dự kiến áp dụng cho các thí sinh có chứng chỉ tiếng Anh IELTS hoặc các chứng chỉ tương đương được Bộ GD&ĐT công nhận; Thí sinh đạt giải Học sinh giỏi các cấp; Thí sinh đạt giải các kỳ thi nghiên cứu khoa học hoặc một số kỳ thi uy tín;…. Tổng điểm cộng tối đa và điểm thành phần của từng điểm cộng theo quy định tại",
+      "rules": "QUY CHẾ Phương thức 2: Xét tuyển tổng hợp",
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "D09",
+            "D10",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế (Phân tích dữ liệu trong kinh tế)",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính – Ngân hàng",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7440112",
+          "program_name": "Hóa học (Hóa sinh)",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7460112",
+          "program_name": "Toán ứng dụng (Kỹ thuật Tài chính và Quản trị rủi ro)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7460201",
+          "program_name": "Thống kê (Thống kê ứng dụng)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics và Quản lý chuỗi cung ứng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7520118",
+          "program_name": "Kỹ thuật hệ thống công nghiệp",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7520121",
+          "program_name": "Kỹ thuật không gian (Phân tích và ứng dụng dữ liệu lớn)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật điện tử – viễn thông",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7520212",
+          "program_name": "Kỹ thuật y sinh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7520301",
+          "program_name": "Kỹ thuật hóa học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7540101",
+          "program_name": "Công nghệ thực phẩm",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Kỹ thuật xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7580302",
+          "program_name": "Quản lý xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "24"
+        }
+      ]
+    },
+    {
+      "method_id": "8-iem-xet-tuyen-ket-hop",
+      "method_name": "8 ĐIỂM XÉT TUYỂN KẾT HỢP",
+      "description": "8.1 ĐIỀU KIỆN XÉT TUYỂN Ngưỡng đảm bảo chất lượng đầu vào Đối với các ngành đào tạo chương trình liên kết đào tạo với nước ngoài phải đạt điều kiện ngoại ngữ đầu vào như sau: Thí sinh phải có chứng chỉ tiếng Anh quốc tế tương đương tối thiểu IELTS 5.5, hoặc phải có trình độ tối thiểu bậc 4 theo khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam hoặc trình độ tiếng Anh tương đương B2 theo Khung tham chiếu Châu Âu (CEFR). Đối với những thí sinh chưa đáp ứng chứng chỉ tiếng Anh theo tiêu chuẩn trên s",
+      "eligibility": "Đối tượng và nguyên tắc xét tuyển: Thí sinh đã tốt nghiệp THPT hoặc dự kiến tốt nghiệp năm 2026. Công thức tính điểm xét tuyển theo nguyên tắc chung như sau: Điểm xét tuyển (ĐXT) = (k1 x Điểm thi Trung học phố thông (THPT) (quy đổi)) + (k2 x Điểm thi Đánh giá năng lực (ĐGNL) (quy đổi)) + (k3 x Điểm học bạ (quy đổi)) + Điểm cộng (nếu có) + Điểm ưu tiên (nếu có). Trong đó: Thang điểm xét tuyển là 100. Điểm thi THPT (quy đổi) = Tổng điểm 3 môn kỳ thi Tốt nghiệp THPT năm 2026 theo tổ hợp quy về thang điểm 100. Điểm thi ĐGNL (quy đổi) = Điểm thi ĐGNL của ĐHQG-HCM năm 2026 quy về thang điểm 100. Điểm học bạ (quy đổi) = Điểm trung bình cả năm của 3 môn trong tổ hợp quy về thang điểm 100. Điểm cộng (chứng chỉ tiếng anh, giải thưởng học sinh giỏi các cấp, giải thưởng nghiên cứu khoa học các cấp,…) quy về thang điểm 100. Điểm ưu tiên đối tượng, ưu tiên khu vực theo quy định của Bộ GD&ĐT quy về thang 100. Điểm cộng Điểm cộng dự kiến áp dụng cho các thí sinh có chứng chỉ tiếng Anh IELTS hoặc các chứng chỉ tương đương được Bộ GD&ĐT công nhận; Thí sinh đạt giải Học sinh giỏi các cấp; Thí sinh đạt giải các kỳ thi nghiên cứu khoa học hoặc một số kỳ thi uy tín;…. Tổng điểm cộng tối đa và điểm thành phần của từng điểm cộng theo quy định tại",
+      "rules": "QUY CHẾ Phương thức 2: Xét tuyển tổng hợp",
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "D09",
+            "D10",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế (Phân tích dữ liệu trong kinh tế)",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính – Ngân hàng",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7440112",
+          "program_name": "Hóa học (Hóa sinh)",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7460112",
+          "program_name": "Toán ứng dụng (Kỹ thuật Tài chính và Quản trị rủi ro)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7460201",
+          "program_name": "Thống kê (Thống kê ứng dụng)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics và Quản lý chuỗi cung ứng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7520118",
+          "program_name": "Kỹ thuật hệ thống công nghiệp",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7520121",
+          "program_name": "Kỹ thuật không gian (Phân tích và ứng dụng dữ liệu lớn)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật điện tử – viễn thông",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7520212",
+          "program_name": "Kỹ thuật y sinh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7520301",
+          "program_name": "Kỹ thuật hóa học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7540101",
+          "program_name": "Công nghệ thực phẩm",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Kỹ thuật xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7580302",
+          "program_name": "Quản lý xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "24"
+        }
+      ]
+    },
+    {
+      "method_id": "9-iem-xet-tuyen-ket-hop",
+      "method_name": "9 ĐIỂM XÉT TUYỂN KẾT HỢP",
+      "description": "9.1 ĐIỀU KIỆN XÉT TUYỂN Ngưỡng đảm bảo chất lượng đầu vào Đối với các ngành đào tạo chương trình liên kết đào tạo với nước ngoài phải đạt điều kiện ngoại ngữ đầu vào như sau: Thí sinh phải có chứng chỉ tiếng Anh quốc tế tương đương tối thiểu IELTS 5.5, hoặc phải có trình độ tối thiểu bậc 4 theo khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam hoặc trình độ tiếng Anh tương đương B2 theo Khung tham chiếu Châu Âu (CEFR). Đối với những thí sinh chưa đáp ứng chứng chỉ tiếng Anh theo tiêu chuẩn trên s",
+      "eligibility": "Đối tượng và nguyên tắc xét tuyển: Thí sinh đã tốt nghiệp THPT hoặc dự kiến tốt nghiệp năm 2026. Công thức tính điểm xét tuyển theo nguyên tắc chung như sau: Điểm xét tuyển (ĐXT) = (k1 x Điểm thi Trung học phố thông (THPT) (quy đổi)) + (k2 x Điểm thi Đánh giá năng lực (ĐGNL) (quy đổi)) + (k3 x Điểm học bạ (quy đổi)) + Điểm cộng (nếu có) + Điểm ưu tiên (nếu có). Trong đó: Thang điểm xét tuyển là 100. Điểm thi THPT (quy đổi) = Tổng điểm 3 môn kỳ thi Tốt nghiệp THPT năm 2026 theo tổ hợp quy về thang điểm 100. Điểm thi ĐGNL (quy đổi) = Điểm thi ĐGNL của ĐHQG-HCM năm 2026 quy về thang điểm 100. Điểm học bạ (quy đổi) = Điểm trung bình cả năm của 3 môn trong tổ hợp quy về thang điểm 100. Điểm cộng (chứng chỉ tiếng anh, giải thưởng học sinh giỏi các cấp, giải thưởng nghiên cứu khoa học các cấp,…) quy về thang điểm 100. Điểm ưu tiên đối tượng, ưu tiên khu vực theo quy định của Bộ GD&ĐT quy về thang 100. Điểm cộng Điểm cộng dự kiến áp dụng cho các thí sinh có chứng chỉ tiếng Anh IELTS hoặc các chứng chỉ tương đương được Bộ GD&ĐT công nhận; Thí sinh đạt giải Học sinh giỏi các cấp; Thí sinh đạt giải các kỳ thi nghiên cứu khoa học hoặc một số kỳ thi uy tín;…. Tổng điểm cộng tối đa và điểm thành phần của từng điểm cộng theo quy định tại",
+      "rules": "QUY CHẾ Phương thức 2: Xét tuyển tổng hợp",
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "D09",
+            "D10",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế (Phân tích dữ liệu trong kinh tế)",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính – Ngân hàng",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7440112",
+          "program_name": "Hóa học (Hóa sinh)",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7460112",
+          "program_name": "Toán ứng dụng (Kỹ thuật Tài chính và Quản trị rủi ro)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7460201",
+          "program_name": "Thống kê (Thống kê ứng dụng)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics và Quản lý chuỗi cung ứng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7520118",
+          "program_name": "Kỹ thuật hệ thống công nghiệp",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7520121",
+          "program_name": "Kỹ thuật không gian (Phân tích và ứng dụng dữ liệu lớn)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật điện tử – viễn thông",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7520212",
+          "program_name": "Kỹ thuật y sinh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7520301",
+          "program_name": "Kỹ thuật hóa học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7540101",
+          "program_name": "Công nghệ thực phẩm",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Kỹ thuật xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7580302",
+          "program_name": "Quản lý xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "24"
+        }
+      ]
+    },
+    {
+      "method_id": "10-iem-xet-tuyen-ket-hop",
+      "method_name": "10 ĐIỂM XÉT TUYỂN KẾT HỢP",
+      "description": "10.1 ĐIỀU KIỆN XÉT TUYỂN Ngưỡng đảm bảo chất lượng đầu vào Đối với các ngành đào tạo chương trình liên kết đào tạo với nước ngoài phải đạt điều kiện ngoại ngữ đầu vào như sau: Thí sinh phải có chứng chỉ tiếng Anh quốc tế tương đương tối thiểu IELTS 5.5, hoặc phải có trình độ tối thiểu bậc 4 theo khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam hoặc trình độ tiếng Anh tương đương B2 theo Khung tham chiếu Châu Âu (CEFR). Đối với những thí sinh chưa đáp ứng chứng chỉ tiếng Anh theo tiêu chuẩn trên ",
+      "eligibility": "Đối tượng và nguyên tắc xét tuyển: Thí sinh đã tốt nghiệp THPT hoặc dự kiến tốt nghiệp năm 2026. Công thức tính điểm xét tuyển theo nguyên tắc chung như sau: Điểm xét tuyển (ĐXT) = (k1 x Điểm thi Trung học phố thông (THPT) (quy đổi)) + (k2 x Điểm thi Đánh giá năng lực (ĐGNL) (quy đổi)) + (k3 x Điểm học bạ (quy đổi)) + Điểm cộng (nếu có) + Điểm ưu tiên (nếu có). Trong đó: Thang điểm xét tuyển là 100. Điểm thi THPT (quy đổi) = Tổng điểm 3 môn kỳ thi Tốt nghiệp THPT năm 2026 theo tổ hợp quy về thang điểm 100. Điểm thi ĐGNL (quy đổi) = Điểm thi ĐGNL của ĐHQG-HCM năm 2026 quy về thang điểm 100. Điểm học bạ (quy đổi) = Điểm trung bình cả năm của 3 môn trong tổ hợp quy về thang điểm 100. Điểm cộng (chứng chỉ tiếng anh, giải thưởng học sinh giỏi các cấp, giải thưởng nghiên cứu khoa học các cấp,…) quy về thang điểm 100. Điểm ưu tiên đối tượng, ưu tiên khu vực theo quy định của Bộ GD&ĐT quy về thang 100. Điểm cộng Điểm cộng dự kiến áp dụng cho các thí sinh có chứng chỉ tiếng Anh IELTS hoặc các chứng chỉ tương đương được Bộ GD&ĐT công nhận; Thí sinh đạt giải Học sinh giỏi các cấp; Thí sinh đạt giải các kỳ thi nghiên cứu khoa học hoặc một số kỳ thi uy tín;…. Tổng điểm cộng tối đa và điểm thành phần của từng điểm cộng theo quy định tại",
+      "rules": "QUY CHẾ Phương thức 2: Xét tuyển tổng hợp",
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "D09",
+            "D10",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế (Phân tích dữ liệu trong kinh tế)",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính – Ngân hàng",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7440112",
+          "program_name": "Hóa học (Hóa sinh)",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7460112",
+          "program_name": "Toán ứng dụng (Kỹ thuật Tài chính và Quản trị rủi ro)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7460201",
+          "program_name": "Thống kê (Thống kê ứng dụng)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics và Quản lý chuỗi cung ứng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7520118",
+          "program_name": "Kỹ thuật hệ thống công nghiệp",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7520121",
+          "program_name": "Kỹ thuật không gian (Phân tích và ứng dụng dữ liệu lớn)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật điện tử – viễn thông",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7520212",
+          "program_name": "Kỹ thuật y sinh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7520301",
+          "program_name": "Kỹ thuật hóa học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7540101",
+          "program_name": "Công nghệ thực phẩm",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Kỹ thuật xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7580302",
+          "program_name": "Quản lý xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "24"
+        }
+      ]
+    },
+    {
+      "method_id": "11-iem-xet-tuyen-ket-hop",
+      "method_name": "11 ĐIỂM XÉT TUYỂN KẾT HỢP",
+      "description": "11.1 ĐIỀU KIỆN XÉT TUYỂN Ngưỡng đảm bảo chất lượng đầu vào Đối với các ngành đào tạo chương trình liên kết đào tạo với nước ngoài phải đạt điều kiện ngoại ngữ đầu vào như sau: Thí sinh phải có chứng chỉ tiếng Anh quốc tế tương đương tối thiểu IELTS 5.5, hoặc phải có trình độ tối thiểu bậc 4 theo khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam hoặc trình độ tiếng Anh tương đương B2 theo Khung tham chiếu Châu Âu (CEFR). Đối với những thí sinh chưa đáp ứng chứng chỉ tiếng Anh theo tiêu chuẩn trên ",
+      "eligibility": "Đối tượng và nguyên tắc xét tuyển: Thí sinh đã tốt nghiệp THPT hoặc dự kiến tốt nghiệp năm 2026. Công thức tính điểm xét tuyển theo nguyên tắc chung như sau: Điểm xét tuyển (ĐXT) = (k1 x Điểm thi Trung học phố thông (THPT) (quy đổi)) + (k2 x Điểm thi Đánh giá năng lực (ĐGNL) (quy đổi)) + (k3 x Điểm học bạ (quy đổi)) + Điểm cộng (nếu có) + Điểm ưu tiên (nếu có). Trong đó: Thang điểm xét tuyển là 100. Điểm thi THPT (quy đổi) = Tổng điểm 3 môn kỳ thi Tốt nghiệp THPT năm 2026 theo tổ hợp quy về thang điểm 100. Điểm thi ĐGNL (quy đổi) = Điểm thi ĐGNL của ĐHQG-HCM năm 2026 quy về thang điểm 100. Điểm học bạ (quy đổi) = Điểm trung bình cả năm của 3 môn trong tổ hợp quy về thang điểm 100. Điểm cộng (chứng chỉ tiếng anh, giải thưởng học sinh giỏi các cấp, giải thưởng nghiên cứu khoa học các cấp,…) quy về thang điểm 100. Điểm ưu tiên đối tượng, ưu tiên khu vực theo quy định của Bộ GD&ĐT quy về thang 100. Điểm cộng Điểm cộng dự kiến áp dụng cho các thí sinh có chứng chỉ tiếng Anh IELTS hoặc các chứng chỉ tương đương được Bộ GD&ĐT công nhận; Thí sinh đạt giải Học sinh giỏi các cấp; Thí sinh đạt giải các kỳ thi nghiên cứu khoa học hoặc một số kỳ thi uy tín;…. Tổng điểm cộng tối đa và điểm thành phần của từng điểm cộng theo quy định tại",
+      "rules": "QUY CHẾ Phương thức 2: Xét tuyển tổng hợp",
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "D09",
+            "D10",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế (Phân tích dữ liệu trong kinh tế)",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính – Ngân hàng",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7440112",
+          "program_name": "Hóa học (Hóa sinh)",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7460112",
+          "program_name": "Toán ứng dụng (Kỹ thuật Tài chính và Quản trị rủi ro)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7460201",
+          "program_name": "Thống kê (Thống kê ứng dụng)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics và Quản lý chuỗi cung ứng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7520118",
+          "program_name": "Kỹ thuật hệ thống công nghiệp",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7520121",
+          "program_name": "Kỹ thuật không gian (Phân tích và ứng dụng dữ liệu lớn)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật điện tử – viễn thông",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7520212",
+          "program_name": "Kỹ thuật y sinh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7520301",
+          "program_name": "Kỹ thuật hóa học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7540101",
+          "program_name": "Công nghệ thực phẩm",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Kỹ thuật xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7580302",
+          "program_name": "Quản lý xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "24"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "D09",
+            "D10",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế (Phân tích dữ liệu trong kinh tế)",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính – Ngân hàng",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A01",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7440112",
+          "program_name": "Hóa học (Hóa sinh)",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7460112",
+          "program_name": "Toán ứng dụng (Kỹ thuật Tài chính và Quản trị rủi ro)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7460201",
+          "program_name": "Thống kê (Thống kê ứng dụng)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X06",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics và Quản lý chuỗi cung ứng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7520118",
+          "program_name": "Kỹ thuật hệ thống công nghiệp",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7520121",
+          "program_name": "Kỹ thuật không gian (Phân tích và ứng dụng dữ liệu lớn)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật điện tử – viễn thông",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7520212",
+          "program_name": "Kỹ thuật y sinh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7520301",
+          "program_name": "Kỹ thuật hóa học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7540101",
+          "program_name": "Công nghệ thực phẩm",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07",
+            "B08",
+            "C08",
+            "D12",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Kỹ thuật xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7580302",
+          "program_name": "Quản lý xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "B08",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "24"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn của trường Đại học Quốc tế, Đại học Quốc gia TPHCM các năm Tại đây.",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-quoc-te-dhqg-tphcm-QSQ.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "AP01",
+            "program_name": "Ngôn ngữ Anh (Chương trình liên kết với ĐH West of England (2+2, 3+1,4+0))",
+            "subject_groups": [
+              "D09",
+              "D10",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 26,
+            "note": "Môn Anh hệ số 2"
+          },
+          {
+            "program_code": "AP02",
+            "program_name": "Kinh doanh – Quản lý – Kinh tế (Quản trị kinh doanh (CTLK với ĐH Andrews) (4+0); Quản trị kinh doanh (CTLK với ĐH Công nghệ Auckland) (1+2/1.5+1.5); Quản trị kinh doanh (CTLK với ĐH Lakehead) (2+2); Quản trị kinh doanh (CTLK với ĐH New South Wales) (2+2); Quản trị kinh doanh (CTLK với ĐH Sydney) (2+2); Quản trị kinh doanh (CTLK với ĐH West of England) (2+2); Quản trị kinh doanh (CTLK với ĐH West of England) (4+0); Quản trị kinh doanh (CTLK với ĐH Macquarie) (2+1); Tài chính (CTLK với ĐH Macquarie)",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D09",
+              "D10",
+              "X25",
+              "D01"
+            ],
+            "score": 20.75,
+            "note": "Thang điểm 35, Môn Anh nhân 1.5"
+          },
+          {
+            "program_code": "AP03",
+            "program_name": "Toán – Tin học (Công nghệ thông tin (CTLK với ĐH West of England) (4+0); Công nghệ thông tin (CTLK với ĐH Macquarie) (2+1); Khoa học máy tính (CTLK với ĐH West of England) (2+2); Công nghệ thông tin (CTLK với ĐH Deakin) (2+2); Công nghệ thông tin (CTLK với ĐH Deakin) (3+1))",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X26",
+              "X06",
+              "X10"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "AP04",
+            "program_name": "Khoa học sự sống và Hóa học (Công nghệ sinh học (CTLK với ĐH West of England) (2+2); Công nghệ sinh học định hướng Y Sinh (CTLK với ĐH West of England) (4+0))",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D07",
+              "B08",
+              "C08",
+              "D12",
+              "D13"
+            ],
+            "score": 19.75,
+            "note": null
+          },
+          {
+            "program_code": "AP05",
+            "program_name": "Kỹ thuật (Kỹ thuật điện tử – viễn thông (CTLK với ĐH West of England) (2+2); Kỹ thuật xây dựng (CTLK với ĐH Deakin) (2+2))",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D07",
+              "B08",
+              "D01"
+            ],
+            "score": 17.5,
+            "note": null
+          },
+          {
+            "program_code": "IU01",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D09",
+              "D10",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 31,
+            "note": "Môn Anh hệ số 2"
+          },
+          {
+            "program_code": "IU02",
+            "program_name": "Kinh doanh – Quản lý – Kinh tế (Nhóm ngành: Quản trị kinh doanh; Marketing; Tài chính – Ngân hàng; Kế toán; Kinh tế (Phân tích dữ liệu trong kinh tế))",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D09",
+              "D10",
+              "X25",
+              "D01"
+            ],
+            "score": 22,
+            "note": "Thang điểm 35, Môn Anh nhân 1.5"
+          },
+          {
+            "program_code": "IU03",
+            "program_name": "Toán – Tin học (Nhóm ngành: Công nghệ thông tin; Khoa học máy tính; Khoa học dữ liệu; Toán ứng dụng (Kỹ thuật Tài chính và Quản trị rủi ro); Thống kê (Thống kê ứng dụng))",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X26",
+              "X06",
+              "X10"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "IU04",
+            "program_name": "Khoa học sự sống và Hóa học (Nhóm ngành: Công nghệ sinh học; Công nghệ thực phẩm; Hóa học (Hóa sinh); Kỹ thuật hóa học)",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D07",
+              "B08",
+              "C08",
+              "D12",
+              "D13"
+            ],
+            "score": 18.5,
+            "note": null
+          },
+          {
+            "program_code": "IU05",
+            "program_name": "Kỹ thuật (Nhóm ngành: Logistics và Quản lý chuỗi cung ứng; Kỹ thuật hệ thống công nghiệp; Kỹ thuật điện tử – viễn thông; Kỹ thuật điều khiển và tự động hóa; Kỹ thuật y sinh; Kỹ thuật không gian (Phân tích và ứng dụng dữ liệu lớn); Kỹ thuật xây dựng; Quản lý xây dựng)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D07",
+              "B08",
+              "D01"
+            ],
+            "score": 19.5,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "AP01",
+            "program_name": "Ngôn ngữ Anh (Chương trình liên kết với ĐH West of England (2+2, 3+1,4+0))",
+            "subject_groups": [
+              "D09",
+              "D10",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 721,
+            "note": null
+          },
+          {
+            "program_code": "AP02",
+            "program_name": "Kinh doanh – Quản lý – Kinh tế (Quản trị kinh doanh (CTLK với ĐH Andrews) (4+0); Quản trị kinh doanh (CTLK với ĐH Công nghệ Auckland) (1+2/1.5+1.5); Quản trị kinh doanh (CTLK với ĐH Lakehead) (2+2); Quản trị kinh doanh (CTLK với ĐH New South Wales) (2+2); Quản trị kinh doanh (CTLK với ĐH Sydney) (2+2); Quản trị kinh doanh (CTLK với ĐH West of England) (2+2); Quản trị kinh doanh (CTLK với ĐH West of England) (4+0); Quản trị kinh doanh (CTLK với ĐH Macquarie) (2+1); Tài chính (CTLK với ĐH Macquarie)",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D09",
+              "D10",
+              "X25",
+              "D01"
+            ],
+            "score": 603,
+            "note": null
+          },
+          {
+            "program_code": "AP03",
+            "program_name": "Toán – Tin học (Công nghệ thông tin (CTLK với ĐH West of England) (4+0); Công nghệ thông tin (CTLK với ĐH Macquarie) (2+1); Khoa học máy tính (CTLK với ĐH West of England) (2+2); Công nghệ thông tin (CTLK với ĐH Deakin) (2+2); Công nghệ thông tin (CTLK với ĐH Deakin) (3+1))",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X26",
+              "X06",
+              "X10"
+            ],
+            "score": 757,
+            "note": null
+          },
+          {
+            "program_code": "AP04",
+            "program_name": "Khoa học sự sống và Hóa học (Công nghệ sinh học (CTLK với ĐH West of England) (2+2); Công nghệ sinh học định hướng Y Sinh (CTLK với ĐH West of England) (4+0))",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D07",
+              "B08",
+              "C08",
+              "D12",
+              "D13"
+            ],
+            "score": 653,
+            "note": null
+          },
+          {
+            "program_code": "AP05",
+            "program_name": "Kỹ thuật (Kỹ thuật điện tử – viễn thông (CTLK với ĐH West of England) (2+2); Kỹ thuật xây dựng (CTLK với ĐH Deakin) (2+2))",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D07",
+              "B08",
+              "D01"
+            ],
+            "score": 622,
+            "note": null
+          },
+          {
+            "program_code": "IU01",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D09",
+              "D10",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 935,
+            "note": null
+          },
+          {
+            "program_code": "IU02",
+            "program_name": "Kinh doanh – Quản lý – Kinh tế (Nhóm ngành: Quản trị kinh doanh; Marketing; Tài chính – Ngân hàng; Kế toán; Kinh tế (Phân tích dữ liệu trong kinh tế))",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D09",
+              "D10",
+              "X25",
+              "D01"
+            ],
+            "score": 668,
+            "note": null
+          },
+          {
+            "program_code": "IU03",
+            "program_name": "Toán – Tin học (Nhóm ngành: Công nghệ thông tin; Khoa học máy tính; Khoa học dữ liệu; Toán ứng dụng (Kỹ thuật Tài chính và Quản trị rủi ro); Thống kê (Thống kê ứng dụng))",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X26",
+              "X06",
+              "X10"
+            ],
+            "score": 805,
+            "note": null
+          },
+          {
+            "program_code": "IU04",
+            "program_name": "Khoa học sự sống và Hóa học (Nhóm ngành: Công nghệ sinh học; Công nghệ thực phẩm; Hóa học (Hóa sinh); Kỹ thuật hóa học)",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D07",
+              "B08",
+              "C08",
+              "D12",
+              "D13"
+            ],
+            "score": 602,
+            "note": null
+          },
+          {
+            "program_code": "IU05",
+            "program_name": "Kỹ thuật (Nhóm ngành: Logistics và Quản lý chuỗi cung ứng; Kỹ thuật hệ thống công nghiệp; Kỹ thuật điện tử – viễn thông; Kỹ thuật điều khiển và tự động hóa; Kỹ thuật y sinh; Kỹ thuật không gian (Phân tích và ứng dụng dữ liệu lớn); Kỹ thuật xây dựng; Quản lý xây dựng)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D07",
+              "B08",
+              "D01"
+            ],
+            "score": 728,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-utxt-xt-thang",
+        "method_name": "Điểm chuẩn theo phương thức ƯTXT, XT thẳng năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "AP01",
+            "program_name": "Ngôn ngữ Anh (Chương trình liên kết với ĐH West of England (2+2, 3+1,4+0))",
+            "subject_groups": [
+              "D09",
+              "D10",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 32.28,
+            "note": "Đối tượng ƯTXT theo QĐ của ĐHQG TPHCM, Môn Anh nhân hệ số 2"
+          },
+          {
+            "program_code": "AP02",
+            "program_name": "Kinh doanh – Quản lý – Kinh tế (Quản trị kinh doanh (CTLK với ĐH Andrews) (4+0); Quản trị kinh doanh (CTLK với ĐH Công nghệ Auckland) (1+2/1.5+1.5); Quản trị kinh doanh (CTLK với ĐH Lakehead) (2+2); Quản trị kinh doanh (CTLK với ĐH New South Wales) (2+2); Quản trị kinh doanh (CTLK với ĐH Sydney) (2+2); Quản trị kinh doanh (CTLK với ĐH West of England) (2+2); Quản trị kinh doanh (CTLK với ĐH West of England) (4+0); Quản trị kinh doanh (CTLK với ĐH Macquarie) (2+1); Tài chính (CTLK với ĐH Macquarie)",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D09",
+              "D10",
+              "X25",
+              "D01"
+            ],
+            "score": 27.56,
+            "note": "Đối tượng ƯTXT theo QĐ của ĐHQG TPHCM, tính theo thang điểm 35, môn Anh nhân 1.5"
+          },
+          {
+            "program_code": "AP03",
+            "program_name": "Toán – Tin học (Công nghệ thông tin (CTLK với ĐH West of England) (4+0); Công nghệ thông tin (CTLK với ĐH Macquarie) (2+1); Khoa học máy tính (CTLK với ĐH West of England) (2+2); Công nghệ thông tin (CTLK với ĐH Deakin) (2+2); Công nghệ thông tin (CTLK với ĐH Deakin) (3+1))",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X26",
+              "X06",
+              "X10"
+            ],
+            "score": 24.83,
+            "note": "Đối tượng ƯTXT theo QĐ của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "AP04",
+            "program_name": "Khoa học sự sống và Hóa học (Công nghệ sinh học (CTLK với ĐH West of England) (2+2); Công nghệ sinh học định hướng Y Sinh (CTLK với ĐH West of England) (4+0))",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D07",
+              "B08",
+              "C08",
+              "D12",
+              "D13"
+            ],
+            "score": 25.5,
+            "note": "Đối tượng ƯTXT theo QĐ của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "AP05",
+            "program_name": "Kỹ thuật (Kỹ thuật điện tử – viễn thông (CTLK với ĐH West of England) (2+2); Kỹ thuật xây dựng (CTLK với ĐH Deakin) (2+2))",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D07",
+              "B08",
+              "D01"
+            ],
+            "score": 23.44,
+            "note": "Đối tượng ƯTXT theo QĐ của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "IU01",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D09",
+              "D10",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 34.03,
+            "note": "Đối tượng ƯTXT theo QĐ của ĐHQG TPHCM, Môn Anh nhân hệ số 2"
+          },
+          {
+            "program_code": "IU02",
+            "program_name": "Kinh doanh – Quản lý – Kinh tế (Nhóm ngành: Quản trị kinh doanh; Marketing; Tài chính – Ngân hàng; Kế toán; Kinh tế (Phân tích dữ liệu trong kinh tế))",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D09",
+              "D10",
+              "X25",
+              "D01"
+            ],
+            "score": 28.17,
+            "note": "Đối tượng ƯTXT theo QĐ của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "IU03",
+            "program_name": "Toán – Tin học (Nhóm ngành: Công nghệ thông tin; Khoa học máy tính; Khoa học dữ liệu; Toán ứng dụng (Kỹ thuật Tài chính và Quản trị rủi ro); Thống kê (Thống kê ứng dụng))",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X26",
+              "X06",
+              "X10"
+            ],
+            "score": 25.17,
+            "note": "Đối tượng ƯTXT theo QĐ của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "IU04",
+            "program_name": "Khoa học sự sống và Hóa học (Nhóm ngành: Công nghệ sinh học; Công nghệ thực phẩm; Hóa học (Hóa sinh); Kỹ thuật hóa học)",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D07",
+              "B08",
+              "C08",
+              "D12",
+              "D13"
+            ],
+            "score": 24.9,
+            "note": "Đối tượng ƯTXT theo QĐ của ĐHQG TPHCM"
+          },
+          {
+            "program_code": "IU05",
+            "program_name": "Kỹ thuật (Nhóm ngành: Logistics và Quản lý chuỗi cung ứng; Kỹ thuật hệ thống công nghiệp; Kỹ thuật điện tử – viễn thông; Kỹ thuật điều khiển và tự động hóa; Kỹ thuật y sinh; Kỹ thuật không gian (Phân tích và ứng dụng dữ liệu lớn); Kỹ thuật xây dựng; Quản lý xây dựng)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D07",
+              "B08",
+              "D01"
+            ],
+            "score": 24.5,
+            "note": "Đối tượng ƯTXT theo QĐ của ĐHQG TPHCM"
+          }
+        ]
+      }
+    ]
+  }
+}

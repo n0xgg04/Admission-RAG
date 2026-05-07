@@ -1,0 +1,1392 @@
+{
+  "university": {
+    "code": "MTU",
+    "name": "Trường Đại Học Xây Dựng Miền Tây",
+    "short_name": "MTU",
+    "location": [
+      "Vĩnh Long"
+    ],
+    "address": "Số 20B Phó Cơ Điều, Phường 3, Tp. Vĩnh Long, Tỉnh Vĩnh Long",
+    "website": "https://mtu.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": 20,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-xay-dung-mien-tay-MTU.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2025/0704/thong-tin-tuyen-sinh-truong-dai-hoc-xd-mien-tay-2025.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC XÂY DỰNG MIỀN TÂY 2026 Thông tin tuyển sinh Đại Học Xây Dựng Miền Tây (MTU) năm 2026 Trường Đại học Xây dựng miền Tây năm 2026 tuyển sinh 1020 chỉ tiêu theo 4 phương thức: Phương thức 1: Xét tuyển dựa vào kết quả kỳ thi tốt nghiệp THPT năm 2026. Phương thức 2: Xét tuyển theo kết quả kỳ thi đánh giá năng lực của ĐHQG TP.HCM năm 2026. Phương thức 3: Kỳ thi đánh giá đầu vào đại học V-SAT do Đại học Cần Thơ tổ chức năm 2026. Phương thức 4: Xét tuyển dựa vào kết quả học tập cấp THPT (học bạ). Khám phá thêm Khoa học khoá học Tài nguyên giáo dục",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 QUY CHẾ - Xét tuyển dựa vào kết quả kỳ thi tốt nghiệp THPT năm 2026 bắt buộc phải có môn Toán với trọng số tính điểm xét của môn Toán tối thiểu 1/3 và đáp dứng yêu cầu tổ hợp xét tuyển sử dụng kết quả các môn thi tốt nghiệp THPT dùng để xét tuyển có ít nhất 03 môn phù hợp với đặc điểm, yêu cầu đầu vào của chương trình đào tạo. Điểm xét tuyển = Điểm thi THPT môn 1 + Điểm thi THPT môn 2 + Điểm thi THPT môn 3 + Điểm ưu tiên (nếu có) + Điểm cộng (nếu có). - Thí sinh có một trong các chứng chỉ ti",
+      "eligibility": null,
+      "rules": "QUY CHẾ - Xét tuyển dựa vào kết quả kỳ thi tốt nghiệp THPT năm 2026 bắt buộc phải có môn Toán với trọng số tính điểm xét của môn Toán tối thiểu 1/3 và đáp dứng yêu cầu tổ hợp xét tuyển sử dụng kết quả các môn thi tốt nghiệp THPT dùng để xét tuyển có ít nhất 03 môn phù hợp với đặc điểm, yêu cầu đầu vào của chương trình đào tạo. Điểm xét tuyển = Điểm thi THPT môn 1 + Điểm thi THPT môn 2 + Điểm thi THPT môn 3 + Điểm ưu tiên (nếu có) + Điểm cộng (nếu có). - Thí sinh có một trong các chứng chỉ tiếng Anh được quy định tại Thông tư số 24/2024/TT-BGDĐT của Bộ Giáo dục và Đào tạo quy định Danh mục chứng chỉ ngoại ngữ và được miễn thi môn Ngoại ngữ trong xét công nhận tốt nghiệp THPT năm 2026, sẽ được quy đổi kết quả chứng chỉ ngoại ngữ thành điểm môn ngoại ngữ theo thang điểm 10 để đưa vào tổ hợp môn xét tuyển thay thế môn ngoại ngữ theo nguyên tắc trọng số tính điểm xét môn ngoại ngữ không vượt quá 1/3 của tổng điểm theo thang điểm 30.",
+      "programs": [
+        {
+          "program_code": "7340301",
+          "program_name": "Nhóm ngành Kế toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "A04",
+            "A05",
+            "A06",
+            "C03",
+            "D01",
+            "X05",
+            "X09"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7480103",
+          "program_name": "Nhóm ngành Kỹ thuật phần mềm",
+          "subject_groups": [
+            "A00",
+            "A02",
+            "A03",
+            "A05",
+            "B00",
+            "C01",
+            "D01",
+            "X06",
+            "X10",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7510205",
+          "program_name": "Nhóm ngành Công nghệ Kỹ thuật ô tô",
+          "subject_groups": [
+            "A00",
+            "A02",
+            "A03",
+            "A05",
+            "B00",
+            "C01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Ngành Logistics và Quản lý chuỗi cung ứng (Cử nhân)",
+          "subject_groups": [
+            "A00",
+            "A02",
+            "A03",
+            "A05",
+            "B00",
+            "C01",
+            "D01",
+            "X06",
+            "X09",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7520320",
+          "program_name": "Nhóm ngành Kỹ thuật môi trường",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A04",
+            "A06",
+            "B00",
+            "C01",
+            "X05",
+            "X09"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7580101",
+          "program_name": "Nhóm ngành Kiến trúc",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "A04",
+            "A06",
+            "A07",
+            "C01",
+            "C03",
+            "D01",
+            "X05"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7580106",
+          "program_name": "Nhóm ngành Quản lý đô thị và công trình",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "A04",
+            "A06",
+            "A07",
+            "C01",
+            "C03",
+            "D01",
+            "X05"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Nhóm ngành Kỹ thuật xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "A06",
+            "B00",
+            "C01",
+            "D01",
+            "X05",
+            "X09"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7580202",
+          "program_name": "Ngành Kỹ thuật Xây dựng Công trình thủy (Kỹ sư)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A04",
+            "A06",
+            "C01",
+            "D01",
+            "D07",
+            "X05",
+            "X06",
+            "X09"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7580205",
+          "program_name": "Nhóm ngành Kỹ thuật xây dựng công trình Giao thông",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "A06",
+            "B00",
+            "C01",
+            "D01",
+            "X05",
+            "X09"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7580213",
+          "program_name": "Ngành Kỹ thuật cấp thoát nước (Kỹ sư)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "A05",
+            "B00",
+            "C01",
+            "D01",
+            "X05",
+            "X09"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-gnl-hcm",
+      "method_name": "2 ĐIỂM ĐGNL HCM",
+      "description": "2.1 QUY CHẾ Điểm xét tuyển = Điểm thi đánh giá năng lực x hệ số quy đổi + Điểm ưu tiên (nếu có) + Điểm cộng (nếu có). - Thí sinh tham dự kỳ thi đánh giá năng lực do ĐHQG TP.HCM tổ chức năm 2026, có điểm bài thi cao hơn hoặc bằng ngưỡng đảm bảo chất lượng đầu vào. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐGNL HCM STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7340301 Nhóm ngành Kế toán 2 7480103 Nhóm ngành Kỹ thuật phần mềm 3 7510205 Nhóm ngành Công nghệ Kỹ thuật ô tô 4 7510605 Ngành Logistics và Q",
+      "eligibility": null,
+      "rules": "QUY CHẾ Điểm xét tuyển = Điểm thi đánh giá năng lực x hệ số quy đổi + Điểm ưu tiên (nếu có) + Điểm cộng (nếu có). - Thí sinh tham dự kỳ thi đánh giá năng lực do ĐHQG TP.HCM tổ chức năm 2026, có điểm bài thi cao hơn hoặc bằng ngưỡng đảm bảo chất lượng đầu vào.",
+      "programs": [
+        {
+          "program_code": "7340301",
+          "program_name": "Nhóm ngành Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7480103",
+          "program_name": "Nhóm ngành Kỹ thuật phần mềm",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7510205",
+          "program_name": "Nhóm ngành Công nghệ Kỹ thuật ô tô",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Ngành Logistics và Quản lý chuỗi cung ứng (Cử nhân)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7520320",
+          "program_name": "Nhóm ngành Kỹ thuật môi trường",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7580101",
+          "program_name": "Nhóm ngành Kiến trúc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7580106",
+          "program_name": "Nhóm ngành Quản lý đô thị và công trình",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Nhóm ngành Kỹ thuật xây dựng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7580202",
+          "program_name": "Ngành Kỹ thuật Xây dựng Công trình thủy (Kỹ sư)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7580205",
+          "program_name": "Nhóm ngành Kỹ thuật xây dựng công trình Giao thông",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7580213",
+          "program_name": "Ngành Kỹ thuật cấp thoát nước (Kỹ sư)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        }
+      ]
+    },
+    {
+      "method_id": "3-iem-hoc-ba",
+      "method_name": "3 ĐIỂM HỌC BẠ",
+      "description": "3.1 QUY CHẾ - Xét tuyển dựa vào kết quả học tập các môn học cấp THPT bắt buộc phải có môn Toán với trọng số tính điểm xét của môn Toán tối thiểu 1/3 và đáp ứng yêu cầu tổ hợp xét tuyển sử dụng kết quả học tập cả năm lớp 10, 11,12 theo thang điểm 30. Điểm xét tuyển = (Điểm trung bình 03 năm môn 1 + Điểm trung bình 03 năm môn 2 + Điểm trung 03 năm môn 3) x hệ số quy đổi + Điểm ưu tiên (nếu có) + Điểm cộng (nếu có). DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM HỌC BẠ STT Mã ngành Tên ngành Tổ hợp ",
+      "eligibility": null,
+      "rules": "QUY CHẾ - Xét tuyển dựa vào kết quả học tập các môn học cấp THPT bắt buộc phải có môn Toán với trọng số tính điểm xét của môn Toán tối thiểu 1/3 và đáp ứng yêu cầu tổ hợp xét tuyển sử dụng kết quả học tập cả năm lớp 10, 11,12 theo thang điểm 30. Điểm xét tuyển = (Điểm trung bình 03 năm môn 1 + Điểm trung bình 03 năm môn 2 + Điểm trung 03 năm môn 3) x hệ số quy đổi + Điểm ưu tiên (nếu có) + Điểm cộng (nếu có).",
+      "programs": [
+        {
+          "program_code": "7340301",
+          "program_name": "Nhóm ngành Kế toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "A04",
+            "A05",
+            "A06",
+            "C03",
+            "D01",
+            "X05",
+            "X09"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7480103",
+          "program_name": "Nhóm ngành Kỹ thuật phần mềm",
+          "subject_groups": [
+            "A00",
+            "A02",
+            "A03",
+            "A05",
+            "B00",
+            "C01",
+            "D01",
+            "X06",
+            "X10",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7510205",
+          "program_name": "Nhóm ngành Công nghệ Kỹ thuật ô tô",
+          "subject_groups": [
+            "A00",
+            "A02",
+            "A03",
+            "A05",
+            "B00",
+            "C01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Ngành Logistics và Quản lý chuỗi cung ứng (Cử nhân)",
+          "subject_groups": [
+            "A00",
+            "A02",
+            "A03",
+            "A05",
+            "B00",
+            "C01",
+            "D01",
+            "X06",
+            "X09",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7520320",
+          "program_name": "Nhóm ngành Kỹ thuật môi trường",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A04",
+            "A06",
+            "B00",
+            "C01",
+            "X05",
+            "X09"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7580101",
+          "program_name": "Nhóm ngành Kiến trúc",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "A04",
+            "A06",
+            "A07",
+            "C01",
+            "C03",
+            "D01",
+            "X05"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7580106",
+          "program_name": "Nhóm ngành Quản lý đô thị và công trình",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "A04",
+            "A06",
+            "A07",
+            "C01",
+            "C03",
+            "D01",
+            "X05"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Nhóm ngành Kỹ thuật xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "A06",
+            "B00",
+            "C01",
+            "D01",
+            "X05",
+            "X09"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7580202",
+          "program_name": "Ngành Kỹ thuật Xây dựng Công trình thủy (Kỹ sư)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A04",
+            "A06",
+            "C01",
+            "D01",
+            "D07",
+            "X05",
+            "X06",
+            "X09"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7580205",
+          "program_name": "Nhóm ngành Kỹ thuật xây dựng công trình Giao thông",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "A06",
+            "B00",
+            "C01",
+            "D01",
+            "X05",
+            "X09"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7580213",
+          "program_name": "Ngành Kỹ thuật cấp thoát nước (Kỹ sư)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "A05",
+            "B00",
+            "C01",
+            "D01",
+            "X05",
+            "X09"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        }
+      ]
+    },
+    {
+      "method_id": "4-iem-anh-gia-au-vao-v-sat",
+      "method_name": "4 ĐIỂM ĐÁNH GIÁ ĐẦU VÀO V-SAT",
+      "description": "4.1 QUY CHẾ Điểm xét tuyển = Điểm thi đánh giá đầu vào đại học V-SAT (tổng tổ hợp 3 môn) x hệ số quy đổi + Điểm ưu tiên (nếu có) + Điểm cộng (nếu có). - Thí sinh tham dự kỳ thi đánh giá đầu vào đại học V-SAT do Đại học Cần Thơ tổ chức năm 2026, có điểm bài thi tổng tổ hợp 3 môn cao hơn hoặc bằng ngưỡng đảm bảo chất lượng đầu vào. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐÁNH GIÁ ĐẦU VÀO V-SAT STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7340301 Nhóm ngành Kế toán 2 7480103 Nhóm ngành Kỹ thuật ph",
+      "eligibility": null,
+      "rules": "QUY CHẾ Điểm xét tuyển = Điểm thi đánh giá đầu vào đại học V-SAT (tổng tổ hợp 3 môn) x hệ số quy đổi + Điểm ưu tiên (nếu có) + Điểm cộng (nếu có). - Thí sinh tham dự kỳ thi đánh giá đầu vào đại học V-SAT do Đại học Cần Thơ tổ chức năm 2026, có điểm bài thi tổng tổ hợp 3 môn cao hơn hoặc bằng ngưỡng đảm bảo chất lượng đầu vào.",
+      "programs": [
+        {
+          "program_code": "7340301",
+          "program_name": "Nhóm ngành Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7480103",
+          "program_name": "Nhóm ngành Kỹ thuật phần mềm",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7510205",
+          "program_name": "Nhóm ngành Công nghệ Kỹ thuật ô tô",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Ngành Logistics và Quản lý chuỗi cung ứng (Cử nhân)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7520320",
+          "program_name": "Nhóm ngành Kỹ thuật môi trường",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7580101",
+          "program_name": "Nhóm ngành Kiến trúc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7580106",
+          "program_name": "Nhóm ngành Quản lý đô thị và công trình",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Nhóm ngành Kỹ thuật xây dựng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7580202",
+          "program_name": "Ngành Kỹ thuật Xây dựng Công trình thủy (Kỹ sư)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7580205",
+          "program_name": "Nhóm ngành Kỹ thuật xây dựng công trình Giao thông",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7580213",
+          "program_name": "Ngành Kỹ thuật cấp thoát nước (Kỹ sư)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7340301",
+          "program_name": "Nhóm ngành Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Nhóm ngành Kế toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "A04",
+            "A05",
+            "A06",
+            "C03",
+            "D01",
+            "X05",
+            "X09"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7480103",
+          "program_name": "Nhóm ngành Kỹ thuật phần mềm",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7480103",
+          "program_name": "Nhóm ngành Kỹ thuật phần mềm",
+          "subject_groups": [
+            "A00",
+            "A02",
+            "A03",
+            "A05",
+            "B00",
+            "C01",
+            "D01",
+            "X06",
+            "X10",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7510205",
+          "program_name": "Nhóm ngành Công nghệ Kỹ thuật ô tô",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7510205",
+          "program_name": "Nhóm ngành Công nghệ Kỹ thuật ô tô",
+          "subject_groups": [
+            "A00",
+            "A02",
+            "A03",
+            "A05",
+            "B00",
+            "C01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Ngành Logistics và Quản lý chuỗi cung ứng (Cử nhân)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Ngành Logistics và Quản lý chuỗi cung ứng (Cử nhân)",
+          "subject_groups": [
+            "A00",
+            "A02",
+            "A03",
+            "A05",
+            "B00",
+            "C01",
+            "D01",
+            "X06",
+            "X09",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7520320",
+          "program_name": "Nhóm ngành Kỹ thuật môi trường",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7520320",
+          "program_name": "Nhóm ngành Kỹ thuật môi trường",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A04",
+            "A06",
+            "B00",
+            "C01",
+            "X05",
+            "X09"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7580101",
+          "program_name": "Nhóm ngành Kiến trúc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7580101",
+          "program_name": "Nhóm ngành Kiến trúc",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "A04",
+            "A06",
+            "A07",
+            "C01",
+            "C03",
+            "D01",
+            "X05"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7580106",
+          "program_name": "Nhóm ngành Quản lý đô thị và công trình",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7580106",
+          "program_name": "Nhóm ngành Quản lý đô thị và công trình",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "A04",
+            "A06",
+            "A07",
+            "C01",
+            "C03",
+            "D01",
+            "X05"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Nhóm ngành Kỹ thuật xây dựng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Nhóm ngành Kỹ thuật xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "A06",
+            "B00",
+            "C01",
+            "D01",
+            "X05",
+            "X09"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7580202",
+          "program_name": "Ngành Kỹ thuật Xây dựng Công trình thủy (Kỹ sư)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7580202",
+          "program_name": "Ngành Kỹ thuật Xây dựng Công trình thủy (Kỹ sư)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A04",
+            "A06",
+            "C01",
+            "D01",
+            "D07",
+            "X05",
+            "X06",
+            "X09"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7580205",
+          "program_name": "Nhóm ngành Kỹ thuật xây dựng công trình Giao thông",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7580205",
+          "program_name": "Nhóm ngành Kỹ thuật xây dựng công trình Giao thông",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "A06",
+            "B00",
+            "C01",
+            "D01",
+            "X05",
+            "X09"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7580213",
+          "program_name": "Ngành Kỹ thuật cấp thoát nước (Kỹ sư)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7580213",
+          "program_name": "Ngành Kỹ thuật cấp thoát nước (Kỹ sư)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "A05",
+            "B00",
+            "C01",
+            "D01",
+            "X05",
+            "X09"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Trường Đại Học Xây Dựng Miền Tây các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-xay-dung-mien-tay-MTU.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A03",
+              "A04",
+              "A05",
+              "A06",
+              "A10",
+              "A11",
+              "C03",
+              "D01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7480103",
+            "program_name": "Kỹ thuật phần mềm",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A10",
+              "A11",
+              "C01",
+              "D01",
+              "D07",
+              "X06",
+              "X26"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7520320",
+            "program_name": "Kỹ thuật môi trường",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "A04",
+              "A06",
+              "A10",
+              "A11",
+              "B00",
+              "C01",
+              "D01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7580101",
+            "program_name": "Kiến trúc",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A03",
+              "A04",
+              "A06",
+              "A07",
+              "A10",
+              "C01",
+              "C03",
+              "D01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7580106",
+            "program_name": "Quản lý đô thị và công trình",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A03",
+              "A04",
+              "A10",
+              "A11",
+              "C01",
+              "C03",
+              "D01",
+              "X06"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7580201",
+            "program_name": "Kỹ thuật xây dựng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A04",
+              "A06",
+              "A10",
+              "A11",
+              "C01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7580202",
+            "program_name": "Kỹ thuật Xây dựng Công trình thủy (Kỹ sư)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A04",
+              "A06",
+              "A10",
+              "A11",
+              "C01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7580205",
+            "program_name": "Kỹ thuật xây dựng công trình Giao thông",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A04",
+              "A06",
+              "A10",
+              "A11",
+              "C01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7580213",
+            "program_name": "Kỹ thuật cấp thoát nước (Kỹ sư)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "A04",
+              "A06",
+              "A10",
+              "A11",
+              "B00",
+              "C01",
+              "D01"
+            ],
+            "score": 15,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A03",
+              "A04",
+              "A05",
+              "A06",
+              "A10",
+              "A11",
+              "C03",
+              "D01"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7480103",
+            "program_name": "Kỹ thuật phần mềm",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A10",
+              "A11",
+              "C01",
+              "D01",
+              "D07",
+              "X06",
+              "X26"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7520320",
+            "program_name": "Kỹ thuật môi trường",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "A04",
+              "A06",
+              "A10",
+              "A11",
+              "B00",
+              "C01",
+              "D01"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7580101",
+            "program_name": "Kiến trúc",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A03",
+              "A04",
+              "A06",
+              "A07",
+              "A10",
+              "C01",
+              "C03",
+              "D01"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7580106",
+            "program_name": "Quản lý đô thị và công trình",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A03",
+              "A04",
+              "A10",
+              "A11",
+              "C01",
+              "C03",
+              "D01",
+              "X06"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7580201",
+            "program_name": "Kỹ thuật xây dựng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A04",
+              "A06",
+              "A10",
+              "A11",
+              "C01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7580202",
+            "program_name": "Kỹ thuật Xây dựng Công trình thủy (Kỹ sư)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A04",
+              "A06",
+              "A10",
+              "A11",
+              "C01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7580205",
+            "program_name": "Kỹ thuật xây dựng công trình Giao thông",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A04",
+              "A06",
+              "A10",
+              "A11",
+              "C01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7580213",
+            "program_name": "Kỹ thuật cấp thoát nước (Kỹ sư)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "A04",
+              "A06",
+              "A10",
+              "A11",
+              "B00",
+              "C01",
+              "D01"
+            ],
+            "score": 18,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A03",
+              "A04",
+              "A05",
+              "A06",
+              "A10",
+              "A11",
+              "C03",
+              "D01"
+            ],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7480103",
+            "program_name": "Kỹ thuật phần mềm",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A10",
+              "A11",
+              "C01",
+              "D01",
+              "D07",
+              "X06",
+              "X26"
+            ],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7520320",
+            "program_name": "Kỹ thuật môi trường",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "A04",
+              "A06",
+              "A10",
+              "A11",
+              "B00",
+              "C01",
+              "D01"
+            ],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7580101",
+            "program_name": "Kiến trúc",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A03",
+              "A04",
+              "A06",
+              "A07",
+              "A10",
+              "C01",
+              "C03",
+              "D01"
+            ],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7580106",
+            "program_name": "Quản lý đô thị và công trình",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A03",
+              "A04",
+              "A10",
+              "A11",
+              "C01",
+              "C03",
+              "D01",
+              "X06"
+            ],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7580201",
+            "program_name": "Kỹ thuật xây dựng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A04",
+              "A06",
+              "A10",
+              "A11",
+              "C01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7580202",
+            "program_name": "Kỹ thuật Xây dựng Công trình thủy (Kỹ sư)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A04",
+              "A06",
+              "A10",
+              "A11",
+              "C01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7580205",
+            "program_name": "Kỹ thuật xây dựng công trình Giao thông",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A04",
+              "A06",
+              "A10",
+              "A11",
+              "C01",
+              "D01",
+              "D07",
+              "X06"
+            ],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7580213",
+            "program_name": "Kỹ thuật cấp thoát nước (Kỹ sư)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "A04",
+              "A06",
+              "A10",
+              "A11",
+              "B00",
+              "C01",
+              "D01"
+            ],
+            "score": 600,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

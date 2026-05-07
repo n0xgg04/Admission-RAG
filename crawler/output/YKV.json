@@ -1,0 +1,322 @@
+{
+  "university": {
+    "code": "YKV",
+    "name": "Đại học Y Khoa Vinh",
+    "short_name": "YKV",
+    "location": [
+      "Nghệ An"
+    ],
+    "address": "Số 161 - Nguyễn Phong Sắc, phường Hương Dũng, thành phố Vinh, tỉnh Nghệ An.",
+    "website": "http://www.vmu.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2025,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-y-khoa-vinh-YKV.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2025/0606/thong-bao-tuyen-sinh-trinh-do-dai-hoc-he-chinh-quy-nam-2025.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC Y KHOA VINH 2025 Thông tin tuyển sinh trường Đại học Y khoa Vinh (VMU) năm 2025 Năm 2025, trường Đại học Y khoa Vinh tuyển sinh 1010 hệ đại học chính quy dựa trên 2 phương thức xét tuyển như sau: Phương thức 1: Xét điểm thi THPT Phương thức 2: Xét học bạ THPT Khám phá thêm Giáo dục Khoa học khoa học",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 QUY CHẾ a) Điều kiện đăng ký dự tuyển: Thí sinh phải tham dự kỳ thi tốt nghiệp THPT Quốc gia năm 2025, có các môn theo tổ hợp môn của ngành đăng ký dự tuyển (Không phân biệt Chương trình THPT cũ hay chương trình THPT mới) và đạt ngưỡng đảm bảo chất lượng đầu vào do Bộ GD&ĐT quy định. b) Địa điểm, thời gian đăng ký dự thi tốt nghiệp THPT năm 2025: Thí sinh đang học lớp 12 năm học 2024 - 2025 sẽ tiến hành đăng ký dự thi THPT Quốc gia trực tuyến trên hệ thống quản lý thi của Bộ Giáo dục và Đào ",
+      "eligibility": null,
+      "rules": "QUY CHẾ a) Điều kiện đăng ký dự tuyển: Thí sinh phải tham dự kỳ thi tốt nghiệp THPT Quốc gia năm 2025, có các môn theo tổ hợp môn của ngành đăng ký dự tuyển (Không phân biệt Chương trình THPT cũ hay chương trình THPT mới) và đạt ngưỡng đảm bảo chất lượng đầu vào do Bộ GD&ĐT quy định. b) Địa điểm, thời gian đăng ký dự thi tốt nghiệp THPT năm 2025: Thí sinh đang học lớp 12 năm học 2024 - 2025 sẽ tiến hành đăng ký dự thi THPT Quốc gia trực tuyến trên hệ thống quản lý thi của Bộ Giáo dục và Đào tạo. Thí sinh tự do tiến hành đăng ký dự thi trực tiếp tại đơn vị đăng ký dự thi do Sở GD&ĐT quy định từ ngày 21/04/2025 đến 28/04/2025. c) Đăng ký xét tuyển: Thí sinh sử dụng tài khoản dự thi kỳ thi THPT năm 2025 để đăng ký nguyện vọng xét tuyển trực tuyến trên Hệ thống tuyển sinh theo lịch chung của Bộ GD&ĐT.",
+      "programs": [
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "B00",
+            "A00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720110",
+          "program_name": "Y học dự phòng",
+          "subject_groups": [
+            "B00",
+            "A00",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [
+            "B00",
+            "A00",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng",
+          "subject_groups": [
+            "B00",
+            "A00",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật xét nghiệm y học",
+          "subject_groups": [
+            "B00",
+            "A00",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-hoc-ba",
+      "method_name": "2 ĐIỂM HỌC BẠ",
+      "description": "2.1 QUY CHẾ a) Điều kiện đăng ký xét tuyển: - Không giới hạn năm tốt nghiệp THPT. Đối với thí sinh đã tốt nghiệp THPT: Thí sinh dự tuyển phải có kết quả học tập cả năm lớp 12 được đánh giá mức khá (học lực xếp loại từ khá trở lên) hoặc điểm xét tốt nghiệp THPT từ 6,5 trở lên. Đối với thí sinh đã tốt nghiệp trình độ trung cấp trở lên cùng nhóm ngành dự tuyển phải đảm bảo một trong các tiêu chí sau: + Học lực lớp 12 đạt loại khá hoặc điểm trung bình chung các môn văn hóa cấp THPT đạt từ 6,5 trở lê",
+      "eligibility": null,
+      "rules": "QUY CHẾ a) Điều kiện đăng ký xét tuyển: - Không giới hạn năm tốt nghiệp THPT. Đối với thí sinh đã tốt nghiệp THPT: Thí sinh dự tuyển phải có kết quả học tập cả năm lớp 12 được đánh giá mức khá (học lực xếp loại từ khá trở lên) hoặc điểm xét tốt nghiệp THPT từ 6,5 trở lên. Đối với thí sinh đã tốt nghiệp trình độ trung cấp trở lên cùng nhóm ngành dự tuyển phải đảm bảo một trong các tiêu chí sau: + Học lực lớp 12 đạt loại khá hoặc điểm trung bình chung các môn văn hóa cấp THPT đạt từ 6,5 trở lên; + Tốt nghiệp THPT loại khá, hoặc có học lực lớp 12 đạt loại trung bình và có 5 năm kinh nghiệm công tác đúng với chuyên môn đào tạo; + Tốt nghiệp trình độ trung cấp, cao đẳng, đại học đạt loại khá trở lên. b) Địa điểm và thời gian khai báo thông tin đăng ký xét tuyển: Thí sinh đăng ký dự thi THPT Quốc gia năm 2025: Sử dụng tài khoản đăng ký dự thi để đăng ký xét tuyển theo lịch của Bộ GD&ĐT. - Thí sinh tự do (tốt nghiệp THPT trước 2025, không tham dự kỳ thi THPT Quốc gia năm 2025): Khai báo thông tin trực tiếp tại đơn vị do Sở GD&ĐT quy định để nhận tài khoản đăng ký xét tuyển theo lịch của Bộ GD&ĐT. c) Đăng ký xét tuyển: Thí sinh sử dụng tài khoản đã được cấp để đăng ký nguyện vọng xét tuyển trực tuyến trên Hệ thống tuyển sinh theo lịch chung của Bộ GD&ĐT.",
+      "programs": [
+        {
+          "program_code": "7720110",
+          "program_name": "Y học dự phòng",
+          "subject_groups": [
+            "B00",
+            "A00",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng",
+          "subject_groups": [
+            "B00",
+            "A00",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật xét nghiệm y học",
+          "subject_groups": [
+            "B00",
+            "A00",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "B00",
+            "A00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720110",
+          "program_name": "Y học dự phòng",
+          "subject_groups": [
+            "B00",
+            "A00",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [
+            "B00",
+            "A00",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng",
+          "subject_groups": [
+            "B00",
+            "A00",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật xét nghiệm y học",
+          "subject_groups": [
+            "B00",
+            "A00",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn trường Đại học Y khoa Vinh các năm Tại đây",
+  "tuition_text": "Thu theo Quyết định số 448/QĐ-ĐHYKV ngày 19/03/2024 của Hiệu trưởng Trường ĐHYK Vinh. Năm học 2024-2025, mức thu theo từng ngành như sau: - Các ngành Y khoa và Dược học: 3.100.000 đồng/tháng/sinh viên - Các ngành Y học dự phòng, Điều dưỡng và Kỹ thuật xét nghiệm y học: 2.340.000 đồng/tháng/ sinh viên",
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-y-khoa-vinh-YKV.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "A00",
+              "B00"
+            ],
+            "score": 22.1,
+            "note": null
+          },
+          {
+            "program_code": "7720110",
+            "program_name": "Y học dự phòng",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D07"
+            ],
+            "score": 17.25,
+            "note": null
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D07"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D07"
+            ],
+            "score": 17.5,
+            "note": null
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật xét nghiệm y học",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D07"
+            ],
+            "score": 20,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7720110",
+            "program_name": "Y học dự phòng",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D07"
+            ],
+            "score": 23.8,
+            "note": null
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D07"
+            ],
+            "score": 23.8,
+            "note": null
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật xét nghiệm y học",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D07"
+            ],
+            "score": 24.9,
+            "note": null
+          },
+          {
+            "program_code": "DLT7720301",
+            "program_name": "Điều dưỡng liên thông",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 14,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

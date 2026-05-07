@@ -1,0 +1,490 @@
+{
+  "university": {
+    "code": "NHP",
+    "name": "Học viện Ngân hàng",
+    "short_name": "BAV",
+    "location": [
+      "Phú Yên"
+    ],
+    "address": "Số 441 đường Nguyễn Huệ, TP Tuy Hòa, tỉnh Phú Yên.",
+    "website": "https://bap.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2025,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/hoc-vien-ngan-hang-phan-vien-phu-yen-NHP.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2025/0225/hoc-vien-ngan-hang-phan-vien-hu-yen.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH HỌC VIỆN NGÂN HÀNG (PHÂN VIỆN PHÚ YÊN) 2025 Đề án tuyển sinh Học viện ngân hàng (BAV) Phân viện Phú Yên năm 2025 Phương thức 1: Xét tuyển thẳng Phương thức 2: Xét tuyển dựa trên kết quả học tập cấp THPT Phương thức 3: Xét tuyển dựa trên kết quả kì thi đánh giá đầu vào V-SAT Phương thức 4: Xét tuyển dựa trên kết quả thi THPT năm 2025",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 QUY CHẾ Điều kiện xét tuyển (ngưỡng đảm bảo chất lượng): Thí sinh có tổng điểm thi THPT 2025 của các môn thuộc tổ hợp của ngành đăng ký xét tuyển đạt ngưỡng đảm bảo chất lượng chung của Học viện Ngân hàng – Phân hiệu Phú Yên (sẽ thông báo sau khi có kết quả thi THPT 2025). Trong đó M1, M2, M3 là điểm thi THPT 2025 của 03 môn học thuộc tổ hợp của ngành đăng ký xét tuyển, với M1 là môn chính. Đối với các nhóm tổ hợp xét tuyển có chung môn Toán (bao gồm A00, A01, D01, D07), quy ước M1 là môn To",
+      "eligibility": "đối tượng theo",
+      "rules": "QUY CHẾ Điều kiện xét tuyển (ngưỡng đảm bảo chất lượng): Thí sinh có tổng điểm thi THPT 2025 của các môn thuộc tổ hợp của ngành đăng ký xét tuyển đạt ngưỡng đảm bảo chất lượng chung của Học viện Ngân hàng – Phân hiệu Phú Yên (sẽ thông báo sau khi có kết quả thi THPT 2025). Trong đó M1, M2, M3 là điểm thi THPT 2025 của 03 môn học thuộc tổ hợp của ngành đăng ký xét tuyển, với M1 là môn chính. Đối với các nhóm tổ hợp xét tuyển có chung môn Toán (bao gồm A00, A01, D01, D07), quy ước M1 là môn Toán. Điểm ưu tiên: điểm ưu tiên khu vực,",
+      "programs": []
+    },
+    {
+      "method_id": "2-iem-anh-gia-au-vao-v-sat",
+      "method_name": "2 ĐIỂM ĐÁNH GIÁ ĐẦU VÀO V-SAT",
+      "description": "2.1 QUY CHẾ Tiêu chí xét tuyển: Dựa trên kết quả kỳ thi đánh giá đầu vào đại học V-SAT năm 2025. Điều kiện nộp hồ sơ xét tuyển: Thí sinh có tổng điểm V-SAT của 03 môn thuộc tổ hợp của ngành đăng ký xét tuyển đạt từ 150 trở lên. Cách tính điểm xét tuyển: Do điểm tối đa một môn thi trong bài thi VSAT là 150, do đó để quy đổi sang thang 30, điểm xét tuyển với phương thức xét tuyển dựa trên bài thi V-SAT được xác định như sau: M1, M2, M3: Là điểm bài thi V-SAT các môn thi thuộc tổ hợp của ngành đăng",
+      "eligibility": "đối tượng theo",
+      "rules": "QUY CHẾ Tiêu chí xét tuyển: Dựa trên kết quả kỳ thi đánh giá đầu vào đại học V-SAT năm 2025. Điều kiện nộp hồ sơ xét tuyển: Thí sinh có tổng điểm V-SAT của 03 môn thuộc tổ hợp của ngành đăng ký xét tuyển đạt từ 150 trở lên. Cách tính điểm xét tuyển: Do điểm tối đa một môn thi trong bài thi VSAT là 150, do đó để quy đổi sang thang 30, điểm xét tuyển với phương thức xét tuyển dựa trên bài thi V-SAT được xác định như sau: M1, M2, M3: Là điểm bài thi V-SAT các môn thi thuộc tổ hợp của ngành đăng ký xét tuyển. Điểm ưu tiên: điểm ưu tiên khu vực,",
+      "programs": [
+        {
+          "program_code": "ACT02",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "BANK02",
+          "program_name": "Ngân hàng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "BUS02",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "BUS07",
+          "program_name": "Marketing",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "FIN02",
+          "program_name": "Tài chính",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        }
+      ]
+    },
+    {
+      "method_id": "3-utxt-xt-thang",
+      "method_name": "3 ƯTXT, XT THẲNG",
+      "description": "3.1 ĐỐI TƯỢNG Học viện Ngân hàng – Phân hiệu Phú Yên xét tuyển thẳng vào các ngành đào tạo trình độ đại học hệ chính quy các đối tượng quy định tại Quy chế tuyển sinh hiện hành, cụ thể như sau: - Anh hùng lao động, Anh hùng lực lượng vũ trang nhân dân, Chiến sĩ thi đua toàn quốc được tuyển thẳng vào các ngành, chương trình do HVNH quy định trong Đề án tuyển sinh hàng năm. - Thí sinh đoạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia, quốc tế hoặc thi khoa học, kỹ thuật cấp quốc gia",
+      "eligibility": "ĐỐI TƯỢNG Học viện Ngân hàng – Phân hiệu Phú Yên xét tuyển thẳng vào các ngành đào tạo trình độ đại học hệ chính quy các đối tượng quy định tại",
+      "rules": "Quy chế tuyển sinh hiện hành, cụ thể như sau: - Anh hùng lao động, Anh hùng lực lượng vũ trang nhân dân, Chiến sĩ thi đua toàn quốc được tuyển thẳng vào các ngành, chương trình do HVNH quy định trong Đề án tuyển sinh hàng năm. - Thí sinh đoạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia, quốc tế hoặc thi khoa học, kỹ thuật cấp quốc gia, quốc tế do Bộ GDĐT tổ chức, cử tham gia; thời gian đoạt giải không quá 03 năm tính tới thời điểm xét tuyển thẳng. - Giám đốc Học viện căn cứ kết quả học tập cấp THPT của thí sinh và yêu cầu của ngành đào tạo để xem xét, quyết định nhận vào học những trường hợp quy định dưới đây (trường hợp cần thiết kèm theo điều kiện thí sinh phải học 01 năm bổ sung kiến thức trước khi vào học chính thức): a) Thí sinh là người khuyết tật đặc biệt nặng có giấy xác nhận khuyết tật của cơ quan có thẩm quyền cấp theo quy định, có khả năng theo học một số ngành của HVNH nhưng không có khả năng dự tuyển theo phương thức tuyển sinh bình thường; b) Thí sinh là người dân tộc thiểu số rất ít người theo quy định hiện hành của Chính phủ và thí sinh 20 huyện nghèo biên giới, hải đảo thuộc khu vực Tây Nam Bộ; c) Thí sinh có nơi thường trú từ 03 năm trở lên, học 03 năm và tốt nghiệp THPT tại các huyện nghèo (học sinh học phổ thông dân tộc nội trú tính theo nơi thường trú) theo quy định của Chính phủ, Thủ tướng Chính phủ; d) Thí sinh là người nước ngoài có kết quả kiểm tra kiến thức và năng lực Tiếng Việt đáp ứng quy định hiện hành của Bộ trưởng Bộ GDĐT.",
+      "programs": [
+        {
+          "program_code": "ACT02",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "BANK02",
+          "program_name": "Ngân hàng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "BUS02",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "BUS07",
+          "program_name": "Marketing",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "FIN02",
+          "program_name": "Tài chính",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        }
+      ]
+    },
+    {
+      "method_id": "4-iem-hoc-ba",
+      "method_name": "4 ĐIỂM HỌC BẠ",
+      "description": "4.1 QUY CHẾ Tiêu chí xét tuyển: Dựa trên kết quả học tập trong 03 năm học (năm học lớp 10, lớp 11 và lớp 12) của 03 môn thuộc tổ hợp của ngành đăng ký xét tuyển. Điều kiện nộp hồ sơ xét tuyển: Thí sinh có tổng điểm xét tuyển đạt từ 19.50 trở lên. Điểm xét tuyển được tính trên thang 40 và quy đổi về thang 30, trong đó nhân đôi điểm đối với môn chung, cụ thể như sau: Trong đó M1, M2, M3 là điểm trung bình cộng 03 năm học của các môn học thuộc tổ hợp của ngành đăng ký xét tuyển, được làm tròn đến h",
+      "eligibility": "đối tượng theo",
+      "rules": "QUY CHẾ Tiêu chí xét tuyển: Dựa trên kết quả học tập trong 03 năm học (năm học lớp 10, lớp 11 và lớp 12) của 03 môn thuộc tổ hợp của ngành đăng ký xét tuyển. Điều kiện nộp hồ sơ xét tuyển: Thí sinh có tổng điểm xét tuyển đạt từ 19.50 trở lên. Điểm xét tuyển được tính trên thang 40 và quy đổi về thang 30, trong đó nhân đôi điểm đối với môn chung, cụ thể như sau: Trong đó M1, M2, M3 là điểm trung bình cộng 03 năm học của các môn học thuộc tổ hợp của ngành đăng ký xét tuyển, được làm tròn đến hai chữ số thập phân (sau dấu phẩy hai số), với M1 là môn chính. Đối với các nhóm tổ hợp xét tuyển có chung môn Toán (bao gồm A00, A01, D01, D07), quy ước M1 là môn Toán. Điểm cộng khuyến khích: Nhóm 1: Thí sinh đạt giải khuyến khích trong cuộc thi học sinh giỏi quốc gia được cộng 1,5 điểm; đạt giải Nhất, Nhì, Ba, Khuyến khích trong cuộc thi học sinh giỏi cấp tỉnh/thành phố được cộng tương ứng là 1,0; 0,75; 0,5 và 0,25 điểm (các môn đoạt giải được cộng điểm: Toán, Vật lý, Hóa học, Ngữ Văn, Lịch sử, Địa lý, Tiếng Anh, Tin học). Nhóm 2: Thí sinh hệ chuyên của trường THPT chuyên: cộng 0,5 điểm. Lưu ý: Một thí sinh có thể thuộc cả hai nhóm cộng khuyến khích khác nhau. Khi đó, điểm cộng khuyến khích sẽ bao gồm tổng điểm của các nhóm mà thí sinh thuộc diện cộng khuyến khích. Với nhóm 1, nếu thí sinh đoạt nhiều giải sẽ chỉ tính một điểm cộng khuyến khích tương ứng với mức giải cao nhất. Mức điểm tối đa mà thí sinh có thể được 30 cộng khuyến khích là 2 điểm, do đó điểm xét tuyển sẽ được nhân 30/32 với để đảm bảo thang điểm tối đa không được vượt quá 30. Điểm ưu tiên: điểm ưu tiên khu vực,",
+      "programs": [
+        {
+          "program_code": "ACT02",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "BANK02",
+          "program_name": "Ngân hàng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "BUS02",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "BUS07",
+          "program_name": "Marketing",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "FIN02",
+          "program_name": "Tài chính",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "ACT02",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "BANK02",
+          "program_name": "Ngân hàng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "BUS02",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "BUS07",
+          "program_name": "Marketing",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "FIN02",
+          "program_name": "Tài chính",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Học viện Ngân Hàng (Phân viện Phú Yên) các năm Tại đây",
+  "tuition_text": "Học phí dự kiến cho năm học 2025–2026 của các chương trình chi tiết như dưới đây. Đối với các năm học còn lại của khóa học, Học viện Ngân hàng – Phân hiệu Phú Yên dự kiến tăng học phí theo lộ trình được quy định tại Nghị định số 81/2021/NĐ-CP ngày 27/08/2021 của Chính phủ về việc quy định cơ cấu thu, quản lý học phí đối với cơ sở giáo dục thuộc hệ thống giáo dục quốc dân và Nghị định số 97/2023/NĐ-CP ngày 31/12/2023 về việc sửa đổi, bổ sung một số điều của Nghị định 81/2021/NĐ-CP với mức tăng không quá 15%/năm học và tuân thủ các quy định pháp luật, văn bản hướng dẫn của các cơ quan nhà nước có thẩm quyền tại từng năm học. Mức học phí dự kiến là: 785.000 đồng/tín chỉ, tương đương khoảng 26,5 triệu đồng/năm học theo tiến độ học tập thông thường.",
+  "timeline_text": "",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-ngan-hang-phan-vien-phu-yen-NHP.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "ACT02",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "BANK02",
+            "program_name": "Ngân hàng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "BUS02",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "BUS07",
+            "program_name": "Marketing",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "FIN02",
+            "program_name": "Tài chính",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 15,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "ACT02",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 19.5,
+            "note": "Môn toán nhân 2, quy về thang điểm 30"
+          },
+          {
+            "program_code": "BANK02",
+            "program_name": "Ngân hàng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 19.5,
+            "note": "Môn toán nhân 2, quy về thang điểm 30"
+          },
+          {
+            "program_code": "BUS02",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 19.5,
+            "note": "Môn toán nhân 2, quy về thang điểm 30"
+          },
+          {
+            "program_code": "BUS07",
+            "program_name": "Marketing",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 19.5,
+            "note": "Môn toán nhân 2, quy về thang điểm 30"
+          },
+          {
+            "program_code": "FIN02",
+            "program_name": "Tài chính",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 19.5,
+            "note": "Môn toán nhân 2, quy về thang điểm 30"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-anh-gia-au-vao-v-sat",
+        "method_name": "Điểm chuẩn theo phương thức Điểm Đánh giá đầu vào V-SAT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "ACT02",
+            "program_name": "Kế toán",
+            "subject_groups": [],
+            "score": 150,
+            "note": null
+          },
+          {
+            "program_code": "BANK02",
+            "program_name": "Ngân hàng",
+            "subject_groups": [],
+            "score": 150,
+            "note": null
+          },
+          {
+            "program_code": "BUS02",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 150,
+            "note": null
+          },
+          {
+            "program_code": "BUS07",
+            "program_name": "Marketing",
+            "subject_groups": [],
+            "score": 150,
+            "note": null
+          },
+          {
+            "program_code": "FIN02",
+            "program_name": "Tài chính",
+            "subject_groups": [],
+            "score": 150,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "university": {
+    "code": "KMA",
+    "name": "Học viện Kỹ thuật mật mã",
+    "short_name": "KMA",
+    "location": [
+      "Hà Nội"
+    ],
+    "address": null,
+    "website": "https://actvn.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/hoc-vien-ky-thuat-mat-ma-KMA.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0407/thong-tin-tuyen-sinh-hoc-vien-ky-thuat-mat-ma-2026.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH HỌC VIỆN KỸ THUẬT MẬT MÃ 2026 Thông tin tuyển sinh Học viện Kỹ thuật mật mã (KMA) năm 2026 Học viện Kỹ thuật mật mã thông báo thông tin chi tiết phương án tuyển sinh Đại học chính quy năm 2026 CÁC PHƯƠNG THỨC TUYỂN SINH Phương thức 1: Xét tuyển thẳng áp dụng cho tất cả các đối tượng theo Quy chế tuyển sinh của Bộ GDĐT và theo quy định của Học viện KTMM. Phương thức 2: Xét tuyển theo kết quả điểm thi tốt nghiệp THPT năm 2026 áp dụng cho các đối tượng thí sinh có điểm thi tốt nghiệp THPT năm 2026 áp dụng cho tất cả các mã tuyển sinh năm 2026 của Học viện KTMM. Phương thức 3: Xét tuyển dựa vào kết quả bài thi ĐGNL, ĐGTD xét tuyển dựa vào kết quả trong các kỳ thi ĐGNL, ĐGTD năm 2026 của một trong các đơn vị: Đại học Quốc gia Hà Nội, Đại học Quốc gia TP. Hồ Chí Minh, Đại học Sư phạm Hà Nội, Đại học Bách khoa Hà Nội tổ chức. Khám phá thêm khoá học giáo dục Quản lý Dữ liệu",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 ĐỐI TƯỢNG Áp dụng cho các đối tượng thí sinh có điểm thi tốt nghiệp THPT năm 2026 áp dụng cho tất cả các mã tuyển sinh năm 2026 của Học viện KTMM. – Học viện KTMM sử dụng 06 tổ hợp là: Tổ hợp A00 (Toán, Vật lý, Hóa học); Tổ hợp A01 (Toán, Vật lý, Tiếng Anh); Tổ hợp X26 (Toán, Tiếng Anh, Tin học); Tổ hợp X06 (Toán, Vật lý, Tin học); Tổ hợp X07 (Toán, Vật lý, Công nghệ công nghiệp); Tổ hợp K01 (Toán, Văn, Vật lý) và không có chênh lệch điểm xét tuyển giữa các tổ hợp xét tuyển, các môn trong tổ",
+      "eligibility": "ĐỐI TƯỢNG Áp dụng cho các đối tượng thí sinh có điểm thi tốt nghiệp THPT năm 2026 áp dụng cho tất cả các mã tuyển sinh năm 2026 của Học viện KTMM. – Học viện KTMM sử dụng 06 tổ hợp là: Tổ hợp A00 (Toán, Vật lý, Hóa học); Tổ hợp A01 (Toán, Vật lý, Tiếng Anh); Tổ hợp X26 (Toán, Tiếng Anh, Tin học); Tổ hợp X06 (Toán, Vật lý, Tin học); Tổ hợp X07 (Toán, Vật lý, Công nghệ công nghiệp); Tổ hợp K01 (Toán, Văn, Vật lý) và không có chênh lệch điểm xét tuyển giữa các tổ hợp xét tuyển, các môn trong tổ hợp là hệ số 1. 1.2 CHỈ TIÊU 520 1.3",
+      "rules": "QUY CHẾ – Bảng cộng điểm ưu tiên đối với chứng chỉ tiếng Anh quốc tế (áp dụng cho phương thức sử dụng kết quả kỳ thi THPT do Bộ GD&ĐT tổ chức để xét tuyển): IELTS TOEIC TOEFL iBT Điểm cộng ưu tiên 5.5 – 6.0 650 đến dưới 750 65 đến dưới 80 0,5 điểm 6.5 – 7.0 750 đến dưới 850 80 đến dưới 95 1 điểm 7.5 trở lên 850 trở lên 95 trở lên 1,5 điểm Học viện ưu tiên cộng điểm CCTA cho phương thức xét tuyển theo kết quả thi tốt nghiệp THPT 2026, không cộng điểm ưu tiên khi thí sinh sử dụng chứng chỉ TOEFL iBT Home Edition.",
+      "programs": [
+        {
+          "program_code": "IELTS",
+          "program_name": "TOEFL iBT",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "TOEIC"
+        }
+      ]
+    },
+    {
+      "method_id": "2-utxt-xt-thang",
+      "method_name": "2 ƯTXT, XT THẲNG",
+      "description": "2.1 ĐỐI TƯỢNG Xét tuyển thẳng áp dụng cho tất cả các đối tượng theo Quy chế tuyển sinh của Bộ GDĐT và theo quy định của Học viện KTMM, cụ thể như sau: Thí sinh đoạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi Quốc gia (điều kiện: môn được giải là Toán hoặc Tin học hoặc giải thưởng sáng tạo về khoa học công nghệ cấp Quốc gia), thời gian đạt giải không quá 3 năm tính tới thời điểm xét tuyển và tốt nghiệp THPT năm 2026 được xét tuyển thẳng vào ngành thí sinh đăng ký theo chỉ tiêu phân bổ của",
+      "eligibility": "ĐỐI TƯỢNG Xét tuyển thẳng áp dụng cho tất cả các đối tượng theo",
+      "rules": "Quy chế tuyển sinh của Bộ GDĐT và theo quy định của Học viện KTMM, cụ thể như sau: Thí sinh đoạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi Quốc gia (điều kiện: môn được giải là Toán hoặc Tin học hoặc giải thưởng sáng tạo về khoa học công nghệ cấp Quốc gia), thời gian đạt giải không quá 3 năm tính tới thời điểm xét tuyển và tốt nghiệp THPT năm 2026 được xét tuyển thẳng vào ngành thí sinh đăng ký theo chỉ tiêu phân bổ của Học viện KTMM.",
+      "programs": [
+        {
+          "program_code": "7520207",
+          "program_name": "Ngành Kỹ thuật Điện tử, Viễn thông (Hệ thống nhúng và Thiết kế vi mạch)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        }
+      ]
+    },
+    {
+      "method_id": "3-iem-gnl-hcm",
+      "method_name": "3 ĐIỂM ĐGNL HCM",
+      "description": "3.1 ĐỐI TƯỢNG Thí sinh đã được công nhận tốt nghiệp trung học phổ thông (THPT) hoặc tương đương. 3.2 ĐIỀU KIỆN XÉT TUYỂN Học viện thông báo sau khi có kết quả thi tốt nghiệp THPT. 3.3 QUY CHẾ TT Loại Giải đạt được Điểm cộng thang điểm 30 tương ứng Đánh giá năng lực ĐHQG-HN(HSA)/150 Đánh giá tư duy (TSA)/100 Đánh giá năng lực (SPT)/30 Đánh giá năng lực ĐHQG-HCM (V-ACT)/1200 1 Thí sinh đủ điều kiện xét tuyển thẳng theo Quy định của Bộ GDĐT mà không dùng quyền tuyển thẳng; Thí sinh tham dự kỳ thi c",
+      "eligibility": "ĐỐI TƯỢNG Thí sinh đã được công nhận tốt nghiệp trung học phổ thông (THPT) hoặc tương đương. 3.2",
+      "rules": "QUY CHẾ TT Loại Giải đạt được Điểm cộng thang điểm 30 tương ứng Đánh giá năng lực ĐHQG-HN(HSA)/150 Đánh giá tư duy (TSA)/100 Đánh giá năng lực (SPT)/30 Đánh giá năng lực ĐHQG-HCM (V-ACT)/1200 1 Thí sinh đủ điều kiện xét tuyển thẳng theo Quy định của Bộ GDĐT mà không dùng quyền tuyển thẳng; Thí sinh tham dự kỳ thi chọn đội tuyển quốc gia dự thi Olympic quốc tế; Thí sinh đoạt giải khuyến khích cấp Quốc gia; thí sinh đoạt giải trong cuộc thi khoa học, kỹ thuật cấp quốc gia dự tuyển vào chương trình đào tạo phù hợp với môn thi hoặc nội dung đề tài dự thi đoạt giải 1,5 7,5 5 1,5 60 2 Giải Nhất cấp Tỉnh/Thành phố TW 1,25 6,25 4,17 1 50 3 Giải Nhì cấp Tỉnh/Thành phố TW 1 5 3,33 1 40 4 Giải Ba cấp Tỉnh/Thành phố TW 0,75 3,75 2,5 0,75 30 5 Giải Khuyến khích cấp Tỉnh/Thành phố TW 0,5 2,5 1,67 0,5 20 3.4 THỜI GIAN XÉT TUYỂN Thí sinh đăng ký trực tuyến trên Cổng thông tin tuyển sinh của Bộ GDĐT sau kỳ thi tốt nghiệp THPT năm 2026.",
+      "programs": [
+        {
+          "program_code": "TT",
+          "program_name": "Loại Giải đạt được",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "Điểm cộng thang điểm 30 tương ứng"
+        }
+      ]
+    },
+    {
+      "method_id": "4-iem-gnl-hn",
+      "method_name": "4 ĐIỂM ĐGNL HN",
+      "description": "4.1 ĐỐI TƯỢNG Thí sinh đã được công nhận tốt nghiệp trung học phổ thông (THPT) hoặc tương đương. 4.2 ĐIỀU KIỆN XÉT TUYỂN Học viện thông báo sau khi có kết quả thi tốt nghiệp THPT. 4.3 QUY CHẾ TT Loại Giải đạt được Điểm cộng thang điểm 30 tương ứng Đánh giá năng lực ĐHQG-HN(HSA)/150 Đánh giá tư duy (TSA)/100 Đánh giá năng lực (SPT)/30 Đánh giá năng lực ĐHQG-HCM (V-ACT)/1200 1 Thí sinh đủ điều kiện xét tuyển thẳng theo Quy định của Bộ GDĐT mà không dùng quyền tuyển thẳng; Thí sinh tham dự kỳ thi c",
+      "eligibility": "ĐỐI TƯỢNG Thí sinh đã được công nhận tốt nghiệp trung học phổ thông (THPT) hoặc tương đương. 4.2",
+      "rules": "QUY CHẾ TT Loại Giải đạt được Điểm cộng thang điểm 30 tương ứng Đánh giá năng lực ĐHQG-HN(HSA)/150 Đánh giá tư duy (TSA)/100 Đánh giá năng lực (SPT)/30 Đánh giá năng lực ĐHQG-HCM (V-ACT)/1200 1 Thí sinh đủ điều kiện xét tuyển thẳng theo Quy định của Bộ GDĐT mà không dùng quyền tuyển thẳng; Thí sinh tham dự kỳ thi chọn đội tuyển quốc gia dự thi Olympic quốc tế; Thí sinh đoạt giải khuyến khích cấp Quốc gia; thí sinh đoạt giải trong cuộc thi khoa học, kỹ thuật cấp quốc gia dự tuyển vào chương trình đào tạo phù hợp với môn thi hoặc nội dung đề tài dự thi đoạt giải 1,5 7,5 5 1,5 60 2 Giải Nhất cấp Tỉnh/Thành phố TW 1,25 6,25 4,17 1 50 3 Giải Nhì cấp Tỉnh/Thành phố TW 1 5 3,33 1 40 4 Giải Ba cấp Tỉnh/Thành phố TW 0,75 3,75 2,5 0,75 30 5 Giải Khuyến khích cấp Tỉnh/Thành phố TW 0,5 2,5 1,67 0,5 20 4.4 THỜI GIAN XÉT TUYỂN Thí sinh đăng ký trực tuyến trên Cổng thông tin tuyển sinh của Bộ GDĐT sau kỳ thi tốt nghiệp THPT năm 2026.",
+      "programs": [
+        {
+          "program_code": "TT",
+          "program_name": "Loại Giải đạt được",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "Điểm cộng thang điểm 30 tương ứng"
+        }
+      ]
+    },
+    {
+      "method_id": "5-iem-anh-gia-tu-duy",
+      "method_name": "5 ĐIỂM ĐÁNH GIÁ TƯ DUY",
+      "description": "5.1 ĐỐI TƯỢNG Thí sinh đã được công nhận tốt nghiệp trung học phổ thông (THPT) hoặc tương đương. 5.2 ĐIỀU KIỆN XÉT TUYỂN Học viện thông báo sau khi có kết quả thi tốt nghiệp THPT. 5.3 QUY CHẾ TT Loại Giải đạt được Điểm cộng thang điểm 30 tương ứng Đánh giá năng lực ĐHQG-HN(HSA)/150 Đánh giá tư duy (TSA)/100 Đánh giá năng lực (SPT)/30 Đánh giá năng lực ĐHQG-HCM (V-ACT)/1200 1 Thí sinh đủ điều kiện xét tuyển thẳng theo Quy định của Bộ GDĐT mà không dùng quyền tuyển thẳng; Thí sinh tham dự kỳ thi c",
+      "eligibility": "ĐỐI TƯỢNG Thí sinh đã được công nhận tốt nghiệp trung học phổ thông (THPT) hoặc tương đương. 5.2",
+      "rules": "QUY CHẾ TT Loại Giải đạt được Điểm cộng thang điểm 30 tương ứng Đánh giá năng lực ĐHQG-HN(HSA)/150 Đánh giá tư duy (TSA)/100 Đánh giá năng lực (SPT)/30 Đánh giá năng lực ĐHQG-HCM (V-ACT)/1200 1 Thí sinh đủ điều kiện xét tuyển thẳng theo Quy định của Bộ GDĐT mà không dùng quyền tuyển thẳng; Thí sinh tham dự kỳ thi chọn đội tuyển quốc gia dự thi Olympic quốc tế; Thí sinh đoạt giải khuyến khích cấp Quốc gia; thí sinh đoạt giải trong cuộc thi khoa học, kỹ thuật cấp quốc gia dự tuyển vào chương trình đào tạo phù hợp với môn thi hoặc nội dung đề tài dự thi đoạt giải 1,5 7,5 5 1,5 60 2 Giải Nhất cấp Tỉnh/Thành phố TW 1,25 6,25 4,17 1 50 3 Giải Nhì cấp Tỉnh/Thành phố TW 1 5 3,33 1 40 4 Giải Ba cấp Tỉnh/Thành phố TW 0,75 3,75 2,5 0,75 30 5 Giải Khuyến khích cấp Tỉnh/Thành phố TW 0,5 2,5 1,67 0,5 20 5.4 THỜI GIAN XÉT TUYỂN Thí sinh đăng ký trực tuyến trên Cổng thông tin tuyển sinh của Bộ GDĐT sau kỳ thi tốt nghiệp THPT năm 2026. Lưu ý: Thí sinh phải đăng ký thi các môn thuộc tổ hợp xét tuyển của Học viện.",
+      "programs": [
+        {
+          "program_code": "TT",
+          "program_name": "Loại Giải đạt được",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "Điểm cộng thang điểm 30 tương ứng"
+        }
+      ]
+    },
+    {
+      "method_id": "6-iem-gnl-h-su-pham-hn",
+      "method_name": "6 ĐIỂM ĐGNL ĐH SƯ PHẠM HN",
+      "description": "6.1 ĐỐI TƯỢNG Thí sinh đã được công nhận tốt nghiệp trung học phổ thông (THPT) hoặc tương đương. 6.2 ĐIỀU KIỆN XÉT TUYỂN Thí sinh đăng ký trực tuyến trên Cổng thông tin tuyển sinh của Bộ GDĐT sau kỳ thi tốt nghiệp THPT năm 2026. Lưu ý: Thí sinh phải đăng ký thi các môn thuộc tổ hợp xét tuyển của Học viện. 6.3 QUY CHẾ TT Loại Giải đạt được Điểm cộng thang điểm 30 tương ứng Đánh giá năng lực ĐHQG-HN(HSA)/150 Đánh giá tư duy (TSA)/100 Đánh giá năng lực (SPT)/30 Đánh giá năng lực ĐHQG-HCM (V-ACT)/12",
+      "eligibility": "ĐỐI TƯỢNG Thí sinh đã được công nhận tốt nghiệp trung học phổ thông (THPT) hoặc tương đương. 6.2",
+      "rules": "QUY CHẾ TT Loại Giải đạt được Điểm cộng thang điểm 30 tương ứng Đánh giá năng lực ĐHQG-HN(HSA)/150 Đánh giá tư duy (TSA)/100 Đánh giá năng lực (SPT)/30 Đánh giá năng lực ĐHQG-HCM (V-ACT)/1200 1 Thí sinh đủ điều kiện xét tuyển thẳng theo Quy định của Bộ GDĐT mà không dùng quyền tuyển thẳng; Thí sinh tham dự kỳ thi chọn đội tuyển quốc gia dự thi Olympic quốc tế; Thí sinh đoạt giải khuyến khích cấp Quốc gia; thí sinh đoạt giải trong cuộc thi khoa học, kỹ thuật cấp quốc gia dự tuyển vào chương trình đào tạo phù hợp với môn thi hoặc nội dung đề tài dự thi đoạt giải 1,5 7,5 5 1,5 60 2 Giải Nhất cấp Tỉnh/Thành phố TW 1,25 6,25 4,17 1 50 3 Giải Nhì cấp Tỉnh/Thành phố TW 1 5 3,33 1 40 4 Giải Ba cấp Tỉnh/Thành phố TW 0,75 3,75 2,5 0,75 30 5 Giải Khuyến khích cấp Tỉnh/Thành phố TW 0,5 2,5 1,67 0,5 20",
+      "programs": [
+        {
+          "program_code": "TT",
+          "program_name": "Loại Giải đạt được",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "Điểm cộng thang điểm 30 tương ứng"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7520207",
+          "program_name": "Ngành Kỹ thuật Điện tử, Viễn thông (Hệ thống nhúng và Thiết kế vi mạch)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Ngành Kỹ thuật Điện tử, Viễn thông (Hệ thống nhúng và Thiết kế vi mạch)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X06",
+            "X07"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn của Học viện Kỹ thuật mật mã các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-ky-thuat-mat-ma-KMA.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7480201KMA",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X26",
+              "X06"
+            ],
+            "score": 24.17,
+            "note": null
+          },
+          {
+            "program_code": "7480202KMA",
+            "program_name": "An toàn thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X26",
+              "X06"
+            ],
+            "score": 24.42,
+            "note": null
+          },
+          {
+            "program_code": "7480202KMP",
+            "program_name": "An toàn thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X26",
+              "X06"
+            ],
+            "score": 23.2,
+            "note": "Đào tạo tại TPHCM"
+          },
+          {
+            "program_code": "7520207",
+            "program_name": "Kỹ thuật điện tử - viễn thông",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06"
+            ],
+            "score": 23.48,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

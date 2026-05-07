@@ -1,0 +1,137 @@
+{
+  "university": {
+    "code": "DHC",
+    "name": "Khoa Giáo Dục Thể Chất – Đại Học Huế",
+    "short_name": "DHC",
+    "location": [
+      "Huế"
+    ],
+    "address": "Số 52 Hồ Đắc Di, phường An Cựu, Thành phố Huế",
+    "website": "https://fpe.hueuni.edu.vn/index.php/vi/welcome/index",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/khoa-giao-duc-the-chat-hue-DHC.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0425/thong-tin-tuyen-sinh-khoa-giao-duc-the-chat-dai-hoc-hue-2026.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH KHOA GIÁO DỤC THỂ CHẤT HUẾ 2026 Thông tin tuyển sinh Khoa giáo dục thể chất - Đại học Huế năm 2026 Năm 2026, Khoa Giáo dục thể chất - Đại học Huế sử dụng hai phương thức xét tuyển như sau: Phương thức 1: Xét tuyển thẳng theo quy định của Quy chế tuyển sinh (Điều 8) Phương thức 2: Xét tuyển sử dụng kết quả thi tốt nghiệp THPT hoặc kết quả học tập cấp THPT kết hợp với điểm thi năng khiếu cho ngành Giáo dục Thể chất.",
+  "admission_methods": [
+    {
+      "method_id": "1-xet-tuyen-ket-qua-thi-thpt-hoac-hoc-ba-thpt-nang-khieu",
+      "method_name": "1 XÉT TUYỂN KẾT QUẢ THI THPT HOẶC HỌC BẠ THPT + NĂNG KHIẾU",
+      "description": "1.1 QUY CHẾ Công thức điểm xét = [(M1x1,5 + M2 + MNKx2)/4,5] x3 + Điểm cộng + Điểm ưu tiên (thang điểm 10) Chú thích: M1, M2: Điểm môn văn hóa MNK: Điểm môn năng khiếu Điểm MNK >=5,0 (thang 10) DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM XÉT TUYỂN KẾT HỢP STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7140206 Giáo dục Thế chất T00; T02; T05; T07; T08",
+      "eligibility": null,
+      "rules": "QUY CHẾ Công thức điểm xét = [(M1x1,5 + M2 + MNKx2)/4,5] x3 + Điểm cộng + Điểm ưu tiên (thang điểm 10) Chú thích: M1, M2: Điểm môn văn hóa MNK: Điểm môn năng khiếu Điểm MNK >=5,0 (thang 10)",
+      "programs": [
+        {
+          "program_code": "7140206",
+          "program_name": "Giáo dục Thế chất",
+          "subject_groups": [
+            "T00",
+            "T02",
+            "T05",
+            "T07",
+            "T08"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        }
+      ]
+    },
+    {
+      "method_id": "2-utxt-xt-thang",
+      "method_name": "2 ƯTXT, XT THẲNG",
+      "description": "2.1 QUY CHẾ - Thí sinh đạt huy chương vàng, bạc, đồng các giải thể dục thể thao cấp quốc gia tổ chức một lần trong năm và thí sinh được Bộ Văn hóa, Thể thao và Du lịch công nhận là vận động viên kiện tướng quốc gia dự tuyển vào các ngành thể dục thể thao phù hợp; thời gian đạt giải không quá 04 năm tính theo năm đến thời điểm xét tuyển DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ƯTXT, XT THẲNG STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7140206 Giáo dục Thế chất",
+      "eligibility": null,
+      "rules": "QUY CHẾ - Thí sinh đạt huy chương vàng, bạc, đồng các giải thể dục thể thao cấp quốc gia tổ chức một lần trong năm và thí sinh được Bộ Văn hóa, Thể thao và Du lịch công nhận là vận động viên kiện tướng quốc gia dự tuyển vào các ngành thể dục thể thao phù hợp; thời gian đạt giải không quá 04 năm tính theo năm đến thời điểm xét tuyển",
+      "programs": [
+        {
+          "program_code": "7140206",
+          "program_name": "Giáo dục Thế chất",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7140206",
+          "program_name": "Giáo dục Thế chất",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140206",
+          "program_name": "Giáo dục Thế chất",
+          "subject_groups": [
+            "T00",
+            "T02",
+            "T05",
+            "T07",
+            "T08"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Khoa Giáo Dục Thể Chất – Đại Học Huế các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/khoa-giao-duc-the-chat-hue-DHC.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140206",
+            "program_name": "Giáo dục Thế chất",
+            "subject_groups": [
+              "T00",
+              "T02",
+              "T05",
+              "T07",
+              "T08"
+            ],
+            "score": 21.41,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140206",
+            "program_name": "Giáo dục Thế chất",
+            "subject_groups": [
+              "T00",
+              "T02",
+              "T05",
+              "T07",
+              "T08"
+            ],
+            "score": 23.2,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

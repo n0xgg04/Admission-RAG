@@ -1,0 +1,419 @@
+{
+  "university": {
+    "code": "NLG",
+    "name": "Phân hiệu Đại học Nông Lâm TPHCM tại Gia Lai",
+    "short_name": "NLG",
+    "location": [
+      "Gia Lai"
+    ],
+    "address": "Đường Trần Nhật Duật, Thôn 1, Xã Diên Phú, TP. Pleiku, Tỉnh Gia Lai",
+    "website": "https://phgl.hcmuaf.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2025,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/phan-hieu-dai-hoc-nong-lam-tphcm-tai-gia-lai-NLG.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2025/0624/thong-tin-tuyen-sinh-truong-dai-hoc-nong-lam-tphcm-2025.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH PHÂN HIỆU ĐẠI HỌC NÔNG LÂM TPHCM TẠI GIA LAI 2025 Thông tin tuyển sinh Phân hiệu Đại học Nông Lâm TPHCM tại Gia Lai năm 2025 Năm 2025, Phân hiệu Trường Đại học Nông Lâm Thành phố Hồ Chí Minh tuyển sinh dựa trên 5 phương thức xét tuyển như sau: Phương thức 1: Tuyển thẳng và ưu tiên xét tuyển Phương thức 2: Xét tuyển dựa trên kết quả kỳ thi Đánh giá năng lực do Đại học Quốc gia Thành phố Hồ Chí Minh tổ chức năm 2025. Phương thức 3: Xét tuyển dựa trên kết quả thi tốt nghiệp THPT năm 2025 Phương thức 4: Xét tuyển dựa trên kết quả thi tốt nghiệp THPT năm 2025, bổ sung hoặc thay thế một môn trong tổ hợp xét tuyển bằng kết quả học tập bậc THPT (học bạ): Phương thức 5: Xét tuyển dựa trên kết quả học tập bậc THPT (học bạ):",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 ĐIỀU KIỆN XÉT TUYỂN - Xét tuyển dựa vào điểm các môn thi tốt nghiệp THPT năm 2025 có trong tổ hợp xét tuyển. - Ngưỡng đảm bảo chất lượng đầu vào (điểm sàn) được công bố sau khi có kết quả thi tốt nghiệp THPT năm 2025. 1.2 QUY CHẾ Thí sinh có thể sử dụng điểm chứng chỉ tiếng Anh quốc tế (IELTS hoặc TOEFL ITP) còn trong thời hạn 02 (hai) năm tính đến ngày 01/09/2025 được quy đổi theo quy định để bổ sung hoặc thay thế cho môn tiếng Anh trong tổ hợp xét tuyển. Chứng chỉ tiếng Anh quốc tế phải đư",
+      "eligibility": null,
+      "rules": "QUY CHẾ Thí sinh có thể sử dụng điểm chứng chỉ tiếng Anh quốc tế (IELTS hoặc TOEFL ITP) còn trong thời hạn 02 (hai) năm tính đến ngày 01/09/2025 được quy đổi theo quy định để bổ sung hoặc thay thế cho môn tiếng Anh trong tổ hợp xét tuyển. Chứng chỉ tiếng Anh quốc tế phải được tổ chức thi do các đơn vị được Bộ Giáo dục và Đào tạo cho phép liên kết tại Việt Nam. Trong đó đối với điểm bài thi IELTS phải đạt từ 5,0 trở lên hoặc điểm bài thi TOEFL ITP phải đạt từ 470 trở lên. Mức điểm quy đổi như sau:",
+      "programs": []
+    },
+    {
+      "method_id": "2-iem-hoc-ba",
+      "method_name": "2 ĐIỂM HỌC BẠ",
+      "description": "2.1 ĐIỀU KIỆN XÉT TUYỂN - Sử dụng điểm học bạ (trung bình của 3 năm học THPT, làm tròn đến 2 số lẻ thập phân) của mỗi môn trong tổ hợp xét tuyển. Tại cơ sở chính chỉ xét tuyển đối với các thí sinh tốt nghiệp THPT năm 2025. - Ngưỡng đảm bảo chất lượng đầu vào (điểm sàn) sẽ được công bố trên website của Trường trước khi thí sinh đăng ký xét tuy 2.2 QUY CHẾ Thí sinh có thể sử dụng điểm chứng chỉ tiếng Anh quốc tế (IELTS hoặc TOEFL ITP) còn trong thời hạn 02 (hai) năm tính đến ngày 01/09/2025 được q",
+      "eligibility": null,
+      "rules": "QUY CHẾ Thí sinh có thể sử dụng điểm chứng chỉ tiếng Anh quốc tế (IELTS hoặc TOEFL ITP) còn trong thời hạn 02 (hai) năm tính đến ngày 01/09/2025 được quy đổi theo quy định để bổ sung hoặc thay thế cho môn tiếng Anh trong tổ hợp xét tuyển. Chứng chỉ tiếng Anh quốc tế phải được tổ chức thi do các đơn vị được Bộ Giáo dục và Đào tạo cho phép liên kết tại Việt Nam. Trong đó đối với điểm bài thi IELTS phải đạt từ 5,0 trở lên hoặc điểm bài thi TOEFL ITP phải đạt từ 470 trở lên. Mức điểm quy đổi như sau:",
+      "programs": []
+    },
+    {
+      "method_id": "3-xet-tuyen-dua-tren-ket-qua-thi-tot-nghiep-thpt-nam-2025-bo-sung-hoac-thay-the-mot-mon-trong-to-hop-xet-tuyen-bang-ket-qua-hoc-tap-bac-thpt-hoc-ba",
+      "method_name": "3 XÉT TUYỂN DỰA TRÊN KẾT QUẢ THI TỐT NGHIỆP THPT NĂM 2025, BỔ SUNG HOẶC THAY THẾ MỘT MÔN TRONG TỔ HỢP XÉT TUYỂN BẰNG KẾT QUẢ HỌC TẬP BẬC THPT (HỌC BẠ)",
+      "description": "3.1 QUY CHẾ Xét tuyển dựa vào điểm các môn thi tốt nghiệp THPT năm 2025 có trong tổ hợp xét tuyển. Thí sinh được sử dụng điểm học bạ (trung bình của ba năm học THPT, làm tròn đến 2 số lẻ thập phân) của một môn học để bổ sung hoặc thay thế một môn trong tổ hợp xét tuyển, môn này không được là môn Toán hoặc/và Ngữ văn. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM XÉT TUYỂN KẾT HỢP STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7340101G Quản trị kinh doanh (Phân hiệu Gia Lai) (A00, A01, D01, X01, X02, X2",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét tuyển dựa vào điểm các môn thi tốt nghiệp THPT năm 2025 có trong tổ hợp xét tuyển. Thí sinh được sử dụng điểm học bạ (trung bình của ba năm học THPT, làm tròn đến 2 số lẻ thập phân) của một môn học để bổ sung hoặc thay thế một môn trong tổ hợp xét tuyển, môn này không được là môn Toán hoặc/và Ngữ văn.",
+      "programs": []
+    },
+    {
+      "method_id": "4-iem-gnl-hcm",
+      "method_name": "4 ĐIỂM ĐGNL HCM",
+      "description": "4.1 ĐIỀU KIỆN XÉT TUYỂN - Ngưỡng đảm bảo chất lượng đầu vào (điểm sàn) được công bố sau khi có kết quả thi đánh giá năng lực năm 2025 do Đại học Quốc gia Thành phố Hồ Chí Minh tổ chức. * Với phương thức xét tuyển sử dụng kết quả thi Đánh giá năng lực (đợt xét tuyển sớm), thí sinh có thể đăng ký xét tuyển nhiều nguyện vọng và chỉ được công nhận đủ điều kiện trúng tuyển nguyện vọng có ưu tiên cao nhất của đợt xét tuyển. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐGNL HCM STT Mã ngành Tên ngành ",
+      "eligibility": null,
+      "rules": null,
+      "programs": []
+    },
+    {
+      "method_id": "5-utxt-xt-thang",
+      "method_name": "5 ƯTXT, XT THẲNG",
+      "description": "5.1 ĐỐI TƯỢNG Được thực hiện theo quy định của Bộ Giáo dục và Đào tạo và Quy chế tuyển sinh trình độ đại học, trình độ Cao đẳng ngành Giáo dục Mầm non năm 2025 của Trường Đại học Nông Lâm Thành phố Hồ Chí Minh. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ƯTXT, XT THẲNG STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7340101G Quản trị kinh doanh (Phân hiệu Gia Lai) 2 7620109G Nông học (Phân hiệu Gia Lai) 3 7640101G Thú y (Phân hiệu Gia Lai)",
+      "eligibility": "ĐỐI TƯỢNG Được thực hiện theo quy định của Bộ Giáo dục và Đào tạo và",
+      "rules": "Quy chế tuyển sinh trình độ đại học, trình độ Cao đẳng ngành Giáo dục Mầm non năm 2025 của Trường Đại học Nông Lâm Thành phố Hồ Chí Minh.",
+      "programs": []
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "CCQT",
+          "program_name": "7340101G",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "CCQT",
+          "program_name": "7620109G",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "CCQT",
+          "program_name": "7640101G",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Phân hiệu Đại học Nông Lâm TPHCM tại Gia Lai các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/phan-hieu-dai-hoc-nong-lam-tphcm-tai-gia-lai-NLG.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7340101G",
+            "program_name": "Quản trị kinh doanh (Phân hiệu Gia Lai)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X01",
+              "X02",
+              "X25"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7520320G",
+            "program_name": "Kỹ thuật môi trường (Phân hiệu Gia Lai)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D08",
+              "D07",
+              "X28"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7620109G",
+            "program_name": "Nông học (Phân hiệu Gia Lai)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "A02",
+              "D07",
+              "D08"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7640101G",
+            "program_name": "Thú y (Phân hiệu Gia Lai)",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B03",
+              "C02",
+              "D07",
+              "D08"
+            ],
+            "score": 18,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7340101G",
+            "program_name": "Quản trị kinh doanh (Phân hiệu Gia Lai)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X01",
+              "X02",
+              "X25"
+            ],
+            "score": 19.13,
+            "note": null
+          },
+          {
+            "program_code": "7520320G",
+            "program_name": "Kỹ thuật môi trường (Phân hiệu Gia Lai)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D08",
+              "D07",
+              "X28"
+            ],
+            "score": 23.63,
+            "note": null
+          },
+          {
+            "program_code": "7620109G",
+            "program_name": "Nông học (Phân hiệu Gia Lai)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "A02",
+              "D07",
+              "D08"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7640101G",
+            "program_name": "Thú y (Phân hiệu Gia Lai)",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B03",
+              "C02",
+              "D07",
+              "D08"
+            ],
+            "score": 20.25,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7340101G",
+            "program_name": "Quản trị kinh doanh (Phân hiệu Gia Lai)",
+            "subject_groups": [],
+            "score": 601,
+            "note": null
+          },
+          {
+            "program_code": "7520320G",
+            "program_name": "Kỹ thuật môi trường (Phân hiệu Gia Lai)",
+            "subject_groups": [],
+            "score": 650,
+            "note": null
+          },
+          {
+            "program_code": "7620109G",
+            "program_name": "Nông học (Phân hiệu Gia Lai)",
+            "subject_groups": [],
+            "score": 601,
+            "note": null
+          },
+          {
+            "program_code": "7640101G",
+            "program_name": "Thú y (Phân hiệu Gia Lai)",
+            "subject_groups": [],
+            "score": 601,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-xet-tuyen-ket-hop",
+        "method_name": "Điểm chuẩn theo phương thức Điểm xét tuyển kết hợp năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7340101G",
+            "program_name": "Quản trị kinh doanh (Phân hiệu Gia Lai)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X01",
+              "X02",
+              "X25"
+            ],
+            "score": 17,
+            "note": "Kết hợp học bạ và điểm thi tốt nghiệp"
+          },
+          {
+            "program_code": "7520320G",
+            "program_name": "Kỹ thuật môi trường (Phân hiệu Gia Lai)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D08",
+              "D07",
+              "X28"
+            ],
+            "score": 21,
+            "note": "Kết hợp học bạ và điểm thi tốt nghiệp"
+          },
+          {
+            "program_code": "7620109G",
+            "program_name": "Nông học (Phân hiệu Gia Lai)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "A02",
+              "D07",
+              "D08"
+            ],
+            "score": 16,
+            "note": "Kết hợp học bạ và điểm thi tốt nghiệp"
+          },
+          {
+            "program_code": "7640101G",
+            "program_name": "Thú y (Phân hiệu Gia Lai)",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B03",
+              "C02",
+              "D07",
+              "D08"
+            ],
+            "score": 18,
+            "note": "Kết hợp học bạ và điểm thi tốt nghiệp"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-chung-chi-quoc-te",
+        "method_name": "Điểm chuẩn theo phương thức Chứng chỉ quốc tế năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7340101G",
+            "program_name": "Quản trị kinh doanh (Phân hiệu Gia Lai)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "X25"
+            ],
+            "score": 17,
+            "note": "Điểm thi tốt nghiệp THPT và CCQT"
+          },
+          {
+            "program_code": "7340101G",
+            "program_name": "Quản trị kinh doanh (Phân hiệu Gia Lai)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "X25"
+            ],
+            "score": 19.13,
+            "note": "Học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7520320G",
+            "program_name": "Kỹ thuật môi trường (Phân hiệu Gia Lai)",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D08",
+              "X28"
+            ],
+            "score": 21,
+            "note": "Điểm thi tốt nghiệp THPT và CCQT"
+          },
+          {
+            "program_code": "7520320G",
+            "program_name": "Kỹ thuật môi trường (Phân hiệu Gia Lai)",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D08",
+              "X28"
+            ],
+            "score": 23.63,
+            "note": "Học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7620109G",
+            "program_name": "Nông học (Phân hiệu Gia Lai)",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D08"
+            ],
+            "score": 16,
+            "note": "Điểm thi tốt nghiệp THPT và CCQT"
+          },
+          {
+            "program_code": "7620109G",
+            "program_name": "Nông học (Phân hiệu Gia Lai)",
+            "subject_groups": [
+              "A01",
+              "D07",
+              "D08"
+            ],
+            "score": 18,
+            "note": "Học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7640101G",
+            "program_name": "Thú y (Phân hiệu Gia Lai)",
+            "subject_groups": [
+              "D07",
+              "D08"
+            ],
+            "score": 20.25,
+            "note": "Học bạ THPT và CCQT"
+          },
+          {
+            "program_code": "7640101G",
+            "program_name": "Thú y (Phân hiệu Gia Lai)",
+            "subject_groups": [
+              "D07",
+              "D08"
+            ],
+            "score": 18,
+            "note": "Điểm thi tốt nghiệp THPT và CCQT"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,4369 @@
+{
+  "university": {
+    "code": "DCL",
+    "name": "Trường Đại Học Cửu Long",
+    "short_name": "MKU",
+    "location": [
+      "Vĩnh Long"
+    ],
+    "address": "Quốc lộ 1A, Huyện Long Hồ, Tỉnh Vĩnh Long",
+    "website": "https://mku.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-cuu-long-DCL.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0424/thong-tin-tuyen-truong-dai-hoc-cuu-long-2026.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC CỬU LONG 2026 Thông tin tuyển sinh Đại học Cửu Long (MKU) năm 2026 Năm 2026 trường Đại học Cửu Long tuyển sinh theo 4 phương thức sau: Phương thức 1: Xét điểm thi tốt nghiệp THPT Phương thức 2: Xét học bạ Phương thức 3: Xét kết quả kỳ thi đánh giá năng lực của ĐH Quốc gia Phương thức 4: Xét kết quả kỳ thi V-SAT của đơn vị khác Phương thức 5: Thi tuyển riêng Xem thời gian và hồ sơ đăng ký xét tuyển MKU năm 2026 TẠI ĐÂY Khám phá thêm khoa học Giáo dục khoá học",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 QUY CHẾ - Đối với các ngành thuộc nhóm ngành sức khỏe có cấp chứng chỉ hành nghề, nhóm ngành pháp luật Trường sẽ xác định ngưỡng đảm bảo chất lượng đầu vào theo quy định của Bộ GD&ĐT. - Đối với các ngành khác, Trường tự xác định ngưỡng đảm bảo chất lượng đầu vào DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM THI THPT STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7210403 Thiết kế đồ họa A00; A01; A07; C01; C04; D01; D09; D10; X02 2 7220101 Tiếng Việt và văn hóa Việt Nam A01; A03; C00; C01; C03; C0",
+      "eligibility": null,
+      "rules": "QUY CHẾ - Đối với các ngành thuộc nhóm ngành sức khỏe có cấp chứng chỉ hành nghề, nhóm ngành pháp luật Trường sẽ xác định ngưỡng đảm bảo chất lượng đầu vào theo quy định của Bộ GD&ĐT. - Đối với các ngành khác, Trường tự xác định ngưỡng đảm bảo chất lượng đầu vào",
+      "programs": [
+        {
+          "program_code": "7210403",
+          "program_name": "Thiết kế đồ họa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A07",
+            "C01",
+            "C04",
+            "D01",
+            "D09",
+            "D10",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7220101",
+          "program_name": "Tiếng Việt và văn hóa Việt Nam",
+          "subject_groups": [
+            "A01",
+            "A03",
+            "C00",
+            "C01",
+            "C03",
+            "C04",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "A01",
+            "D01",
+            "D07",
+            "D08",
+            "D09",
+            "D10",
+            "D14",
+            "D15",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7310109",
+          "program_name": "Kinh tế số",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C04",
+            "D01",
+            "X02",
+            "X05",
+            "X08",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7310110",
+          "program_name": "Quản lý kinh tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C03",
+            "C04",
+            "D01",
+            "X02",
+            "X17",
+            "X21"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7310603",
+          "program_name": "Việt Nam học",
+          "subject_groups": [
+            "A01",
+            "A03",
+            "C00",
+            "C01",
+            "C03",
+            "C04",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7310608",
+          "program_name": "Đông phương học",
+          "subject_groups": [
+            "A01",
+            "A03",
+            "C00",
+            "C01",
+            "C03",
+            "C04",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7320104",
+          "program_name": "Truyền thông đa phương tiện",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C00",
+            "C01",
+            "C03",
+            "C04",
+            "D01",
+            "X02",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7320108",
+          "program_name": "Quan hệ công chúng",
+          "subject_groups": [
+            "A01",
+            "A03",
+            "C00",
+            "C01",
+            "C03",
+            "C04",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C03",
+            "C04",
+            "D01",
+            "X02",
+            "X17",
+            "X21"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C03",
+            "C04",
+            "D01",
+            "X02",
+            "X17",
+            "X21"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7340121",
+          "program_name": "Kinh doanh thương mại",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C03",
+            "C04",
+            "D01",
+            "X02",
+            "X17",
+            "X21"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính – Ngân hàng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C04",
+            "D01",
+            "X02",
+            "X05",
+            "X08",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7340205",
+          "program_name": "Công nghệ tài chính",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C04",
+            "D01",
+            "X02",
+            "X05",
+            "X08",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C04",
+            "D01",
+            "X02",
+            "X05",
+            "X08",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7380107",
+          "program_name": "Luật kinh tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C00",
+            "C03",
+            "C07",
+            "D01",
+            "X02",
+            "X17",
+            "X21"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7480107",
+          "program_name": "Trí tuệ nhân tạo",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D01",
+            "D07",
+            "X02",
+            "X04",
+            "X06",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D01",
+            "D07",
+            "X02",
+            "X04",
+            "X06",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7510102",
+          "program_name": "Công nghệ kỹ thuật công trình xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C01",
+            "D01",
+            "X06",
+            "X07",
+            "X08",
+            "X10",
+            "X11"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7510201",
+          "program_name": "Công nghệ kỹ thuật cơ khí",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C01",
+            "D01",
+            "X06",
+            "X07",
+            "X08",
+            "X10",
+            "X11"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7510205",
+          "program_name": "Công nghệ kỹ thuật ô tô",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C01",
+            "D01",
+            "X06",
+            "X07",
+            "X08",
+            "X10",
+            "X11"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7510301",
+          "program_name": "Công nghệ kỹ thuật điện, điện tử",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C01",
+            "D01",
+            "X06",
+            "X07",
+            "X08",
+            "X10",
+            "X11"
+          ],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7520212",
+          "program_name": "Kỹ thuật y sinh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C01",
+            "D01",
+            "X06",
+            "X07",
+            "X08",
+            "X10",
+            "X11"
+          ],
+          "program_type": "chuẩn",
+          "note": "24"
+        },
+        {
+          "program_code": "7540101",
+          "program_name": "Công nghệ thực phẩm",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A10",
+            "B00",
+            "C01",
+            "D01",
+            "D07",
+            "X11"
+          ],
+          "program_type": "chuẩn",
+          "note": "25"
+        },
+        {
+          "program_code": "7580205",
+          "program_name": "Kỹ thuật xây dựng công trình giao thông",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C01",
+            "D01",
+            "X06",
+            "X07",
+            "X08",
+            "X10",
+            "X11"
+          ],
+          "program_type": "chuẩn",
+          "note": "26"
+        },
+        {
+          "program_code": "7620109",
+          "program_name": "Nông học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "D01",
+            "X12",
+            "X16"
+          ],
+          "program_type": "chuẩn",
+          "note": "27"
+        },
+        {
+          "program_code": "7620112",
+          "program_name": "Bảo vệ thực vật",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "D01",
+            "X12",
+            "X16"
+          ],
+          "program_type": "chuẩn",
+          "note": "28"
+        },
+        {
+          "program_code": "7620301",
+          "program_name": "Nuôi trồng thủy sản",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "D01",
+            "X12",
+            "X16"
+          ],
+          "program_type": "chuẩn",
+          "note": "29"
+        },
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "31"
+        },
+        {
+          "program_code": "7720115",
+          "program_name": "Y học cổ truyền",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "32"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "33"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "34"
+        },
+        {
+          "program_code": "7720302",
+          "program_name": "Hộ sinh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "35"
+        },
+        {
+          "program_code": "7720501",
+          "program_name": "Răng - Hàm - Mặt",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "36"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật xét nghiệm y học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "37"
+        },
+        {
+          "program_code": "7720602",
+          "program_name": "Kỹ thuật hình ảnh y học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "38"
+        },
+        {
+          "program_code": "7720603",
+          "program_name": "Kỹ thuật phục hồi chức năng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "39"
+        },
+        {
+          "program_code": "7760101",
+          "program_name": "Công tác xã hội",
+          "subject_groups": [
+            "A01",
+            "A03",
+            "C00",
+            "C01",
+            "C03",
+            "C04",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "40"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C00",
+            "C03",
+            "C04",
+            "C07",
+            "D01",
+            "X17",
+            "X21"
+          ],
+          "program_type": "chuẩn",
+          "note": "41"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-hoc-ba",
+      "method_name": "2 ĐIỂM HỌC BẠ",
+      "description": "2.1 QUY CHẾ * Đối với các ngành thuộc nhóm ngành sức khỏe có cấp chứng chỉ hành nghề, các ngành thuộc nhóm ngành pháp luật: Trường sẽ xác định ngưỡng đảm bảo chất lượng đầu vào theo quy định của Bộ GD&ĐT. * Đối với các ngành còn lại: tổng điểm trung bình chung của tổ hợp 03 môn xét tuyển phải đạt từ 18 điểm trở lên, hoặc điểm trung bình chung cả năm lớp 12 đạt từ 6.0 trở lên. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM HỌC BẠ STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7210403 Thiết kế đồ họa A0",
+      "eligibility": null,
+      "rules": "QUY CHẾ * Đối với các ngành thuộc nhóm ngành sức khỏe có cấp chứng chỉ hành nghề, các ngành thuộc nhóm ngành pháp luật: Trường sẽ xác định ngưỡng đảm bảo chất lượng đầu vào theo quy định của Bộ GD&ĐT. * Đối với các ngành còn lại: tổng điểm trung bình chung của tổ hợp 03 môn xét tuyển phải đạt từ 18 điểm trở lên, hoặc điểm trung bình chung cả năm lớp 12 đạt từ 6.0 trở lên.",
+      "programs": [
+        {
+          "program_code": "7210403",
+          "program_name": "Thiết kế đồ họa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A07",
+            "C01",
+            "C04",
+            "D01",
+            "D09",
+            "D10",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7220101",
+          "program_name": "Tiếng Việt và văn hóa Việt Nam",
+          "subject_groups": [
+            "A01",
+            "A03",
+            "C00",
+            "C01",
+            "C03",
+            "C04",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "A01",
+            "D01",
+            "D07",
+            "D08",
+            "D09",
+            "D10",
+            "D14",
+            "D15",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7310109",
+          "program_name": "Kinh tế số",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C04",
+            "D01",
+            "X02",
+            "X05",
+            "X08",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7310110",
+          "program_name": "Quản lý kinh tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C03",
+            "C04",
+            "D01",
+            "X02",
+            "X17",
+            "X21"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7310603",
+          "program_name": "Việt Nam học",
+          "subject_groups": [
+            "A01",
+            "A03",
+            "C00",
+            "C01",
+            "C03",
+            "C04",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7310608",
+          "program_name": "Đông phương học",
+          "subject_groups": [
+            "A01",
+            "A03",
+            "C00",
+            "C01",
+            "C03",
+            "C04",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7320104",
+          "program_name": "Truyền thông đa phương tiện",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C00",
+            "C01",
+            "C03",
+            "C04",
+            "D01",
+            "X02",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7320108",
+          "program_name": "Quan hệ công chúng",
+          "subject_groups": [
+            "A01",
+            "A03",
+            "C00",
+            "C01",
+            "C03",
+            "C04",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C03",
+            "C04",
+            "D01",
+            "X02",
+            "X17",
+            "X21"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C03",
+            "C04",
+            "D01",
+            "X02",
+            "X17",
+            "X21"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7340121",
+          "program_name": "Kinh doanh thương mại",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C03",
+            "C04",
+            "D01",
+            "X02",
+            "X17",
+            "X21"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính – Ngân hàng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C04",
+            "D01",
+            "X02",
+            "X05",
+            "X08",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7340205",
+          "program_name": "Công nghệ tài chính",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C04",
+            "D01",
+            "X02",
+            "X05",
+            "X08",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C04",
+            "D01",
+            "X02",
+            "X05",
+            "X08",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7380107",
+          "program_name": "Luật kinh tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C00",
+            "C03",
+            "C07",
+            "D01",
+            "X02",
+            "X17",
+            "X21"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7480107",
+          "program_name": "Trí tuệ nhân tạo",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D01",
+            "D07",
+            "X02",
+            "X04",
+            "X06",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D01",
+            "D07",
+            "X02",
+            "X04",
+            "X06",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7510102",
+          "program_name": "Công nghệ kỹ thuật công trình xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C01",
+            "D01",
+            "X06",
+            "X07",
+            "X08",
+            "X10",
+            "X11"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7510201",
+          "program_name": "Công nghệ kỹ thuật cơ khí",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C01",
+            "D01",
+            "X06",
+            "X07",
+            "X08",
+            "X10",
+            "X11"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7510205",
+          "program_name": "Công nghệ kỹ thuật ô tô",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C01",
+            "D01",
+            "X06",
+            "X07",
+            "X08",
+            "X10",
+            "X11"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7510301",
+          "program_name": "Công nghệ kỹ thuật điện, điện tử",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C01",
+            "D01",
+            "X06",
+            "X07",
+            "X08",
+            "X10",
+            "X11"
+          ],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7520212",
+          "program_name": "Kỹ thuật y sinh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C01",
+            "D01",
+            "X06",
+            "X07",
+            "X08",
+            "X10",
+            "X11"
+          ],
+          "program_type": "chuẩn",
+          "note": "24"
+        },
+        {
+          "program_code": "7540101",
+          "program_name": "Công nghệ thực phẩm",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A10",
+            "B00",
+            "C01",
+            "D01",
+            "D07",
+            "X11"
+          ],
+          "program_type": "chuẩn",
+          "note": "25"
+        },
+        {
+          "program_code": "7580205",
+          "program_name": "Kỹ thuật xây dựng công trình giao thông",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C01",
+            "D01",
+            "X06",
+            "X07",
+            "X08",
+            "X10",
+            "X11"
+          ],
+          "program_type": "chuẩn",
+          "note": "26"
+        },
+        {
+          "program_code": "7620109",
+          "program_name": "Nông học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "D01",
+            "X12",
+            "X16"
+          ],
+          "program_type": "chuẩn",
+          "note": "27"
+        },
+        {
+          "program_code": "7620112",
+          "program_name": "Bảo vệ thực vật",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "D01",
+            "X12",
+            "X16"
+          ],
+          "program_type": "chuẩn",
+          "note": "28"
+        },
+        {
+          "program_code": "7620301",
+          "program_name": "Nuôi trồng thủy sản",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "D01",
+            "X12",
+            "X16"
+          ],
+          "program_type": "chuẩn",
+          "note": "29"
+        },
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "31"
+        },
+        {
+          "program_code": "7720115",
+          "program_name": "Y học cổ truyền",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "32"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "33"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "34"
+        },
+        {
+          "program_code": "7720302",
+          "program_name": "Hộ sinh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "35"
+        },
+        {
+          "program_code": "7720501",
+          "program_name": "Răng - Hàm - Mặt",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "36"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật xét nghiệm y học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "37"
+        },
+        {
+          "program_code": "7720602",
+          "program_name": "Kỹ thuật hình ảnh y học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "38"
+        },
+        {
+          "program_code": "7720603",
+          "program_name": "Kỹ thuật phục hồi chức năng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "39"
+        },
+        {
+          "program_code": "7760101",
+          "program_name": "Công tác xã hội",
+          "subject_groups": [
+            "A01",
+            "A03",
+            "C00",
+            "C01",
+            "C03",
+            "C04",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "40"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C00",
+            "C03",
+            "C04",
+            "C07",
+            "D01",
+            "X17",
+            "X21"
+          ],
+          "program_type": "chuẩn",
+          "note": "41"
+        }
+      ]
+    },
+    {
+      "method_id": "3-iem-thi-rieng",
+      "method_name": "3 ĐIỂM THI RIÊNG",
+      "description": "3.1 QUY CHẾ - Áp dụng cho các ngành thuộc khối sức khỏe: Dược học, Kỹ thuật xét nghiệm y học, Điều dưỡng, Hộ sinh, Kỹ thuật hình ảnh y học, Kỹ thuật phục hồi chức năng. - Điều kiện đăng ký dự thi: các thí sinh đã tốt nghiệp THPT, hoặc tốt nghiệp trung cấp hoặc tốt nghiệp cao đẳng khối ngành sức khỏe. - Ngưỡng đảm bảo chất lượng đầu vào: căn cứ kết quả điểm thi của thí sinh, Hội đồng tuyển sinh Nhà trường sẽ xác định ngưỡng đảm bảo chất lượng đầu vào, dựa trên ngưỡng đảm bảo chất lượng đầu và",
+      "eligibility": null,
+      "rules": "QUY CHẾ - Áp dụng cho các ngành thuộc khối sức khỏe: Dược học, Kỹ thuật xét nghiệm y học, Điều dưỡng, Hộ sinh, Kỹ thuật hình ảnh y học, Kỹ thuật phục hồi chức năng. - Điều kiện đăng ký dự thi: các thí sinh đã tốt nghiệp THPT, hoặc tốt nghiệp trung cấp hoặc tốt nghiệp cao đẳng khối ngành sức khỏe. - Ngưỡng đảm bảo chất lượng đầu vào: căn cứ kết quả điểm thi của thí sinh, Hội đồng tuyển sinh Nhà trường sẽ xác định ngưỡng đảm bảo chất lượng đầu vào, dựa trên ngưỡng đảm bảo chất lượng đầu vào do Bộ Giáo dục và Đào tạo quy định.",
+      "programs": [
+        {
+          "program_code": "7210403",
+          "program_name": "Thiết kế đồ họa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A07",
+            "C01",
+            "C04",
+            "D01",
+            "D09",
+            "D10",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7220101",
+          "program_name": "Tiếng Việt và văn hóa Việt Nam",
+          "subject_groups": [
+            "A01",
+            "A03",
+            "C00",
+            "C01",
+            "C03",
+            "C04",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "A01",
+            "D01",
+            "D07",
+            "D08",
+            "D09",
+            "D10",
+            "D14",
+            "D15",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7310109",
+          "program_name": "Kinh tế số",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C04",
+            "D01",
+            "X02",
+            "X05",
+            "X08",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7310110",
+          "program_name": "Quản lý kinh tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C03",
+            "C04",
+            "D01",
+            "X02",
+            "X17",
+            "X21"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7310603",
+          "program_name": "Việt Nam học",
+          "subject_groups": [
+            "A01",
+            "A03",
+            "C00",
+            "C01",
+            "C03",
+            "C04",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7310608",
+          "program_name": "Đông phương học",
+          "subject_groups": [
+            "A01",
+            "A03",
+            "C00",
+            "C01",
+            "C03",
+            "C04",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7320104",
+          "program_name": "Truyền thông đa phương tiện",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C00",
+            "C01",
+            "C03",
+            "C04",
+            "D01",
+            "X02",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7320108",
+          "program_name": "Quan hệ công chúng",
+          "subject_groups": [
+            "A01",
+            "A03",
+            "C00",
+            "C01",
+            "C03",
+            "C04",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C03",
+            "C04",
+            "D01",
+            "X02",
+            "X17",
+            "X21"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C03",
+            "C04",
+            "D01",
+            "X02",
+            "X17",
+            "X21"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7340121",
+          "program_name": "Kinh doanh thương mại",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C03",
+            "C04",
+            "D01",
+            "X02",
+            "X17",
+            "X21"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính – Ngân hàng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C04",
+            "D01",
+            "X02",
+            "X05",
+            "X08",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7340205",
+          "program_name": "Công nghệ tài chính",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C04",
+            "D01",
+            "X02",
+            "X05",
+            "X08",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C04",
+            "D01",
+            "X02",
+            "X05",
+            "X08",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7380107",
+          "program_name": "Luật kinh tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C00",
+            "C03",
+            "C07",
+            "D01",
+            "X02",
+            "X17",
+            "X21"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7480107",
+          "program_name": "Trí tuệ nhân tạo",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D01",
+            "D07",
+            "X02",
+            "X04",
+            "X06",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D01",
+            "D07",
+            "X02",
+            "X04",
+            "X06",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7510102",
+          "program_name": "Công nghệ kỹ thuật công trình xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C01",
+            "D01",
+            "X06",
+            "X07",
+            "X08",
+            "X10",
+            "X11"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7510201",
+          "program_name": "Công nghệ kỹ thuật cơ khí",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C01",
+            "D01",
+            "X06",
+            "X07",
+            "X08",
+            "X10",
+            "X11"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7510205",
+          "program_name": "Công nghệ kỹ thuật ô tô",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C01",
+            "D01",
+            "X06",
+            "X07",
+            "X08",
+            "X10",
+            "X11"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7510301",
+          "program_name": "Công nghệ kỹ thuật điện, điện tử",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C01",
+            "D01",
+            "X06",
+            "X07",
+            "X08",
+            "X10",
+            "X11"
+          ],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7520212",
+          "program_name": "Kỹ thuật y sinh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C01",
+            "D01",
+            "X06",
+            "X07",
+            "X08",
+            "X10",
+            "X11"
+          ],
+          "program_type": "chuẩn",
+          "note": "24"
+        },
+        {
+          "program_code": "7540101",
+          "program_name": "Công nghệ thực phẩm",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A10",
+            "B00",
+            "C01",
+            "D01",
+            "D07",
+            "X11"
+          ],
+          "program_type": "chuẩn",
+          "note": "25"
+        },
+        {
+          "program_code": "7580205",
+          "program_name": "Kỹ thuật xây dựng công trình giao thông",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C01",
+            "D01",
+            "X06",
+            "X07",
+            "X08",
+            "X10",
+            "X11"
+          ],
+          "program_type": "chuẩn",
+          "note": "26"
+        },
+        {
+          "program_code": "7620109",
+          "program_name": "Nông học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "D01",
+            "X12",
+            "X16"
+          ],
+          "program_type": "chuẩn",
+          "note": "27"
+        },
+        {
+          "program_code": "7620112",
+          "program_name": "Bảo vệ thực vật",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "D01",
+            "X12",
+            "X16"
+          ],
+          "program_type": "chuẩn",
+          "note": "28"
+        },
+        {
+          "program_code": "7620301",
+          "program_name": "Nuôi trồng thủy sản",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "D01",
+            "X12",
+            "X16"
+          ],
+          "program_type": "chuẩn",
+          "note": "29"
+        },
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "31"
+        },
+        {
+          "program_code": "7720115",
+          "program_name": "Y học cổ truyền",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "32"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "33"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "34"
+        },
+        {
+          "program_code": "7720302",
+          "program_name": "Hộ sinh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "35"
+        },
+        {
+          "program_code": "7720501",
+          "program_name": "Răng - Hàm - Mặt",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "36"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật xét nghiệm y học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "37"
+        },
+        {
+          "program_code": "7720602",
+          "program_name": "Kỹ thuật hình ảnh y học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "38"
+        },
+        {
+          "program_code": "7720603",
+          "program_name": "Kỹ thuật phục hồi chức năng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "39"
+        },
+        {
+          "program_code": "7760101",
+          "program_name": "Công tác xã hội",
+          "subject_groups": [
+            "A01",
+            "A03",
+            "C00",
+            "C01",
+            "C03",
+            "C04",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "40"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C00",
+            "C03",
+            "C04",
+            "C07",
+            "D01",
+            "X17",
+            "X21"
+          ],
+          "program_type": "chuẩn",
+          "note": "41"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7210403",
+          "program_name": "Thiết kế đồ họa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7210403",
+          "program_name": "Thiết kế đồ họa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A07",
+            "C01",
+            "C04",
+            "D01",
+            "D09",
+            "D10",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7220101",
+          "program_name": "Tiếng Việt và văn hóa Việt Nam",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7220101",
+          "program_name": "Tiếng Việt và văn hóa Việt Nam",
+          "subject_groups": [
+            "A01",
+            "A03",
+            "C00",
+            "C01",
+            "C03",
+            "C04",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "A01",
+            "D01",
+            "D07",
+            "D08",
+            "D09",
+            "D10",
+            "D14",
+            "D15",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7310109",
+          "program_name": "Kinh tế số",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7310109",
+          "program_name": "Kinh tế số",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C04",
+            "D01",
+            "X02",
+            "X05",
+            "X08",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7310110",
+          "program_name": "Quản lý kinh tế",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7310110",
+          "program_name": "Quản lý kinh tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C03",
+            "C04",
+            "D01",
+            "X02",
+            "X17",
+            "X21"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7310603",
+          "program_name": "Việt Nam học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7310603",
+          "program_name": "Việt Nam học",
+          "subject_groups": [
+            "A01",
+            "A03",
+            "C00",
+            "C01",
+            "C03",
+            "C04",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7310608",
+          "program_name": "Đông phương học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7310608",
+          "program_name": "Đông phương học",
+          "subject_groups": [
+            "A01",
+            "A03",
+            "C00",
+            "C01",
+            "C03",
+            "C04",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7320104",
+          "program_name": "Truyền thông đa phương tiện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7320104",
+          "program_name": "Truyền thông đa phương tiện",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C00",
+            "C01",
+            "C03",
+            "C04",
+            "D01",
+            "X02",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7320108",
+          "program_name": "Quan hệ công chúng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7320108",
+          "program_name": "Quan hệ công chúng",
+          "subject_groups": [
+            "A01",
+            "A03",
+            "C00",
+            "C01",
+            "C03",
+            "C04",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C03",
+            "C04",
+            "D01",
+            "X02",
+            "X17",
+            "X21"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C03",
+            "C04",
+            "D01",
+            "X02",
+            "X17",
+            "X21"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7340121",
+          "program_name": "Kinh doanh thương mại",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7340121",
+          "program_name": "Kinh doanh thương mại",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C03",
+            "C04",
+            "D01",
+            "X02",
+            "X17",
+            "X21"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính – Ngân hàng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính – Ngân hàng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C04",
+            "D01",
+            "X02",
+            "X05",
+            "X08",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7340205",
+          "program_name": "Công nghệ tài chính",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7340205",
+          "program_name": "Công nghệ tài chính",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C04",
+            "D01",
+            "X02",
+            "X05",
+            "X08",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C04",
+            "D01",
+            "X02",
+            "X05",
+            "X08",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7380101",
+          "program_name": "ĐGNL HCMV-SAT",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7380101",
+          "program_name": "ĐT THPTHọc BạThi Riêng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C00",
+            "C03",
+            "C07",
+            "D01",
+            "X02",
+            "X17",
+            "X21"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7380107",
+          "program_name": "Luật kinh tế",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7380107",
+          "program_name": "Luật kinh tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C00",
+            "C03",
+            "C07",
+            "D01",
+            "X02",
+            "X17",
+            "X21"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7480107",
+          "program_name": "Trí tuệ nhân tạo",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7480107",
+          "program_name": "Trí tuệ nhân tạo",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D01",
+            "D07",
+            "X02",
+            "X04",
+            "X06",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D01",
+            "D07",
+            "X02",
+            "X04",
+            "X06",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7510102",
+          "program_name": "Công nghệ kỹ thuật công trình xây dựng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7510102",
+          "program_name": "Công nghệ kỹ thuật công trình xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C01",
+            "D01",
+            "X06",
+            "X07",
+            "X08",
+            "X10",
+            "X11"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7510201",
+          "program_name": "Công nghệ kỹ thuật cơ khí",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7510201",
+          "program_name": "Công nghệ kỹ thuật cơ khí",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C01",
+            "D01",
+            "X06",
+            "X07",
+            "X08",
+            "X10",
+            "X11"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7510205",
+          "program_name": "Công nghệ kỹ thuật ô tô",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7510205",
+          "program_name": "Công nghệ kỹ thuật ô tô",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C01",
+            "D01",
+            "X06",
+            "X07",
+            "X08",
+            "X10",
+            "X11"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7510301",
+          "program_name": "Công nghệ kỹ thuật điện, điện tử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7510301",
+          "program_name": "Công nghệ kỹ thuật điện, điện tử",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C01",
+            "D01",
+            "X06",
+            "X07",
+            "X08",
+            "X10",
+            "X11"
+          ],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7520212",
+          "program_name": "Kỹ thuật y sinh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "24"
+        },
+        {
+          "program_code": "7520212",
+          "program_name": "Kỹ thuật y sinh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C01",
+            "D01",
+            "X06",
+            "X07",
+            "X08",
+            "X10",
+            "X11"
+          ],
+          "program_type": "chuẩn",
+          "note": "24"
+        },
+        {
+          "program_code": "7540101",
+          "program_name": "Công nghệ thực phẩm",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "25"
+        },
+        {
+          "program_code": "7540101",
+          "program_name": "Công nghệ thực phẩm",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A10",
+            "B00",
+            "C01",
+            "D01",
+            "D07",
+            "X11"
+          ],
+          "program_type": "chuẩn",
+          "note": "25"
+        },
+        {
+          "program_code": "7580205",
+          "program_name": "Kỹ thuật xây dựng công trình giao thông",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "26"
+        },
+        {
+          "program_code": "7580205",
+          "program_name": "Kỹ thuật xây dựng công trình giao thông",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A03",
+            "C01",
+            "D01",
+            "X06",
+            "X07",
+            "X08",
+            "X10",
+            "X11"
+          ],
+          "program_type": "chuẩn",
+          "note": "26"
+        },
+        {
+          "program_code": "7620109",
+          "program_name": "Nông học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "27"
+        },
+        {
+          "program_code": "7620109",
+          "program_name": "Nông học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "D01",
+            "X12",
+            "X16"
+          ],
+          "program_type": "chuẩn",
+          "note": "27"
+        },
+        {
+          "program_code": "7620112",
+          "program_name": "Bảo vệ thực vật",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "28"
+        },
+        {
+          "program_code": "7620112",
+          "program_name": "Bảo vệ thực vật",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "D01",
+            "X12",
+            "X16"
+          ],
+          "program_type": "chuẩn",
+          "note": "28"
+        },
+        {
+          "program_code": "7620301",
+          "program_name": "Nuôi trồng thủy sản",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "29"
+        },
+        {
+          "program_code": "7620301",
+          "program_name": "Nuôi trồng thủy sản",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "D01",
+            "X12",
+            "X16"
+          ],
+          "program_type": "chuẩn",
+          "note": "29"
+        },
+        {
+          "program_code": "7640101",
+          "program_name": "ĐGNL HCMV-SAT",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "30"
+        },
+        {
+          "program_code": "7640101",
+          "program_name": "ĐT THPTHọc BạThi Riêng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "D01",
+            "X12",
+            "X16"
+          ],
+          "program_type": "chuẩn",
+          "note": "30"
+        },
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "31"
+        },
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "31"
+        },
+        {
+          "program_code": "7720115",
+          "program_name": "Y học cổ truyền",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "32"
+        },
+        {
+          "program_code": "7720115",
+          "program_name": "Y học cổ truyền",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "32"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "33"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "33"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "34"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "34"
+        },
+        {
+          "program_code": "7720302",
+          "program_name": "Hộ sinh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "35"
+        },
+        {
+          "program_code": "7720302",
+          "program_name": "Hộ sinh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "35"
+        },
+        {
+          "program_code": "7720501",
+          "program_name": "Răng - Hàm - Mặt",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "36"
+        },
+        {
+          "program_code": "7720501",
+          "program_name": "Răng - Hàm - Mặt",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "36"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật xét nghiệm y học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "37"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật xét nghiệm y học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "37"
+        },
+        {
+          "program_code": "7720602",
+          "program_name": "Kỹ thuật hình ảnh y học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "38"
+        },
+        {
+          "program_code": "7720602",
+          "program_name": "Kỹ thuật hình ảnh y học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "38"
+        },
+        {
+          "program_code": "7720603",
+          "program_name": "Kỹ thuật phục hồi chức năng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "39"
+        },
+        {
+          "program_code": "7720603",
+          "program_name": "Kỹ thuật phục hồi chức năng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "39"
+        },
+        {
+          "program_code": "7760101",
+          "program_name": "Công tác xã hội",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "40"
+        },
+        {
+          "program_code": "7760101",
+          "program_name": "Công tác xã hội",
+          "subject_groups": [
+            "A01",
+            "A03",
+            "C00",
+            "C01",
+            "C03",
+            "C04",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "40"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "41"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C00",
+            "C03",
+            "C04",
+            "C07",
+            "D01",
+            "X17",
+            "X21"
+          ],
+          "program_type": "chuẩn",
+          "note": "41"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Trường Đại Học Cửu Long các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": "- Đợt 1: theo lịch tuyển sinh của Bộ GD&ĐT - Đợt 2: từ 01/09/2026 đến 30/09/2026 - Đợt bổ sung: từ ngày 01/10/2026 (nếu còn chỉ tiêu)",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-cuu-long-DCL.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7210403",
+            "program_name": "Thiết kế đồ họa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A07",
+              "C01",
+              "C04",
+              "D01",
+              "D09",
+              "D10",
+              "X02"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7220101",
+            "program_name": "Tiếng Việt và Văn hóa Việt Nam",
+            "subject_groups": [
+              "A01",
+              "A03",
+              "C00",
+              "C01",
+              "C03",
+              "C04",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D08",
+              "D09",
+              "D10",
+              "D147",
+              "D15",
+              "X78"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7310110",
+            "program_name": "Quản lý kinh tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "C04",
+              "D01",
+              "A03",
+              "X02",
+              "X17",
+              "X21"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7310608",
+            "program_name": "Đông phương học",
+            "subject_groups": [
+              "A01",
+              "A03",
+              "C00",
+              "C01",
+              "C03",
+              "C04",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "C00",
+              "C01",
+              "C03",
+              "C04",
+              "X02",
+              "X06"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7320108",
+            "program_name": "Quan hệ công chúng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D14",
+              "D15",
+              "C00",
+              "C01",
+              "C03",
+              "C04"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "C04",
+              "D01",
+              "A03",
+              "X02",
+              "X17",
+              "X21"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340115",
+            "program_name": "Marketing",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "C04",
+              "D01",
+              "A03",
+              "X02",
+              "X17",
+              "X21"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340121",
+            "program_name": "kinh doanh thương mại",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "C04",
+              "D01",
+              "A03",
+              "X02",
+              "X17",
+              "X21"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A03",
+              "C04",
+              "D01",
+              "X02",
+              "X05",
+              "X08",
+              "X26"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340205",
+            "program_name": "Công nghệ tài chính",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A03",
+              "C04",
+              "D01",
+              "X02",
+              "X05",
+              "X08",
+              "X26"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A03",
+              "C04",
+              "D01",
+              "X02",
+              "X05",
+              "X08",
+              "X26"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "C03",
+              "C07",
+              "D01",
+              "X02",
+              "X17",
+              "X21"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Luật kinh tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "C03",
+              "C07",
+              "D01",
+              "X02",
+              "X17",
+              "X21"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "C01",
+              "X02",
+              "X04",
+              "X06",
+              "X26"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7510102",
+            "program_name": "Công nghệ kỹ thuật công trình xây dựng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A03",
+              "C01",
+              "D01",
+              "X06",
+              "X07",
+              "X08",
+              "X56"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7510201",
+            "program_name": "Công nghệ kỹ thuật cơ khí",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A03",
+              "C01",
+              "D01",
+              "X06",
+              "X07",
+              "X08",
+              "X56"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7510205",
+            "program_name": "Công nghệ kỹ thuật ô tô",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A03",
+              "C01",
+              "D01",
+              "X06",
+              "X07",
+              "X08",
+              "X56"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ kỹ thuật điện, điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A03",
+              "C01",
+              "D01",
+              "X06",
+              "X07",
+              "X08",
+              "X56"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7520212",
+            "program_name": "Kỹ thuật y sinh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A03",
+              "C01",
+              "D01",
+              "X06",
+              "X07",
+              "X08",
+              "X56"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7540101",
+            "program_name": "Công nghệ thực phẩm",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "A10",
+              "B00",
+              "C01",
+              "D01",
+              "D07",
+              "X11"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7580205",
+            "program_name": "Kỹ thuật xây dựng công trình giao thông",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A03",
+              "C01",
+              "D01",
+              "X06",
+              "X07",
+              "X08",
+              "X56"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7620109",
+            "program_name": "Nông học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "B03",
+              "B08",
+              "D01",
+              "X12",
+              "X16"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7620112",
+            "program_name": "Bảo vệ thực vật",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "B03",
+              "B08",
+              "D01",
+              "X12",
+              "X16"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7620301",
+            "program_name": "Nuôi trồng thủy sản",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "B03",
+              "B08",
+              "D01",
+              "X12",
+              "X16"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7640101",
+            "program_name": "Thú y",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "B03",
+              "B08",
+              "D01",
+              "X12",
+              "X16"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "B03",
+              "C01",
+              "C08",
+              "D07",
+              "B08"
+            ],
+            "score": 20.5,
+            "note": null
+          },
+          {
+            "program_code": "7720115",
+            "program_name": "Răng - Hàm - Mặt",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "B03",
+              "C01",
+              "C08",
+              "D07",
+              "B08"
+            ],
+            "score": 20.5,
+            "note": null
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "B03",
+              "C01",
+              "C08",
+              "D07",
+              "B08"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "B03",
+              "C01",
+              "C08",
+              "D07",
+              "B08"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7720302",
+            "program_name": "Hộ sinh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "B03",
+              "C01",
+              "C08",
+              "D07",
+              "B08"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7720501",
+            "program_name": "Y học cổ truyền",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "B03",
+              "C01",
+              "C08",
+              "D07",
+              "B08"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật xét nghiệm y học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "B03",
+              "C01",
+              "C08",
+              "D07",
+              "B08"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7720602",
+            "program_name": "Kỹ thuật hình ảnh y học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "B03",
+              "C01",
+              "C08",
+              "D07",
+              "B08"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7720603",
+            "program_name": "Kỹ thuật phục hồi chức năng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "B03",
+              "C01",
+              "C08",
+              "D07",
+              "B08"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "A00",
+              "A03",
+              "A04",
+              "A05",
+              "C00",
+              "C01",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7810301",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "C03",
+              "C04",
+              "C07",
+              "D01",
+              "X17",
+              "X21"
+            ],
+            "score": 15,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7210403",
+            "program_name": "Thiết kế đồ họa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A07",
+              "C01",
+              "C04",
+              "D01",
+              "D09",
+              "D10",
+              "X02"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7220101",
+            "program_name": "Tiếng Việt và Văn hóa Việt Nam",
+            "subject_groups": [
+              "A01",
+              "A03",
+              "C00",
+              "C01",
+              "C03",
+              "C04",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D08",
+              "D09",
+              "D10",
+              "D147",
+              "D15",
+              "X78"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7310110",
+            "program_name": "Quản lý kinh tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "C04",
+              "D01",
+              "A03",
+              "X02",
+              "X17",
+              "X21"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7310608",
+            "program_name": "Đông phương học",
+            "subject_groups": [
+              "A01",
+              "A03",
+              "C00",
+              "C01",
+              "C03",
+              "C04",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông đa phương tiện",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "C00",
+              "C01",
+              "C03",
+              "C04",
+              "X02",
+              "X06"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7320108",
+            "program_name": "Quan hệ công chúng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D14",
+              "D15",
+              "C00",
+              "C01",
+              "C03",
+              "C04"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "C04",
+              "D01",
+              "A03",
+              "X02",
+              "X17",
+              "X21"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7340115",
+            "program_name": "Marketing",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "C04",
+              "D01",
+              "A03",
+              "X02",
+              "X17",
+              "X21"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7340121",
+            "program_name": "kinh doanh thương mại",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "C04",
+              "D01",
+              "A03",
+              "X02",
+              "X17",
+              "X21"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A03",
+              "C04",
+              "D01",
+              "X02",
+              "X05",
+              "X08",
+              "X26"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7340205",
+            "program_name": "Công nghệ tài chính",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A03",
+              "C04",
+              "D01",
+              "X02",
+              "X05",
+              "X08",
+              "X26"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A03",
+              "C04",
+              "D01",
+              "X02",
+              "X05",
+              "X08",
+              "X26"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "C03",
+              "C07",
+              "D01",
+              "X02",
+              "X17",
+              "X21"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Luật kinh tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "C03",
+              "C07",
+              "D01",
+              "X02",
+              "X17",
+              "X21"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "C01",
+              "X02",
+              "X04",
+              "X06",
+              "X26"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7510102",
+            "program_name": "Công nghệ kỹ thuật công trình xây dựng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A03",
+              "C01",
+              "D01",
+              "X06",
+              "X07",
+              "X08",
+              "X56"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7510201",
+            "program_name": "Công nghệ kỹ thuật cơ khí",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A03",
+              "C01",
+              "D01",
+              "X06",
+              "X07",
+              "X08",
+              "X56"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7510205",
+            "program_name": "Công nghệ kỹ thuật ô tô",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A03",
+              "C01",
+              "D01",
+              "X06",
+              "X07",
+              "X08",
+              "X56"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ kỹ thuật điện, điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A03",
+              "C01",
+              "D01",
+              "X06",
+              "X07",
+              "X08",
+              "X56"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7520212",
+            "program_name": "Kỹ thuật y sinh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A03",
+              "C01",
+              "D01",
+              "X06",
+              "X07",
+              "X08",
+              "X56"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7540101",
+            "program_name": "Công nghệ thực phẩm",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "A10",
+              "B00",
+              "C01",
+              "D01",
+              "D07",
+              "X11"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7580205",
+            "program_name": "Kỹ thuật xây dựng công trình giao thông",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A03",
+              "C01",
+              "D01",
+              "X06",
+              "X07",
+              "X08",
+              "X56"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7620109",
+            "program_name": "Nông học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "B03",
+              "B08",
+              "D01",
+              "X12",
+              "X16"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7620112",
+            "program_name": "Bảo vệ thực vật",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "B03",
+              "B08",
+              "D01",
+              "X12",
+              "X16"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7620301",
+            "program_name": "Nuôi trồng thủy sản",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "B03",
+              "B08",
+              "D01",
+              "X12",
+              "X16"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7640101",
+            "program_name": "Thú y",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "B03",
+              "B08",
+              "D01",
+              "X12",
+              "X16"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "B03",
+              "C01",
+              "C08",
+              "D07",
+              "B08"
+            ],
+            "score": 24,
+            "note": "Học lực cả năm lớp 12 đạt mức tốt (xếp loại giỏi) hoặc điểm xét tốt nghiệp THPt từ 8.0 trở lên"
+          },
+          {
+            "program_code": "7720115",
+            "program_name": "Răng - Hàm - Mặt",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "B03",
+              "C01",
+              "C08",
+              "D07",
+              "B08"
+            ],
+            "score": 24,
+            "note": "Học lực cả năm lớp 12 đạt mức tốt (xếp loại giỏi) hoặc điểm xét tốt nghiệp THPt từ 8.0 trở lên"
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "B03",
+              "C01",
+              "C08",
+              "D07",
+              "B08"
+            ],
+            "score": 24,
+            "note": "Học lực cả năm lớp 12 đạt mức tốt (xếp loại giỏi) hoặc điểm xét tốt nghiệp THPt từ 8.0 trở lên"
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "B03",
+              "C01",
+              "C08",
+              "D07",
+              "B08"
+            ],
+            "score": 19.6,
+            "note": "Học lực cả năm lớp 12 đạt mức Khá hoặc điểm xét tốt nghiệp THPT từ 6.5 trở lên"
+          },
+          {
+            "program_code": "7720302",
+            "program_name": "Hộ sinh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "B03",
+              "C01",
+              "C08",
+              "D07",
+              "B08"
+            ],
+            "score": 19.6,
+            "note": "Học lực cả năm lớp 12 đạt mức Khá hoặc điểm xét tốt nghiệp THPT từ 6.5 trở lên"
+          },
+          {
+            "program_code": "7720501",
+            "program_name": "Y học cổ truyền",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "B03",
+              "C01",
+              "C08",
+              "D07",
+              "B08"
+            ],
+            "score": 24,
+            "note": "Học lực cả năm lớp 12 đạt mức tốt (xếp loại giỏi) hoặc điểm xét tốt nghiệp THPt từ 8.0 trở lên"
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật xét nghiệm y học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "B03",
+              "C01",
+              "C08",
+              "D07",
+              "B08"
+            ],
+            "score": 19.6,
+            "note": "Học lực cả năm lớp 12 đạt mức Khá hoặc điểm xét tốt nghiệp THPT từ 6.5 trở lên"
+          },
+          {
+            "program_code": "7720602",
+            "program_name": "Kỹ thuật hình ảnh y học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "B03",
+              "C01",
+              "C08",
+              "D07",
+              "B08"
+            ],
+            "score": 19.6,
+            "note": "Học lực cả năm lớp 12 đạt mức Khá hoặc điểm xét tốt nghiệp THPT từ 6.5 trở lên"
+          },
+          {
+            "program_code": "7720603",
+            "program_name": "Kỹ thuật phục hồi chức năng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "B03",
+              "C01",
+              "C08",
+              "D07",
+              "B08"
+            ],
+            "score": 19.6,
+            "note": "Học lực cả năm lớp 12 đạt mức Khá hoặc điểm xét tốt nghiệp THPT từ 6.5 trở lên"
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "A00",
+              "A03",
+              "A04",
+              "A05",
+              "C00",
+              "C01",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7810301",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "C03",
+              "C04",
+              "C07",
+              "D01",
+              "X17",
+              "X21"
+            ],
+            "score": 18,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

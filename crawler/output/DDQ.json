@@ -1,0 +1,848 @@
+{
+  "university": {
+    "code": "DDQ",
+    "name": "Trường Đại Học Kinh Tế – Đại Học Đà Nẵng",
+    "short_name": "DUE",
+    "location": [
+      "Đà Nẵng"
+    ],
+    "address": "71 Ngũ Hành Sơn, Tp. Đà Nẵng",
+    "website": "https://due.udn.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-kinh-te-dai-hoc-da-nang-DDQ.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0213/thong-tin-tuyen-sinh-dh-kinh-te-dh-da-nang-2026.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC KINH TẾ – ĐẠI HỌC ĐÀ NẴNG 2026 Thông tin tuyển sinh trường Đại học Kinh tế - Đại học Đà Nẵng (DDQ) năm 2026 Năm 2026, chương trình cử nhân chính quy của DUE năm 2026 xét tuyển thí sinh tốt nghiệp THPT lần lượt theo các phương thức sau: Phương thức 1 (PT1): Xét tuyển thẳng Phương thức 2 (PT2): Xét tuyển kết hợp giữa năng lực Anh và thành tích học tập Phương thức 3 (PT3): Xét tuyển dựa trên kết quả thi THPT Phương thức 4 (PT4): Xét tuyển dựa trên kết quả thi ĐGNL ĐHQGHCM",
+  "admission_methods": [
+    {
+      "method_id": "1-utxt-xt-thang",
+      "method_name": "1 ƯTXT, XT THẲNG",
+      "description": "1.1 ĐỐI TƯỢNG Các đối tượng xét tuyển thẳng gồm: a. Anh hùng lao động, Anh hùng lực lượng vũ trang nhân dân, Chiến sĩ thi đua toàn quốc được tuyển thẳng vào các chương trình của Trường. b. Thí sinh đạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc tế; thời gian đạt giải không quá 03 năm tính tới thời điểm xét tuyển thẳng; được xét tuyển thẳng vào tất cả các chương trình của Trường. c. Thí sinh đạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia; thời gian đạt giải không quá",
+      "eligibility": "ĐỐI TƯỢNG Các đối tượng xét tuyển thẳng gồm: a. Anh hùng lao động, Anh hùng lực lượng vũ trang nhân dân, Chiến sĩ thi đua toàn quốc được tuyển thẳng vào các chương trình của Trường. b. Thí sinh đạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc tế; thời gian đạt giải không quá 03 năm tính tới thời điểm xét tuyển thẳng; được xét tuyển thẳng vào tất cả các chương trình của Trường. c. Thí sinh đạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia; thời gian đạt giải không quá 03 năm tính tới thời điểm xét tuyển thẳng; cụ thể: - Thí sinh đạt giải một trong các môn: Toán, Vật lý, Hoá học, Ngữ Văn, Sinh học, Ngoại ngữ, Tin học được xét tuyển thẳng vào tất cả các chương trình của Trường. - Thí sinh đạt giải một trong các môn: Lịch sử, Địa lý được xét tuyển thẳng vào các chương trình (1) Luật, (2) Luật kinh tế, (3) Luật thương mại quốc tế, (4) Quản lý nhà nước. d. Thí sinh là người nước ngoài đã đạt chuẩn năng lực ngôn ngữ theo yêu cầu của chương trình đào tạo phù hợp với quy định của Bộ GDĐT; thời gian hoàn thành chương trình THPT không quá 03 năm tính tới thời điểm xét tuyển thẳng; được xét tuyển thẳng vào các chương trình của Trường. đ. Thí sinh là người dân tộc thiểu số rất ít người theo quy định hiện hành của Chính phủ; thời gian tốt nghiệp THPT không quá 03 năm tính tới thời điểm xét tuyển thẳng; được xét tuyển thẳng vào các chương trình của Trường. e. Thí sinh là người khuyết tật nặng có giấy xác nhận khuyết tật của cơ quan có thẩm quyền cấp theo quy định; có khả năng theo học một số chương trình đào tạo do cơ sở đào tạo quy định nhưng không có khả năng dự tuyển theo phương thức tuyển sinh bình thường; thời gian tốt nghiệp THPT không quá 03 năm tính tới thời điểm xét tuyển thẳng; được xét tuyển thẳng vào các chương trình của Trường. Thí sinh sử dụng Phương thức 1 để đăng ký xét tuyển vào các chương trình phù hợp với quy định nêu trên. Riêng đối với các chương trình thuộc loại hình đào tạo Toàn phần, Bán phần tiếng Anh, thí sinh phải đồng thời đáp ứng",
+      "rules": "QUY CHẾ 1. Điểm xét tuyển Điểm xét tuyển theo thang điểm 30 điểm, tối đa 30 điểm và được làm tròn hai (02) chữ số thập phân. a. DUE-Elite (Cử nhân tài năng, Toàn phần tiếng Anh) Điểm xét tuyển = Điểm tổ hợp 3 môn (học bạ) + Điểm ưu tiên (nếu có) + Điểm cộng (nếu có) Trong đó: - Trọng số điểm của mỗi môn học trong tổ hợp chiếm 1/3 tổng điểm quy đổi. - Điểm tổ hợp 3 môn (học bạ) được làm tròn hai (02) chữ số thập phân). - Điểm từng môn: Điểm môn 1, Điểm môn 2, và Điểm môn 3, gọi chung là môn A được tính như sau: Điểm môn A = (Điểm trung bình chung môn A cả năm lớp 10 + Điểm trung bình chung môn A cả năm lớp 11 + Điểm trung bình chung môn A cả năm lớp 12)/3. Điểm từng môn lấy từ kết quả học tập trong chương trình THPT các năm lớp 10, lớp 11 và lớp 12 (điểm học bạ). Điểm môn A được làm tròn hai (02) chữ số thập phân. b. DUE-Global (Cử nhân chính quy, Toàn phần tiếng Anh) Điểm xét tuyển = Điểm tổ hợp 3 môn (học bạ) + Điểm ưu tiên (nếu có) + Điểm cộng (nếu có) Trong đó: - Trọng số điểm của mỗi môn học trong tổ hợp chiếm 1/3 tổng điểm quy đổi. - Điểm tổ hợp 3 môn (học bạ) được làm tròn hai (02) chữ số thập phân). - Điểm từng môn: Điểm môn 1, Điểm môn 2, và Điểm môn 3, gọi chung là môn A được tính như sau: Điểm môn A = (Điểm trung bình chung môn A cả năm lớp 10 + Điểm trung bình chung môn A cả năm lớp 11 + Điểm trung bình chung môn A cả năm lớp 12)/3. Điểm từng môn lấy từ kết quả học tập trong chương trình THPT các năm lớp 10, lớp 11 và lớp 12 (điểm học bạ). Điểm môn A được làm tròn hai (02) chữ số thập phân. c. DUE-Professional (Cử nhân chính quy, Bán phần tiếng Anh) Điểm xét tuyển = Điểm tổ hợp 3 môn (học bạ) + Điểm ưu tiên (nếu có) + Điểm cộng (nếu có) Trong đó: - Trọng số điểm của mỗi môn học trong tổ hợp chiếm 1/3 tổng điểm quy đổi. - Điểm tổ hợp 3 môn (học bạ) được làm tròn hai (02) chữ số thập phân). - Điểm từng môn: Điểm môn 1, Điểm môn 2, và Điểm môn 3, gọi chung là môn A được tính như sau: Điểm môn A = (Điểm trung bình chung môn A cả năm lớp 10 + Điểm trung bình chung môn A cả năm lớp 11 + Điểm trung bình chung môn A cả năm lớp 12)/3. Điểm từng môn lấy từ kết quả học tập trong chương trình THPT các năm lớp 10, lớp 11 và lớp 12 (điểm học bạ). Điểm môn A được làm tròn hai (02) chữ số thập phân. 2. Nguyên tắc xét tuyển: - Xét tuyển ưu tiên lần lượt từ cao xuống thấp theo điểm xét tuyển của từng chương trình cho từng loại hình đào tạo. - Trường hợp không tuyển hết số lượng tuyển sinh theo từng chương trình thuộc một loại hình đào tạo, số lượng tuyển sinh còn dư được điều chuyển cho các chương trình thuộc loại hình khác theo thứ tự ưu tiên: (1) Toàn phần tiếng Anh, (2) Bán phần tiếng Anh và (3) Tiêu chuẩn. - Đối với những chương trình có nhiều chuyên ngành, sau khi thí sinh trúng tuyển và nhập học, thí sinh sẽ lựa chọn chuyên ngành mong muốn học trong cùng một loại hình đào tạo. Trường chỉ tổ chức đào tạo nếu số lượng trúng tuyển vào chuyên ngành lớn hơn hoặc bằng 15. Trong trường hợp dưới 15, thí sinh sẽ được phép đăng ký chuyển sang chuyên ngành khác trong cùng một loại hình đào tạo. Đối với các thí sinh có bằng tốt nghiệp THPT của nước ngoài đã được công nhận trình độ tương đương, trong trường hợp bảng điểm THPT của thí sinh có môn học khác với tổ hợp xét tuyển và thang điểm khác với thang điểm 10, việc chọn môn tương đương và quy đổi điểm do HĐTS quyết định. 3. Điểm cộng Điểm cộng = Điểm thưởng + Điểm xét thưởng + Điểm khuyến khích Giới hạn tổng điểm cộng: Tổng Điểm cộng (bao gồm Điểm thưởng, Điểm xét thưởng và Điểm khuyến khích) không vượt quá 10% trên thang điểm 30 (tối đa 03 điểm). - Giới hạn điểm cộng theo từng nhóm: Điểm cộng tối đa của nhóm Điểm thưởng là 03 điểm; nhóm Điểm xét thưởng là 1,5 điểm; và nhóm Điểm khuyến khích là 1,5 điểm. - Nguyên tắc cộng dồn: Trường hợp thí sinh đạt nhiều thành tích khác nhau trong cùng một nhóm điểm cộng (Điểm thưởng hoặc Điểm xét thưởng hoặc Điểm khuyến khích), thí sinh được cộng dồn điểm của các thành tích đó nhưng tổng điểm không được vượt quá mức tối đa quy định của từng nhóm. (Ví dụ: Ở nhóm Điểm xét thưởng, thí sinh đạt danh hiệu Học sinh xuất sắc cả 03 năm học THPT và đạt giải Nhì kỳ thi học sinh giỏi cấp tỉnh/thành phố trực thuộc trung ương, điểm cộng được tính dồn nhưng tối đa cho thí sinh ở nhóm này là 1,5 điểm). - Nguyên tắc không cộng dồn đối với thành tích cùng loại: + Đối với thí sinh có nhiều kết quả, giải thưởng trong cùng một loại thành tích hoặc cùng một môn thi, thí sinh chỉ được tính mức điểm cộng đối với kết quả hoặc giải thưởng cao nhất. (Ví dụ: Thí sinh đồng thời đạt giải Nhì và giải Ba môn Toán kỳ thi học sinh giỏi THPT cấp tỉnh/thành phố trực thuộc trung ương, thí sinh chỉ được tính điểm cộng đối với thành tích cao nhất là giải Nhì môn Toán. Trường hợp thí sinh dự thi chứng chỉ SAT nhiều lần, đạt mức 1.200 điểm và 1.100 điểm, thí sinh chỉ được tính điểm cộng đối với kết quả cao nhất là 1.200 điểm). + Đối với điểm cộng chứng chỉ ngoại ngữ: Thí sinh sở hữu nhiều chứng chỉ của cùng một ngôn ngữ chỉ được tính mức điểm cộng đối với chứng chỉ có mức quy đổi cao nhất và không áp dụng cộng dồn. (Ví dụ: Thí sinh đồng thời đạt chứng chỉ tiếng Anh IELTS 4,0 (tương đương Bậc 3) và VSTEP 6,0 (tương đương Bậc 4), thí sinh chỉ được tính điểm cộng đối với chứng chỉ cao nhất là VSTEP 6,0). MỨC ĐIỂM CỘNG TT THÀNH TÍCH ĐƯỢC CỘNG ĐIỂM Toàn phần tiếng Anh Bán phần tiếng Anh Tiêu chuẩn I ĐIỂM THƯỞNG (tối đa 03 điểm) Thí sinh thuộc một trong các",
+      "programs": [
+        {
+          "program_code": "KNLNN",
+          "program_name": "TOEFL iBT",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "IELTS"
+        },
+        {
+          "program_code": "ITP",
+          "program_name": "VN Academic (*)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": null
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-xet-tuyen-ket-hop",
+      "method_name": "2 ĐIỂM XÉT TUYỂN KẾT HỢP",
+      "description": "2.1 ĐỐI TƯỢNG Thí sinh có năng lực tiếng Anh và sử dụng kết quả học tập THPT (học bạ) của 03 môn trong tổ hợp để xét tuyển. Thí sinh tốt nghiệp THPT trong vòng 3 năm (2024, 2025, 2026). Thí sinh sử dụng Phương thức 2 để đăng ký xét tuyển vào các chương trình thuộc loại hình đào tạo Toàn phần, Bán phần tiếng Anh. (Thí sinh không sử dụng Phương thức 2 để đăng ký xét tuyển vào các chương trình thuộc loại hình đào tạo Tiêu chuẩn). 2.2 ĐIỀU KIỆN XÉT TUYỂN 1. Điều kiện xét tuyển a. DUE-Elite (Cử nhân ",
+      "eligibility": "ĐỐI TƯỢNG Thí sinh có năng lực tiếng Anh và sử dụng kết quả học tập THPT (học bạ) của 03 môn trong tổ hợp để xét tuyển. Thí sinh tốt nghiệp THPT trong vòng 3 năm (2024, 2025, 2026). Thí sinh sử dụng Phương thức 2 để đăng ký xét tuyển vào các chương trình thuộc loại hình đào tạo Toàn phần, Bán phần tiếng Anh. (Thí sinh không sử dụng Phương thức 2 để đăng ký xét tuyển vào các chương trình thuộc loại hình đào tạo Tiêu chuẩn). 2.2",
+      "rules": "QUY CHẾ 1. Điểm xét tuyển Điểm xét tuyển theo thang điểm 30 điểm, tối đa 30 điểm và được làm tròn hai (02) chữ số thập phân. a. DUE-Elite (Cử nhân tài năng, Toàn phần tiếng Anh) Điểm xét tuyển = Điểm tổ hợp 3 môn (học bạ) + Điểm ưu tiên (nếu có) + Điểm cộng (nếu có) Trong đó: - Trọng số điểm của mỗi môn học trong tổ hợp chiếm 1/3 tổng điểm quy đổi. - Điểm tổ hợp 3 môn (học bạ) được làm tròn hai (02) chữ số thập phân). - Điểm từng môn: Điểm môn 1, Điểm môn 2, và Điểm môn 3, gọi chung là môn A được tính như sau: Điểm môn A = (Điểm trung bình chung môn A cả năm lớp 10 + Điểm trung bình chung môn A cả năm lớp 11 + Điểm trung bình chung môn A cả năm lớp 12)/3. Điểm từng môn lấy từ kết quả học tập trong chương trình THPT các năm lớp 10, lớp 11 và lớp 12 (điểm học bạ). Điểm môn A được làm tròn hai (02) chữ số thập phân. b. DUE-Global (Cử nhân chính quy, Toàn phần tiếng Anh) Điểm xét tuyển = Điểm tổ hợp 3 môn (học bạ) + Điểm ưu tiên (nếu có) + Điểm cộng (nếu có) Trong đó: - Trọng số điểm của mỗi môn học trong tổ hợp chiếm 1/3 tổng điểm quy đổi. - Điểm tổ hợp 3 môn (học bạ) được làm tròn hai (02) chữ số thập phân). - Điểm từng môn: Điểm môn 1, Điểm môn 2, và Điểm môn 3, gọi chung là môn A được tính như sau: Điểm môn A = (Điểm trung bình chung môn A cả năm lớp 10 + Điểm trung bình chung môn A cả năm lớp 11 + Điểm trung bình chung môn A cả năm lớp 12)/3. Điểm từng môn lấy từ kết quả học tập trong chương trình THPT các năm lớp 10, lớp 11 và lớp 12 (điểm học bạ). Điểm môn A được làm tròn hai (02) chữ số thập phân. c. DUE-Professional (Cử nhân chính quy, Bán phần tiếng Anh) Điểm xét tuyển = Điểm tổ hợp 3 môn (học bạ) + Điểm ưu tiên (nếu có) + Điểm cộng (nếu có) Trong đó: - Trọng số điểm của mỗi môn học trong tổ hợp chiếm 1/3 tổng điểm quy đổi. - Điểm tổ hợp 3 môn (học bạ) được làm tròn hai (02) chữ số thập phân). - Điểm từng môn: Điểm môn 1, Điểm môn 2, và Điểm môn 3, gọi chung là môn A được tính như sau: Điểm môn A = (Điểm trung bình chung môn A cả năm lớp 10 + Điểm trung bình chung môn A cả năm lớp 11 + Điểm trung bình chung môn A cả năm lớp 12)/3. Điểm từng môn lấy từ kết quả học tập trong chương trình THPT các năm lớp 10, lớp 11 và lớp 12 (điểm học bạ). Điểm môn A được làm tròn hai (02) chữ số thập phân. 2. Nguyên tắc xét tuyển: - Xét tuyển ưu tiên lần lượt từ cao xuống thấp theo điểm xét tuyển của từng chương trình cho từng loại hình đào tạo. - Trường hợp không tuyển hết số lượng tuyển sinh theo từng chương trình thuộc một loại hình đào tạo, số lượng tuyển sinh còn dư được điều chuyển cho các chương trình thuộc loại hình khác theo thứ tự ưu tiên: (1) Toàn phần tiếng Anh, (2) Bán phần tiếng Anh và (3) Tiêu chuẩn. - Đối với những chương trình có nhiều chuyên ngành, sau khi thí sinh trúng tuyển và nhập học, thí sinh sẽ lựa chọn chuyên ngành mong muốn học trong cùng một loại hình đào tạo. Trường chỉ tổ chức đào tạo nếu số lượng trúng tuyển vào chuyên ngành lớn hơn hoặc bằng 15. Trong trường hợp dưới 15, thí sinh sẽ được phép đăng ký chuyển sang chuyên ngành khác trong cùng một loại hình đào tạo. Đối với các thí sinh có bằng tốt nghiệp THPT của nước ngoài đã được công nhận trình độ tương đương, trong trường hợp bảng điểm THPT của thí sinh có môn học khác với tổ hợp xét tuyển và thang điểm khác với thang điểm 10, việc chọn môn tương đương và quy đổi điểm do HĐTS quyết định. 3. Điểm cộng Điểm cộng = Điểm thưởng + Điểm xét thưởng + Điểm khuyến khích Giới hạn tổng điểm cộng: Tổng Điểm cộng (bao gồm Điểm thưởng, Điểm xét thưởng và Điểm khuyến khích) không vượt quá 10% trên thang điểm 30 (tối đa 03 điểm). - Giới hạn điểm cộng theo từng nhóm: Điểm cộng tối đa của nhóm Điểm thưởng là 03 điểm; nhóm Điểm xét thưởng là 1,5 điểm; và nhóm Điểm khuyến khích là 1,5 điểm. - Nguyên tắc cộng dồn: Trường hợp thí sinh đạt nhiều thành tích khác nhau trong cùng một nhóm điểm cộng (Điểm thưởng hoặc Điểm xét thưởng hoặc Điểm khuyến khích), thí sinh được cộng dồn điểm của các thành tích đó nhưng tổng điểm không được vượt quá mức tối đa quy định của từng nhóm. (Ví dụ: Ở nhóm Điểm xét thưởng, thí sinh đạt danh hiệu Học sinh xuất sắc cả 03 năm học THPT và đạt giải Nhì kỳ thi học sinh giỏi cấp tỉnh/thành phố trực thuộc trung ương, điểm cộng được tính dồn nhưng tối đa cho thí sinh ở nhóm này là 1,5 điểm). - Nguyên tắc không cộng dồn đối với thành tích cùng loại: + Đối với thí sinh có nhiều kết quả, giải thưởng trong cùng một loại thành tích hoặc cùng một môn thi, thí sinh chỉ được tính mức điểm cộng đối với kết quả hoặc giải thưởng cao nhất. (Ví dụ: Thí sinh đồng thời đạt giải Nhì và giải Ba môn Toán kỳ thi học sinh giỏi THPT cấp tỉnh/thành phố trực thuộc trung ương, thí sinh chỉ được tính điểm cộng đối với thành tích cao nhất là giải Nhì môn Toán. Trường hợp thí sinh dự thi chứng chỉ SAT nhiều lần, đạt mức 1.200 điểm và 1.100 điểm, thí sinh chỉ được tính điểm cộng đối với kết quả cao nhất là 1.200 điểm). + Đối với điểm cộng chứng chỉ ngoại ngữ: Thí sinh sở hữu nhiều chứng chỉ của cùng một ngôn ngữ chỉ được tính mức điểm cộng đối với chứng chỉ có mức quy đổi cao nhất và không áp dụng cộng dồn. (Ví dụ: Thí sinh đồng thời đạt chứng chỉ tiếng Anh IELTS 4,0 (tương đương Bậc 3) và VSTEP 6,0 (tương đương Bậc 4), thí sinh chỉ được tính điểm cộng đối với chứng chỉ cao nhất là VSTEP 6,0). MỨC ĐIỂM CỘNG TT THÀNH TÍCH ĐƯỢC CỘNG ĐIỂM Toàn phần tiếng Anh Bán phần tiếng Anh Tiêu chuẩn I ĐIỂM THƯỞNG (tối đa 03 điểm) Thí sinh thuộc một trong các",
+      "programs": [
+        {
+          "program_code": "KNLNN",
+          "program_name": "TOEFL iBT",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "IELTS"
+        },
+        {
+          "program_code": "ITP",
+          "program_name": "VN Academic (*)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": null
+        }
+      ]
+    },
+    {
+      "method_id": "3-iem-gnl-hcm",
+      "method_name": "3 ĐIỂM ĐGNL HCM",
+      "description": "3.1 ĐỐI TƯỢNG Thí sinh sử dụng kết quả kỳ thi đánh giá năng lực của Đại học Quốc gia Thành phố Hồ Chí Minh năm 2026 để xét tuyển. Thí sinh sử dụng kết quả kỳ thi đánh giá năng lực của Đại học Quốc gia Thành phố Hồ Chí Minh năm 2026 để đăng ký xét tuyển vào các chương trình thuộc loại hình đào tạo Tiêu chuẩn. (Thí sinh không sử dụng phương thức này để đăng ký xét tuyển vào các chương trình thuộc loại hình đào tạo Toàn phần, Bán phần tiếng Anh). 3.2 QUY CHẾ Điểm xét tuyển = Điểm thi đánh giá năng ",
+      "eligibility": "ĐỐI TƯỢNG Thí sinh sử dụng kết quả kỳ thi đánh giá năng lực của Đại học Quốc gia Thành phố Hồ Chí Minh năm 2026 để xét tuyển. Thí sinh sử dụng kết quả kỳ thi đánh giá năng lực của Đại học Quốc gia Thành phố Hồ Chí Minh năm 2026 để đăng ký xét tuyển vào các chương trình thuộc loại hình đào tạo Tiêu chuẩn. (Thí sinh không sử dụng phương thức này để đăng ký xét tuyển vào các chương trình thuộc loại hình đào tạo Toàn phần, Bán phần tiếng Anh). 3.2",
+      "rules": "QUY CHẾ Điểm xét tuyển = Điểm thi đánh giá năng lực quy đổi + Điểm ưu tiên (nếu có) + Điểm cộng (nếu có) Điểm thi đánh giá năng lực quy đổi sẽ có hướng dẫn sau.",
+      "programs": []
+    },
+    {
+      "method_id": "4-iem-thi-thpt",
+      "method_name": "4 ĐIỂM THI THPT",
+      "description": "4.1 ĐỐI TƯỢNG Thí sinh sử dụng kết quả kỳ thi tốt nghiệp THPT năm 2026 của 03 môn trong tổ hợp xét tuyển. Thí sinh sử dụng kết quả kỳ thi tốt nghiệp THPT năm 2026 để đăng ký xét tuyển vào các chương trình thuộc loại hình đào tạo Tiêu chuẩn. (Thí sinh không sử dụng phương thức này để đăng ký xét tuyển vào các chương trình thuộc loại hình đào tạo Toàn phần, Bán phần tiếng Anh). 4.2 QUY CHẾ Điểm xét tuyển = Điểm tổ hợp 3 môn (thi THPT) + Điểm ưu tiên (nếu có) + Điểm cộng (nếu có) Trong đó: - Trọng ",
+      "eligibility": "ĐỐI TƯỢNG Thí sinh sử dụng kết quả kỳ thi tốt nghiệp THPT năm 2026 của 03 môn trong tổ hợp xét tuyển. Thí sinh sử dụng kết quả kỳ thi tốt nghiệp THPT năm 2026 để đăng ký xét tuyển vào các chương trình thuộc loại hình đào tạo Tiêu chuẩn. (Thí sinh không sử dụng phương thức này để đăng ký xét tuyển vào các chương trình thuộc loại hình đào tạo Toàn phần, Bán phần tiếng Anh). 4.2",
+      "rules": "QUY CHẾ Điểm xét tuyển = Điểm tổ hợp 3 môn (thi THPT) + Điểm ưu tiên (nếu có) + Điểm cộng (nếu có) Trong đó: - Trọng số điểm của mỗi môn thi trong tổ hợp chiếm 1/3 tổng điểm quy đổi. - Điểm tổ hợp 3 môn (thi THPT) được làm tròn hai (02) chữ số thập phân). Điểm từng môn trong tổ hợp xét tuyển lấy từ kết quả kỳ thi tốt nghiệp THPT năm 2026. Điểm từng môn được làm tròn hai (02) chữ số thập phân.",
+      "programs": []
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Trường Đại Học Kinh Tế – Đại Học Đà Nẵng các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-kinh-te-dai-hoc-da-nang-DDQ.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310101S",
+            "program_name": "Kinh tế - Chương trình Kinh tế (S - Tiêu chuẩn)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7310107S",
+            "program_name": "Thống kê kinh tế - Chương trình Thống kê kinh tế (S - Tiêu chuẩn)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7310205S",
+            "program_name": "Quản lý nhà nước - Chương trình Quản lý nhà nước (S - Tiêu chuẩn)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7340101S",
+            "program_name": "Quản trị kinh doanh - Chương trình Quản trị kinh doanh (S - Tiêu chuẩn)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7340115S",
+            "program_name": "Marketing - Chương trình Marketing (S - Tiêu chuẩn)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "7340120S",
+            "program_name": "Kinh doanh quốc tế - Chương trình Kinh doanh quốc tế (S - Tiêu chuẩn)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 24,
+            "note": null
+          },
+          {
+            "program_code": "7340121S",
+            "program_name": "Kinh doanh thương mại - Chương trình Kinh doanh thương mại (S - Tiêu chuẩn)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7340122S",
+            "program_name": "Thương mại điện tử - Chương trình Thương mại điện tử (S - Tiêu chuẩn)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "7340201S",
+            "program_name": "Tài chính - Ngân hàng - Chương trình Tài chính - Ngân hàng (S - Tiêu chuẩn)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 20.25,
+            "note": null
+          },
+          {
+            "program_code": "7340205S",
+            "program_name": "Công nghệ tài chính - Chương trình Công nghệ tài chính (S - Tiêu chuẩn)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 21.5,
+            "note": null
+          },
+          {
+            "program_code": "7340301S",
+            "program_name": "Kế toán - Chương trình Kế toán (S - Tiêu chuẩn)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 20.25,
+            "note": null
+          },
+          {
+            "program_code": "7340302S",
+            "program_name": "Kiểm toán - Chương trình Kiểm toán (S - Tiêu chuẩn)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 20.25,
+            "note": null
+          },
+          {
+            "program_code": "7340404S",
+            "program_name": "Quản trị nhân lực - Chương trình Quản trị nguồn nhân lực (S - Tiêu chuẩn)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 20.5,
+            "note": null
+          },
+          {
+            "program_code": "7340405S",
+            "program_name": "Hệ thống thông tin quản lý - Chương trình Hệ thống thông tin quản lý (S - Tiêu chuẩn)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7380101S",
+            "program_name": "Luật - Chương trình Luật (S - Tiêu chuẩn)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7380107S",
+            "program_name": "Luật kinh tế - Chương trình Luật Kinh tế (S - Tiêu chuẩn)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7460108S",
+            "program_name": "Khoa học dữ liệu - Chương trình Khoa học dữ liệu (S - Tiêu chuẩn)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7810103S",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành - Chương trình Quản trị dịch vụ du lịch và lữ hành (S - Tiêu chuẩn)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7810201S",
+            "program_name": "Quản trị khách sạn - Chương trình Quản trị khách sạn (S - Tiêu chuẩn)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 20,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310101P",
+            "program_name": "Kinh tế - Chương trình Kinh tế quốc tế (P - Bán phần tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 23,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340101P",
+            "program_name": "Quản trị kinh doanh - Chương trình Quản trị kinh doanh (P - Bán phần tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 24,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340115E",
+            "program_name": "Marketing - Chương trình Marketing số (E - Toàn phần tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 27,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340115P",
+            "program_name": "Marketing - Chương trình Marketing (P - Bán phần tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 24.5,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340120E",
+            "program_name": "Kinh doanh quốc tế - Chương trình Ngoại thương (E - Toàn phần tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 27,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340120P",
+            "program_name": "Kinh doanh quốc tế - Chương trình Kinh doanh giao nhận và vận tải quốc tế (P - Bán phần tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 26,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340122E",
+            "program_name": "Thương mại điện tử - Chương trình Thương mại điện tử (E - Toàn phần tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 26,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340201P",
+            "program_name": "Tài chính - Ngân hàng - Chương trình Tài chính - Ngân hàng (P - Bán phần tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 23,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340205P",
+            "program_name": "Công nghệ tài chính - Chương trình Công nghệ tài chính (P - Bán phần tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 24,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340301P",
+            "program_name": "Kế toán - Chương trình Kế toán tích hợp chương trình quốc tế ICAEW (P - Bán phần tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 23,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340302P",
+            "program_name": "Kiểm toán - Chương trình Kiểm toán tích hợp chương trình quốc tế ACCA (P - Bán phần tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 25,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340404P",
+            "program_name": "Quản trị nhân lực - Chương trình Quản trị nguồn nhân lực (P - Bán phần tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 23.5,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7340405P",
+            "program_name": "Hệ thống thông tin quản lý - Chương trình Trí tuệ nhân tạo trong kinh doanh (P - Bán phần tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 23,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7380107P",
+            "program_name": "Luật kinh tế - Chương trình Luật thương mại quốc tế (P - Bán phần tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 25,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7810103P",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành - Chương trình Quản trị kinh doanh du lịch (P - Bán phần tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 23,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7810201P",
+            "program_name": "Quản trị khách sạn - Chương trình Quản trị khách sạn (P - Bán phần tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X25",
+              "X26"
+            ],
+            "score": 23,
+            "note": "Điểm đã quy đổi"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310101P",
+            "program_name": "Kinh tế - Chương trình Kinh tế quốc tế (P - Bán phần tiếng Anh)",
+            "subject_groups": [],
+            "score": 659,
+            "note": null
+          },
+          {
+            "program_code": "7310101S",
+            "program_name": "Kinh tế - Chương trình Kinh tế (S - Tiêu chuẩn)",
+            "subject_groups": [],
+            "score": 751,
+            "note": null
+          },
+          {
+            "program_code": "7310107S",
+            "program_name": "Thống kê kinh tế - Chương trình Thống kê kinh tế (S - Tiêu chuẩn)",
+            "subject_groups": [],
+            "score": 751,
+            "note": null
+          },
+          {
+            "program_code": "7310205S",
+            "program_name": "Quản lý nhà nước - Chương trình Quản lý nhà nước (S - Tiêu chuẩn)",
+            "subject_groups": [],
+            "score": 751,
+            "note": null
+          },
+          {
+            "program_code": "7340101P",
+            "program_name": "Quản trị kinh doanh - Chương trình Quản trị kinh doanh (P - Bán phần tiếng Anh)",
+            "subject_groups": [],
+            "score": 699,
+            "note": null
+          },
+          {
+            "program_code": "7340101S",
+            "program_name": "Quản trị kinh doanh - Chương trình Quản trị kinh doanh (S - Tiêu chuẩn)",
+            "subject_groups": [],
+            "score": 818,
+            "note": null
+          },
+          {
+            "program_code": "7340115E",
+            "program_name": "Marketing - Chương trình Marketing số (E - Toàn phần tiếng Anh)",
+            "subject_groups": [],
+            "score": 820,
+            "note": null
+          },
+          {
+            "program_code": "7340115P",
+            "program_name": "Marketing - Chương trình Marketing (P - Bán phần tiếng Anh)",
+            "subject_groups": [],
+            "score": 719,
+            "note": null
+          },
+          {
+            "program_code": "7340115S",
+            "program_name": "Marketing - Chương trình Marketing (S - Tiêu chuẩn)",
+            "subject_groups": [],
+            "score": 902,
+            "note": null
+          },
+          {
+            "program_code": "7340120E",
+            "program_name": "Kinh doanh quốc tế - Chương trình Ngoại thương (E - Toàn phần tiếng Anh)",
+            "subject_groups": [],
+            "score": 820,
+            "note": null
+          },
+          {
+            "program_code": "7340120P",
+            "program_name": "Kinh doanh quốc tế - Chương trình Kinh doanh giao nhận và vận tải quốc tế (P - Bán phần tiếng Anh)",
+            "subject_groups": [],
+            "score": 780,
+            "note": null
+          },
+          {
+            "program_code": "7340120S",
+            "program_name": "Kinh doanh quốc tế - Chương trình Kinh doanh quốc tế (S - Tiêu chuẩn)",
+            "subject_groups": [],
+            "score": 968,
+            "note": null
+          },
+          {
+            "program_code": "7340121S",
+            "program_name": "Kinh doanh thương mại - Chương trình Kinh doanh thương mại (S - Tiêu chuẩn)",
+            "subject_groups": [],
+            "score": 818,
+            "note": null
+          },
+          {
+            "program_code": "7340122E",
+            "program_name": "Thương mại điện tử - Chương trình Thương mại điện tử (E - Toàn phần tiếng Anh)",
+            "subject_groups": [],
+            "score": 780,
+            "note": null
+          },
+          {
+            "program_code": "7340122S",
+            "program_name": "Thương mại điện tử - Chương trình Thương mại điện tử (S - Tiêu chuẩn)",
+            "subject_groups": [],
+            "score": 876,
+            "note": null
+          },
+          {
+            "program_code": "7340201P",
+            "program_name": "Tài chính - Ngân hàng - Chương trình Tài chính - Ngân hàng (P - Bán phần tiếng Anh)",
+            "subject_groups": [],
+            "score": 659,
+            "note": null
+          },
+          {
+            "program_code": "7340201S",
+            "program_name": "Tài chính - Ngân hàng - Chương trình Tài chính - Ngân hàng (S - Tiêu chuẩn)",
+            "subject_groups": [],
+            "score": 771,
+            "note": null
+          },
+          {
+            "program_code": "7340205P",
+            "program_name": "Công nghệ tài chính - Chương trình Công nghệ tài chính (P - Bán phần tiếng Anh)",
+            "subject_groups": [],
+            "score": 699,
+            "note": null
+          },
+          {
+            "program_code": "7340205S",
+            "program_name": "Công nghệ tài chính - Chương trình Công nghệ tài chính (S - Tiêu chuẩn)",
+            "subject_groups": [],
+            "score": 846,
+            "note": null
+          },
+          {
+            "program_code": "7340301P",
+            "program_name": "Kế toán - Chương trình Kế toán tích hợp chương trình quốc tế ICAEW (P - Bán phần tiếng Anh)",
+            "subject_groups": [],
+            "score": 659,
+            "note": null
+          },
+          {
+            "program_code": "7340301S",
+            "program_name": "Kế toán - Chương trình Kế toán (S - Tiêu chuẩn)",
+            "subject_groups": [],
+            "score": 771,
+            "note": null
+          },
+          {
+            "program_code": "7340302P",
+            "program_name": "Kiểm toán - Chương trình Kiểm toán tích hợp chương trình quốc tế ACCA (P - Bán phần tiếng Anh)",
+            "subject_groups": [],
+            "score": 739,
+            "note": null
+          },
+          {
+            "program_code": "7340302S",
+            "program_name": "Kiểm toán - Chương trình Kiểm toán (S - Tiêu chuẩn)",
+            "subject_groups": [],
+            "score": 771,
+            "note": null
+          },
+          {
+            "program_code": "7340404P",
+            "program_name": "Quản trị nhân lực - Chương trình Quản trị nguồn nhân lực (P - Bán phần tiếng Anh)",
+            "subject_groups": [],
+            "score": 679,
+            "note": null
+          },
+          {
+            "program_code": "7340404S",
+            "program_name": "Quản trị nhân lực - Chương trình Quản trị nguồn nhân lực (S - Tiêu chuẩn)",
+            "subject_groups": [],
+            "score": 786,
+            "note": null
+          },
+          {
+            "program_code": "7340405P",
+            "program_name": "Hệ thống thông tin quản lý - Chương trình Trí tuệ nhân tạo trong kinh doanh (P - Bán phần tiếng Anh)",
+            "subject_groups": [],
+            "score": 659,
+            "note": null
+          },
+          {
+            "program_code": "7340405S",
+            "program_name": "Hệ thống thông tin quản lý - Chương trình Hệ thống thông tin quản lý (S - Tiêu chuẩn)",
+            "subject_groups": [],
+            "score": 751,
+            "note": null
+          },
+          {
+            "program_code": "7380101S",
+            "program_name": "Luật - Chương trình Luật (S - Tiêu chuẩn)",
+            "subject_groups": [],
+            "score": 751,
+            "note": null
+          },
+          {
+            "program_code": "7380107P",
+            "program_name": "Luật kinh tế - Chương trình Luật thương mại quốc tế (P - Bán phần tiếng Anh)",
+            "subject_groups": [],
+            "score": 739,
+            "note": null
+          },
+          {
+            "program_code": "7380107S",
+            "program_name": "Luật kinh tế - Chương trình Luật Kinh tế (S - Tiêu chuẩn)",
+            "subject_groups": [],
+            "score": 751,
+            "note": null
+          },
+          {
+            "program_code": "7460108S",
+            "program_name": "Khoa học dữ liệu - Chương trình Khoa học dữ liệu (S - Tiêu chuẩn)",
+            "subject_groups": [],
+            "score": 818,
+            "note": null
+          },
+          {
+            "program_code": "7810103P",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành - Chương trình Quản trị kinh doanh du lịch (P - Bán phần tiếng Anh)",
+            "subject_groups": [],
+            "score": 659,
+            "note": null
+          },
+          {
+            "program_code": "7810103S",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành - Chương trình Quản trị dịch vụ du lịch và lữ hành (S - Tiêu chuẩn)",
+            "subject_groups": [],
+            "score": 751,
+            "note": null
+          },
+          {
+            "program_code": "7810201P",
+            "program_name": "Quản trị khách sạn - Chương trình Quản trị khách sạn (P - Bán phần tiếng Anh)",
+            "subject_groups": [],
+            "score": 659,
+            "note": null
+          },
+          {
+            "program_code": "7810201S",
+            "program_name": "Quản trị khách sạn - Chương trình Quản trị khách sạn (S - Tiêu chuẩn)",
+            "subject_groups": [],
+            "score": 751,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

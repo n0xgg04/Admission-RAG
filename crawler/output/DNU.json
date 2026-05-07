@@ -1,0 +1,675 @@
+{
+  "university": {
+    "code": "DNU",
+    "name": "Trường Đại Học Đồng Nai",
+    "short_name": "DNU",
+    "location": [
+      "Đồng Nai"
+    ],
+    "address": "Số 4 Lê Qúy Đôn, Phường Tân Hiệp, TP. Biên Hòa, Tỉnh Đồng Nai",
+    "website": "https://dnpu.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2025,
+  "total_quota": 1609,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-dong-nai-DNU.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2025/0520/dai-hoc-dong-nai.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC ĐỒNG NAI 2025 Thông tin tuyển sinh Trường Đại Học Đồng Nai (DNU) năm 2025 Năm 2025, trường Đại học Đồng Nai tuyển 1.609 chỉ tiêu và sử dụng các phương thức tuyển sinh sau: Xét kết quả thi tốt nghiệp THPT - 100; Xét kết quả học tập cấp THPT - 200; Kết hợp kết quả thi tốt nghiệp THPT với điểm thi năng khiếu để xét tuyển - 405; Kết hợp kết quả học tập cấp THPT với điểm thi năng khiếu để xét tuyển - 406 Quy tắc quy đổi tương đương ngưỡng đầu vào và điểm trúng tuyển giữa các tổ hợp, phương thức tuyển sinh: Độ chênh lệch điểm xét tuyển giữa các tổ hợp: = 0. Độ lệch điểm giữa phương thức tuyển sinh: Ngành Sư phạm tiếng Anh, Ngôn ngữ Anh: điểm môn Tiếng Anh thi tốt nghiệp THPT 07 điểm trở lên trong tổ hợp môn xét tuyển. Đối với các chứng chỉ ngoại ngữ được dùng để miễn thi tốt nghiệp THPT theo quy định tại Quy chế thi tốt nghiệp trung học phổ thông hiện hành, cơ sở đào tạo được quy đổi thành điểm môn ngoại ngữ để đưa vào tổ hợp môn xét tuyển với trọng số tính điểm xét không vượt quá 50% (chỉ nhận điểm chứng chỉ ngoại ngữ IELTS theo Bảng tham chiếu Trường sẽ thông tin sau). Ngành Sư phạm Toán: điểm môn Toán thi tốt nghiệp THPT từ 05 điểm trở lên trong tổ hợp môn xét tuyển. Hiện nay, đề án tuyển sinh 2025 của trường chưa được công bố. Tham khảo đề án tuyển sinh 2024 chi tiết phía dưới. Khám phá thêm khoa học Khoa học Khóa học",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt---2024",
+      "method_name": "1 ĐIỂM THI THPT - 2024",
+      "description": "Xét tuyển căn cứ trên kết quả kỳ thi THPT năm 2024 (ngành Mầm non thi tuyển môn năng khiếu). DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM THI THPT STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 51140201 Giáo dục mầm non M05; M07; M08; M13 2 7140201 Giáo dục mầm non M05; M07; M08; M13 3 7140202 Giáo dục Tiểu học A00; A01; C03; C04; D01 4 7140209 Sư phạm Toán học A00; A01; C01; D07; D01 5 7140217 Sư phạm Ngữ văn D01; D14; D15; C00 6 7140231 Sư phạm Tiếng Anh D01; D14; D15; A01 7 7220201 Ngôn ngữ Anh D01",
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "51140201",
+          "program_name": "Giáo dục mầm non",
+          "subject_groups": [
+            "M05",
+            "M07",
+            "M08",
+            "M13"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140201",
+          "program_name": "Giáo dục mầm non",
+          "subject_groups": [
+            "M05",
+            "M07",
+            "M08",
+            "M13"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7140202",
+          "program_name": "Giáo dục Tiểu học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "C04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7140209",
+          "program_name": "Sư phạm Toán học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D07",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7140217",
+          "program_name": "Sư phạm Ngữ văn",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15",
+            "C00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7140231",
+          "program_name": "Sư phạm Tiếng Anh",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15",
+            "A01"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15",
+            "A01"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7510301",
+          "program_name": "Công nghệ kỹ thuật điện, điện tử",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7520103",
+          "program_name": "Kỹ thuật cơ khí",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-hoc-ba---2024",
+      "method_name": "2 ĐIỂM HỌC BẠ - 2024",
+      "description": "Xét học bạ lớp 12 theo tổ hợp môn (các ngành Giáo dục Mầm non, Kỹ thuật cơ khí, Công nghệ điện- điện tử). - Đối với các ngành thuộc nhóm ngành đào tạo giáo viên: Xét tuyển dựa trên tổ hợp các môn học ở THPT: học sinh đã tốt nghiệp THPT phải có học lực lớp 12 xếp loại giỏi hoặc điểm xét tốt nghiệp THPT từ 8,0 trở lên; - Đối với các ngành ngoài sư phạm: Xét tuyển dựa trên học bạ lớp 12 theo tổ hợp môn: học sinh đã tốt nghiệp THPT phải có học lực lớp 12 từ trung bình trở lên. 2.1 ĐIỀU KIỆN XÉT TUYỂ",
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7510301",
+          "program_name": "Công nghệ kỹ thuật điện, điện tử",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7520103",
+          "program_name": "Kỹ thuật cơ khí",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "51140201",
+          "program_name": "Giáo dục mầm non",
+          "subject_groups": [
+            "M05",
+            "M07",
+            "M08",
+            "M13"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140201",
+          "program_name": "Giáo dục mầm non",
+          "subject_groups": [
+            "M05",
+            "M07",
+            "M08",
+            "M13"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7140202",
+          "program_name": "Giáo dục Tiểu học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7140202",
+          "program_name": "Giáo dục Tiểu học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "C04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7140209",
+          "program_name": "Sư phạm Toán học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D07",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7140217",
+          "program_name": "Sư phạm Ngữ văn",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15",
+            "C00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7140231",
+          "program_name": "Sư phạm Tiếng Anh",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15",
+            "A01"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15",
+            "A01"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7510301",
+          "program_name": "Công nghệ kỹ thuật điện, điện tử",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7520103",
+          "program_name": "Kỹ thuật cơ khí",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Trường Đại Học Đồng Nai các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-dong-nai-DNU.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "C04",
+              "D01"
+            ],
+            "score": 23.1,
+            "note": null
+          },
+          {
+            "program_code": "7140209",
+            "program_name": "Sư phạm Toán học",
+            "subject_groups": [
+              "A01",
+              "C01",
+              "D01",
+              "A00",
+              "D07"
+            ],
+            "score": 25.41,
+            "note": null
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [
+              "C00",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 26.51,
+            "note": null
+          },
+          {
+            "program_code": "7140231",
+            "program_name": "Sư phạm Tiếng Anh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 24.49,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 18.6,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X05",
+              "X01"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X05",
+              "X01"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ kỹ thuật điện, điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X05"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "7520103",
+            "program_name": "Kỹ thuật cơ khí",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X05"
+            ],
+            "score": 18,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ kỹ thuật điện, điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X05"
+            ],
+            "score": 22,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7520103",
+            "program_name": "Kỹ thuật cơ khí",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X05"
+            ],
+            "score": 18,
+            "note": "Điểm đã được quy đổi"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-xet-tuyen-ket-hop",
+        "method_name": "Điểm chuẩn theo phương thức Điểm xét tuyển kết hợp năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "51140201",
+            "program_name": "Giáo dục Mầm non (Cao đẳng)",
+            "subject_groups": [
+              "M05",
+              "M07",
+              "M08",
+              "M13"
+            ],
+            "score": 21.77,
+            "note": "Điểm thi THPT và CCQT, điểm đã được quy đổi"
+          },
+          {
+            "program_code": "51140201",
+            "program_name": "Giáo dục Mầm non (Cao đẳng)",
+            "subject_groups": [
+              "M05",
+              "M07",
+              "M08",
+              "M13"
+            ],
+            "score": 21.77,
+            "note": "Kết hợp điểm thi THPT hoặc học bạ với điểm năng khiếu"
+          },
+          {
+            "program_code": "7140201",
+            "program_name": "Giáo dục Mầm non (Đại học)",
+            "subject_groups": [
+              "M05",
+              "M07",
+              "M08",
+              "M13"
+            ],
+            "score": 24.7,
+            "note": "Điểm thi THPT và CCQT, điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7140201",
+            "program_name": "Giáo dục Mầm non (Đại học)",
+            "subject_groups": [
+              "M05",
+              "M07",
+              "M08",
+              "M13"
+            ],
+            "score": 24.7,
+            "note": "Kết hợp điểm thi THPT hoặc học bạ với điểm năng khiếu"
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "C04",
+              "D01"
+            ],
+            "score": 23.1,
+            "note": "Điểm thi THPT và CCQT, điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7140209",
+            "program_name": "Sư phạm Toán học",
+            "subject_groups": [
+              "A01",
+              "C01",
+              "D01",
+              "A00",
+              "D07"
+            ],
+            "score": 25.41,
+            "note": "Điểm thi THPT và CCQT, điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [
+              "C00",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 26.51,
+            "note": "Điểm thi THPT và CCQT, điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7140231",
+            "program_name": "Sư phạm Tiếng Anh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 24.49,
+            "note": "Điểm thi THPT và CCQT, điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 18.6,
+            "note": "Điểm thi THPT và CCQT, điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X05",
+              "X01"
+            ],
+            "score": 16,
+            "note": "Điểm thi THPT và CCQT, điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X05",
+              "X01"
+            ],
+            "score": 16,
+            "note": "Điểm thi THPT và CCQT, điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ kỹ thuật điện, điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X05"
+            ],
+            "score": 22,
+            "note": "Điểm thi THPT và CCQT, điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7520103",
+            "program_name": "Kỹ thuật cơ khí",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X05"
+            ],
+            "score": 18,
+            "note": "Điểm thi THPT và CCQT, điểm đã được quy đổi"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "university": {
+    "code": "DHA",
+    "name": "Đại học Luật - Đại học Huế",
+    "short_name": "HUL",
+    "location": [
+      "Huế"
+    ],
+    "address": "20 Đường Võ Văn Kiệt, phường An Tây, TP. Huế, tỉnh Thừa Thiên Huế.",
+    "website": "https://www.hul.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-luat-dai-hoc-hue-DHA.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0423/thong-tin-tuyen-sinh-truong-dai-hoc-luat-hue-2026.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC LUẬT HUẾ 2026 Thông tin tuyển sinh trường Đại học Luật - Đại học Huế (HUL) năm 2026 Năm 2026, trường Đại học Luật - ĐH Huế tuyển sinh dựa trên các phương thức xét tuyển khác nhau như sau: Phương thức 1: Xét tuyển thẳng, ưu tiên xét tuyển theo Quy chế tuyển sinh hiện hành của Bộ GD&ĐT Phương thức 2: Xét tuyển dựa vào kết quả học tập ở cấp THPT (học bạ) Phương thức 3: Xét tuyển dựa vào kết quả của kỳ thi tốt nghiệp THPT năm 2026 Khám phá thêm khoá học Khóa học Khoa học",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 QUY CHẾ Trường Đại học Luật, Đại học Huế không sử dụng kết quả miễn thi bài thi môn ngoại ngữ của kỳ thi tốt nghiệp THPT. Điểm xét tuyển là tổng điểm 03 môn trong tổ hợp xét tuyển của điểm thi tốt nghiệp THPT năm 2026. ĐXT = Môn 1 + Môn 2 + Môn 3 + Điểm cộng (nếu có) + ĐƯT (nếu có) Trong đó: ĐXT: Điểm xét tuyển – thang điểm 30, làm tròn đến 2 chữ số thập phân ĐƯT: Điểm ưu tiên Môn 1: Môn Ngữ văn hoặc môn Toán phải đạt tối thiểu 6/10 điểm Môn 2 và Môn 3: hai môn còn lại trong tổ hợp xét tuyển",
+      "eligibility": null,
+      "rules": "QUY CHẾ Trường Đại học Luật, Đại học Huế không sử dụng kết quả miễn thi bài thi môn ngoại ngữ của kỳ thi tốt nghiệp THPT. Điểm xét tuyển là tổng điểm 03 môn trong tổ hợp xét tuyển của điểm thi tốt nghiệp THPT năm 2026. ĐXT = Môn 1 + Môn 2 + Môn 3 + Điểm cộng (nếu có) + ĐƯT (nếu có) Trong đó: ĐXT: Điểm xét tuyển – thang điểm 30, làm tròn đến 2 chữ số thập phân ĐƯT: Điểm ưu tiên Môn 1: Môn Ngữ văn hoặc môn Toán phải đạt tối thiểu 6/10 điểm Môn 2 và Môn 3: hai môn còn lại trong tổ hợp xét tuyển * Ghi chú: + Thí sinh có thể áp dụng đồng thời nhiều mức điểm cộng tại từng mục điểm thưởng, điểm xét thưởng, điểm khuyến khích tương ứng với các thành tích đạt được tuy nhiên tổng điểm cộng không vượt quá 10% điểm tối đa của thang điểm xét tuyển (3 điểm/thang 30 điểm) + Điểm xét tuyển tối đa của một thí sinh là 30 điểm.",
+      "programs": [
+        {
+          "program_code": "7380107",
+          "program_name": "Luật Kinh tế",
+          "subject_groups": [
+            "A00",
+            "C00",
+            "D01",
+            "D14",
+            "X70",
+            "X74",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-hoc-ba",
+      "method_name": "2 ĐIỂM HỌC BẠ",
+      "description": "2.1 QUY CHẾ Sử dụng điểm trung bình chung kết quả học tập cả năm các lớp 10, 11, 12 theo thang điểm 30 để tính điểm xét tuyển. Điểm các môn trong tổ hợp môn xét tuyển là điểm trung bình chung (làm tròn đến 2 chữ số thập phân) của mỗi môn học ở cả năm các lớp 10, 11, 12. ĐXT = Môn 1 + Môn 2 + Môn 3 + Điểm cộng (nếu có) + ĐƯT (nếu có) Trong đó: ĐXT: Điểm xét tuyển – thang điểm 30, làm tròn đến 2 chữ số thập phân ĐƯT: Điểm ưu tiên Môn 1: Môn Ngữ văn hoặc môn Toán phải đạt tối thiểu 6/10 điểm Môn 2 ",
+      "eligibility": null,
+      "rules": "QUY CHẾ Sử dụng điểm trung bình chung kết quả học tập cả năm các lớp 10, 11, 12 theo thang điểm 30 để tính điểm xét tuyển. Điểm các môn trong tổ hợp môn xét tuyển là điểm trung bình chung (làm tròn đến 2 chữ số thập phân) của mỗi môn học ở cả năm các lớp 10, 11, 12. ĐXT = Môn 1 + Môn 2 + Môn 3 + Điểm cộng (nếu có) + ĐƯT (nếu có) Trong đó: ĐXT: Điểm xét tuyển – thang điểm 30, làm tròn đến 2 chữ số thập phân ĐƯT: Điểm ưu tiên Môn 1: Môn Ngữ văn hoặc môn Toán phải đạt tối thiểu 6/10 điểm Môn 2 và Môn 3: hai môn còn lại trong tổ hợp xét tuyển",
+      "programs": [
+        {
+          "program_code": "7380107",
+          "program_name": "Luật Kinh tế",
+          "subject_groups": [
+            "A00",
+            "C00",
+            "D01",
+            "D14",
+            "X70",
+            "X74",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    },
+    {
+      "method_id": "3-utxt-xt-thang",
+      "method_name": "3 ƯTXT, XT THẲNG",
+      "description": "3.1 QUY CHẾ Xét tuyển thẳng và ưu tiên xét tuyển vào đại học hệ chính quy năm 2026 với thí sinh là đối tượng được quy định tại khoản 1 và điểm a, điểm b, khoản 2 của Điều 8 Quy chế tuyển sinh hiện hành, cụ thể: 1. Anh hùng lao động, Anh hùng lực lượng vũ trang nhân dân, Chiến sĩ thi đua toàn quốc 2. Thí sinh đạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia, quốc tế; thời gian đạt giải không quá 03 năm tính tới thời điểm xét tuyển thẳng; 3. Thí sinh đạt giải nhất, nhì, ba kỳ thi kh",
+      "eligibility": "đối tượng được quy định tại khoản 1 và điểm a, điểm b, khoản 2 của Điều 8",
+      "rules": "QUY CHẾ Xét tuyển thẳng và ưu tiên xét tuyển vào đại học hệ chính quy năm 2026 với thí sinh là",
+      "programs": [
+        {
+          "program_code": "7380107",
+          "program_name": "Luật kinh tế",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7380101",
+          "program_name": "Ưu Tiên",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7380101",
+          "program_name": "ĐT THPTHọc Bạ",
+          "subject_groups": [
+            "A00",
+            "C00",
+            "D01",
+            "D14",
+            "X70",
+            "X74",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7380107",
+          "program_name": "Luật kinh tế",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7380107",
+          "program_name": "Luật kinh tế",
+          "subject_groups": [
+            "A00",
+            "C00",
+            "D01",
+            "D14",
+            "X70",
+            "X74",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm của trường Đại học Luật - Đại học Huế các năm Tại đây",
+  "tuition_text": "Dự kiến mức thu năm học 2026 – 2027 là 18 triệu đồng/năm/sinh viên; mức tăng hàng năm (nếu có) không quá 20% so với mức học phí năm liền kề.",
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-luat-dai-hoc-hue-DHA.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "A00",
+              "C00",
+              "C19",
+              "C20",
+              "D01",
+              "D66"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật Kinh tế",
+            "subject_groups": [
+              "A00",
+              "C00",
+              "C19",
+              "C20",
+              "D01",
+              "D66"
+            ],
+            "score": 22,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "A00",
+              "C00",
+              "C19",
+              "C20",
+              "D01",
+              "D66"
+            ],
+            "score": 23.5,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật Kinh tế",
+            "subject_groups": [
+              "A00",
+              "C00",
+              "C19",
+              "C20",
+              "D01",
+              "D66"
+            ],
+            "score": 23.5,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1615 @@
+{
+  "university": {
+    "code": "DQU",
+    "name": "Trường Đại Học Quảng Nam",
+    "short_name": "QNU",
+    "location": [
+      "Quảng Nam"
+    ],
+    "address": "102 Hùng Vương - TP Tam Kỳ - Tỉnh Quảng Nam",
+    "website": "http://qnamuni.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-quang-nam-DQU.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0407/thong-tin-tuyen-sinh-dai-hoc-quang-nam.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC QUẢNG NAM 2026 Thông tin tuyển sinh trường Đại học Quảng Nam năm 2026 Năm 2026, trường Đại học Quảng Nam sử dụng các phương thức xét tuyển sau 2.1. Đối với nhóm ngành đào tạo giáo viên Phương thức 100: Xét kết quả thi tốt nghiệp THPT năm 2026. Phương thức 200: Xét kết quả học tập THPT (học bạ 3 năm) đối với thí sinh tốt nghiệp năm 2026. Phương thức 301: Xét tuyển thẳng theo quy định của Bộ GD&ĐT. Phương thức 402: Xét tuyển theo kết quả thi đánh giá năng lực của Đại học Quốc gia TPHCM; kết quả thi đánh giá năng lực của Đại học Sư phạm Hà Nội (SPT) năm 2026. 2.2. Đối với nhóm ngành còn lại Phương thức 100: Xét kết quả thi tốt nghiệp THPT năm 2026. Phương thức 200: Xét kết quả học tập THPT (học bạ 3 năm) đối với thí sinh tốt nghiệp năm 2026. Phương thức 301: Xét tuyển thẳng theo quy định của Bộ GD&ĐT. Phương thức 402: Xét tuyển theo kết quả thi đánh giá năng lực của Đại học Quốc gia TPHCM; kết quả thi đánh giá năng lực của Đại học Sư phạm Hà Nội (SPT) năm 2026 Phương thức 502: Xét kết quả học tập THPT (học bạ 3 năm) đối với thí sinh tốt nghiệp trước năm 2026. 2.3. Xét tuyển kết hợp thi tuyển Đối với ngành Giáo dục Mầm non: xét tuyển (các môn văn hóa) và thi tuyển (các môn năng khiếu). Phương thức 405: Kết hợp kết quả thi tốt nghiệp THPT năm 2026 và điểm thi năng khiếu để xét tuyển. Phương thức 406: Kết hợp kết quả học tập cấp THPT (học bạ 3 năm) đối với thí sinh tốt nghiệp năm 2026 và điểm thi năng khiếu. Phương thức 501: Xét tuyển kết quả thi đánh giá năng lực của ĐHQG-HCM/ ĐHSP Hà Nội năm 2026 và điểm thi năng khiếu. Khám phá thêm Khóa học giáo dục Khoa học",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 ĐỐI TƯỢNG Phương thức (100): Xét điểm thi THPT năm 2025. - Thí sinh xét tuyển vào ngành sư phạm - Thí sinh xét tuyển vào ngành ngoài sư phạm và ngành Giáo dục Mầm non Phương thức (405): Xét điểm thi THPT năm 2025 kết hợp với điểm thi năng khiếu - Thí sinh xét tuyển vào ngành giáo dục mầm non 1.2 ĐIỀU KIỆN XÉT TUYỂN - Đối với nhóm ngành đào tạo giáo viên: Ngưỡng đảm bảo chất lượng đầu vào sẽ được công bố sau khi có kết quả thi tốt nghiệp THPT năm 2026 và theo quy định của Bộ Giáo dục và Đào t",
+      "eligibility": "ĐỐI TƯỢNG Phương thức (100): Xét điểm thi THPT năm 2025. - Thí sinh xét tuyển vào ngành sư phạm - Thí sinh xét tuyển vào ngành ngoài sư phạm và ngành Giáo dục Mầm non Phương thức (405): Xét điểm thi THPT năm 2025 kết hợp với điểm thi năng khiếu - Thí sinh xét tuyển vào ngành giáo dục mầm non 1.2",
+      "rules": "QUY CHẾ Điểm xét tuyển: Là tổng điểm 3 môn (trong kỳ thi tốt nghiệp THPT hoặc trung bình chung tổng điểm 3 môn trong học bạ) theo thang điểm 10 đối với từng môn thi của từng tổ hợp môn đăng ký xét tuyển và cộng với điểm ưu tiên (quy đổi) nếu có theo quy chế hiện hành. 1.4 THỜI GIAN XÉT TUYỂN a) Đợt 1: Theo quy định của Bộ Giáo dục & Đào tạo Thí sinh hoàn thành đăng ký và điều chỉnh nguyện vọng tuyển sinh đợt 1 theo quy định của Bộ Giáo dục & Đào tạo Hình thức đăng ký: Đăng ký qua Cổng thông tin tuyển sinh của Bộ GDĐT theo link: https://thisinh.thitotnghiepthpt.edu.vn hoặc qua Cổng dịch vụ công quốc gia theo đường link: https://dichvucong.gov.vn/. Đợt 2: Đăng ký nguyện vọng bổ sung (dự kiến) Bổ sung đợt 1: Từ ngày 01/9/2026 đến ngày 31/9/2026 Bổ sung đợt 2: Từ ngày 01/10/2026 đến ngày 31/12/2026 Hình thức đăng ký: Đăng ký trực tiếp tại Trường hoặc gửi hồ sơ qua đường bưu điện",
+      "programs": [
+        {
+          "program_code": "7140201",
+          "program_name": "Giáo dục Mầm non",
+          "subject_groups": [
+            "M00",
+            "M01",
+            "M02",
+            "M03"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140202",
+          "program_name": "Giáo dục Tiểu học",
+          "subject_groups": [
+            "A00",
+            "C00",
+            "C03",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7140209",
+          "program_name": "Sư phạm Toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7140211",
+          "program_name": "Sư phạm Vật lý",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "D11",
+            "X07"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7140213",
+          "program_name": "Sư phạm Sinh học",
+          "subject_groups": [
+            "B00",
+            "B03",
+            "B08",
+            "D13",
+            "C08"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7140217",
+          "program_name": "Sư phạm Ngữ văn",
+          "subject_groups": [
+            "C00",
+            "D01",
+            "D14",
+            "X70",
+            "X74"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7140231",
+          "program_name": "Sư phạm Tiếng Anh",
+          "subject_groups": [
+            "A01",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7140247",
+          "program_name": "Sư phạm Khoa học tự nhiên",
+          "subject_groups": [
+            "A00",
+            "K01",
+            "B02",
+            "A01"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "A01",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7229010",
+          "program_name": "Lịch sử",
+          "subject_groups": [
+            "C00",
+            "D14",
+            "X17",
+            "X70"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7310630",
+          "program_name": "Việt Nam học (VH-DL)",
+          "subject_groups": [
+            "C00",
+            "D15",
+            "X70",
+            "X74"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A01",
+            "D01",
+            "X21",
+            "X25"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ Thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7620112",
+          "program_name": "Bảo vệ thực vật",
+          "subject_groups": [
+            "B08",
+            "K01",
+            "X01",
+            "X03",
+            "X15"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-hoc-ba",
+      "method_name": "2 ĐIỂM HỌC BẠ",
+      "description": "2.1 ĐỐI TƯỢNG Xét kết quả học tập THPT (học bạ 3 năm) đối với thí sinh tốt nghiệp năm 2026. Kết hợp kết quả học tập cấp THPT (học bạ 3 năm) đối với thí sinh tốt nghiệp năm 2026 và điểm thi năng khiếu. 2.2 QUY CHẾ Điểm xét tuyển (ĐXT) = Tổng điểm các môn trong tổ hợp + Điểm ưu tiên (Quy đổi). Gợi ý nội dung thi Môn năng khiếu gồm 2 phân môn - Phân môn 1: Hát Thí sinh trình bày 01 bài hát tự chọn lời Việt phù hợp với chất giọng và trình diễn trọn vẹn 01 lần (không có nhạc đệm), nội dung bài hát là",
+      "eligibility": "ĐỐI TƯỢNG Xét kết quả học tập THPT (học bạ 3 năm) đối với thí sinh tốt nghiệp năm 2026. Kết hợp kết quả học tập cấp THPT (học bạ 3 năm) đối với thí sinh tốt nghiệp năm 2026 và điểm thi năng khiếu. 2.2",
+      "rules": "QUY CHẾ Điểm xét tuyển (ĐXT) = Tổng điểm các môn trong tổ hợp + Điểm ưu tiên (Quy đổi). Gợi ý nội dung thi Môn năng khiếu gồm 2 phân môn - Phân môn 1: Hát Thí sinh trình bày 01 bài hát tự chọn lời Việt phù hợp với chất giọng và trình diễn trọn vẹn 01 lần (không có nhạc đệm), nội dung bài hát lành mạnh, phù hợp với chất giọng, không nên chọn các bài hát thiếu nhi, nếu hát nhạc nước ngoài phải có lời Việt, chủ đề tự do. - Phân môn 2: Đọc diễn cảm Thí sinh bốc ngẫu nhiên 01 phiếu thăm, trên đó là bài đọc có nội dung là một đoạn văn hoặc thơ theo chủ đề phù hợp cho lứa tuổi mầm non; đọc diễn cảm đoạn văn hoặc thơ đó. Thời gian chuẩn bị: 5 phút, trình bày: 5 phút. Mã ngành Tên Ngành Các môn xét tuyển Tổ hợp môn Ghi chú Môn Văn hóa Môn Năng khiếu Toán, Ngữ văn Năng M00 Điểm thi môn năng 7140201 Giáo dục Mầm non Toán,Tiếng Anh khiếu (Hát và Đọc diễn M02 khiếu là trung bình cộng điểm thi của các Phân môn Hát và Ngữ văn, Lịch sử M01 Ngữ văn, GDKT&PL M03 cảm) Đọc diễn cảm. 2.3 THỜI GIAN XÉT TUYỂN Đợt 1: Theo quy định của Bộ Giáo dục & Đào tạo Thí sinh hoàn thành đăng ký và điều chỉnh nguyện vọng tuyển sinh đợt 1 theo quy định của Bộ Giáo dục & Đào tạo Hình thức đăng ký: Đăng ký qua Cổng thông tin tuyển sinh của Bộ GDĐT theo link: https://thisinh.thitotnghiepthpt.edu.vn hoặc qua Cổng dịch vụ công quốc gia theo đường link: https://dichvucong.gov.vn/. Đợt bổ sung: dự kiến Bổ sung đợt 1: Từ ngày 01/9/2026 đến ngày 31/9/2026 Bổ sung đợt 2: Từ ngày 1/10/2026 đến ngày 31/12/2026 Hình thức đăng ký: Đăng ký trực tiếp tại Trường hoặc gửi hồ sơ qua đường bưu điện a) Thí sinh xét tuyển theo kết quả học tập THPT (học bạ 3 năm) trước năm 2026 Đợt 1: Theo quy định của Bộ Giáo dục & Đào tạo Đợt bổ sung: dự kiến Bổ sung đợt 1: Từ ngày 01/9/2026 đến ngày 31/9/2026 Bổ sung đợt 2: Từ ngày 1/10/2026 đến ngày 31/12/2026 Hình thức đăng ký: Đăng ký trực tiếp tại Trường hoặc gửi hồ sơ qua đường bưu điện Lưu ý:Thí sinh xem thủ tục làm hồ sơ tại website: http://qnamuni.edu.vn 1.1. Điều kiện xét tuyển: Xem mục 1.1.",
+      "programs": [
+        {
+          "program_code": "7140201",
+          "program_name": "Giáo dục Mầm non",
+          "subject_groups": [
+            "M02"
+          ],
+          "program_type": "chuẩn",
+          "note": "Toán,Tiếng Anh"
+        },
+        {
+          "program_code": "7140201",
+          "program_name": "Giáo dục Mầm non",
+          "subject_groups": [
+            "M01"
+          ],
+          "program_type": "chuẩn",
+          "note": "Ngữ văn, Lịch sử"
+        },
+        {
+          "program_code": "7140201",
+          "program_name": "Giáo dục Mầm non",
+          "subject_groups": [
+            "M03"
+          ],
+          "program_type": "chuẩn",
+          "note": "Ngữ văn, GDKT&PL"
+        }
+      ]
+    },
+    {
+      "method_id": "3-iem-gnl-h-su-pham-hn",
+      "method_name": "3 ĐIỂM ĐGNL ĐH SƯ PHẠM HN",
+      "description": "3.1 QUY CHẾ Điểm xét tuyển = Điểm đạt*30/1200 + Điểm ưu tiên (quy đổi) nếu có theo Quy chế tuyển sinh hiện hành. Đối với phương thức xét theo kết quả thi ĐGNL cho ngành GD Mầm non: Điểm xét tuyển = Điểm đạt*20/1200 + Điểm TBC (năng khiếu) + Điểm ưu tiên (quy đổi) nếu có theo Quy chế tuyển sinh hiện hành - Đối với nhóm ngành đào tạo giáo viên: Kết quả trung bình chung học tập cả năm lớp 12 được đánh giá mức tốt (học lực xếp loại giỏi trở lên). - Các ngành còn lại: Có tổng điểm bài thi ĐGNL từ 600",
+      "eligibility": null,
+      "rules": "QUY CHẾ Điểm xét tuyển = Điểm đạt*30/1200 + Điểm ưu tiên (quy đổi) nếu có theo Quy chế tuyển sinh hiện hành. Đối với phương thức xét theo kết quả thi ĐGNL cho ngành GD Mầm non: Điểm xét tuyển = Điểm đạt*20/1200 + Điểm TBC (năng khiếu) + Điểm ưu tiên (quy đổi) nếu có theo Quy chế tuyển sinh hiện hành - Đối với nhóm ngành đào tạo giáo viên: Kết quả trung bình chung học tập cả năm lớp 12 được đánh giá mức tốt (học lực xếp loại giỏi trở lên). - Các ngành còn lại: Có tổng điểm bài thi ĐGNL từ 600 điểm trở lên.",
+      "programs": [
+        {
+          "program_code": "7140201",
+          "program_name": "Giáo dục Mầm non",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140202",
+          "program_name": "Giáo dục Tiểu học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7140209",
+          "program_name": "Sư phạm Toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7140211",
+          "program_name": "Sư phạm Vật lý",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7140213",
+          "program_name": "Sư phạm Sinh học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7140217",
+          "program_name": "Sư phạm Ngữ văn",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7140231",
+          "program_name": "Sư phạm Tiếng Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7140247",
+          "program_name": "Sư phạm Khoa học tự nhiên",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7229010",
+          "program_name": "Lịch sử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7310630",
+          "program_name": "Việt Nam học (VH-DL)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ Thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7620112",
+          "program_name": "Bảo vệ thực vật",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        }
+      ]
+    },
+    {
+      "method_id": "4-iem-gnl-hcm",
+      "method_name": "4 ĐIỂM ĐGNL HCM",
+      "description": "4.1 QUY CHẾ Điểm xét tuyển = Điểm đạt*30/1200 + Điểm ưu tiên (quy đổi) nếu có theo Quy chế tuyển sinh hiện hành. Đối với phương thức xét theo kết quả thi ĐGNL cho ngành GD Mầm non: Điểm xét tuyển = Điểm đạt*20/1200 + Điểm TBC (năng khiếu) + Điểm ưu tiên (quy đổi) nếu có theo Quy chế tuyển sinh hiện hành - Đối với nhóm ngành đào tạo giáo viên: Kết quả trung bình chung học tập cả năm lớp 12 được đánh giá mức tốt (học lực xếp loại giỏi trở lên). - Các ngành còn lại: Có tổng điểm bài thi ĐGNL từ 600",
+      "eligibility": null,
+      "rules": "QUY CHẾ Điểm xét tuyển = Điểm đạt*30/1200 + Điểm ưu tiên (quy đổi) nếu có theo Quy chế tuyển sinh hiện hành. Đối với phương thức xét theo kết quả thi ĐGNL cho ngành GD Mầm non: Điểm xét tuyển = Điểm đạt*20/1200 + Điểm TBC (năng khiếu) + Điểm ưu tiên (quy đổi) nếu có theo Quy chế tuyển sinh hiện hành - Đối với nhóm ngành đào tạo giáo viên: Kết quả trung bình chung học tập cả năm lớp 12 được đánh giá mức tốt (học lực xếp loại giỏi trở lên). - Các ngành còn lại: Có tổng điểm bài thi ĐGNL từ 600 điểm trở lên.",
+      "programs": [
+        {
+          "program_code": "7140201",
+          "program_name": "Giáo dục Mầm non",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140202",
+          "program_name": "Giáo dục Tiểu học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7140209",
+          "program_name": "Sư phạm Toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7140211",
+          "program_name": "Sư phạm Vật lý",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7140213",
+          "program_name": "Sư phạm Sinh học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7140217",
+          "program_name": "Sư phạm Ngữ văn",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7140231",
+          "program_name": "Sư phạm Tiếng Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7140247",
+          "program_name": "Sư phạm Khoa học tự nhiên",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7229010",
+          "program_name": "Lịch sử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7310630",
+          "program_name": "Việt Nam học (VH-DL)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ Thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7620112",
+          "program_name": "Bảo vệ thực vật",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        }
+      ]
+    },
+    {
+      "method_id": "5-utxt-xt-thang",
+      "method_name": "5 ƯTXT, XT THẲNG",
+      "description": "5.1 ĐỐI TƯỢNG + Đối tượng xét tuyển: Thí sinh người nước ngoài (Cộng hòa dân chủ nhân dân Lào) Thí sinh diện dự bị đại học được gửi theo công văn của các trường Dự bị đại học đảm bảo đúng quy định của Bộ Giáo dục và Đào tạo + Điều kiện xét tuyển Thí sinh đã tốt nghiệp THPT; Thí sinh phải đạt chuẩn năng lực ngôn ngữ theo yêu cầu của chương trình, ngành đào tạo phù hợp với quy định của Bộ Giáo dục và Đào tạo. + Nguyên tắc xét tuyển: Căn cứ theo Thông tư số 06/2026/TT-BGDĐT ngày 15/02/2026 của Bộ G",
+      "eligibility": "ĐỐI TƯỢNG + Đối tượng xét tuyển: Thí sinh người nước ngoài (Cộng hòa dân chủ nhân dân Lào) Thí sinh diện dự bị đại học được gửi theo công văn của các trường Dự bị đại học đảm bảo đúng quy định của Bộ Giáo dục và Đào tạo +",
+      "rules": "Quy chế tuyển sinh các ngành đào tạo trình độ đại học và ngành Giáo dục Mầm non trình độ Cao đẳng. Căn cứ kết quả học tập THPT và kết quả kiểm tra kiến thức và năng lực Tiếng Việt quy định tại Điều 6 Thông tư số 30/2018/TT-BGDĐT ngày 24/12/2018 quy định về quản lý người nước ngoài học tập tại Việt Nam; Nhà trường tổ chức xét tuyển vào học chuyên ngành. - Chính sách ưu tiên xét tuyển: Nhà trường thực hiện theo quy định của Bộ GD&ĐT",
+      "programs": [
+        {
+          "program_code": "7140201",
+          "program_name": "Giáo dục Mầm non",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140202",
+          "program_name": "Giáo dục Tiểu học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7140209",
+          "program_name": "Sư phạm Toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7140211",
+          "program_name": "Sư phạm Vật lý",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7140213",
+          "program_name": "Sư phạm Sinh học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7140217",
+          "program_name": "Sư phạm Ngữ văn",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7140231",
+          "program_name": "Sư phạm Tiếng Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7140247",
+          "program_name": "Sư phạm Khoa học tự nhiên",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7229010",
+          "program_name": "Lịch sử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7310630",
+          "program_name": "Việt Nam học (VH-DL)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ Thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7620112",
+          "program_name": "Bảo vệ thực vật",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7140201",
+          "program_name": "Giáo dục Mầm non",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140201",
+          "program_name": "Giáo dục Mầm non",
+          "subject_groups": [
+            "M00",
+            "M01",
+            "M02",
+            "M03"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140202",
+          "program_name": "Giáo dục Tiểu học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7140202",
+          "program_name": "Giáo dục Tiểu học",
+          "subject_groups": [
+            "A00",
+            "C00",
+            "C03",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7140209",
+          "program_name": "Sư phạm Toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7140209",
+          "program_name": "Sư phạm Toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7140211",
+          "program_name": "Sư phạm Vật lý",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7140211",
+          "program_name": "Sư phạm Vật lý",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "D11",
+            "X07"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7140213",
+          "program_name": "Sư phạm Sinh học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7140213",
+          "program_name": "Sư phạm Sinh học",
+          "subject_groups": [
+            "B00",
+            "B03",
+            "B08",
+            "D13",
+            "C08"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7140217",
+          "program_name": "Sư phạm Ngữ văn",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7140217",
+          "program_name": "Sư phạm Ngữ văn",
+          "subject_groups": [
+            "C00",
+            "D01",
+            "D14",
+            "X70",
+            "X74"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7140231",
+          "program_name": "Sư phạm Tiếng Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7140231",
+          "program_name": "Sư phạm Tiếng Anh",
+          "subject_groups": [
+            "A01",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7140247",
+          "program_name": "Sư phạm Khoa học tự nhiên",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7140247",
+          "program_name": "Sư phạm Khoa học tự nhiên",
+          "subject_groups": [
+            "A00",
+            "K01",
+            "B02",
+            "A01"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "A01",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7229010",
+          "program_name": "Lịch sử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7229010",
+          "program_name": "Lịch sử",
+          "subject_groups": [
+            "A08",
+            "C00",
+            "C19",
+            "D14"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7229010",
+          "program_name": "Lịch sử",
+          "subject_groups": [
+            "C00",
+            "D14",
+            "X17",
+            "X70"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7310630",
+          "program_name": "Việt Nam học (VH-DL)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7310630",
+          "program_name": "Việt Nam học (VH-DL)",
+          "subject_groups": [
+            "C00",
+            "D15",
+            "X70",
+            "X74"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7310630",
+          "program_name": "Việt Nam học (VH-DL)",
+          "subject_groups": [
+            "C00",
+            "D15",
+            "X70",
+            "X74",
+            "C19",
+            "C20"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A01",
+            "A09",
+            "D01",
+            "D84"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A01",
+            "D01",
+            "X21",
+            "X25"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ Thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ Thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "C14"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ Thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7620112",
+          "program_name": "Bảo vệ thực vật",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7620112",
+          "program_name": "Bảo vệ thực vật",
+          "subject_groups": [
+            "B08",
+            "K01",
+            "X01",
+            "X03",
+            "X15"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Trường Đại Học Quảng Nam các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-quang-nam-DQU.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140201",
+            "program_name": "Giáo dục Mầm non",
+            "subject_groups": [
+              "M02"
+            ],
+            "score": 22.72,
+            "note": null
+          },
+          {
+            "program_code": "7140201",
+            "program_name": "Giáo dục Mầm non",
+            "subject_groups": [
+              "M00"
+            ],
+            "score": 23.72,
+            "note": null
+          },
+          {
+            "program_code": "7140201",
+            "program_name": "Giáo dục Mầm non",
+            "subject_groups": [
+              "M01",
+              "M03"
+            ],
+            "score": 24.22,
+            "note": null
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 24.77,
+            "note": null
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "A00",
+              "C03",
+              "X01"
+            ],
+            "score": 25.77,
+            "note": null
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 26.27,
+            "note": null
+          },
+          {
+            "program_code": "7140209",
+            "program_name": "Sư phạm Toán",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 23,
+            "note": null
+          },
+          {
+            "program_code": "7140209",
+            "program_name": "Sư phạm Toán",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 24.75,
+            "note": null
+          },
+          {
+            "program_code": "7140209",
+            "program_name": "Sư phạm Toán",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 23.75,
+            "note": null
+          },
+          {
+            "program_code": "7140209",
+            "program_name": "Sư phạm Toán",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 23.5,
+            "note": null
+          },
+          {
+            "program_code": "7140209",
+            "program_name": "Sư phạm Toán",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 24,
+            "note": null
+          },
+          {
+            "program_code": "7140211",
+            "program_name": "Sư phạm Vật lý",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 24.2,
+            "note": null
+          },
+          {
+            "program_code": "7140211",
+            "program_name": "Sư phạm Vật lý",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 24.95,
+            "note": null
+          },
+          {
+            "program_code": "7140211",
+            "program_name": "Sư phạm Vật lý",
+            "subject_groups": [
+              "A02",
+              "D11"
+            ],
+            "score": 25.2,
+            "note": null
+          },
+          {
+            "program_code": "7140213",
+            "program_name": "Sư phạm Sinh học",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 23.25,
+            "note": null
+          },
+          {
+            "program_code": "7140213",
+            "program_name": "Sư phạm Sinh học",
+            "subject_groups": [
+              "A02",
+              "D13"
+            ],
+            "score": 23.75,
+            "note": null
+          },
+          {
+            "program_code": "7140213",
+            "program_name": "Sư phạm Sinh học",
+            "subject_groups": [
+              "B08"
+            ],
+            "score": 24,
+            "note": null
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 24.2,
+            "note": null
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [
+              "C00",
+              "X70",
+              "X74"
+            ],
+            "score": 25.7,
+            "note": null
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 25.2,
+            "note": null
+          },
+          {
+            "program_code": "7140231",
+            "program_name": "Sư phạm Tiếng Anh",
+            "subject_groups": [
+              "D01",
+              "A01"
+            ],
+            "score": 24.68,
+            "note": null
+          },
+          {
+            "program_code": "7140231",
+            "program_name": "Sư phạm Tiếng Anh",
+            "subject_groups": [
+              "D14",
+              "D15"
+            ],
+            "score": 25.68,
+            "note": null
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm KHTN",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 24.05,
+            "note": null
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm KHTN",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 23.05,
+            "note": null
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm KHTN",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 22.8,
+            "note": null
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm KHTN",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 22.3,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "D14",
+              "D15"
+            ],
+            "score": 14,
+            "note": null
+          },
+          {
+            "program_code": "7229010",
+            "program_name": "Lịch sử",
+            "subject_groups": [
+              "C00",
+              "D14",
+              "X17",
+              "X70"
+            ],
+            "score": 24,
+            "note": null
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học",
+            "subject_groups": [
+              "C00",
+              "D145",
+              "X70",
+              "X74"
+            ],
+            "score": 14,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "X21",
+              "X25"
+            ],
+            "score": 14,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X01",
+              "X02"
+            ],
+            "score": 14,
+            "note": null
+          },
+          {
+            "program_code": "7620112",
+            "program_name": "Bảo vệ thực vật",
+            "subject_groups": [
+              "B00",
+              "A02",
+              "B08",
+              "D13"
+            ],
+            "score": 14,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140201",
+            "program_name": "Giáo dục Mầm non",
+            "subject_groups": [
+              "M00",
+              "M01",
+              "M02",
+              "M03"
+            ],
+            "score": 25.72,
+            "note": null
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [
+              "D01",
+              "A00",
+              "C00",
+              "C03",
+              "X01"
+            ],
+            "score": 27.77,
+            "note": null
+          },
+          {
+            "program_code": "7140209",
+            "program_name": "Sư phạm Toán",
+            "subject_groups": [
+              "D07",
+              "A00",
+              "A01",
+              "D01",
+              "X01"
+            ],
+            "score": 27.75,
+            "note": null
+          },
+          {
+            "program_code": "7140211",
+            "program_name": "Sư phạm Vật lý",
+            "subject_groups": [
+              "A01",
+              "A00",
+              "A02",
+              "D11"
+            ],
+            "score": 27.95,
+            "note": null
+          },
+          {
+            "program_code": "7140213",
+            "program_name": "Sư phạm Sinh học",
+            "subject_groups": [
+              "B00",
+              "A02",
+              "B08",
+              "D13"
+            ],
+            "score": 26.25,
+            "note": null
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [
+              "D01",
+              "C00",
+              "D14",
+              "X70",
+              "X74"
+            ],
+            "score": 28.7,
+            "note": null
+          },
+          {
+            "program_code": "7140231",
+            "program_name": "Sư phạm Tiếng Anh",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "D14",
+              "D15"
+            ],
+            "score": 27.68,
+            "note": null
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm KHTN",
+            "subject_groups": [
+              "D07",
+              "A00",
+              "A01",
+              "B00"
+            ],
+            "score": 27.05,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "D14",
+              "D15"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7229010",
+            "program_name": "Lịch sử",
+            "subject_groups": [
+              "C00",
+              "D14",
+              "X17",
+              "X70"
+            ],
+            "score": 25,
+            "note": null
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học",
+            "subject_groups": [
+              "C00",
+              "D145",
+              "X70",
+              "X74"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "X21",
+              "X25"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X01",
+              "X02"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7620112",
+            "program_name": "Bảo vệ thực vật",
+            "subject_groups": [
+              "B00",
+              "A02",
+              "B08",
+              "D13"
+            ],
+            "score": 15,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140201",
+            "program_name": "Giáo dục Mầm non",
+            "subject_groups": [],
+            "score": 22.72,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [],
+            "score": 24.77,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7140209",
+            "program_name": "Sư phạm Toán",
+            "subject_groups": [],
+            "score": 24.75,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7140211",
+            "program_name": "Sư phạm Vật lý",
+            "subject_groups": [],
+            "score": 24.95,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7140213",
+            "program_name": "Sư phạm Sinh học",
+            "subject_groups": [],
+            "score": 23.25,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [],
+            "score": 25.7,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7140231",
+            "program_name": "Sư phạm Tiếng Anh",
+            "subject_groups": [],
+            "score": 24.68,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm KHTN",
+            "subject_groups": [],
+            "score": 24.05,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [],
+            "score": 14,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7229010",
+            "program_name": "Lịch sử",
+            "subject_groups": [],
+            "score": 24,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học",
+            "subject_groups": [],
+            "score": 14,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 14,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [],
+            "score": 14,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7620112",
+            "program_name": "Bảo vệ thực vật",
+            "subject_groups": [],
+            "score": 14,
+            "note": "Điểm đã được quy đổi"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140201",
+            "program_name": "Giáo dục Mầm non",
+            "subject_groups": [],
+            "score": 22.72,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7140202",
+            "program_name": "Giáo dục Tiểu học",
+            "subject_groups": [],
+            "score": 24.77,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7140209",
+            "program_name": "Sư phạm Toán",
+            "subject_groups": [],
+            "score": 24.75,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7140211",
+            "program_name": "Sư phạm Vật lý",
+            "subject_groups": [],
+            "score": 24.95,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7140213",
+            "program_name": "Sư phạm Sinh học",
+            "subject_groups": [],
+            "score": 23.25,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7140217",
+            "program_name": "Sư phạm Ngữ văn",
+            "subject_groups": [],
+            "score": 25.7,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7140231",
+            "program_name": "Sư phạm Tiếng Anh",
+            "subject_groups": [],
+            "score": 24.68,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7140247",
+            "program_name": "Sư phạm KHTN",
+            "subject_groups": [],
+            "score": 24.05,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [],
+            "score": 14,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7229010",
+            "program_name": "Lịch sử",
+            "subject_groups": [],
+            "score": 24,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7310630",
+            "program_name": "Việt Nam học",
+            "subject_groups": [],
+            "score": 14,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 14,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [],
+            "score": 14,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7620112",
+            "program_name": "Bảo vệ thực vật",
+            "subject_groups": [],
+            "score": 14,
+            "note": "Điểm đã được quy đổi"
+          }
+        ]
+      }
+    ]
+  }
+}

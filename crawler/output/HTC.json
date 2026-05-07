@@ -1,0 +1,867 @@
+{
+  "university": {
+    "code": "HTC",
+    "name": "Học viện Tài chính",
+    "short_name": "AOF",
+    "location": [
+      "Hà Nội"
+    ],
+    "address": "Trụ sở chính - Cơ sở đào tạo: Số 58 Lê Văn Hiến, phường Đức Thắng, quận Bắc Từ Liêm, TP. Hà Nội.+ Cơ sở đào tạo: Số 69 đường Đức Thắng, phường Đức Thắng, quận Bắc Từ Liêm, TP. Hà Nội.+ Cơ sở đào tạo: Số 19 ngõ Hàng Cháo, phường Cát Linh, Quận Đống Đa, TP. Hà Nội.+ Cơ sở đào tạo: Số 179 Đội Cấn, phường Đội Cấn, quận Ba Đình, TP. Hà Nội",
+    "website": "https://hvtc.edu.vn",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": 6120,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/hoc-vien-tai-chinh-HTC.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0314/thong-tin-tuyen-sinh-hoc-vien-tai-chinh.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH HỌC VIỆN TÀI CHÍNH 2026 Thông tin tuyển sinh Học Viện Tài chính (AOF) năm 2026 Năm 2026, Học viện Tài chính tuyển sinh 6.120 chỉ tiêu đại học chính quy bằng 3 phương thức gồm: Phương thức 1: Xét tuyển thẳng Phương thức 2: Xét tuyển kết hợp Phương thức 3: Xét điểm thi tốt nghiệp THPT năm 2026 Xem thời gian và hồ sơ đăng ký xét tuyển AOF năm 2026 TẠI ĐÂY Khám phá thêm Tư vấn chọn ngành giáo dục Sách ôn thi đại học",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 ĐIỀU KIỆN XÉT TUYỂN Thí sinh tốt nghiệp THPT trên toàn quốc 1.2 QUY CHẾ 1. Nguyên tắc xét tuyển - Thí sinh đăng ký chương trình định hướng chứng chỉ quốc tế hoặc ngành Ngôn ngữ Anh chương trình chuẩn được xét tuyển theo các tổ hợp A01, D01, D07, X26; các ngành/chương trình đào tạo còn lại và chương trình LKĐT mỗi bên cấp Một Bằng cử nhân DDP (Dual Degree Programme) được xét tuyển theo các tổ hợp A00, A01, D01, D07, X06, X26. - Thí sinh được xét tuyển trên Hệ thống chung theo quy định của Bộ ",
+      "eligibility": null,
+      "rules": "QUY CHẾ 1. Nguyên tắc xét tuyển - Thí sinh đăng ký chương trình định hướng chứng chỉ quốc tế hoặc ngành Ngôn ngữ Anh chương trình chuẩn được xét tuyển theo các tổ hợp A01, D01, D07, X26; các ngành/chương trình đào tạo còn lại và chương trình LKĐT mỗi bên cấp Một Bằng cử nhân DDP (Dual Degree Programme) được xét tuyển theo các tổ hợp A00, A01, D01, D07, X06, X26. - Thí sinh được xét tuyển trên Hệ thống chung theo quy định của Bộ GDĐT. - Điểm xét tuyển theo thang điểm 30, lấy đến 2 chữ số thập phân để xét tuyển. Nếu nhiều thí sinh có điểm xét tuyển bằng nhau ở cuối",
+      "programs": []
+    },
+    {
+      "method_id": "2-iem-xet-tuyen-ket-hop",
+      "method_name": "2 ĐIỂM XÉT TUYỂN KẾT HỢP",
+      "description": "2.1 ĐỐI TƯỢNG * Nhóm 1: Thí sinh đã tốt nghiệp THPT trên toàn quốc xếp loại học tập 3 năm bậc THPT đạt loại tốt (thí sinh đã tốt nghiệp trước năm 2025 có xếp loại học tập đạt loại giỏi trở lên) và có một trong các thành tích vượt trội như sau: - Chứng chỉ IELTS Academic đạt từ 7.0 điểm hoặc TOEFL iBT (trước năm 2026) đạt từ 100 điểm hoặc TOEFL iBT (từ năm 2026) đạt từ 5 điểm (TOEFL iBT không sử dụng Home Edition) hoặc SAT đạt từ 1450 điểm hoặc ACT đạt từ 31 điểm (Các chứng chỉ tiếng Anh quốc tế ",
+      "eligibility": "ĐỐI TƯỢNG * Nhóm 1: Thí sinh đã tốt nghiệp THPT trên toàn quốc xếp loại học tập 3 năm bậc THPT đạt loại tốt (thí sinh đã tốt nghiệp trước năm 2025 có xếp loại học tập đạt loại giỏi trở lên) và có một trong các thành tích vượt trội như sau: - Chứng chỉ IELTS Academic đạt từ 7.0 điểm hoặc TOEFL iBT (trước năm 2026) đạt từ 100 điểm hoặc TOEFL iBT (từ năm 2026) đạt từ 5 điểm (TOEFL iBT không sử dụng Home Edition) hoặc SAT đạt từ 1450 điểm hoặc ACT đạt từ 31 điểm (Các chứng chỉ tiếng Anh quốc tế IELTS/TOEFL iBT được các tổ chức quốc tế cấp từ ngày 01/6/2024 đến thời điểm kết thúc nộp hồ sơ xét tuyển). - Đạt giải Khuyến khích trong kỳ thi chọn học sinh giỏi quốc gia, quốc tế do Bộ GDĐT tổ chức, cử tham gia hoặc đạt giải Nhất kỳ thi chọn học sinh giỏi cấp Tỉnh/Thành phố trực thuộc Trung ương của một trong các môn Toán, Vật lý, Hóa học, Tin học, Tiếng Anh, Ngữ văn (Thời gian đạt giải không quá 3 năm tính đến thời điểm xét tuyển). * Nhóm 2: Thí sinh đã tốt nghiệp THPT trên toàn quốc xếp loại học tập 3 năm bậc THPT đạt loại tốt (thí sinh đã tốt nghiệp trước năm 2025 có xếp loại học tập đạt loại giỏi trở lên), có một trong các thành tích như sau: - Đạt giải Nhì, Ba trong kỳ thi chọn học sinh giỏi cấp Tỉnh/Thành phố trực thuộc Trung ương của một trong các môn Toán, Vật lý, Hóa học, Tin học, Tiếng Anh, Ngữ văn (Thời gian đạt giải không quá 3 năm tính đến thời điểm xét tuyển). - Chứng chỉ IELTS Academic đạt từ 5.5 điểm hoặc TOEFL iBT (trước năm 2026) đạt từ 55 điểm hoặc TOEFL iBT (từ năm 2026) đạt từ 3.5 điểm (TOEFL iBT không sử dụng Home Edition) hoặc SAT từ 1050 điểm hoặc ACT từ 22 điểm (Các chứng chỉ tiếng Anh quốc tế IELTS/TOEFL iBT được các tổ chức quốc tế cấp từ ngày 01/6/2024 đến thời điểm kết thúc nộp hồ sơ xét tuyển). * Nhóm 3: Thí sinh đã tốt nghiệp THPT trên toàn quốc xếp loại học tập 3 năm bậc THPT đạt loại tốt (thí sinh đã tốt nghiệp trước năm 2025 có xếp loại học tập đạt loại giỏi trở lên). 2.2",
+      "rules": "QUY CHẾ 1. Nguyên tắc xét tuyển * Nhóm 1: Điểm xét tuyển (ĐXT) được xác định như sau: ĐXT = Điểm môn 1 + Điểm môn 2 + Điểm môn 3 + Điểm ưu tiên (Nếu có). + Điểm môn 1: Điểm TBC kết quả học tập cả năm lớp 10, 11, 12 của môn Toán theo thang điểm 10. + Điểm môn 2: Điểm TBC kết quả học tập cả năm lớp 10, 11, 12 của môn cao nhất trong các môn Ngữ văn, Vật lý, Hóa học, Tin học theo thang điểm 10. + Điểm môn 3: Điểm quy đổi thành tích vượt trội của thí sinh (Xác định tại Bảng điểm quy đổi chứng chỉ Tiếng Anh quốc tế theo thang điểm 10 và Bảng quy đổi kết quả học tập theo thang điểm 10). + Điểm ưu tiên (Nếu có): Điểm Khu vực ưu tiên và",
+      "programs": [
+        {
+          "program_code": "TT",
+          "program_name": "TOEFL iBT",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "IELTS"
+        },
+        {
+          "program_code": "TT",
+          "program_name": "Trước năm 2026",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "IELTS"
+        }
+      ]
+    },
+    {
+      "method_id": "3-xet-tuyen-thang",
+      "method_name": "3 XÉT TUYỂN THẲNG",
+      "description": "3.1 ĐỐI TƯỢNG (1) Anh hùng lao động, Anh hùng lực lượng vũ trang nhân dân, Chiến sĩ thi đua toàn quốc đã tốt nghiệp THPT được tuyển thẳng vào tất cả các ngành, chương trình của Học viện; (2) Thí sinh đoạt giải Nhất, Nhì, Ba trong kỳ thi chọn học sinh giỏi quốc gia, quốc tế hoặc thi khoa học, kỹ thuật cấp quốc gia, quốc tế do Bộ GDĐT tổ chức, cử tham gia và đạt ngưỡng đảm bảo chất lượng đầu vào của chương trình đào tạo; thời gian đoạt giải không quá 3 năm tính đến thời điểm xét tuyển được xét tuy",
+      "eligibility": "ĐỐI TƯỢNG (1) Anh hùng lao động, Anh hùng lực lượng vũ trang nhân dân, Chiến sĩ thi đua toàn quốc đã tốt nghiệp THPT được tuyển thẳng vào tất cả các ngành, chương trình của Học viện; (2) Thí sinh đoạt giải Nhất, Nhì, Ba trong kỳ thi chọn học sinh giỏi quốc gia, quốc tế hoặc thi khoa học, kỹ thuật cấp quốc gia, quốc tế do Bộ GDĐT tổ chức, cử tham gia và đạt ngưỡng đảm bảo chất lượng đầu vào của chương trình đào tạo; thời gian đoạt giải không quá 3 năm tính đến thời điểm xét tuyển được xét tuyển thẳng trong năm tốt nghiệp THPT vào Học viện theo ngành phù hợp với môn thi hoặc nội dung đề tài dự thi mà thí sinh đã đoạt giải; (3) Giám đốc Học viện căn cứ kết quả học tập cấp THPT của thí sinh và yêu cầu đầu vào của chương trình đào tạo để xem xét, quyết định nhận vào học những trường hợp quy định sau đây: - Thí sinh là người khuyết tật nặng có giấy xác nhận khuyết tật của cơ quan có thẩm quyền cấp theo quy định; có khả năng theo học một số chương trình đào tạo do Học viện quy định nhưng không có khả năng dự tuyển theo phương thức tuyển sinh bình thường. - Thí sinh là người dân tộc thiểu số rất ít người theo quy định hiện hành của Chính phủ; những thí sinh này phải học bổ sung kiến thức 01 năm học trước khi vào học chính thức. Chương trình bổ sung kiến thức do Giám đốc Học viện quy định; - Thí sinh là người nước ngoài đã đạt chuẩn năng lực ngôn ngữ theo yêu cầu của chương trình đào tạo phù hợp với quy định của Bộ GDĐT; 3.2",
+      "rules": "QUY CHẾ Nguyên tắc xét tuyển: - Xét tuyển thí sinh là người dân tộc thiểu số rất ít người theo quy định hiện hành của Chính phủ theo nguyên tắc xét điểm từ cao xuống thấp. Điểm xét tuyển là điểm bình quân 3 năm học THPT.",
+      "programs": []
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Học viện Tài chính các năm Tại đây",
+  "tuition_text": "Sau khi trúng tuyển, nhập học tất cả tân sinh viên chương trình chuẩn được quyền đăng ký dự tuyển vào chương trình đào tạo định hướng CCQT của Học viện (có thông báo tuyển sinh riêng). Học phí dự kiến với sinh viên chính quy; lộ trình tăng học phí tối đa cho từng năm: * Học phí dự kiến năm học 2026 - 2027: + Chương trình chuẩn: Từ 25 – 35 triệu đồng/sinh viên/năm học. + Chương trình định hướng chứng chỉ quốc tế: Từ 50 – 55 triệu đồng/sinh viên/năm học. + Diện tuyển sinh theo đặt hàng: Từ 33 – 55 triệu đồng/sinh viên/năm học. - Học phí đối với lưu học sinh diện tự túc kinh phí: Theo quy định của Học viện đối với sinh viên nước ngoài diện tự túc kinh phí. - Chương trình mỗi bên cấp 01 Bằng Cử nhân (DDP): + Học phí các năm học tại Viện Đào tạo Quốc tế - Học viện Tài chính (trong nước) là 75 - 80 triệu đồng/sinh viên/năm học. + Học phí năm cuối tại Trường Đại học Greenwich (London, Vương quốc Anh): theo mức học phí do Trường thông báo. * Từ những năm học sau học phí có thể thay đổi, nếu tăng thì không quá 10% so với năm học trước. Tình hình việc làm của sinh viên sau khi tốt nghiệp Đường link công khai việc làm của sinh viên sau khi tốt nghiệp trên trang thông tin điện tử của Học viện: https://hvtc.edu.vn/Portals/0/files/639075451607411334BAOCAOVIECLAM2025.pdf",
+  "timeline_text": "1. Xét tuyển thẳng thí sinh đạt giải quốc gia, quốc tế - Quy định về hồ sơ: (1) Phiếu đăng ký xét tuyển thẳng. (2) Bản photo chứng thực: Giấy chứng nhận đạt giải kỳ thi chọn học sinh giỏi quốc gia, quốc tế; Giấy chứng nhận đạt giải Cuộc thi khoa học, kĩ thuật quốc gia, quốc tế. - Hình thức, thời gian đăng ký:Thí sinh đăng ký xét tuyển thẳng gửi hồ sơ về Học viện trước 17h00 ngày 20/06/2026. * Xét tuyển thẳng thí sinh là người dân tộc thiểu số rất ít người - Quy định về hồ sơ: (1) Phiếu đăng ký xét tuyển thẳng. (2) Bản photo chứng thực học bạ 3 năm học trung học phổ thông. (3) Bản sao giấy khai sinh. - Hình thức, thời gian đăng ký:Hồ sơ gửi về Học viện trước 17h00 ngày 20/06/2026. * Thời gian công bố kết quả và xác nhận nhập học: - Thời gian công bố kết quả trúng tuyển: Ngày 30/06/2026. - Thời gian thí sinh xác nhận nhập học: theo lịch tuyển sinh của Bộ GDĐT. 2 .Xét tuyển kết hợp - Quy định về hồ sơ:Thí sinh xem thông tin chi tiết tại Thông báo tuyển sinh của Học viện. * Hình thức, thời gian đăng ký: - Đăng ký trực tuyến trên Cổng thông tin tuyển sinh của Học viện: https://xettuyen.hvtc.edu.vn,dự kiến từ ngày 28/05 đến ngày 07/06/2026. - Đăng ký trực tuyến trên Cổng thông tin tuyển sinh của Bộ GDĐT hoặc Cổng dịch vụ công quốc gia từ ngày 02/07 đến 17h00 ngày 14/07/2026. * Thời gian công bố kết quả sơ tuyển và kết quả trúng tuyển: - Thời gian công bố kết quả sơ tuyển: Dự kiến trước 17h00 ngày 22/06/2026. - Thời gian công bố kết quả trúng tuyển: Trước 17h00 ngày 13/08/2026. - Thời gian thí sinh xác nhận nhập học trực tuyến: Trước 17h00 ngày 21/08/2026. Lệ phí xét tuyển: 100.000 đồng/ 1 hồ sơ. 3. Xét tuyển dựa vào kết quả thi tốt nghiệp THPT năm 2026 Quy định về hồ sơ: Hồ sơ đăng ký xét tuyển (ĐKXT) theo quy định của Bộ GDĐT. Thí sinh được ĐKXT vào tất các ngành của Học viện. * Hình thức, thời gian đăng ký:Thí sinh đăng ký, điều chỉnh nguyện vọng xét tuyển trên hệ thống (qua Cổng thông tin tuyển sinh của Bộ GDĐT hoặc qua Cổng dịch vụ công quốc gia) từ ngày 02/07 đến 17h00 ngày 14/07/2026. Riêng đối với thí sinh có chứng chỉ Tiếng Anh quốc tế đăng ký trực tuyến trên Cổng thông tin tuyển sinh của Học viện: https://xettuyen.hvtc.edu.vn, dự kiến từ ngày 28/05/2026 đến ngày 07/06/2026. Thời gian công bố kết quả sơ tuyển: Dự kiến trước 17h00 ngày 22/06/2026. Thí sinh chưa trúng tuyển hoặc đã trúng tuyển nhưng chưa xác nhận nhập học vào bất cứ nơi nào có thể đăng ký xét tuyển các đợt bổ sung (nếu có). Điểm xét tuyển đối với hồ sơ xét tuyển các đợt bổ sung không thấp hơn điểm trúng tuyển đợt 1. Thời gian ĐKXT đợt bổ sung (nếu có), Học viện thông báo trên Cổng thông tin điện tử hoặc các phương tiện thông tin đại chúng khác. Thí sinh hoàn toàn chịu trách nhiệm về tính xác thực của các thông tin trong hồ sơ ĐKXT. Học viện từ chối tiếp nhận hoặc buộc thôi học nếu thí sinh không đảm bảo các điều kiện trúng tuyển khi đối chiếu thông tin giữa hồ sơ ĐKXT với hồ sơ gốc. * Thời gian công bố kết quả xét tuyển và xác nhận nhập học: - Thời gian công bố kết quả xét tuyển: Trước 17h00 ngày 13/08/2026. - Thời gian thí sinh trúng tuyển xác nhận nhập học: Trước 17h00 ngày 21/08/2026. Mức thu dịch vụ tuyển sinh (xét tuyển, thi tuyển) Ngoài các đối tượng thí sinh đăng ký xét tuyển theo các phương thức ở mục 6.2; 6.3, thí sinh đăng ký xét tuyển ở phương thức xét tuyển còn lại nộp mức thu dịch vụ tuyển sinh theo quy định của Bộ GDĐT.",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-tai-chinh-HTC.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Tiếng Anh tài chính kế toán",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 24.1,
+            "note": null
+          },
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế và quản lý nguồn lực tài chính",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 25.43,
+            "note": null
+          },
+          {
+            "program_code": "7310102",
+            "program_name": "Kinh tế chính trị - tài chính",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 24.92,
+            "note": null
+          },
+          {
+            "program_code": "7310104",
+            "program_name": "Kinh tế đầu tư",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 25.56,
+            "note": null
+          },
+          {
+            "program_code": "7310104QT12.01",
+            "program_name": "Kinh tế đầu tư (Theo định hướng ACCA)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 22.82,
+            "note": null
+          },
+          {
+            "program_code": "7310108",
+            "program_name": "Toán tài chính",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 24.57,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị doanh nghiệp; Quản trị kinh doanh du lịch",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 24.98,
+            "note": null
+          },
+          {
+            "program_code": "7340101QT03.01",
+            "program_name": "Quản trị doanh nghiệp (Theo định hướng ICAEW CFAB)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 22.58,
+            "note": null
+          },
+          {
+            "program_code": "7340115",
+            "program_name": "Marketing",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 26.23,
+            "note": null
+          },
+          {
+            "program_code": "7340115QT11.02",
+            "program_name": "Digital Marketing (Theo định hướng ICDL)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 23.44,
+            "note": null
+          },
+          {
+            "program_code": "7340116",
+            "program_name": "Thẩm định giá và kinh doanh bất động sản",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 21.51,
+            "note": null
+          },
+          {
+            "program_code": "7340116QT09.01",
+            "program_name": "Thẩm định giá và kinh doanh bất động sản (Theo định hướng ACCA)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7340120QT15.01",
+            "program_name": "Kinh doanh quốc tế (Theo định hướng ICAEW CFAB)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 24.89,
+            "note": null
+          },
+          {
+            "program_code": "73402011",
+            "program_name": "Tài chính - Ngân hàng 1 (CN Thuế; Hải quan và Nghiệp vụ ngoại thương; Tài chính quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 25.47,
+            "note": null
+          },
+          {
+            "program_code": "73402012",
+            "program_name": "Tài chính - Ngân hàng 2 (CN Tài chính doanh nghiệp; Phân tích tài chính)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 26.31,
+            "note": null
+          },
+          {
+            "program_code": "73402013",
+            "program_name": "Tài chính - Ngân hàng 3 (CN Ngân hàng; Đầu tư tài chính)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 25.4,
+            "note": null
+          },
+          {
+            "program_code": "7340201QT01.01",
+            "program_name": "Thuế và Quản trị thuế (Theo định hướng ACCA)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7340201QT01.06",
+            "program_name": "Hải quan và Logistics (Theo định hướng FIATA)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 21.3,
+            "note": null
+          },
+          {
+            "program_code": "7340201QT01.09",
+            "program_name": "Phân tích tài chính (Theo định hướng ICAEW CFAB)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7340201QT01.11",
+            "program_name": "Tài chính doanh nghiệp (Theo định hướng ACCA)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7340201QT01.15",
+            "program_name": "Ngân hàng (Theo định hướng ICAEW CFAB)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7340201QT01.19",
+            "program_name": "Đầu tư tài chính (Theo định hướng ICAEW CFAB)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7340204",
+            "program_name": "Tài chính bảo hiểm",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 22.56,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán doanh nghiệp; Kế toán công",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 25.01,
+            "note": null
+          },
+          {
+            "program_code": "7340301QT02.01",
+            "program_name": "Kế toán doanh nghiệp (Theo định hướng ACCA)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 21.5,
+            "note": null
+          },
+          {
+            "program_code": "7340301QT02.02",
+            "program_name": "Kế toán quản trị và Kiểm soát quản lý (Theo định hướng CMA)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7340301QT02.03",
+            "program_name": "Kế toán công (Theo định hướng ACCA)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 21.5,
+            "note": null
+          },
+          {
+            "program_code": "7340302",
+            "program_name": "Kiểm toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 26.6,
+            "note": null
+          },
+          {
+            "program_code": "7340302QT10.01",
+            "program_name": "Kiểm toán (Theo định hướng ICAEW CFAB)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 21.5,
+            "note": null
+          },
+          {
+            "program_code": "7340403",
+            "program_name": "Quản lý tài chính công",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 22.55,
+            "note": null
+          },
+          {
+            "program_code": "7340405",
+            "program_name": "Tin học tài chính kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 25.07,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 25.12,
+            "note": null
+          },
+          {
+            "program_code": "7460108",
+            "program_name": "Khoa học dữ liệu trong tài chính",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 25.52,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Trí tuệ nhân tạo trong tài chính kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 24.97,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-xet-tuyen-ket-hop",
+        "method_name": "Điểm chuẩn theo phương thức Điểm xét tuyển kết hợp năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Tiếng Anh tài chính kế toán",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 24.1,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế và quản lý nguồn lực tài chính",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 25.43,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7310102",
+            "program_name": "Kinh tế chính trị - tài chính",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 24.92,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7310104",
+            "program_name": "Kinh tế đầu tư",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 25.56,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7310104QT12.01",
+            "program_name": "Kinh tế đầu tư (Theo định hướng ACCA)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 22.82,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7310108",
+            "program_name": "Toán tài chính",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 24.57,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị doanh nghiệp; Quản trị kinh doanh du lịch",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 24.98,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340101QT03.01",
+            "program_name": "Quản trị doanh nghiệp (Theo định hướng ICAEW CFAB)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 22.58,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340115",
+            "program_name": "Marketing",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 26.23,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340115QT11.02",
+            "program_name": "Digital Marketing (Theo định hướng ICDL)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 23.44,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340116",
+            "program_name": "Thẩm định giá và kinh doanh bất động sản",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 21.51,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340116QT09.01",
+            "program_name": "Thẩm định giá và kinh doanh bất động sản (Theo định hướng ACCA)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 21,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340120QT15.01",
+            "program_name": "Kinh doanh quốc tế (Theo định hướng ICAEW CFAB)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 24.89,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "73402011",
+            "program_name": "Tài chính - Ngân hàng 1 (CN Thuế; Hải quan và Nghiệp vụ ngoại thương; Tài chính quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 25.47,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "73402012",
+            "program_name": "Tài chính - Ngân hàng 2 (CN Tài chính doanh nghiệp; Phân tích tài chính)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 26.31,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "73402013",
+            "program_name": "Tài chính - Ngân hàng 3 (CN Ngân hàng; Đầu tư tài chính)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 25.4,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340201QT01.01",
+            "program_name": "Thuế và Quản trị thuế (Theo định hướng ACCA)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 21,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340201QT01.06",
+            "program_name": "Hải quan và Logistics (Theo định hướng FIATA)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 21.3,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340201QT01.09",
+            "program_name": "Phân tích tài chính (Theo định hướng ICAEW CFAB)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 21,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340201QT01.11",
+            "program_name": "Tài chính doanh nghiệp (Theo định hướng ACCA)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 21,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340201QT01.15",
+            "program_name": "Ngân hàng (Theo định hướng ICAEW CFAB)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 21,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340201QT01.19",
+            "program_name": "Đầu tư tài chính (Theo định hướng ICAEW CFAB)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 21,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340204",
+            "program_name": "Tài chính bảo hiểm",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 22.56,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán doanh nghiệp; Kế toán công",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 25.01,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340301QT02.01",
+            "program_name": "Kế toán doanh nghiệp (Theo định hướng ACCA)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 21.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340301QT02.02",
+            "program_name": "Kế toán quản trị và Kiểm soát quản lý (Theo định hướng CMA)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 21,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340301QT02.03",
+            "program_name": "Kế toán công (Theo định hướng ACCA)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 21.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340302",
+            "program_name": "Kiểm toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 26.6,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340302QT10.01",
+            "program_name": "Kiểm toán (Theo định hướng ICAEW CFAB)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 21.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340403",
+            "program_name": "Quản lý tài chính công",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 22.55,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340405",
+            "program_name": "Tin học tài chính kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 25.07,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 25.12,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7460108",
+            "program_name": "Khoa học dữ liệu trong tài chính",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 25.52,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Trí tuệ nhân tạo trong tài chính kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 24.97,
+            "note": "Điểm đã được quy đổi"
+          }
+        ]
+      }
+    ]
+  }
+}

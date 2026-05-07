@@ -1,0 +1,696 @@
+{
+  "university": {
+    "code": "DTF",
+    "name": "Trường Ngoại Ngữ – Đại Học Thái Nguyên",
+    "short_name": "SFL",
+    "location": [
+      "Thái Nguyên"
+    ],
+    "address": "Đường Lương Ngọc Quyến, Phường Quang Trung, TP Thái Nguyên",
+    "website": "https://sfl.tnu.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2025,
+  "total_quota": 200,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/truong-ngoai-ngu-thai-nguyen-DTF.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2025/0717/thong-tin-tuyen-sinh-truong-ngoai-ngu-dh-thai-nguyen-2025_1.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG NGOẠI NGỮ THÁI NGUYÊN 2025 Thông tin tuyển sinh trường Ngoại ngữ - Đại học Thái Nguyên (SFL) năm 2025 Năm 2025 trường tuyển sinh 1200 chỉ tiêu dựa trên 6 phương thức xét tuyển như sau: Phương thức 1: Xét tuyển thẳng theo Điều 8 của Quy chế tuyển sinh Phương thức 2: Xét kết quả thi tốt nghiệp THPT Phương thức 3: Kết hợp kết quả thi tốt nghiệp THPT với chứng chỉ quốc tế để xét tuyển Phương thức 4: Xét kết quả học tập cấp THPT (Học bạ) Phương thức 5: Kỳ thi V-SAT Phương thức 6: Xét tuyển dự bị đại học Xem thời gian và hồ sơ đăng ký xét tuyển SFL năm 2025 TẠI ĐÂY",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 ĐỐI TƯỢNG Thí sinh tốt nghiệp THPT hoặc tương đương DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM THI THPT STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7140231 Sư phạm Tiếng Anh D01; D14; D15; D66; X78 2 7140234 Sư phạm Tiếng Trung Quốc D01; D04; D14; D15; D45; D65; D66; X78; X90 3 7220201 Ngôn ngữ Anh D01; D14; D15; D66; X78 4 7220204 Ngôn ngữ Trung Quốc D01; D04; D14; D15; D45; D65; D66; X78; X90",
+      "eligibility": "ĐỐI TƯỢNG Thí sinh tốt nghiệp THPT hoặc tương đương",
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7140231",
+          "program_name": "Sư phạm Tiếng Anh",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15",
+            "D66",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140234",
+          "program_name": "Sư phạm Tiếng Trung Quốc",
+          "subject_groups": [
+            "D01",
+            "D04",
+            "D14",
+            "D15",
+            "D45",
+            "D65",
+            "D66",
+            "X78",
+            "X90"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15",
+            "D66",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7220204",
+          "program_name": "Ngôn ngữ Trung Quốc",
+          "subject_groups": [
+            "D01",
+            "D04",
+            "D14",
+            "D15",
+            "D45",
+            "D65",
+            "D66",
+            "X78",
+            "X90"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-hoc-ba",
+      "method_name": "2 ĐIỂM HỌC BẠ",
+      "description": "2.1 ĐỐI TƯỢNG Xét kết quả học tập ở cấp THPT (Học bạ năm lớp 12) DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM HỌC BẠ STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7140231 Sư phạm Tiếng Anh D01; D14; D15; D66; X78 2 7140234 Sư phạm Tiếng Trung Quốc D01; D04; D14; D15; D45; D65; D66; X78; X90 3 7220201 Ngôn ngữ Anh D01; D14; D15; D66; X78 4 7220204 Ngôn ngữ Trung Quốc D01; D04; D14; D15; D45; D65; D66; X78; X90",
+      "eligibility": "ĐỐI TƯỢNG Xét kết quả học tập ở cấp THPT (Học bạ năm lớp 12)",
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7140231",
+          "program_name": "Sư phạm Tiếng Anh",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15",
+            "D66",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140234",
+          "program_name": "Sư phạm Tiếng Trung Quốc",
+          "subject_groups": [
+            "D01",
+            "D04",
+            "D14",
+            "D15",
+            "D45",
+            "D65",
+            "D66",
+            "X78",
+            "X90"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15",
+            "D66",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7220204",
+          "program_name": "Ngôn ngữ Trung Quốc",
+          "subject_groups": [
+            "D01",
+            "D04",
+            "D14",
+            "D15",
+            "D45",
+            "D65",
+            "D66",
+            "X78",
+            "X90"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        }
+      ]
+    },
+    {
+      "method_id": "3-utxt-xt-thang",
+      "method_name": "3 ƯTXT, XT THẲNG",
+      "description": "3.1 ĐỐI TƯỢNG Xét tuyển thẳng theo Điều 8 của Quy chế tuyển sinh DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ƯTXT, XT THẲNG STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7140231 Sư phạm Tiếng Anh 2 7140234 Sư phạm Tiếng Trung Quốc 3 7220201 Ngôn ngữ Anh 4 7220204 Ngôn ngữ Trung Quốc",
+      "eligibility": "ĐỐI TƯỢNG Xét tuyển thẳng theo Điều 8 của",
+      "rules": "Quy chế tuyển sinh",
+      "programs": [
+        {
+          "program_code": "7140231",
+          "program_name": "Sư phạm Tiếng Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140234",
+          "program_name": "Sư phạm Tiếng Trung Quốc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7220204",
+          "program_name": "Ngôn ngữ Trung Quốc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        }
+      ]
+    },
+    {
+      "method_id": "4-iem-xet-tuyen-ket-hop",
+      "method_name": "4 ĐIỂM XÉT TUYỂN KẾT HỢP",
+      "description": "4.1 QUY CHẾ 1. Xét tuyển Điểm chứng chỉ quốc tế tiếng Anh, Tiếng Trung quy đổi + điểm thi tốt nghiệp THPT năm 2025 2. Sử dụng phương thức khác (xét tuyển dự bị Đại học) DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM XÉT TUYỂN KẾT HỢP STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7140231 Sư phạm Tiếng Anh D01; D14; D15; D66; X78 2 7140234 Sư phạm Tiếng Trung Quốc D01; D04; D14; D15; D45; D65; D66; X78; X90 3 7220201 Ngôn ngữ Anh D01; D14; D15; D66; X78 4 7220204 Ngôn ngữ Trung Quốc D01; D04; D14; D15; D",
+      "eligibility": null,
+      "rules": "QUY CHẾ 1. Xét tuyển Điểm chứng chỉ quốc tế tiếng Anh, Tiếng Trung quy đổi + điểm thi tốt nghiệp THPT năm 2025 2. Sử dụng phương thức khác (xét tuyển dự bị Đại học)",
+      "programs": [
+        {
+          "program_code": "7140231",
+          "program_name": "Sư phạm Tiếng Anh",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15",
+            "D66",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140234",
+          "program_name": "Sư phạm Tiếng Trung Quốc",
+          "subject_groups": [
+            "D01",
+            "D04",
+            "D14",
+            "D15",
+            "D45",
+            "D65",
+            "D66",
+            "X78",
+            "X90"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15",
+            "D66",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7220204",
+          "program_name": "Ngôn ngữ Trung Quốc",
+          "subject_groups": [
+            "D01",
+            "D04",
+            "D14",
+            "D15",
+            "D45",
+            "D65",
+            "D66",
+            "X78",
+            "X90"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        }
+      ]
+    },
+    {
+      "method_id": "5-iem-anh-gia-au-vao-v-sat",
+      "method_name": "5 ĐIỂM ĐÁNH GIÁ ĐẦU VÀO V-SAT",
+      "description": "5.1 ĐỐI TƯỢNG Xét kết quả thi V-SAT DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐÁNH GIÁ ĐẦU VÀO V-SAT STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7140231 Sư phạm Tiếng Anh D01 2 7140234 Sư phạm Tiếng Trung Quốc D01 3 7220201 Ngôn ngữ Anh D01 4 7220204 Ngôn ngữ Trung Quốc D01",
+      "eligibility": "ĐỐI TƯỢNG Xét kết quả thi V-SAT",
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7140231",
+          "program_name": "Sư phạm Tiếng Anh",
+          "subject_groups": [
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140234",
+          "program_name": "Sư phạm Tiếng Trung Quốc",
+          "subject_groups": [
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7220204",
+          "program_name": "Ngôn ngữ Trung Quốc",
+          "subject_groups": [
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7140231",
+          "program_name": "Sư phạm Tiếng Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140231",
+          "program_name": "Sư phạm Tiếng Anh",
+          "subject_groups": [
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140231",
+          "program_name": "Sư phạm Tiếng Anh",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15",
+            "D66",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140234",
+          "program_name": "Sư phạm Tiếng Trung Quốc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7140234",
+          "program_name": "Sư phạm Tiếng Trung Quốc",
+          "subject_groups": [
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7140234",
+          "program_name": "Sư phạm Tiếng Trung Quốc",
+          "subject_groups": [
+            "D01",
+            "D04",
+            "D14",
+            "D15",
+            "D45",
+            "D65",
+            "D66",
+            "X78",
+            "X90"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15",
+            "D66",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7220204",
+          "program_name": "Ngôn ngữ Trung Quốc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7220204",
+          "program_name": "Ngôn ngữ Trung Quốc",
+          "subject_groups": [
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7220204",
+          "program_name": "Ngôn ngữ Trung Quốc",
+          "subject_groups": [
+            "D01",
+            "D04",
+            "D14",
+            "D15",
+            "D45",
+            "D65",
+            "D66",
+            "X78",
+            "X90"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Trường Ngoại Ngữ – Đại Học Thái Nguyên các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": "Xem chi tiết Bảng quy đổi điểm của các phương thức xét tuyển tại Trường Ngoại Ngữ – Đại Học Thái Nguyên năm 2025 TẠI ĐÂY",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/truong-ngoai-ngu-thai-nguyen-DTF.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140231",
+            "program_name": "Sư phạm Tiếng Anh",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "D15",
+              "D66",
+              "X78"
+            ],
+            "score": 27.07,
+            "note": null
+          },
+          {
+            "program_code": "7140234",
+            "program_name": "Sư phạm Tiếng Trung Quốc",
+            "subject_groups": [
+              "D01",
+              "D04",
+              "D14",
+              "D15",
+              "D45",
+              "D65",
+              "D66",
+              "X78",
+              "X90"
+            ],
+            "score": 27.02,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "D15",
+              "D66",
+              "X78"
+            ],
+            "score": 19.35,
+            "note": null
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "D01",
+              "D04",
+              "D14",
+              "D15",
+              "D45",
+              "D65",
+              "D66",
+              "X78",
+              "X90"
+            ],
+            "score": 21.4,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140231",
+            "program_name": "Sư phạm Tiếng Anh",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "D15",
+              "D66",
+              "X78"
+            ],
+            "score": 27.07,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7140234",
+            "program_name": "Sư phạm Tiếng Trung Quốc",
+            "subject_groups": [
+              "D01",
+              "D04",
+              "D14",
+              "D15",
+              "D45",
+              "D65",
+              "D66",
+              "X78",
+              "X90"
+            ],
+            "score": 27.02,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "D15",
+              "D66",
+              "X78"
+            ],
+            "score": 19.35,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "D01",
+              "D04",
+              "D14",
+              "D15",
+              "D45",
+              "D65",
+              "D66",
+              "X78",
+              "X90"
+            ],
+            "score": 21.4,
+            "note": "Điểm đã quy đổi"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-xet-tuyen-ket-hop",
+        "method_name": "Điểm chuẩn theo phương thức Điểm xét tuyển kết hợp năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140231",
+            "program_name": "Sư phạm Tiếng Anh",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "D15",
+              "D66",
+              "X78"
+            ],
+            "score": 27.07,
+            "note": "Kết hợp điểm thi tốt nghiệp THPT với CCQT, điểm đã quy đổi"
+          },
+          {
+            "program_code": "7140234",
+            "program_name": "Sư phạm Tiếng Trung Quốc",
+            "subject_groups": [
+              "D01",
+              "D04",
+              "D14",
+              "D15",
+              "D45",
+              "D65",
+              "D66",
+              "X78",
+              "X90"
+            ],
+            "score": 27.02,
+            "note": "Kết hợp điểm thi tốt nghiệp THPT với CCQT, điểm đã quy đổi"
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "D15",
+              "D66",
+              "X78"
+            ],
+            "score": 19.35,
+            "note": "Kết hợp điểm thi tốt nghiệp THPT với CCQT, điểm đã quy đổi"
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "D01",
+              "D04",
+              "D14",
+              "D15",
+              "D45",
+              "D65",
+              "D66",
+              "X78",
+              "X90"
+            ],
+            "score": 21.4,
+            "note": "Kết hợp điểm thi tốt nghiệp THPT với CCQT, điểm đã quy đổi"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-anh-gia-au-vao-v-sat",
+        "method_name": "Điểm chuẩn theo phương thức Điểm Đánh giá đầu vào V-SAT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140231",
+            "program_name": "Sư phạm Tiếng Anh",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 27.07,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7140234",
+            "program_name": "Sư phạm Tiếng Trung Quốc",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 27.02,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 19.35,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 21.4,
+            "note": "Điểm đã quy đổi"
+          }
+        ]
+      }
+    ]
+  }
+}

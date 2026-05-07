@@ -1,0 +1,526 @@
+{
+  "university": {
+    "code": "DTV",
+    "name": "Trường Đại Học Lương Thế Vinh",
+    "short_name": "LTVU",
+    "location": [
+      "Nam Định"
+    ],
+    "address": "Phường Lộc Vượng, TP.Nam Định, tỉnh Nam Định",
+    "website": "https://ltvu.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-luong-the-vinh-DTV.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0413/thong-tin-tuyen-sinh-dai-hoc-luong-the-vinh-2026.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC LƯƠNG THẾ VINH 2026 Thông tin tuyển sinh trường Đại học Lương Thế Vinh (LTVU) năm 2026 Năm 2026 Trường Đại học Lương Thế Vinh thực hiện xét tuyển cho hình thức đào tạo chính quy theo một trong ba phương thức sau: Phương thức 1: Xét tuyển dựa trên kết quả thi theo từng môn (điểm thi các môn tốt nghiệp THPT năm 2026) theo quy định của Bộ Giáo dục và Đào tạo. Phương thức 2: Xét tuyển dựa trên kết quả học tập (điểm tổng kết các môn học cấp THPT). Phương thức 3: Thí sinh đã tốt nghiệp trình độ trung cấp trở lên dự tuyển trình độ đại học Khám phá thêm Khoa học Giáo dục khoa học Trên đây là thông tin về phương thức tuyển sinh của trường Đại Học Lương Thế Vinh 2026. Đề án tuyển sinh 2026 của trường sẽ được cập nhật trong thời gian tới, các em có thể tham khảo đề án 2025 đăng tải bên dưới.",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 QUY CHẾ a) Đối với chương trình đào tạo các ngành thuộc lĩnh vực sức khỏe thực hiện theo hướng dẫn của Bộ GDĐT; b) Đối với chương trình đào tạo các ngành khác là thí sinh có tổng điểm 03 môn thi kỳ thi tốt nghiệp THPT (kỳ thi trung học nghề đối với đối tượng trung học nghề) năm 2026 theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán, Ngữ văn và một môn thi khác) đạt tối thiểu 15,00 điểm theo thang điểm 30. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM THI THPT STT Mã ngành Tên ngành Tổ hợ",
+      "eligibility": "đối tượng trung học nghề) năm 2026 theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán, Ngữ văn và một môn thi khác) đạt tối thiểu 15,00 điểm theo thang điểm 30.",
+      "rules": "QUY CHẾ a) Đối với chương trình đào tạo các ngành thuộc lĩnh vực sức khỏe thực hiện theo hướng dẫn của Bộ GDĐT; b) Đối với chương trình đào tạo các ngành khác là thí sinh có tổng điểm 03 môn thi kỳ thi tốt nghiệp THPT (kỳ thi trung học nghề đối với",
+      "programs": []
+    },
+    {
+      "method_id": "2-iem-hoc-ba",
+      "method_name": "2 ĐIỂM HỌC BẠ",
+      "description": "2.1 QUY CHẾ Phương thức tuyển sinh không sử dụng kết quả thi tốt nghiệp THPT (xét tuyển dựa trên kết quả học tập các môn học cấp THPT) với các Thí sinh tốt nghiệp THPT năm 2026 a) Đối với chương trình đào tạo ngành Y học cổ truyền phải đáp ứng những yêu cầu sau: Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo",
+      "eligibility": "đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán, Ngữ văn và một môn thi khác) đạt 20,00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8,50 trở lên theo thang điểm 10. b) Đối với chương trình đào tạo ngành Kỹ thuật phục hồi chức năng phải đáp ứng những yêu cầu sau: Kết quả trung bình chung học tập được đánh giá mức khá (học lực xếp loại từ khá trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT đạt 16,50 điểm trở lên hoặc điểm xét tốt nghiệp THPT (trung học nghề) từ 6,50 trở lên. c) Đối với chương trình đào tạo các ngành khác: Tổ hợp xét tuyển bắt buộc phải có môn Toán hoặc môn Ngữ văn với trọng số tính điểm xét của môn Toán hoặc môn Ngữ văn tối thiểu là 1/3 và đáp ứng một trong những yêu cầu sau: Tổ hợp xét tuyển sử dụng điểm trung bình chung kết quả học tập cả năm các lớp 10, 11, 12 của tối thiểu 03 môn học đạt 15,00 theo thang điểm 30 trở lên; Tổ hợp xét tuyển sử dụng điểm trung bình chung kết quả học tập cả năm các lớp 10, 11, 12 của tối thiểu 02 môn học (trong đó bắt buộc phải có môn Toán hoặc môn Ngữ văn) và dùng chứng chỉ ngoại ngữ (chứng chỉ ngoại ngữ sử dụng miễn thi tốt nghiệp THPT theo quy định tại",
+      "rules": "QUY CHẾ Phương thức tuyển sinh không sử dụng kết quả thi tốt nghiệp THPT (xét tuyển dựa trên kết quả học tập các môn học cấp THPT) với các Thí sinh tốt nghiệp THPT năm 2026 a) Đối với chương trình đào tạo ngành Y học cổ truyền phải đáp ứng những yêu cầu sau: Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với",
+      "programs": []
+    },
+    {
+      "method_id": "3-trinh-o-trung-cap-tro-len-du-tuyen-trinh-o-ai-hoc",
+      "method_name": "3 TRÌNH ĐỘ TRUNG CẤP TRỞ LÊN DỰ TUYỂN TRÌNH ĐỘ ĐẠI HỌC",
+      "description": "3.1 QUY CHẾ a) Thí sinh đã tốt nghiệp trình độ trung cấp trở lên cùng nhóm ngành sức khỏe dự tuyển vào chương trình đào tạo ngành Y học cổ truyền được áp dụng một trong các tiêu chí sau: Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) hoặc điểm trung bình chung các môn văn hóa cấp THPT đạt từ 8,00 trở lên theo thang điểm 10; Tốt nghiệp THPT, trung học nghề loại giỏi trở lên hoặc kết quả học tập cả năm lớp 12 được đánh giá mức khá (học lực xếp loại khá) v",
+      "eligibility": null,
+      "rules": "QUY CHẾ a) Thí sinh đã tốt nghiệp trình độ trung cấp trở lên cùng nhóm ngành sức khỏe dự tuyển vào chương trình đào tạo ngành Y học cổ truyền được áp dụng một trong các tiêu chí sau: Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) hoặc điểm trung bình chung các môn văn hóa cấp THPT đạt từ 8,00 trở lên theo thang điểm 10; Tốt nghiệp THPT, trung học nghề loại giỏi trở lên hoặc kết quả học tập cả năm lớp 12 được đánh giá mức khá (học lực xếp loại khá) và có 03 năm kinh nghiệm công tác đúng với chuyên môn đào tạo; Tốt nghiệp trung cấp, cao đẳng, đại học đạt loại giỏi trở lên; Tốt nghiệp trình độ trung cấp hoặc trình độ cao đẳng hoặc trình độ đại học đạt loại khá và có 03 năm kinh nghiệm công tác đúng với chuyên môn đào tạo. b) Thí sinh đã tốt nghiệp trình độ trung cấp trở lên cùng nhóm ngành sức khỏe dự tuyển vào đại học chương trình đào tạo ngành Kỹ thuật phục hồi chức năng được áp dụng một trong các tiêu chí sau: Kết quả trung bình chung học tập được đánh giá mức khá (học lực xếp loại khá) hoặc điểm trung bình chung các môn văn hóa cấp THPT đạt từ 6,50 trở lên theo thang điểm 10; Tốt nghiệp THPT, trung học nghề loại khá hoặc có kết quả học tập cả năm lớp 12 được đánh giá mức đạt (học lực xếp loại trung bình) và có 05 năm kinh nghiệm công tác đúng với chuyên môn đào tạo; Tốt nghiệp trình độ trung cấp, trình độ cao đẳng, trình độ đại học đạt loại khá trở lên. c) Đối với thí sinh dự tuyển vào chương trình đào tạo các ngành khác được áp dụng như sau: Thí sinh đã tốt nghiệp THPT và đã tốt nghiệp trình độ trung cấp trở lên dự tuyển có điểm trung bình trung toàn khóa đạt từ 5,05 theo thang điểm 10 hoặc đạt từ 2,02 theo thang điểm 4 trở lên được quy đổi sang thang điểm 30 đạt 15,05 trở lên.",
+      "programs": []
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Trường Đại Học Lương Thế Vinh các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-luong-the-vinh-DTV.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "A01",
+              "B08",
+              "C00",
+              "D01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "C14",
+              "C15",
+              "D01",
+              "D07",
+              "D08",
+              "D09",
+              "D10"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "C14",
+              "C15",
+              "D01",
+              "D07",
+              "D08",
+              "D09",
+              "D10"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "C14",
+              "C15",
+              "D01",
+              "D07",
+              "D08",
+              "D09",
+              "D10"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "C05",
+              "C06",
+              "C07",
+              "C09",
+              "C14",
+              "C15",
+              "C16",
+              "D01",
+              "D07",
+              "D08",
+              "D09",
+              "D10",
+              "D11"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ kỹ thuật điện; điện tử",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "C05",
+              "C06",
+              "C07",
+              "C09",
+              "C14",
+              "C15",
+              "C16",
+              "D01",
+              "D07",
+              "D08",
+              "D09",
+              "D10",
+              "D11"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7580201",
+            "program_name": "Kỹ thuật xây dựng",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "C05",
+              "C06",
+              "C07",
+              "C09",
+              "C14",
+              "C15",
+              "C16",
+              "D01",
+              "D07",
+              "D08",
+              "D09",
+              "D10",
+              "D11"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7580205",
+            "program_name": "Kỹ thuật xây dựng công trình giao thông",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "C05",
+              "C06",
+              "C07",
+              "C09",
+              "C14",
+              "C15",
+              "C16",
+              "D01",
+              "D07",
+              "D08",
+              "D09",
+              "D10",
+              "D11"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7640101",
+            "program_name": "Thú y",
+            "subject_groups": [
+              "A02",
+              "B00",
+              "C12",
+              "C13",
+              "C18",
+              "D01",
+              "D07",
+              "D08"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7720115",
+            "program_name": "Y học cổ truyền",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D01",
+              "D07",
+              "D08",
+              "D09",
+              "D10"
+            ],
+            "score": 19,
+            "note": "Học lực lớp 12 loại Giỏi (tốt) hoặc điểm xét tốt nghiệp THPT từ 8,0 trở lên"
+          },
+          {
+            "program_code": "7720603",
+            "program_name": "Kỹ thuật phục hồi chức năng",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D01",
+              "D07",
+              "D08",
+              "D09",
+              "D10"
+            ],
+            "score": 17,
+            "note": "Học lực lớp 12 xếp loại từ khá trở lên hoặc điểm xét tốt nghiệp THPT từ 6,5 trở lên"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "A01",
+              "B08",
+              "C00",
+              "D01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "C14",
+              "C15",
+              "D01",
+              "D07",
+              "D08",
+              "D09",
+              "D10"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "C14",
+              "C15",
+              "D01",
+              "D07",
+              "D08",
+              "D09",
+              "D10"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "C14",
+              "C15",
+              "D01",
+              "D07",
+              "D08",
+              "D09",
+              "D10"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "C05",
+              "C06",
+              "C07",
+              "C09",
+              "C14",
+              "C15",
+              "C16",
+              "D01",
+              "D07",
+              "D08",
+              "D09",
+              "D10",
+              "D11"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ kỹ thuật điện; điện tử",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "C05",
+              "C06",
+              "C07",
+              "C09",
+              "C14",
+              "C15",
+              "C16",
+              "D01",
+              "D07",
+              "D08",
+              "D09",
+              "D10",
+              "D11"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7580201",
+            "program_name": "Kỹ thuật xây dựng",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "C05",
+              "C06",
+              "C07",
+              "C09",
+              "C14",
+              "C15",
+              "C16",
+              "D01",
+              "D07",
+              "D08",
+              "D09",
+              "D10",
+              "D11"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7580205",
+            "program_name": "Kỹ thuật xây dựng công trình giao thông",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "C05",
+              "C06",
+              "C07",
+              "C09",
+              "C14",
+              "C15",
+              "C16",
+              "D01",
+              "D07",
+              "D08",
+              "D09",
+              "D10",
+              "D11"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7640101",
+            "program_name": "Thú y",
+            "subject_groups": [
+              "A02",
+              "B00",
+              "C12",
+              "C13",
+              "C18",
+              "D01",
+              "D07",
+              "D08"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7720115",
+            "program_name": "Y học cổ truyền",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D01",
+              "D07",
+              "D08",
+              "D09",
+              "D10"
+            ],
+            "score": 23,
+            "note": "Học lực lớp 12 loại Giỏi (tốt) hoặc điểm xét tốt nghiệp THPT từ 8,0 trở lên"
+          },
+          {
+            "program_code": "7720603",
+            "program_name": "Kỹ thuật phục hồi chức năng",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D01",
+              "D07",
+              "D08",
+              "D09",
+              "D10"
+            ],
+            "score": 19.2,
+            "note": "Học lực lớp 12 xếp loại từ khá trở lên hoặc điểm xét tốt nghiệp THPT từ 6,5 trở lên"
+          }
+        ]
+      }
+    ]
+  }
+}

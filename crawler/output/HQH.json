@@ -1,0 +1,299 @@
+{
+  "university": {
+    "code": "HQH",
+    "name": "Học viện Hải quân",
+    "short_name": "HQH",
+    "location": [
+      "Khánh Hòa"
+    ],
+    "address": "Phường Vĩnh Nguyên, Nha Trang, Khánh Hoà",
+    "website": "https://www.hocvienhaiquan.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/hoc-vien-hai-quan-HQH.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2025/0520/thong-tin-tuyen-sinh-2025-hoc-vien-hai-quan.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH HỌC VIỆN HẢI QUÂN 2026 Thông tin tuyển sinh Học viện Hải quân năm 2026 Năm 2026, Học viện Hải quân xét tuyển 3 tổ hợp: 1. A00 (Toán, Vật lý, Hóa học). 2. A01 (Toán, Vật lý, Tiếng Anh). 3. C01 (Toán, Vật lý, Ngữ văn). Như vậy, học viện Hải quân vẫn giữ nguyên 3 tổ hợp xét tuyển so với năm 2025. Khám phá thêm Khoa học khoa học Giáo dục Trên đây là thông tin về phương thức tuyển sinh của Học viện Hải quân 2026. Đề án tuyển sinh 2026 của Học viện sẽ được cập nhật trong thời gian tới, các em có thể tham khảo đề án 2025 đăng tải bên dưới.",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt---2025",
+      "method_name": "1 ĐIỂM THI THPT - 2025",
+      "description": "1.1 ĐỐI TƯỢNG Thí sinh đã tốt nghiệp THPT năm 2025, tham dự Kỳ thi tốt nghiệp THPT để lấy điểm xét tuyển và có đủ các điều kiện: a) Đã tham gia sơ tuyển, được trường tiếp nhận hồ sơ thông báo đủ điều kiện sơ tuyển. b) Đạt ngưỡng đảm bảo chất lượng đầu vào theo quy định. c) Đăng ký nguyện vọng 1 (nguyện vọng cao nhất) vào trường nộp hồ sơ sơ tuyển hoặc trường thuộc nhóm điều chỉnh nguyện vọng. 1.2 QUY CHẾ Quy đổi điểm ngoại ngữ từ kết quả chứng chỉ ngoại ngữ quốc tế a) Quy tắc chung - Thực hiện q",
+      "eligibility": "ĐỐI TƯỢNG Thí sinh đã tốt nghiệp THPT năm 2025, tham dự Kỳ thi tốt nghiệp THPT để lấy điểm xét tuyển và có đủ các",
+      "rules": "QUY CHẾ Quy đổi điểm ngoại ngữ từ kết quả chứng chỉ ngoại ngữ quốc tế a) Quy tắc chung - Thực hiện quy đổi thành điểm xét tuyển đối với thí sinh có kết quả điểm ngoại ngữ IELTS 5,5 điểm trở lên hoặc TOEFL iBT 55 điểm trở lên. - Không áp dụng quy đổi điểm ngoại ngữ đối với các chứng chỉ ngoại ngữ quốc tế thi tại nhà (home edition). - Trường hợp thí sinh vừa tham gia thi tốt nghiệp THPT môn ngoại ngữ vừa sử dụng chứng chỉ ngoại ngữ để quy đổi điểm xét tuyển, nếu phương án nào có điểm cao hơn sẽ được ưu tiên sử dụng phương án đó. Các chứng chỉ ngoại ngữ còn giá trị sử dụng đến ngày 22/8/2025 (thời gian thông báo thí sinh trúng tuyển theo quy định tại Kế hoạch tuyển sinh năm 2025 của Bộ GD&ĐT). b) Thang điểm quy đổi như sau: TT Chứng chỉ IELTS Chứng chỉ TOEFL iBT Quy điểm môn tiếng Anh 1 8.0 - 9.0 110 - 120 10 2 7.5 102 - 109 9,5 3 7.0 93 - 101 9 4 6.5 79 - 92 8,5 5 5.5 - 6.0 55 - 78 8 Cộng điểm khuyến khích a)",
+      "programs": [
+        {
+          "program_code": "TT",
+          "program_name": "Chứng chỉ IELTS",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "Chứng chỉ TOEFL iBT"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-gnl-hn---2025",
+      "method_name": "2 ĐIỂM ĐGNL HN - 2025",
+      "description": "2.1 ĐỐI TƯỢNG Thí sinh đã tốt nghiệp THPT năm 2025, tham dự Kỳ thi tốt nghiệp THPT hoặc Kỳ thi đánh giá năng lực của ĐHQG Hà Nội, ĐHQG Thành phố Hồ Chí Minh để lấy điểm xét tuyển và có đủ các điều kiện: a) Đã tham gia sơ tuyển, được trường tiếp nhận hồ sơ thông báo đủ điều kiện sơ tuyển. b) Đạt ngưỡng đảm bảo chất lượng đầu vào theo quy định. c) Đăng ký nguyện vọng 1 (nguyện vọng cao nhất) vào trường nộp hồ sơ sơ tuyển hoặc trường thuộc nhóm điều chỉnh nguyện vọng. 2.2 QUY CHẾ Quy đổi điểm ngoại",
+      "eligibility": "ĐỐI TƯỢNG Thí sinh đã tốt nghiệp THPT năm 2025, tham dự Kỳ thi tốt nghiệp THPT hoặc Kỳ thi đánh giá năng lực của ĐHQG Hà Nội, ĐHQG Thành phố Hồ Chí Minh để lấy điểm xét tuyển và có đủ các",
+      "rules": "QUY CHẾ Quy đổi điểm ngoại ngữ từ kết quả chứng chỉ ngoại ngữ quốc tế a) Quy tắc chung - Thực hiện quy đổi thành điểm xét tuyển đối với thí sinh có kết quả điểm ngoại ngữ IELTS 5,5 điểm trở lên hoặc TOEFL iBT 55 điểm trở lên. - Không áp dụng quy đổi điểm ngoại ngữ đối với các chứng chỉ ngoại ngữ quốc tế thi tại nhà (home edition). - Trường hợp thí sinh vừa tham gia thi tốt nghiệp THPT môn ngoại ngữ vừa sử dụng chứng chỉ ngoại ngữ để quy đổi điểm xét tuyển, nếu phương án nào có điểm cao hơn sẽ được ưu tiên sử dụng phương án đó. Các chứng chỉ ngoại ngữ còn giá trị sử dụng đến ngày 22/8/2025 (thời gian thông báo thí sinh trúng tuyển theo quy định tại Kế hoạch tuyển sinh năm 2025 của Bộ GD&ĐT). b) Thang điểm quy đổi như sau: TT Chứng chỉ IELTS Chứng chỉ TOEFL iBT Quy điểm môn tiếng Anh 1 8.0 - 9.0 110 - 120 10 2 7.5 102 - 109 9,5 3 7.0 93 - 101 9 4 6.5 79 - 92 8,5 5 5.5 - 6.0 55 - 78 8 Cộng điểm khuyến khích a)",
+      "programs": [
+        {
+          "program_code": "TT",
+          "program_name": "Chứng chỉ IELTS",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "Chứng chỉ TOEFL iBT"
+        }
+      ]
+    },
+    {
+      "method_id": "3-iem-gnl-hcm---2025",
+      "method_name": "3 ĐIỂM ĐGNL HCM - 2025",
+      "description": "3.1 ĐỐI TƯỢNG Thí sinh đã tốt nghiệp THPT năm 2025, tham dự Kỳ thi tốt nghiệp THPT hoặc Kỳ thi đánh giá năng lực của ĐHQG Hà Nội, ĐHQG Thành phố Hồ Chí Minh để lấy điểm xét tuyển và có đủ các điều kiện: a) Đã tham gia sơ tuyển, được trường tiếp nhận hồ sơ thông báo đủ điều kiện sơ tuyển. b) Đạt ngưỡng đảm bảo chất lượng đầu vào theo quy định. c) Đăng ký nguyện vọng 1 (nguyện vọng cao nhất) vào trường nộp hồ sơ sơ tuyển hoặc trường thuộc nhóm điều chỉnh nguyện vọng. 3.2 QUY CHẾ Quy đổi điểm ngoại",
+      "eligibility": "ĐỐI TƯỢNG Thí sinh đã tốt nghiệp THPT năm 2025, tham dự Kỳ thi tốt nghiệp THPT hoặc Kỳ thi đánh giá năng lực của ĐHQG Hà Nội, ĐHQG Thành phố Hồ Chí Minh để lấy điểm xét tuyển và có đủ các",
+      "rules": "QUY CHẾ Quy đổi điểm ngoại ngữ từ kết quả chứng chỉ ngoại ngữ quốc tế a) Quy tắc chung - Thực hiện quy đổi thành điểm xét tuyển đối với thí sinh có kết quả điểm ngoại ngữ IELTS 5,5 điểm trở lên hoặc TOEFL iBT 55 điểm trở lên. - Không áp dụng quy đổi điểm ngoại ngữ đối với các chứng chỉ ngoại ngữ quốc tế thi tại nhà (home edition). - Trường hợp thí sinh vừa tham gia thi tốt nghiệp THPT môn ngoại ngữ vừa sử dụng chứng chỉ ngoại ngữ để quy đổi điểm xét tuyển, nếu phương án nào có điểm cao hơn sẽ được ưu tiên sử dụng phương án đó. Các chứng chỉ ngoại ngữ còn giá trị sử dụng đến ngày 22/8/2025 (thời gian thông báo thí sinh trúng tuyển theo quy định tại Kế hoạch tuyển sinh năm 2025 của Bộ GD&ĐT). b) Thang điểm quy đổi như sau: TT Chứng chỉ IELTS Chứng chỉ TOEFL iBT Quy điểm môn tiếng Anh 1 8.0 - 9.0 110 - 120 10 2 7.5 102 - 109 9,5 3 7.0 93 - 101 9 4 6.5 79 - 92 8,5 5 5.5 - 6.0 55 - 78 8 Cộng điểm khuyến khích a)",
+      "programs": [
+        {
+          "program_code": "TT",
+          "program_name": "Chứng chỉ IELTS",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "Chứng chỉ TOEFL iBT"
+        }
+      ]
+    },
+    {
+      "method_id": "4-utxt-xt-thang---2025",
+      "method_name": "4 ƯTXT, XT THẲNG - 2025",
+      "description": "4.1 ĐỐI TƯỢNG a) Đối tượng xét tuyển thẳng quy định tại khoản 1 và điểm a khoản 2 Điều 8 Quy chế tuyển sinh đại học, như sau: - Anh hùng lao động, Anh hùng lực lượng vũ trang nhân dân, Chiến sĩ thi đua toàn quốc đã tốt nghiệp THPT. - Thí sinh đoạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia, quốc tế hoặc thi khoa học, kỹ thuật cấp quốc gia, quốc tế do Bộ GD&ĐT tổ chức, cử tham gia; thời gian đoạt giải không quá 3 năm tính tới thời điểm xét tuyển thẳng. b) Đối tượng xét tuyển thẳn",
+      "eligibility": "ĐỐI TƯỢNG a) Đối tượng xét tuyển thẳng quy định tại khoản 1 và điểm a khoản 2 Điều 8",
+      "rules": "Quy chế tuyển sinh đại học, như sau: - Anh hùng lao động, Anh hùng lực lượng vũ trang nhân dân, Chiến sĩ thi đua toàn quốc đã tốt nghiệp THPT. - Thí sinh đoạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia, quốc tế hoặc thi khoa học, kỹ thuật cấp quốc gia, quốc tế do Bộ GD&ĐT tổ chức, cử tham gia; thời gian đoạt giải không quá 3 năm tính tới thời điểm xét tuyển thẳng. b)",
+      "programs": [
+        {
+          "program_code": "7860202",
+          "program_name": "Chỉ huy tham mưu Hải quân (Thí sinh miền Bắc)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7860202",
+          "program_name": "Chỉ huy tham mưu Hải quân (Thí sinh miền Nam)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7860202",
+          "program_name": "Chỉ huy tham mưu Hải quân (Thí sinh miền Bắc)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7860202",
+          "program_name": "Chỉ huy tham mưu Hải quân (Thí sinh miền Bắc)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7860202",
+          "program_name": "Chỉ huy tham mưu Hải quân (Thí sinh miền Bắc)",
+          "subject_groups": [
+            "A00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7860202",
+          "program_name": "Chỉ huy tham mưu Hải quân (Thí sinh miền Bắc)",
+          "subject_groups": [
+            "A01"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7860202",
+          "program_name": "Chỉ huy tham mưu Hải quân (Thí sinh miền Bắc)",
+          "subject_groups": [
+            "C01"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7860202",
+          "program_name": "Chỉ huy tham mưu Hải quân (Thí sinh miền Nam)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7860202",
+          "program_name": "Chỉ huy tham mưu Hải quân (Thí sinh miền Nam)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7860202",
+          "program_name": "Chỉ huy tham mưu Hải quân (Thí sinh miền Nam)",
+          "subject_groups": [
+            "A00"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7860202",
+          "program_name": "Chỉ huy tham mưu Hải quân (Thí sinh miền Nam)",
+          "subject_groups": [
+            "A01"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7860202",
+          "program_name": "Chỉ huy tham mưu Hải quân (Thí sinh miền Nam)",
+          "subject_groups": [
+            "C01"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn của Học viện Hải quân các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-hai-quan-HQH.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860202",
+            "program_name": "Chỉ huy tham mưu Hải quân (Thí sinh miền Bắc)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 23.96,
+            "note": null
+          },
+          {
+            "program_code": "7860202",
+            "program_name": "Chỉ huy tham mưu Hải quân (Thí sinh miền Bắc)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 23.96,
+            "note": null
+          },
+          {
+            "program_code": "7860202",
+            "program_name": "Chỉ huy tham mưu Hải quân (Thí sinh miền Bắc)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 23.96,
+            "note": null
+          },
+          {
+            "program_code": "7860202",
+            "program_name": "Chỉ huy tham mưu Hải quân (Thí sinh miền Nam)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 23.08,
+            "note": null
+          },
+          {
+            "program_code": "7860202",
+            "program_name": "Chỉ huy tham mưu Hải quân (Thí sinh miền Nam)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 23.08,
+            "note": null
+          },
+          {
+            "program_code": "7860202",
+            "program_name": "Chỉ huy tham mưu Hải quân (Thí sinh miền Nam)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 23.08,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860202",
+            "program_name": "Chỉ huy tham mưu Hải quân (Thí sinh miền Bắc)",
+            "subject_groups": [],
+            "score": 93,
+            "note": null
+          },
+          {
+            "program_code": "7860202",
+            "program_name": "Chỉ huy tham mưu Hải quân (Thí sinh miền Nam)",
+            "subject_groups": [],
+            "score": 90,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860202",
+            "program_name": "Chỉ huy tham mưu Hải quân (Thí sinh miền Bắc)",
+            "subject_groups": [],
+            "score": 835,
+            "note": null
+          },
+          {
+            "program_code": "7860202",
+            "program_name": "Chỉ huy tham mưu Hải quân (Thí sinh miền Nam)",
+            "subject_groups": [],
+            "score": 800,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

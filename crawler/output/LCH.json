@@ -1,0 +1,502 @@
+{
+  "university": {
+    "code": "LCH",
+    "name": "Trường Sĩ quan Chính trị",
+    "short_name": "POC",
+    "location": [],
+    "address": "Phường Vệ An, thành phố Bắc Ninh, tỉnh Bắc Ninh.",
+    "website": "http://daihocchinhtri.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": 428,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/truong-si-quan-chinh-tri-dai-hoc-chinh-tri-LCH.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0428/thong-tin-tuyen-sinh-truong-si-quan-chinh-tri-2026.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG SĨ QUAN CHÍNH TRỊ - ĐẠI HỌC CHÍNH TRỊ 2026 Thông tin tuyển sinh Trường Sĩ quan Chính trị năm 2026 Năm 2026, Trường Sĩ quan Chính trị dự kiến tuyển 779 học viên, trong đó dành 428 chỉ tiêu miền Bắc, 351 chỉ tiêu miền Nam theo 4 phương thức: Phương thức 1: Xét tuyển thẳng, ưu tiên xét tuyển của Bộ Giáo dục và Đào tạo và Bộ Quốc phòng; Phương thức 2: Xét điểm thi đánh giá năng lực do Đại học Quốc gia Hà Nội và Đại học Quốc gia TP.HCM tổ chức; Phương thức 3: Xét kết quả thi tốt nghiệp THPT; Phương thức 4: Xét kết quả thi đánh giá năng lực do Bộ Quốc phòng tổ chức. Xem thời gian và hồ sơ đăng ký xét tuyển POC năm 2026 TẠI ĐÂY",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt---2025",
+      "method_name": "1 ĐIỂM THI THPT - 2025",
+      "description": "1.1 QUY CHẾ Thí sinh được cộng điểm khuyến khích nếu đủ điều kiện xét tuyển thẳng và ưu tiên xét tuyển nhưng không dùng đến, mà đăng ký xét từ kết quả thi. Nhóm được điểm cộng còn gồm những em đạt học lực giỏi, hạnh kiểm tốt ba năm, đồng thời đạt một trong các tiêu chí: - Giải ba thi học sinh giỏi cấp tỉnh - Có IELTS 5.5 hoặc tương đương - Điểm SAT 1.068/1.600 hoặc ACT 18 trở lên. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM THI THPT STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7310202 Xây dựng Đảng",
+      "eligibility": null,
+      "rules": "QUY CHẾ Thí sinh được cộng điểm khuyến khích nếu đủ điều kiện xét tuyển thẳng và ưu tiên xét tuyển nhưng không dùng đến, mà đăng ký xét từ kết quả thi. Nhóm được điểm cộng còn gồm những em đạt học lực giỏi, hạnh kiểm tốt ba năm, đồng thời đạt một trong các tiêu chí: - Giải ba thi học sinh giỏi cấp tỉnh - Có IELTS 5.5 hoặc tương đương - Điểm SAT 1.068/1.600 hoặc ACT 18 trở lên.",
+      "programs": [
+        {
+          "program_code": "7310202",
+          "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Bắc)",
+          "subject_groups": [
+            "A00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310202",
+          "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Bắc)",
+          "subject_groups": [
+            "C00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7310202",
+          "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Bắc)",
+          "subject_groups": [
+            "C03"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7310202",
+          "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Bắc)",
+          "subject_groups": [
+            "C04"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7310202",
+          "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Bắc)",
+          "subject_groups": [
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7310202",
+          "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Nam)",
+          "subject_groups": [
+            "A00"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7310202",
+          "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Nam)",
+          "subject_groups": [
+            "C00"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7310202",
+          "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Nam)",
+          "subject_groups": [
+            "C03"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7310202",
+          "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Nam)",
+          "subject_groups": [
+            "C04"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7310202",
+          "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Nam)",
+          "subject_groups": [
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-gnl-hn---2025",
+      "method_name": "2 ĐIỂM ĐGNL HN - 2025",
+      "description": "2.1 QUY CHẾ Thí sinh được cộng điểm khuyến khích nếu đủ điều kiện xét tuyển thẳng và ưu tiên xét tuyển nhưng không dùng đến, mà đăng ký xét từ kết quả thi. Nhóm được điểm cộng còn gồm những em đạt học lực giỏi, hạnh kiểm tốt ba năm, đồng thời đạt một trong các tiêu chí: - Giải ba thi học sinh giỏi cấp tỉnh - Có IELTS 5.5 hoặc tương đương - Điểm SAT 1.068/1.600 hoặc ACT 18 trở lên. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐGNL HN STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7310202 Xây dựng Đảng ",
+      "eligibility": null,
+      "rules": "QUY CHẾ Thí sinh được cộng điểm khuyến khích nếu đủ điều kiện xét tuyển thẳng và ưu tiên xét tuyển nhưng không dùng đến, mà đăng ký xét từ kết quả thi. Nhóm được điểm cộng còn gồm những em đạt học lực giỏi, hạnh kiểm tốt ba năm, đồng thời đạt một trong các tiêu chí: - Giải ba thi học sinh giỏi cấp tỉnh - Có IELTS 5.5 hoặc tương đương - Điểm SAT 1.068/1.600 hoặc ACT 18 trở lên.",
+      "programs": [
+        {
+          "program_code": "7310202",
+          "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Bắc)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310202",
+          "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Nam)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    },
+    {
+      "method_id": "3-iem-gnl-hcm---2025",
+      "method_name": "3 ĐIỂM ĐGNL HCM - 2025",
+      "description": "3.1 QUY CHẾ Thí sinh được cộng điểm khuyến khích nếu đủ điều kiện xét tuyển thẳng và ưu tiên xét tuyển nhưng không dùng đến, mà đăng ký xét từ kết quả thi. Nhóm được điểm cộng còn gồm những em đạt học lực giỏi, hạnh kiểm tốt ba năm, đồng thời đạt một trong các tiêu chí: - Giải ba thi học sinh giỏi cấp tỉnh - Có IELTS 5.5 hoặc tương đương - Điểm SAT 1.068/1.600 hoặc ACT 18 trở lên. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐGNL HCM STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7310202 Xây dựng Đảng",
+      "eligibility": null,
+      "rules": "QUY CHẾ Thí sinh được cộng điểm khuyến khích nếu đủ điều kiện xét tuyển thẳng và ưu tiên xét tuyển nhưng không dùng đến, mà đăng ký xét từ kết quả thi. Nhóm được điểm cộng còn gồm những em đạt học lực giỏi, hạnh kiểm tốt ba năm, đồng thời đạt một trong các tiêu chí: - Giải ba thi học sinh giỏi cấp tỉnh - Có IELTS 5.5 hoặc tương đương - Điểm SAT 1.068/1.600 hoặc ACT 18 trở lên.",
+      "programs": [
+        {
+          "program_code": "7310202",
+          "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Bắc)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310202",
+          "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Nam)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    },
+    {
+      "method_id": "4-utxt-xt-thang---2025",
+      "method_name": "4 ƯTXT, XT THẲNG - 2025",
+      "description": "4.1 QUY CHẾ Thí sinh được cộng điểm khuyến khích nếu đủ điều kiện xét tuyển thẳng và ưu tiên xét tuyển nhưng không dùng đến, mà đăng ký xét từ kết quả thi. Nhóm được điểm cộng còn gồm những em đạt học lực giỏi, hạnh kiểm tốt ba năm, đồng thời đạt một trong các tiêu chí: - Giải ba thi học sinh giỏi cấp tỉnh - Có IELTS 5.5 hoặc tương đương - Điểm SAT 1.068/1.600 hoặc ACT 18 trở lên. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ƯTXT, XT THẲNG STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7310202 Xây dựng Đản",
+      "eligibility": null,
+      "rules": "QUY CHẾ Thí sinh được cộng điểm khuyến khích nếu đủ điều kiện xét tuyển thẳng và ưu tiên xét tuyển nhưng không dùng đến, mà đăng ký xét từ kết quả thi. Nhóm được điểm cộng còn gồm những em đạt học lực giỏi, hạnh kiểm tốt ba năm, đồng thời đạt một trong các tiêu chí: - Giải ba thi học sinh giỏi cấp tỉnh - Có IELTS 5.5 hoặc tương đương - Điểm SAT 1.068/1.600 hoặc ACT 18 trở lên.",
+      "programs": [
+        {
+          "program_code": "7310202",
+          "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Bắc)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310202",
+          "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Nam)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7310202",
+          "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Bắc)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310202",
+          "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Bắc)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310202",
+          "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Bắc)",
+          "subject_groups": [
+            "A00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7310202",
+          "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Bắc)",
+          "subject_groups": [
+            "C00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7310202",
+          "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Bắc)",
+          "subject_groups": [
+            "C03"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7310202",
+          "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Bắc)",
+          "subject_groups": [
+            "C04"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7310202",
+          "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Bắc)",
+          "subject_groups": [
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7310202",
+          "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Nam)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7310202",
+          "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Nam)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7310202",
+          "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Nam)",
+          "subject_groups": [
+            "A00"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7310202",
+          "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Nam)",
+          "subject_groups": [
+            "C00"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7310202",
+          "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Nam)",
+          "subject_groups": [
+            "C03"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7310202",
+          "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Nam)",
+          "subject_groups": [
+            "C04"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7310202",
+          "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Nam)",
+          "subject_groups": [
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn của Trường Sĩ quan Chính trị các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": "Thời gian tổ chức sơ tuyển và đăng ký sơ tuyển a) Thời gian tổ chức sơ tuyển: Từ ngày 10/02/2026 đến ngày 15/4/2026. b) Đăng ký sơ tuyển Thí sinh là thanh niên ngoài Quân đội đăng ký sơ tuyển và mua hồ sơ sơ tuyển tại Ban TSQS xã, phường, đặc khu nơi thí sinh đăng ký thường trú (gọi chung là Ban TSQS cấp xã). Thí sinh là quân nhân đang tại ngũ đăng ký sơ tuyển và mua hồ sơ sơ tuyển tại đơn vị cấp trung đoàn hoặc tương đương (gọi chung là Ban TSQS cấp trung đoàn). Khi đăng ký sơ tuyển, thí sinh phải đăng ký xét tuyển nguyện vọng 1 (nguyện vọng cao nhất) vào Trường Sĩ quan Chính trị theo đúng tổ hợp môn xét tuyển quy định. Thí sinh chỉ được đăng ký sơ tuyển vào 1 trong 2 khối trường Quân đội hoặc Công an (thí sinh đã tham gia sơ tuyển vào các trường thuộc Bộ Quốc phòng thì không được tham gia sơ tuyển vào các trường thuộc Bộ Công an). Hồ sơ tuyển sinh Mỗi thí sinh phải làm các loại hồ sơ riêng biệt gồm: Hồ sơ đăng ký sơ tuyển (do Ban TSQS Bộ Quốc phòng phát hành). Hồ sơ đăng ký xét tuyển (có hướng dẫn riêng cho từng phương thức xét tuyển). Thí sinh sử dụng kết quả Kỳ thi tốt nghiệp THPT để xét tuyển phải đăng ký hồ sơ và tham dự kỳ thi năm 2026 theo quy định của Bộ GD&ĐT.",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/truong-si-quan-chinh-tri-dai-hoc-chinh-tri-LCH.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Bắc)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 31.33,
+            "note": null
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Bắc)",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 27.83,
+            "note": null
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Bắc)",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 29,
+            "note": null
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Bắc)",
+            "subject_groups": [
+              "C04"
+            ],
+            "score": 29,
+            "note": null
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Bắc)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 30.17,
+            "note": null
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Nam)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 30.32,
+            "note": null
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Nam)",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 26.82,
+            "note": null
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Nam)",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 27.99,
+            "note": null
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Nam)",
+            "subject_groups": [
+              "C04"
+            ],
+            "score": 27.99,
+            "note": null
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Nam)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 29.16,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Bắc)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 111,
+            "note": null
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Nam)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 105,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Bắc)",
+            "subject_groups": [],
+            "score": 995,
+            "note": null
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Nam)",
+            "subject_groups": [],
+            "score": 955,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-utxt-xt-thang",
+        "method_name": "Điểm chuẩn theo phương thức ƯTXT, XT thẳng năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Bắc)",
+            "subject_groups": [],
+            "score": 26.18,
+            "note": null
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Bắc)",
+            "subject_groups": [],
+            "score": 27.97,
+            "note": "XTT diện huyện nghèo"
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và Chính quyền Nhà nước (miền Nam)",
+            "subject_groups": [],
+            "score": 24.51,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

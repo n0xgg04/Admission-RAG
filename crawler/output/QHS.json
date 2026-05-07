@@ -1,0 +1,769 @@
+{
+  "university": {
+    "code": "QHS",
+    "name": "Đại học Giáo dục",
+    "short_name": "UED",
+    "location": [
+      "Hà Nội"
+    ],
+    "address": "Nhà G7. Số 144 Xuân Thuỷ, Dịch Vọng Hậu, Cầu Giấy, Hà Nội.- Nhà C0. Số 182 Lương Thế Vinh, Thanh Xuân, Hà Nội.- Cơ sở Đại học Quốc gia Hà Nội tại Hoà Lạc.",
+    "website": "https://education.vnu.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2025,
+  "total_quota": 1300,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-giao-duc-ha-noi-QHS.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2025/0612/thong-tin-tuyen-sinh-dai-hoc-giao-duc-dhqghn.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC GIÁO DỤC - ĐHQG HÀ NỘI 2025 Thông tin tuyển sinh trường Đại học Giáo dục - ĐHQGHN (UED) năm 2025 Năm 2025, trường Đại học Giáo dục - ĐHQGHN tuyển sinh 1.300 chỉ tiêu dựa trên 4 phương thức xét tuyển như sau: Phương thức 1: Xét tuyển thẳng theo quy định của Quy chế tuyển sinh (Điều 8) - Mã phương thức: 301 Phương thức 2: Xét tuyển dự bị đại học - Mã phương thức: 500 Phương thức 3: Xét kết quả thi tốt nghiệp THPT - Mã phương thức: 100 Phương thức 4: Xét kết quả thi ĐGNL của ĐHQGHN - Mã phương thức: 401 >> Các em xem thông tin điểm quy đổi IELTS, TOEFL iBT và các Chứng chỉ Quốc tế năm 2025 của ĐHQGHN TẠI ĐÂY Xem thời gian và hồ sơ đăng ký xét tuyển UED năm 2025 TẠI ĐÂY Khám phá thêm Tài nguyên giáo dục khoá học Khoa học",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 ĐỐI TƯỢNG 1. Người đã tốt nghiệp chương trình THPT của Việt Nam (theo hình thức giáo dục chính quy hoặc giáo dục thường xuyên) hoặc đã tốt nghiệp trung cấp, sau đây gọi chung là tốt nghiệp trung học; - Người tốt nghiệp trung cấp nhưng chưa có bằng tốt nghiệp THPT phải học và hoàn thành các môn văn hóa THPT theo quy định hiện hành; - Người tốt nghiệp chương trình THPT của nước ngoài đã được nước sở tại cho phép thực hiện, đạt trình độ tương đương trình độ THPT của Việt Nam, ở nước ngoài hoặc ",
+      "eligibility": "ĐỐI TƯỢNG 1. Người đã tốt nghiệp chương trình THPT của Việt Nam (theo hình thức giáo dục chính quy hoặc giáo dục thường xuyên) hoặc đã tốt nghiệp trung cấp, sau đây gọi chung là tốt nghiệp trung học; - Người tốt nghiệp trung cấp nhưng chưa có bằng tốt nghiệp THPT phải học và hoàn thành các môn văn hóa THPT theo quy định hiện hành; - Người tốt nghiệp chương trình THPT của nước ngoài đã được nước sở tại cho phép thực hiện, đạt trình độ tương đương trình độ THPT của Việt Nam, ở nước ngoài hoặc ở Việt Nam. 2. Có đủ sức khoẻ để học tập theo quy định hiện hành. 1.2",
+      "rules": "QUY CHẾ 1) Điểm xét tuyển: Xét tuyển theo thang điểm 30 của tổ hợp có tổng điểm cao nhất cộng với điểm thưởng (nếu có) và cộng điểm ưu tiên (",
+      "programs": [
+        {
+          "program_code": "QHS01",
+          "program_name": "Sư phạm Toán học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "B03",
+            "C01",
+            "C02",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "QHS02",
+          "program_name": "Sư phạm Vật lí",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "C01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "QHS03",
+          "program_name": "Sư phạm Hoá học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "C02",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "QHS04",
+          "program_name": "Sư phạm Sinh học",
+          "subject_groups": [
+            "A02",
+            "B00",
+            "B03",
+            "B08"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "QHS05",
+          "program_name": "Sư phạm Khoa học Tự nhiên",
+          "subject_groups": [
+            "A00",
+            "A02",
+            "B00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "QHS06",
+          "program_name": "Sư phạm Ngữ văn",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "QHS07",
+          "program_name": "Sư phạm Lịch sử",
+          "subject_groups": [
+            "A07",
+            "C00",
+            "C03",
+            "D09",
+            "D14"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "QHS08",
+          "program_name": "Sư phạm Lịch sử - Địa lý",
+          "subject_groups": [
+            "A07",
+            "C00"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "QHS09",
+          "program_name": "Giáo dục Mầm non",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "C00",
+            "D01",
+            "C14"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "QHS10",
+          "program_name": "Giáo dục Tiểu học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "C00",
+            "D01",
+            "C14"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "QHS11",
+          "program_name": "Khoa học giáo dục và khác, gồm 6 ngành: - Ngành: Khoa học giáo dục - Ngành: Quản trị chất lượng giáo dục - Ngành: Quản trị trường học - Ngành: Tham vấn học đường - Ngành: Quản trị công nghệ giáo dục - Ngành: Tâm lí học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "C00",
+            "D01",
+            "C14"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-gnl-hn",
+      "method_name": "2 ĐIỂM ĐGNL HN",
+      "description": "2.1 ĐIỀU KIỆN XÉT TUYỂN Thí sinh sử dụng kết quả thi đánh giá năng lực học sinh THPT do ĐHQGHN tổ chức đạt ngưỡng đảm bảo chất lượng theo Quy định của ĐHQGHN và của Trường ĐHGD (kết quả thi ĐGNL còn trong khoảng thời gian 2 năm kể từ ngày dự thi tính đến ngày nộp hồ sơ) đủ điều kiện đăng ký xét tuyển không giới hạn số lượng nguyện vọng vào Trường. Ngưỡng đảm bảo chất lượng sẽ được Trường ĐHGD công bố trên trang Thông tin điện tử của Trường và Hệ thống xét tuyển chung của Bộ vào ngày 21/7/2025 sa",
+      "eligibility": "đối tượng: Xem tại đây",
+      "rules": "QUY CHẾ - Xét tuyển: Xét tuyển theo thang điểm 150, quy về thang điểm 30 theo công thức quy đổi chuẩn của ĐHQGHN sau đó cộng điểm thưởng (nếu có) và cộng điểm ưu tiên (nếu có) theo quy định. - Quy đổi tương đương điểm ngưỡng ĐBCL, điểm trúng tuyển: Xem Mục 3 của Thông báo này. - Điểm thưởng: Xem tại đây. - Điểm ưu tiên khu vực, ưu tiên",
+      "programs": [
+        {
+          "program_code": "QHS01",
+          "program_name": "Sư phạm Toán học",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "QHS02",
+          "program_name": "Sư phạm Vật lí",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "QHS03",
+          "program_name": "Sư phạm Hoá học",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "QHS04",
+          "program_name": "Sư phạm Sinh học",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "QHS05",
+          "program_name": "Sư phạm Khoa học Tự nhiên",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "QHS06",
+          "program_name": "Sư phạm Ngữ văn",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "QHS07",
+          "program_name": "Sư phạm Lịch sử",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "QHS08",
+          "program_name": "Sư phạm Lịch sử - Địa lý",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "QHS09",
+          "program_name": "Giáo dục Mầm non",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "QHS10",
+          "program_name": "Giáo dục Tiểu học",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "QHS11",
+          "program_name": "Khoa học giáo dục và khác, gồm 6 ngành: - Ngành: Khoa học giáo dục - Ngành: Quản trị chất lượng giáo dục - Ngành: Quản trị trường học - Ngành: Tham vấn học đường - Ngành: Quản trị công nghệ giáo dục - Ngành: Tâm lí học",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        }
+      ]
+    },
+    {
+      "method_id": "3-utxt-xt-thang",
+      "method_name": "3 ƯTXT, XT THẲNG",
+      "description": "3.1 ĐỐI TƯỢNG - Thí sinh được xét tuyển thẳng theo ngành phù hợp với môn thi hoặc nội dung đề tài đoạt giải nếu tốt nghiệp THPT và đáp ứng một trong các tiêu chí sau: (1). Tiêu chí 1: Anh hùng lao động, Anh hùng lực lượng vũ trang nhân dân, Chiến sĩ thi đua toàn quốc được tuyển thẳng vào các ngành, chương trình đào tạo của Trường; (2). Tiêu chí 2: Thí sinh đạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc tế mà Bộ GDĐT có quyết định cử tham gia; thời gian đoạt giải không quá 3 năm tính",
+      "eligibility": "ĐỐI TƯỢNG - Thí sinh được xét tuyển thẳng theo ngành phù hợp với môn thi hoặc nội dung đề tài đoạt giải nếu tốt nghiệp THPT và đáp ứng một trong các tiêu chí sau: (1). Tiêu chí 1: Anh hùng lao động, Anh hùng lực lượng vũ trang nhân dân, Chiến sĩ thi đua toàn quốc được tuyển thẳng vào các ngành, chương trình đào tạo của Trường; (2). Tiêu chí 2: Thí sinh đạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc tế mà Bộ GDĐT có quyết định cử tham gia; thời gian đoạt giải không quá 3 năm tính tới thời điểm xét tuyển thẳng; (3). Tiêu chí 3: Thí sinh đạt giải nhất, nhì, ba trong kỳ thi khoa học, kỹ thuật cấp quốc tế mà Bộ GDĐT có quyết định cử tham gia; thời gian đoạt giải không quá 3 năm tính tới thời điểm xét tuyển thẳng; (4). Tiêu chí 4: Thí sinh đạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia do Bộ GDĐT tổ chức; thời gian đoạt giải không quá 3 năm tính tới thời điểm xét tuyển thẳng; (5). Tiêu chí 5: Thí sinh đạt giải nhất, nhì, ba trong Cuộc thi khoa học, kỹ thuật cấp quốc gia do Bộ GDĐT tổ chức; thời gian đoạt giải không quá 3 năm tính tới thời điểm xét tuyển thẳng;",
+      "rules": null,
+      "programs": []
+    },
+    {
+      "method_id": "4-iem-thi-rieng",
+      "method_name": "4 ĐIỂM THI RIÊNG",
+      "description": "4.1 ĐỐI TƯỢNG Xét tuyển theo Quy định đặc thù của ĐHQGHN (ban hành kèm theo Quyết định số 4412/QĐ-ĐHQGHN ngày 31 tháng 12 năm 2021 của Giám đốc ĐHQGHN và sửa đổi (nếu có)); Các phương thức tuyển sinh khác theo quy định của ĐHQGHN 4.2 QUY CHẾ Trường ĐHGD sẽ công bố tổ hợp xét tuyển kết quả thi tốt nghiệp THPT năm 2025 sau khi Bộ GD&ĐT ban hành Quy chế tuyển sinh đại học (đáp ứng chương trình GDPT 2018",
+      "eligibility": "ĐỐI TƯỢNG Xét tuyển theo Quy định đặc thù của ĐHQGHN (ban hành kèm theo Quyết định số 4412/QĐ-ĐHQGHN ngày 31 tháng 12 năm 2021 của Giám đốc ĐHQGHN và sửa đổi (nếu có)); Các phương thức tuyển sinh khác theo quy định của ĐHQGHN 4.2",
+      "rules": "QUY CHẾ Trường ĐHGD sẽ công bố tổ hợp xét tuyển kết quả thi tốt nghiệp THPT năm 2025 sau khi Bộ GD&ĐT ban hành Quy chế tuyển sinh đại học (đáp ứng chương trình GDPT 2018",
+      "programs": []
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "QHS01",
+          "program_name": "Sư phạm Toán học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "B03",
+            "C01",
+            "C02",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "QHS01",
+          "program_name": "Sư phạm Toán học",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "QHS02",
+          "program_name": "Sư phạm Vật lí",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "C01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "QHS02",
+          "program_name": "Sư phạm Vật lí",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "QHS03",
+          "program_name": "Sư phạm Hoá học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "C02",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "QHS03",
+          "program_name": "Sư phạm Hoá học",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "QHS04",
+          "program_name": "Sư phạm Sinh học",
+          "subject_groups": [
+            "A02",
+            "B00",
+            "B03",
+            "B08"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "QHS04",
+          "program_name": "Sư phạm Sinh học",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "QHS05",
+          "program_name": "Sư phạm Khoa học Tự nhiên",
+          "subject_groups": [
+            "A00",
+            "A02",
+            "B00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "QHS05",
+          "program_name": "Sư phạm Khoa học Tự nhiên",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "QHS06",
+          "program_name": "Sư phạm Ngữ văn",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "D14",
+            "D15"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "QHS06",
+          "program_name": "Sư phạm Ngữ văn",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "QHS07",
+          "program_name": "Sư phạm Lịch sử",
+          "subject_groups": [
+            "A07",
+            "C00",
+            "C03",
+            "D09",
+            "D14"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "QHS07",
+          "program_name": "Sư phạm Lịch sử",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "QHS08",
+          "program_name": "Sư phạm Lịch sử - Địa lý",
+          "subject_groups": [
+            "A07",
+            "C00"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "QHS08",
+          "program_name": "Sư phạm Lịch sử - Địa lý",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "QHS09",
+          "program_name": "Giáo dục Mầm non",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "C00",
+            "D01",
+            "C14"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "QHS09",
+          "program_name": "Giáo dục Mầm non",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "QHS10",
+          "program_name": "Giáo dục Tiểu học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "C00",
+            "D01",
+            "C14"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "QHS10",
+          "program_name": "Giáo dục Tiểu học",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "QHS11",
+          "program_name": "Khoa học giáo dục và khác, gồm 6 ngành: - Ngành: Khoa học giáo dục - Ngành: Quản trị chất lượng giáo dục - Ngành: Quản trị trường học - Ngành: Tham vấn học đường - Ngành: Quản trị công nghệ giáo dục - Ngành: Tâm lí học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "C00",
+            "D01",
+            "C14"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "QHS11",
+          "program_name": "Khoa học giáo dục và khác, gồm 6 ngành: - Ngành: Khoa học giáo dục - Ngành: Quản trị chất lượng giáo dục - Ngành: Quản trị trường học - Ngành: Tham vấn học đường - Ngành: Quản trị công nghệ giáo dục - Ngành: Tâm lí học",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn của Đại học Giáo dục - ĐHQGHN các năm Tại đây",
+  "tuition_text": "Học phí phải nộp được tính theo Nghị định 81/2021/NĐ-CP về “Quy định về cơ chế thu, quản lý học phí đối với cơ sở giáo dục thuộc Hệ thống giáo dục quốc dân và chính sách miễn, giảm học phí, hỗ trợ chi phí học tập; giá dịch vụ trong lĩnh vực giáo dục đào tạo”; Nghị định 97/2023/NĐ-CP ngày 31 tháng 12 năm 2023 sửa đổi bổ sung một số điều của Nghị Định 81/2021/NĐ-CP và các quy định hiện hành khác liên quan của Nhà nước và của ĐHQGHN. Học phí dự kiến năm học 2024-2025 quy theo tháng là 1.410.000 đồng/tháng, tùy theo ngành, mỗi năm học thu 10 tháng. Những năm học tiếp theo, lộ trình học phí thực hiện theo quy định của Nhà nước và của ĐHQGHN. Sinh viên sư phạm được nhà nước hỗ trợ tiền học phí và sinh hoạt phí theo quy định tại Nghị định 116/2020/NĐ-CP ngày 25/09/2020 của Chính phủ quy định về chính sách hỗ trợ tiền đóng học phí, chi phí sinh hoạt đối với sinh viên sư phạm. Thủ tục, tiêu chuẩn được hỗ trợ thực hiện theo quy định của Nhà nước. Sinh viên được tiếp cận các quỹ học bổng của trường, của ĐHQGHN và của các nhà tài trợ khác nhau với nhiều mức khác nhau. Ngoài ra, nhà trường còn có nhiều vị trí thực tập làm bán thời gian có trả công dành cho các bạn đáp ứng tiêu chí chọn.",
+  "timeline_text": "",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-giao-duc-ha-noi-QHS.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "Giáo dục Mầm non",
+            "program_name": "QHS09",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "C00",
+              "D01",
+              "C14"
+            ],
+            "score": 27.8,
+            "note": null
+          },
+          {
+            "program_code": "Giáo dục Tiểu học",
+            "program_name": "QHS10",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "C00",
+              "D01",
+              "C14"
+            ],
+            "score": 28.6,
+            "note": null
+          },
+          {
+            "program_code": "Khoa học giáo dục và khác",
+            "program_name": "QHS11",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "C00",
+              "D01",
+              "C14"
+            ],
+            "score": 25.57,
+            "note": null
+          },
+          {
+            "program_code": "Sư phạm Toán học",
+            "program_name": "QHS01",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B03",
+              "C01",
+              "C02",
+              "D01"
+            ],
+            "score": 28.57,
+            "note": null
+          },
+          {
+            "program_code": "Sư phạm Vật lí",
+            "program_name": "QHS02",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01"
+            ],
+            "score": 28,
+            "note": null
+          },
+          {
+            "program_code": "Sư phạm Hoá học",
+            "program_name": "QHS03",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "C02",
+              "D07"
+            ],
+            "score": 27.74,
+            "note": null
+          },
+          {
+            "program_code": "Sư phạm Sinh học",
+            "program_name": "QHS04",
+            "subject_groups": [
+              "A02",
+              "B00",
+              "B03",
+              "B08"
+            ],
+            "score": 25.37,
+            "note": null
+          },
+          {
+            "program_code": "Sư phạm Khoa học Tự nhiên",
+            "program_name": "QHS05",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "B00"
+            ],
+            "score": 25.58,
+            "note": null
+          },
+          {
+            "program_code": "Sư phạm Ngữ văn",
+            "program_name": "QHS06",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 28.45,
+            "note": null
+          },
+          {
+            "program_code": "Sư phạm Lịch sử",
+            "program_name": "QHS07",
+            "subject_groups": [
+              "A07",
+              "C00",
+              "C03",
+              "D09",
+              "D14"
+            ],
+            "score": 28.99,
+            "note": null
+          },
+          {
+            "program_code": "Sư phạm Lịch sử - Địa lý",
+            "program_name": "QHS08",
+            "subject_groups": [
+              "A07",
+              "C00"
+            ],
+            "score": 29.84,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "Sư phạm Lịch sử",
+            "program_name": "QHS07",
+            "subject_groups": [],
+            "score": 115,
+            "note": null
+          },
+          {
+            "program_code": "Giáo dục Mầm non",
+            "program_name": "QHS09",
+            "subject_groups": [],
+            "score": 102,
+            "note": null
+          },
+          {
+            "program_code": "Giáo dục Tiểu học",
+            "program_name": "QHS10",
+            "subject_groups": [],
+            "score": 112,
+            "note": null
+          },
+          {
+            "program_code": "Sư phạm Toán học",
+            "program_name": "QHS01",
+            "subject_groups": [],
+            "score": 112,
+            "note": null
+          },
+          {
+            "program_code": "Khoa học giáo dục và khác",
+            "program_name": "QHS11",
+            "subject_groups": [],
+            "score": 82,
+            "note": null
+          },
+          {
+            "program_code": "Sư phạm Vật lí",
+            "program_name": "QHS02",
+            "subject_groups": [],
+            "score": 106,
+            "note": null
+          },
+          {
+            "program_code": "Sư phạm Hoá học",
+            "program_name": "QHS03",
+            "subject_groups": [],
+            "score": 104,
+            "note": null
+          },
+          {
+            "program_code": "Sư phạm Sinh học",
+            "program_name": "QHS04",
+            "subject_groups": [],
+            "score": 94,
+            "note": null
+          },
+          {
+            "program_code": "Sư phạm Khoa học Tự nhiên",
+            "program_name": "QHS05",
+            "subject_groups": [],
+            "score": 91,
+            "note": null
+          },
+          {
+            "program_code": "Sư phạm Ngữ văn",
+            "program_name": "QHS06",
+            "subject_groups": [],
+            "score": 108,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

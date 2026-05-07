@@ -1,0 +1,1033 @@
+{
+  "university": {
+    "code": "DPX",
+    "name": "Đại học Phú Xuân",
+    "short_name": "PXU",
+    "location": [
+      "Huế"
+    ],
+    "address": "176 Trần Phú, P. Phước Vĩnh, TP. Huế",
+    "website": "https://phuxuan.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-phu-xuan-DPX.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2025/0717/thong-tin-tuyen-sinh-truong-dai-hoc-phu-xuan-2025.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC PHÚ XUÂN 2026 Thông tin tuyển sinh trường Đại học Phú Xuân (PXU) năm 2026 Năm 2026, Đại học Phú Xuân thông báo tuyển sinh theo 04 phương thức sau: Phương thức 1: Xét tuyển thẳng và ưu tiên xét tuyển theo quy chế tuyển sinh hiện hành; Phương thức 2: Xét tuyển dựa vào học bạ THPT; Phương thức 3: Xét tuyển dựa vào kết quả kỳ thi tốt nghiệp trung học phổ thông (điểm thi TN THPT) năm 2026; Phương thức 4: Xét tuyển kết hợp kết quả thi THPT hoặc học bạ kết hợp chứng chỉ ngoại ngữ Phương thức 5: Xét tuyển sử dụng kết quả thi đánh giá năng lực năm 2026 của Đại học quốc gia TP.HCM (Điểm ĐGNL) Khám phá thêm Khóa học khoá học Giáo dục",
+  "admission_methods": [
+    {
+      "method_id": "1-utxt-xt-thang",
+      "method_name": "1 ƯTXT, XT THẲNG",
+      "description": "1.1 ĐỐI TƯỢNG Người đã được công nhận tốt nghiệp trung học phổ thông (THPT) của Việt Nam hoặc có bằng tốt nghiệp của nước ngoài được công nhận trình độ tương đương; Người đã có bằng tốt nghiệp trung cấp, cao đẳng, đại học và tương đương. Đã hoàn thành đủ yêu cầu khối lượng kiến thức văn hóa cấp THPT (đối với người tốt nghiệp trung cấp, cao đẳng, tốt nghiệp trước năm 2025) theo quy định của pháp luật; Có đủ sức khỏe để học tập theo quy định hiện hành; Có đủ thông tin cá nhân, hồ sơ dự tuyển theo ",
+      "eligibility": "ĐỐI TƯỢNG Người đã được công nhận tốt nghiệp trung học phổ thông (THPT) của Việt Nam hoặc có bằng tốt nghiệp của nước ngoài được công nhận trình độ tương đương; Người đã có bằng tốt nghiệp trung cấp, cao đẳng, đại học và tương đương. Đã hoàn thành đủ yêu cầu khối lượng kiến thức văn hóa cấp THPT (đối với người tốt nghiệp trung cấp, cao đẳng, tốt nghiệp trước năm 2025) theo quy định của pháp luật; Có đủ sức khỏe để học tập theo quy định hiện hành; Có đủ thông tin cá nhân, hồ sơ dự tuyển theo quy định. 1.2",
+      "rules": "QUY CHẾ Xét tuyển thẳng và ưu tiên xét tuyển theo quy chế tuyển sinh hiện hành;",
+      "programs": []
+    },
+    {
+      "method_id": "2-iem-hoc-ba",
+      "method_name": "2 ĐIỂM HỌC BẠ",
+      "description": "2.1 ĐỐI TƯỢNG Người đã được công nhận tốt nghiệp trung học phổ thông (THPT) của Việt Nam hoặc có bằng tốt nghiệp của nước ngoài được công nhận trình độ tương đương; Người đã có bằng tốt nghiệp trung cấp, cao đẳng, đại học và tương đương. Đã hoàn thành đủ yêu cầu khối lượng kiến thức văn hóa cấp THPT (đối với người tốt nghiệp trung cấp, cao đẳng, tốt nghiệp trước năm 2025) theo quy định của pháp luật; Có đủ sức khỏe để học tập theo quy định hiện hành; Có đủ thông tin cá nhân, hồ sơ dự tuyển theo ",
+      "eligibility": "ĐỐI TƯỢNG Người đã được công nhận tốt nghiệp trung học phổ thông (THPT) của Việt Nam hoặc có bằng tốt nghiệp của nước ngoài được công nhận trình độ tương đương; Người đã có bằng tốt nghiệp trung cấp, cao đẳng, đại học và tương đương. Đã hoàn thành đủ yêu cầu khối lượng kiến thức văn hóa cấp THPT (đối với người tốt nghiệp trung cấp, cao đẳng, tốt nghiệp trước năm 2025) theo quy định của pháp luật; Có đủ sức khỏe để học tập theo quy định hiện hành; Có đủ thông tin cá nhân, hồ sơ dự tuyển theo quy định. 2.2",
+      "rules": "QUY CHẾ Sử dụng kết quả học tập cấp trung học phổ thông để xét tuyển cho tất cả các ngành đào tạo. Điểm các môn trong tổ hợp môn xét tuyển là điểm trung bình chung kết quả học tập cả năm các lớp 10, 11, 12 của mỗi môn học (làm tròng đến 01 chữ số thập phân). Điểm xét tuyển làm tròn đến 02 chữ số thập phân, tối đa là 30 điểm và tính như sau: ĐXT = (Môn 1 + Môn 2 + Môn 3) quy đổi tương đương + Điểm cộng (nếu có) + ĐƯT (nếu có) Trong đó: + ĐXT: Điểm xét tuyển; + Quy tắc quy đổi tương đương thực hiện theo quy định chung của Đại học Huế; + ĐƯT: Điểmưu tiên theo khu vực,",
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D09",
+            "D10",
+            "D14",
+            "D15",
+            "X25",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7220204",
+          "program_name": "Ngôn ngữ Trung Quốc",
+          "subject_groups": [
+            "A01",
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "D04",
+            "D45",
+            "D65",
+            "X01",
+            "X37"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7320104",
+          "program_name": "Truyền thông đa phương tiện",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D09",
+            "D10",
+            "D45",
+            "D65",
+            "X01",
+            "X25",
+            "X37"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D09",
+            "D10",
+            "D45",
+            "D65",
+            "X01",
+            "X25",
+            "X37"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "C01",
+            "C02",
+            "D01",
+            "X02",
+            "X06",
+            "X10",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7510205",
+          "program_name": "Công nghệ kỹ thuật ô tô",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "C01",
+            "D01",
+            "D07",
+            "D10",
+            "X06",
+            "X25",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7510601",
+          "program_name": "Quản lý công nghiệp",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "C01",
+            "D01",
+            "D07",
+            "D10",
+            "X06",
+            "X25",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị dịch vụ Du lịch và Lữ hành",
+          "subject_groups": [
+            "A01",
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "D04",
+            "D45",
+            "D65",
+            "X25",
+            "X37"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        }
+      ]
+    },
+    {
+      "method_id": "3-iem-thi-thpt",
+      "method_name": "3 ĐIỂM THI THPT",
+      "description": "3.1 ĐỐI TƯỢNG Người đã được công nhận tốt nghiệp trung học phổ thông (THPT) của Việt Nam hoặc có bằng tốt nghiệp của nước ngoài được công nhận trình độ tương đương; Người đã có bằng tốt nghiệp trung cấp, cao đẳng, đại học và tương đương. Đã hoàn thành đủ yêu cầu khối lượng kiến thức văn hóa cấp THPT (đối với người tốt nghiệp trung cấp, cao đẳng, tốt nghiệp trước năm 2025) theo quy định của pháp luật; Có đủ sức khỏe để học tập theo quy định hiện hành; Có đủ thông tin cá nhân, hồ sơ dự tuyển theo ",
+      "eligibility": "ĐỐI TƯỢNG Người đã được công nhận tốt nghiệp trung học phổ thông (THPT) của Việt Nam hoặc có bằng tốt nghiệp của nước ngoài được công nhận trình độ tương đương; Người đã có bằng tốt nghiệp trung cấp, cao đẳng, đại học và tương đương. Đã hoàn thành đủ yêu cầu khối lượng kiến thức văn hóa cấp THPT (đối với người tốt nghiệp trung cấp, cao đẳng, tốt nghiệp trước năm 2025) theo quy định của pháp luật; Có đủ sức khỏe để học tập theo quy định hiện hành; Có đủ thông tin cá nhân, hồ sơ dự tuyển theo quy định. 3.2",
+      "rules": "QUY CHẾ Xét tuyển sử dụng kết quả của kỳ thi tốt nghiệp THPT năm 2026 cho tất cả các ngành đào tạo. Điểm các môn trong tổ hợp môn xét tuyển được lấy từ kết quả thi tốt nghiệp THPT năm 2026. Không sử dụng kết quả miễn thi bài thi môn ngoại ngữ của kỳ thi tốt nghiệp THPT. Điểm xét tuyển làm tròn đến 02 chữ số thập phân, tối đa là 30 điểm và tính như sau: ĐXT = (Môn 1 + Môn 2 + Môn 3) + Điểm cộng (nếu có) + ĐƯT(nếu có) Trong đó: + ĐXT: Điểm xét tuyển; + ĐƯT: Điểm ưu tiên theo khu vực,",
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D09",
+            "D10",
+            "D14",
+            "D15",
+            "X25",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7220204",
+          "program_name": "Ngôn ngữ Trung Quốc",
+          "subject_groups": [
+            "A01",
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "D04",
+            "D45",
+            "D65",
+            "X01",
+            "X37"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7320104",
+          "program_name": "Truyền thông đa phương tiện",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D09",
+            "D10",
+            "D45",
+            "D65",
+            "X01",
+            "X25",
+            "X37"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D09",
+            "D10",
+            "D45",
+            "D65",
+            "X01",
+            "X25",
+            "X37"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "C01",
+            "C02",
+            "D01",
+            "X02",
+            "X06",
+            "X10",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7510205",
+          "program_name": "Công nghệ kỹ thuật ô tô",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "C01",
+            "D01",
+            "D07",
+            "D10",
+            "X06",
+            "X25",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7510601",
+          "program_name": "Quản lý công nghiệp",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "C01",
+            "D01",
+            "D07",
+            "D10",
+            "X06",
+            "X25",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị dịch vụ Du lịch và Lữ hành",
+          "subject_groups": [
+            "A01",
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "D04",
+            "D45",
+            "D65",
+            "X25",
+            "X37"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        }
+      ]
+    },
+    {
+      "method_id": "4-xet-tuyen-theo-phuong-thuc-xet-tuyen-dua-vao-ket-qua-ky-thi-tot-nghiep-trung-hoc-pho-thong-iem-thi-tn-thpt-nam-2026-hoac-ket-qua-hoc-tap-cap-thpt-hoc-ba-ket-hop-chung-chi-ngoai-ngu",
+      "method_name": "4 XÉT TUYỂN THEO PHƯƠNG THỨC XÉT TUYỂN DỰA VÀO KẾT QUẢ KỲ THI TỐT NGHIỆP TRUNG HỌC PHỔ THÔNG (ĐIỂM THI TN THPT) NĂM 2026 HOẶC KẾT QUẢ HỌC TẬP CẤP THPT (HỌC BẠ) KẾT HỢP CHỨNG CHỈ NGOẠI NGỮ.",
+      "description": "4.1 ĐỐI TƯỢNG Người đã được công nhận tốt nghiệp trung học phổ thông (THPT) của Việt Nam hoặc có bằng tốt nghiệp của nước ngoài được công nhận trình độ tương đương; Người đã có bằng tốt nghiệp trung cấp, cao đẳng, đại học và tương đương. Đã hoàn thành đủ yêu cầu khối lượng kiến thức văn hóa cấp THPT (đối với người tốt nghiệp trung cấp, cao đẳng, tốt nghiệp trước năm 2025) theo quy định của pháp luật; Có đủ sức khỏe để học tập theo quy định hiện hành; Có đủ thông tin cá nhân, hồ sơ dự tuyển theo ",
+      "eligibility": "ĐỐI TƯỢNG Người đã được công nhận tốt nghiệp trung học phổ thông (THPT) của Việt Nam hoặc có bằng tốt nghiệp của nước ngoài được công nhận trình độ tương đương; Người đã có bằng tốt nghiệp trung cấp, cao đẳng, đại học và tương đương. Đã hoàn thành đủ yêu cầu khối lượng kiến thức văn hóa cấp THPT (đối với người tốt nghiệp trung cấp, cao đẳng, tốt nghiệp trước năm 2025) theo quy định của pháp luật; Có đủ sức khỏe để học tập theo quy định hiện hành; Có đủ thông tin cá nhân, hồ sơ dự tuyển theo quy định. 4.2",
+      "rules": "QUY CHẾ Điểm chứng chỉ ngoại ngữ được quy đổi thành điểm 1 môn tương ứng môn ngoại ngữ trong tổ hợp môn xét tuyển (bảng quy đổi tại mục 3.3). Điểm xét tuyển được tính như phương thức 2 và 3 tương ứng.",
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D09",
+            "D10",
+            "D14",
+            "D15",
+            "X25",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7220204",
+          "program_name": "Ngôn ngữ Trung Quốc",
+          "subject_groups": [
+            "A01",
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "D04",
+            "D45",
+            "D65",
+            "X01",
+            "X37"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7320104",
+          "program_name": "Truyền thông đa phương tiện",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D09",
+            "D10",
+            "D45",
+            "D65",
+            "X01",
+            "X25",
+            "X37"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D09",
+            "D10",
+            "D45",
+            "D65",
+            "X01",
+            "X25",
+            "X37"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "C01",
+            "C02",
+            "D01",
+            "X02",
+            "X06",
+            "X10",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7510205",
+          "program_name": "Công nghệ kỹ thuật ô tô",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "C01",
+            "D01",
+            "D07",
+            "D10",
+            "X06",
+            "X25",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7510601",
+          "program_name": "Quản lý công nghiệp",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "C01",
+            "D01",
+            "D07",
+            "D10",
+            "X06",
+            "X25",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị dịch vụ Du lịch và Lữ hành",
+          "subject_groups": [
+            "A01",
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "D04",
+            "D45",
+            "D65",
+            "X25",
+            "X37"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        }
+      ]
+    },
+    {
+      "method_id": "5-iem-gnl-hcm",
+      "method_name": "5 ĐIỂM ĐGNL HCM",
+      "description": "5.1 ĐỐI TƯỢNG Người đã được công nhận tốt nghiệp trung học phổ thông (THPT) của Việt Nam hoặc có bằng tốt nghiệp của nước ngoài được công nhận trình độ tương đương; Người đã có bằng tốt nghiệp trung cấp, cao đẳng, đại học và tương đương. Đã hoàn thành đủ yêu cầu khối lượng kiến thức văn hóa cấp THPT (đối với người tốt nghiệp trung cấp, cao đẳng, tốt nghiệp trước năm 2025) theo quy định của pháp luật; Có đủ sức khỏe để học tập theo quy định hiện hành; Có đủ thông tin cá nhân, hồ sơ dự tuyển theo ",
+      "eligibility": "ĐỐI TƯỢNG Người đã được công nhận tốt nghiệp trung học phổ thông (THPT) của Việt Nam hoặc có bằng tốt nghiệp của nước ngoài được công nhận trình độ tương đương; Người đã có bằng tốt nghiệp trung cấp, cao đẳng, đại học và tương đương. Đã hoàn thành đủ yêu cầu khối lượng kiến thức văn hóa cấp THPT (đối với người tốt nghiệp trung cấp, cao đẳng, tốt nghiệp trước năm 2025) theo quy định của pháp luật; Có đủ sức khỏe để học tập theo quy định hiện hành; Có đủ thông tin cá nhân, hồ sơ dự tuyển theo quy định. 5.2",
+      "rules": "QUY CHẾ Điểm xét tuyển làm tròn đến 02 chữ số thập phân, tối đa là 30 điểm và tính như sau: ĐXT = {Điểm ĐGNL}quy đổi tương đương + Điểm cộng(nếu có) + ĐƯT(nếu có) Trong đó: + Điểm ĐGNL: Điểm đánh giá năng lực; + Quy tắc quy đổi tương đương thực hiện theo quy định chung của Đại học Huế; + ĐƯT: Điểm ưu tiên theo khu vực,",
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D09",
+            "D10",
+            "D14",
+            "D15",
+            "X25",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7220204",
+          "program_name": "Ngôn ngữ Trung Quốc",
+          "subject_groups": [
+            "A01",
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "D04",
+            "D45",
+            "D65",
+            "X01",
+            "X37"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7320104",
+          "program_name": "Truyền thông đa phương tiện",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D09",
+            "D10",
+            "D45",
+            "D65",
+            "X01",
+            "X25",
+            "X37"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D09",
+            "D10",
+            "D45",
+            "D65",
+            "X01",
+            "X25",
+            "X37"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "C01",
+            "C02",
+            "D01",
+            "X02",
+            "X06",
+            "X10",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7510205",
+          "program_name": "Công nghệ kỹ thuật ô tô",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "C01",
+            "D01",
+            "D07",
+            "D10",
+            "X06",
+            "X25",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7510601",
+          "program_name": "Quản lý công nghiệp",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "C01",
+            "D01",
+            "D07",
+            "D10",
+            "X06",
+            "X25",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị dịch vụ Du lịch và Lữ hành",
+          "subject_groups": [
+            "A01",
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "D04",
+            "D45",
+            "D65",
+            "X25",
+            "X37"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D09",
+            "D10",
+            "D14",
+            "D15",
+            "X25",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7220204",
+          "program_name": "Ngôn ngữ Trung Quốc",
+          "subject_groups": [
+            "A01",
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "D04",
+            "D45",
+            "D65",
+            "X01",
+            "X37"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7320104",
+          "program_name": "Truyền thông đa phương tiện",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D09",
+            "D10",
+            "D45",
+            "D65",
+            "X01",
+            "X25",
+            "X37"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D09",
+            "D10",
+            "D45",
+            "D65",
+            "X01",
+            "X25",
+            "X37"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "C01",
+            "C02",
+            "D01",
+            "X02",
+            "X06",
+            "X10",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7510205",
+          "program_name": "Công nghệ kỹ thuật ô tô",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "C01",
+            "D01",
+            "D07",
+            "D10",
+            "X06",
+            "X25",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7510601",
+          "program_name": "Quản lý công nghiệp",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "C01",
+            "D01",
+            "D07",
+            "D10",
+            "X06",
+            "X25",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị dịch vụ Du lịch và Lữ hành",
+          "subject_groups": [
+            "A01",
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "D04",
+            "D45",
+            "D65",
+            "X25",
+            "X37"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn của trường Đại học Phú Xuân các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-phu-xuan-DPX.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7000204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "A01",
+              "C00",
+              "C03",
+              "C04",
+              "D01",
+              "D04",
+              "D45",
+              "D65",
+              "X01",
+              "X37"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "A01",
+              "C03",
+              "C04",
+              "D01",
+              "D09",
+              "D10",
+              "D14",
+              "D15",
+              "X25",
+              "X26"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D09",
+              "D10",
+              "D45",
+              "D65",
+              "X01",
+              "X25",
+              "X37"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "C02",
+              "D01",
+              "X02",
+              "X06",
+              "X10",
+              "X26"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7510205",
+            "program_name": "Công nghệ kỹ thuật ô tô",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "D01",
+              "D07",
+              "D10",
+              "X06",
+              "X25",
+              "X26"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ Du lịch và lữ hành",
+            "subject_groups": [
+              "A01",
+              "C00",
+              "C03",
+              "C04",
+              "D01",
+              "D04",
+              "D45",
+              "D65",
+              "X25",
+              "X37"
+            ],
+            "score": 15,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7000204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "A01",
+              "C00",
+              "C03",
+              "C04",
+              "D01",
+              "D04",
+              "D45",
+              "D65",
+              "X01",
+              "X37"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "A01",
+              "C03",
+              "C04",
+              "D01",
+              "D09",
+              "D10",
+              "D14",
+              "D15",
+              "X25",
+              "X26"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D09",
+              "D10",
+              "D45",
+              "D65",
+              "X01",
+              "X25",
+              "X37"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "C02",
+              "D01",
+              "X02",
+              "X06",
+              "X10",
+              "X26"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7510205",
+            "program_name": "Công nghệ kỹ thuật ô tô",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C01",
+              "D01",
+              "D07",
+              "D10",
+              "X06",
+              "X25",
+              "X26"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ Du lịch và lữ hành",
+            "subject_groups": [
+              "A01",
+              "C00",
+              "C03",
+              "C04",
+              "D01",
+              "D04",
+              "D45",
+              "D65",
+              "X25",
+              "X37"
+            ],
+            "score": 18,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

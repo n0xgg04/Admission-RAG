@@ -1,0 +1,802 @@
+{
+  "university": {
+    "code": "YHB",
+    "name": "Trường Đại học Y Hà Nội",
+    "short_name": "HMU",
+    "location": [
+      "Hà Nội"
+    ],
+    "address": "01 Tôn Thất Tùng, Ðống Ða, Hà Nội",
+    "website": "https://hmu.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": 2150,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-y-ha-noi-YHB.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0227/thong-tin-tuyen-sinh-truong-dai-hoc-y-ha-noi-2026.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC Y HÀ NỘI 2026 Thông tin tuyển sinh Đại Học Y Hà Nội (HMU) năm 2026 Năm 2026, Trường Đại học Y Hà Nội tuyển sinh 2.150 chỉ tiêu theo 2 phương thức: Phương thức 1: Xét tuyển thẳng theo quy định của Bộ GD&ĐT và Trường đại học Y Hà Nội Phương thức 2: Xét điểm thi tốt nghiệp THPT",
+  "admission_methods": [
+    {
+      "method_id": "1-utxt-xt-thang",
+      "method_name": "1 ƯTXT, XT THẲNG",
+      "description": "1.1 ĐỐI TƯỢNG Xét tuyển thẳng theo qui định, qui chế hiện hành của Bộ GD&ĐT (Nhà trường dành 40% chỉ tiêu cho tuyển thẳng mỗi ngành. Nếu thí sinh trúng tuyển diện tuyển thẳng không đủ chỉ tiêu, chỉ tiêu tuyển thẳng còn lại sẽ dành cho phương thức xét tuyển dựa vào kết quả thi tốt nghiệp THPT năm 2026). DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ƯTXT, XT THẲNG STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7310401 Tâm lý học Đào tạo tại Hà Nội 2 7720101 Y khoa Đào tạo tại Hà Nội 3 7720101YHT Y khoa Phân h",
+      "eligibility": "ĐỐI TƯỢNG Xét tuyển thẳng theo qui định, qui chế hiện hành của Bộ GD&ĐT (Nhà trường dành 40% chỉ tiêu cho tuyển thẳng mỗi ngành. Nếu thí sinh trúng tuyển diện tuyển thẳng không đủ chỉ tiêu, chỉ tiêu tuyển thẳng còn lại sẽ dành cho phương thức xét tuyển dựa vào kết quả thi tốt nghiệp THPT năm 2026).",
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7310401",
+          "program_name": "Tâm lý học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720110",
+          "program_name": "Y học dự phòng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720115",
+          "program_name": "Y học cổ truyền",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng Chương trình tiên tiến (*)",
+          "subject_groups": [],
+          "program_type": "tiên_tiến",
+          "note": "6"
+        },
+        {
+          "program_code": "7720302",
+          "program_name": "Hộ sinh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7720401",
+          "program_name": "Dinh dưỡng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7720501",
+          "program_name": "Răng-Hàm-Mặt",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7720502",
+          "program_name": "Kĩ thuật phục hình răng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kĩ thuật xét nghiệm y học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7720602",
+          "program_name": "Kĩ thuật hình ảnh y học (**)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7720603",
+          "program_name": "Kĩ thuật phục hồi chức năng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7720609",
+          "program_name": "Khúc xạ nhãn khoa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7720701",
+          "program_name": "Y tế công cộng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7760101",
+          "program_name": "Công tác xã hội",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "20"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-thi-thpt",
+      "method_name": "2 ĐIỂM THI THPT",
+      "description": "2.1 ĐỐI TƯỢNG Xét tuyển dựa vào kết quả thi tốt nghiệp THPT năm 2026 (60% chỉ tiêu mỗi ngành). 2.2 QUY CHẾ Lưu ý: (*) Ngành Điều dưỡng chương trình tiên tiến: Nhà trường tổ chức đào tạo bằng tiếng Anh. (**) Ngành Kĩ thuật hình ảnh y học đào tạo tại Hà Nội: 50 chỉ tiêu đào tạo Kỹ thuật hình ảnh y học; 50 chỉ tiêu đào tạo Kỹ thuật hình ảnh y học định hướng xạ trị. Điểm cộng - Điểm thưởng, điểm khuyến khích gọi chung là điểm cộng và được cộng vào tổng điểm ba bài thi/môn thi trong kỳ thi tốt nghiệp",
+      "eligibility": "ĐỐI TƯỢNG Xét tuyển dựa vào kết quả thi tốt nghiệp THPT năm 2026 (60% chỉ tiêu mỗi ngành). 2.2",
+      "rules": "QUY CHẾ Lưu ý: (*) Ngành Điều dưỡng chương trình tiên tiến: Nhà trường tổ chức đào tạo bằng tiếng Anh. (**) Ngành Kĩ thuật hình ảnh y học đào tạo tại Hà Nội: 50 chỉ tiêu đào tạo Kỹ thuật hình ảnh y học; 50 chỉ tiêu đào tạo Kỹ thuật hình ảnh y học định hướng xạ trị. Điểm cộng - Điểm thưởng, điểm khuyến khích gọi chung là điểm cộng và được cộng vào tổng điểm ba bài thi/môn thi trong kỳ thi tốt nghiệp THPT năm 2026 để xét tuyển. Mức điểm cộng áp dụng theo qui chế hiện hành của Bộ GD&ĐT. - Trường Đại học Y Hà Nội có 02 loại điểm cộng sau: Điểm thưởng đối với thí sinh diện Ưu tiên xét tuyển Điểm khuyến khích đối với thí sinh có chứng chỉ ngoại ngữ quốc tế và chứng chỉ quốc tế.",
+      "programs": [
+        {
+          "program_code": "7310401",
+          "program_name": "Tâm lý học",
+          "subject_groups": [
+            "A01",
+            "D01",
+            "D07",
+            "D10"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "B00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720110",
+          "program_name": "Y học dự phòng",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720115",
+          "program_name": "Y học cổ truyền",
+          "subject_groups": [
+            "A00",
+            "B00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng Chương trình tiên tiến (*)",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07"
+          ],
+          "program_type": "tiên_tiến",
+          "note": "6"
+        },
+        {
+          "program_code": "7720302",
+          "program_name": "Hộ sinh",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7720401",
+          "program_name": "Dinh dưỡng",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7720501",
+          "program_name": "Răng-Hàm-Mặt",
+          "subject_groups": [
+            "B00"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7720502",
+          "program_name": "Kĩ thuật phục hình răng",
+          "subject_groups": [
+            "A00",
+            "B00"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kĩ thuật xét nghiệm y học",
+          "subject_groups": [
+            "A00",
+            "B00"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7720602",
+          "program_name": "Kĩ thuật hình ảnh y học (**)",
+          "subject_groups": [
+            "A00",
+            "B00"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7720603",
+          "program_name": "Kĩ thuật phục hồi chức năng",
+          "subject_groups": [
+            "A00",
+            "B00"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7720609",
+          "program_name": "Khúc xạ nhãn khoa",
+          "subject_groups": [
+            "A00",
+            "B00"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7720701",
+          "program_name": "Y tế công cộng",
+          "subject_groups": [
+            "A01",
+            "D01",
+            "D07",
+            "D10"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7760101",
+          "program_name": "Công tác xã hội",
+          "subject_groups": [
+            "A01",
+            "D01",
+            "D07",
+            "D10"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7310401",
+          "program_name": "Tâm lý học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310401",
+          "program_name": "Tâm lý học",
+          "subject_groups": [
+            "A01",
+            "D01",
+            "D07",
+            "D10"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "B00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720110",
+          "program_name": "Y học dự phòng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720110",
+          "program_name": "Y học dự phòng",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720115",
+          "program_name": "Y học cổ truyền",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7720115",
+          "program_name": "Y học cổ truyền",
+          "subject_groups": [
+            "A00",
+            "B00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng Chương trình tiên tiến (*)",
+          "subject_groups": [],
+          "program_type": "tiên_tiến",
+          "note": "6"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng Chương trình tiên tiến (*)",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07"
+          ],
+          "program_type": "tiên_tiến",
+          "note": "6"
+        },
+        {
+          "program_code": "7720302",
+          "program_name": "Hộ sinh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7720302",
+          "program_name": "Hộ sinh",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7720401",
+          "program_name": "Dinh dưỡng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7720401",
+          "program_name": "Dinh dưỡng",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7720501",
+          "program_name": "Răng-Hàm-Mặt",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7720501",
+          "program_name": "Răng-Hàm-Mặt",
+          "subject_groups": [
+            "B00"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7720502",
+          "program_name": "Kĩ thuật phục hình răng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7720502",
+          "program_name": "Kĩ thuật phục hình răng",
+          "subject_groups": [
+            "A00",
+            "B00"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kĩ thuật xét nghiệm y học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kĩ thuật xét nghiệm y học",
+          "subject_groups": [
+            "A00",
+            "B00"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7720602",
+          "program_name": "Kĩ thuật hình ảnh y học (**)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7720602",
+          "program_name": "Kĩ thuật hình ảnh y học (**)",
+          "subject_groups": [
+            "A00",
+            "B00"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7720603",
+          "program_name": "Kĩ thuật phục hồi chức năng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7720603",
+          "program_name": "Kĩ thuật phục hồi chức năng",
+          "subject_groups": [
+            "A00",
+            "B00"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7720609",
+          "program_name": "Khúc xạ nhãn khoa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7720609",
+          "program_name": "Khúc xạ nhãn khoa",
+          "subject_groups": [
+            "A00",
+            "B00"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7720701",
+          "program_name": "Y tế công cộng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7720701",
+          "program_name": "Y tế công cộng",
+          "subject_groups": [
+            "A01",
+            "D01",
+            "D07",
+            "D10"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7760101",
+          "program_name": "Công tác xã hội",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7760101",
+          "program_name": "Công tác xã hội",
+          "subject_groups": [
+            "A01",
+            "D01",
+            "D07",
+            "D10"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Đại học Y Hà Nội các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-y-ha-noi-YHB.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 23.7,
+            "note": null
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 28.7,
+            "note": null
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 26.7,
+            "note": null
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 28.13,
+            "note": null
+          },
+          {
+            "program_code": "7720101YHT",
+            "program_name": "Y khoa Phân hiệu Thanh Hóa",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 25.8,
+            "note": null
+          },
+          {
+            "program_code": "7720110",
+            "program_name": "Y học dự phòng",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7720115",
+            "program_name": "Y học cổ truyền",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 23.5,
+            "note": null
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [
+              "A00",
+              "B00"
+            ],
+            "score": 22.25,
+            "note": null
+          },
+          {
+            "program_code": "7720301YHT",
+            "program_name": "Điều dưỡng Phân hiệu Thanh Hóa",
+            "subject_groups": [
+              "A00",
+              "B00"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7720302",
+            "program_name": "Hộ sinh",
+            "subject_groups": [
+              "A00",
+              "B00"
+            ],
+            "score": 20.35,
+            "note": null
+          },
+          {
+            "program_code": "7720401",
+            "program_name": "Dinh dưỡng",
+            "subject_groups": [
+              "A00",
+              "B00"
+            ],
+            "score": 18.75,
+            "note": null
+          },
+          {
+            "program_code": "7720501",
+            "program_name": "Răng - Hàm - Mặt",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 27.34,
+            "note": null
+          },
+          {
+            "program_code": "7720502",
+            "program_name": "Kỹ thuật phục hình răng",
+            "subject_groups": [
+              "A00",
+              "B00"
+            ],
+            "score": 21.85,
+            "note": null
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật xét nghiệm y học",
+            "subject_groups": [
+              "A00",
+              "B00"
+            ],
+            "score": 23.72,
+            "note": null
+          },
+          {
+            "program_code": "7720601YHT",
+            "program_name": "Kỹ thuật xét nghiệm y học Phân hiệu Thanh Hóa",
+            "subject_groups": [
+              "A00",
+              "B00"
+            ],
+            "score": 18.35,
+            "note": null
+          },
+          {
+            "program_code": "7720602",
+            "program_name": "Kỹ thuật hình ảnh y học",
+            "subject_groups": [
+              "A00",
+              "B00"
+            ],
+            "score": 23.57,
+            "note": null
+          },
+          {
+            "program_code": "7720603",
+            "program_name": "Kỹ thuật phục hồi chức năng",
+            "subject_groups": [
+              "A00",
+              "B00"
+            ],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "7720603YHT",
+            "program_name": "Kỹ thuật phục hồi chức năng Phân hiệu Thanh Hóa",
+            "subject_groups": [
+              "A00",
+              "B00"
+            ],
+            "score": 17.3,
+            "note": null
+          },
+          {
+            "program_code": "7720699",
+            "program_name": "Khúc xạ nhãn khoa",
+            "subject_groups": [
+              "A00",
+              "B00"
+            ],
+            "score": 23.23,
+            "note": null
+          },
+          {
+            "program_code": "7720701",
+            "program_name": "Y tế công cộng",
+            "subject_groups": [
+              "B00",
+              "B08"
+            ],
+            "score": 18.2,
+            "note": null
+          },
+          {
+            "program_code": "7720701",
+            "program_name": "Y tế công cộng",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 21.2,
+            "note": null
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B08"
+            ],
+            "score": 17,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

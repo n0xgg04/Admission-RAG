@@ -1,0 +1,115 @@
+{
+  "university": {
+    "code": "ZNH",
+    "name": "Trường Đại học Văn hóa Nghệ thuật Quân đội",
+    "short_name": null,
+    "location": [
+      "Hà Nội"
+    ],
+    "address": null,
+    "website": null,
+    "type": null,
+    "description": null
+  },
+  "admission_year": null,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-van-hoa-nghe-thuat-quan-doi-ZNH.html",
+  "pdf_url": null,
+  "admission_overview": "LỚP MỚI - DÀNH CHO 2K9 ÔN THI ĐGNL & ĐGTD • Kỳ thi Đánh giá năng lực ĐHQG Hà Nội 2027 - Xem ngay • Kỳ thi Đánh giá năng lực ĐHQG TP.HCM 2027 - Xem ngay • Kỳ thi Đánh giá năng lực Quân đội 2027 - Xem ngay • Kỳ thi Đánh giá tư duy Bách khoa HN 2027 - Xem ngay XEM THÊM các lớp dành cho kỳ thi khác (ĐGNL Bộ Công An, ĐGNL Sư phạm, TN THPT,....)",
+  "admission_methods": [
+    {
+      "method_id": "phuong-thuc",
+      "method_name": "Phương thức xét tuyển",
+      "description": "STT Mã ngành Tên ngành Chỉ tiêu Phương thức xét tuyển Tổ hợp",
+      "eligibility": null,
+      "rules": null,
+      "programs": []
+    }
+  ],
+  "cutoff_scores_text": null,
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-van-hoa-nghe-thuat-quan-doi-ZNH.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2018",
+        "year": 2018,
+        "entries": [
+          {
+            "program_code": "Đại học Dân Sự",
+            "program_name": "Đại học Dân Sự",
+            "subject_groups": [],
+            "score": 0,
+            "note": null
+          },
+          {
+            "program_code": "7140221",
+            "program_name": "Sư phạm Âm nhạc",
+            "subject_groups": [
+              "N01"
+            ],
+            "score": 22,
+            "note": "Tổng điểm thi 2 môn năng khiếu 11,10, điểm chuyên môn >=7"
+          },
+          {
+            "program_code": "7210203",
+            "program_name": "Sáng tác âm nhạc",
+            "subject_groups": [
+              "N05"
+            ],
+            "score": 17.25,
+            "note": "Tổng điểm thi 2 môn năng khiếu 14, điểm chuyên môn >=7"
+          },
+          {
+            "program_code": "7210205",
+            "program_name": "Thanh nhạc",
+            "subject_groups": [
+              "N02"
+            ],
+            "score": 17.55,
+            "note": "Tổng điểm thi 2 môn năng khiếu 14,05, điểm chuyên môn >=9"
+          },
+          {
+            "program_code": "7210207",
+            "program_name": "Biểu diễn nhạc cụ phương tây",
+            "subject_groups": [
+              "N04"
+            ],
+            "score": 15.25,
+            "note": "Tổng điểm thi 2 môn năng khiếu 13,25, điểm chuyên môn >=8,5"
+          },
+          {
+            "program_code": "7210243",
+            "program_name": "Biên đạo múa",
+            "subject_groups": [
+              "N03"
+            ],
+            "score": 22,
+            "note": "Tổng điểm thi 2 môn năng khiếu 17,5, điểm chuyên môn >=9"
+          },
+          {
+            "program_code": "7229042",
+            "program_name": "Quản lý văn hoá",
+            "subject_groups": [
+              "N01"
+            ],
+            "score": 23,
+            "note": "Tổng điểm thi 2 môn năng khiếu 12,6, điểm chuyên môn >=7"
+          },
+          {
+            "program_code": "7320101",
+            "program_name": "Báo chí",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 24,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

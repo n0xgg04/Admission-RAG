@@ -1,0 +1,599 @@
+{
+  "university": {
+    "code": "DCA",
+    "name": "Trường Đại Học Intracom",
+    "short_name": "ECOUNI",
+    "location": [
+      "Hưng Yên"
+    ],
+    "address": "Cơ sở Khu đô thị Ecopark, Văn Giang, Hưng Yên",
+    "website": "https://www.ecouni.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2025,
+  "total_quota": 650,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-chu-van-an-DCA.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2025/0725/thong-tin-tuyen-sinh-truong-dai-hoc-chu-van-an-2025.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC INTRACOM 2025 Thông tin tuyển sinh trường Đại học Chu Văn An (ECOUNI) năm 2025 Năm 2025, trường Đại học Chu Văn An tuyển sinh 650 chỉ tiêu cho 6 ngành đào tạo dựa trên 4 phương thức xét tuyển như sau: Phương thức 1: Tuyển thẳng và ưu tiên tuyển thẳng Phương thức 2: Xét tuyển dựa vào kết quả thi tốt nghiệp THPT Phương thức 3: Xét học bạ Phương thức 4: Xét tuyển theo kết quả thi ĐGTD của Trường Đại học Bách Khoa Hà Nội Xem thời gian và hồ sơ đăng ký xét tuyển ECOUNI năm 2025 TẠI ĐÂY",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 ĐIỀU KIỆN XÉT TUYỂN Dự kiến 15 điểm gồm điểm ưu tiên. - Đối với ngành Công nghệ thông tin và Kỹ thuật điện: dự kiến 17 điểm gồm điểm ưu tiên DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM THI THPT STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7220201 Ngôn ngữ Anh A01; D01; D10; D14 2 7340101 Quản trị Kinh doanh A00; A01; C04; D01 3 7340301 Kế toán A00; A01; C04; D01 4 7380107 Luật Kinh tế A00; A01; C00; D01 5 7480201 Công nghệ thông tin A00; A01; C04; D01 6 7520201 Kỹ thuật điện A00; A01; C04; D01",
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "A01",
+            "D01",
+            "D10",
+            "D14"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị Kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7380107",
+          "program_name": "Luật Kinh tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C00",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "Kỹ thuật điện",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-hoc-ba",
+      "method_name": "2 ĐIỂM HỌC BẠ",
+      "description": "2.1 ĐIỀU KIỆN XÉT TUYỂN Xét tuyển học bạ theo tổng điểm trung bình Inăm học lớp 12 hoặc điểm trung bình chung 31 Inăm THPT theo tổ hợp môn xét tuyển đạt từ 15 điểm trở lên. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM HỌC BẠ STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7220201 Ngôn ngữ Anh A01; D01; D10; D14 2 7340101 Quản trị Kinh doanh A00; A01; C04; D01 3 7340301 Kế toán A00; A01; C04; D01 4 7380107 Luật Kinh tế A00; A01; C00; D01 5 7480201 Công nghệ thông tin A00; A01; C04; D01 6 7520201 Kỹ thuậ",
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "A01",
+            "D01",
+            "D10",
+            "D14"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị Kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7380107",
+          "program_name": "Luật Kinh tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C00",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "Kỹ thuật điện",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        }
+      ]
+    },
+    {
+      "method_id": "3-iem-anh-gia-tu-duy",
+      "method_name": "3 ĐIỂM ĐÁNH GIÁ TƯ DUY",
+      "description": "3.1 ĐỐI TƯỢNG Xét tuyển theo kết quả thi ĐGTD của Trường Đại học Bách Khoa Hà Nội DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐÁNH GIÁ TƯ DUY STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7220201 Ngôn ngữ Anh 2 7340101 Quản trị Kinh doanh 3 7340301 Kế toán 4 7380107 Luật Kinh tế 5 7480201 Công nghệ thông tin 6 7520201 Kỹ thuật điện",
+      "eligibility": "ĐỐI TƯỢNG Xét tuyển theo kết quả thi ĐGTD của Trường Đại học Bách Khoa Hà Nội",
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị Kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7380107",
+          "program_name": "Luật Kinh tế",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "Kỹ thuật điện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        }
+      ]
+    },
+    {
+      "method_id": "4-utxt-xt-thang",
+      "method_name": "4 ƯTXT, XT THẲNG",
+      "description": "4.1 ĐỐI TƯỢNG Tuyển thẳng và ưu tiên tuyển thẳng DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ƯTXT, XT THẲNG STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7220201 Ngôn ngữ Anh 2 7340101 Quản trị Kinh doanh 3 7340301 Kế toán 4 7380107 Luật Kinh tế 5 7480201 Công nghệ thông tin 6 7520201 Kỹ thuật điện",
+      "eligibility": "ĐỐI TƯỢNG Tuyển thẳng và ưu tiên tuyển thẳng",
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị Kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7380107",
+          "program_name": "Luật Kinh tế",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "Kỹ thuật điện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "A01",
+            "D01",
+            "D10",
+            "D14"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị Kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị Kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7380107",
+          "program_name": "Luật Kinh tế",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7380107",
+          "program_name": "Luật Kinh tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C00",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "Kỹ thuật điện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "Kỹ thuật điện",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C04",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Trường Đại Học Chu Văn An các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": "",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-chu-van-an-DCA.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2024",
+        "year": 2024,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D10",
+              "D14"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Luật Kinh tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "D01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "D01"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7520201",
+            "program_name": "Kỹ thuật điện",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "D01"
+            ],
+            "score": 17,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2024",
+        "year": 2024,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D10",
+              "D14"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Luật kinh tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7520201",
+            "program_name": "Kỹ thuật điện",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01"
+            ],
+            "score": 17,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,365 @@
+{
+  "university": {
+    "code": "STS",
+    "name": "Trường Đại học Sư phạm Thể dục Thể thao TPHCM",
+    "short_name": "UPES",
+    "location": [
+      "HCM - Hồ Chí Minh"
+    ],
+    "address": "639 Nguyễn Trãi, P11, Q5, TP Hồ Chí Minh",
+    "website": "https://upes.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": 500,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-su-pham-the-duc-the-thao-tphcm-STS.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0424/thong-tin-tuyen-sinh-truong-dai-hoc-su-pham-the-duc-the-thao-tphcm-2026.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC SƯ PHẠM THỂ DỤC THỂ THAO TPHCM 2026 Thông tin tuyển sinh Đại Học Sư Phạm Thể Dục Thể Thao TPHCM (UPES) năm 2026 Năm 2026, Đại Học Sư Phạm Thể Dục Thể Thao TPHCM dự kiến tuyển sinh 500 chỉ tiêu qua 04 phương thức Phương thức 1: Xét tuyển kết hợp Phương thức 2: Xét tuyển thẳng Phương thức 3: Xét tuyển học bạ - Kết hợp kết quả học tập cấp THPT với điểm thi năng khiếu Phương thức 4: Xét tuyển điểm thi THPT - Kết hợp kết quả học tập cấp THPT với điểm thi năng khiếu Xem thời gian và hồ sơ đăng ký xét tuyển USH năm 2026 TẠI ĐÂY",
+  "admission_methods": [
+    {
+      "method_id": "1-ket-hop-ket-qua-thi-tot-nghiep-thpt-voi-iem-thi-nang-khieu-e-xet-tuyen",
+      "method_name": "1 KẾT HỢP KẾT QUẢ THI TỐT NGHIỆP THPT VỚI ĐIỂM THI NĂNG KHIẾU ĐỂ XÉT TUYỂN",
+      "description": "1.1 QUY CHẾ Điểm trúng tuyển là ngưỡng điểm mà những thí sinh có điểm xét tuyển bằng hoặc cao hơn sẽ đủ điều kiện trúng tuyển. Điểm xét tuyển = Điểm tổ hợp + Điểm cộng (nếu có) + Điểm ưu tiên (nếu có) Trong đó: Điểm tổ hợp = Điểm môn 1 + Điểm môn 2 + Điểm môn Năng khiếu TDTT Điểm cộng (được quy định tại mục 5b) Điểm ưu tiên = Điểm ưu tiên đối tượng + Điểm ưu tiên khu vực Riêng điểm ưu tiên đối với thí sinh đạt điểm tổ hợp từ 22,5 trở lên (tối đa là 30) được xác định theo công thức sau: [(30 - Đi",
+      "eligibility": "đối tượng + Điểm ưu tiên khu vực Riêng điểm ưu tiên đối với thí sinh đạt điểm tổ hợp từ 22,5 trở lên (tối đa là 30) được xác định theo công thức sau: [(30 - Điểm tổ hợp) / 7,5] x (Điểm ưu tiên đối tượng + Điểm ưu tiên khu vực)",
+      "rules": "QUY CHẾ Điểm trúng tuyển là ngưỡng điểm mà những thí sinh có điểm xét tuyển bằng hoặc cao hơn sẽ đủ điều kiện trúng tuyển. Điểm xét tuyển = Điểm tổ hợp + Điểm cộng (nếu có) + Điểm ưu tiên (nếu có) Trong đó: Điểm tổ hợp = Điểm môn 1 + Điểm môn 2 + Điểm môn Năng khiếu TDTT Điểm cộng (được quy định tại mục 5b) Điểm ưu tiên = Điểm ưu tiên",
+      "programs": [
+        {
+          "program_code": "7140206",
+          "program_name": "Ngành Giáo dục thể chất",
+          "subject_groups": [
+            "T00",
+            "T01",
+            "T02",
+            "T05",
+            "T08",
+            "T09",
+            "T10"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7810301",
+          "program_name": "Ngành Quản lý thể dục thể thao",
+          "subject_groups": [
+            "T00",
+            "T01",
+            "T02",
+            "T05",
+            "T08",
+            "T09",
+            "T10"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7810302",
+          "program_name": "Ngành Huấn luyện thể thao",
+          "subject_groups": [
+            "T00",
+            "T01",
+            "T02",
+            "T05",
+            "T08",
+            "T09",
+            "T10"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        }
+      ]
+    },
+    {
+      "method_id": "2-ket-hop-ket-qua-hoc-tap-thpt-voi-iem-thi-nang-khieu-e-xet-tuyen",
+      "method_name": "2 KẾT HỢP KẾT QUẢ HỌC TẬP THPT VỚI ĐIỂM THI NĂNG KHIẾU ĐỂ XÉT TUYỂN",
+      "description": "2.1 QUY CHẾ Điểm trúng tuyển là ngưỡng điểm mà những thí sinh có điểm xét tuyển bằng hoặc cao hơn sẽ đủ điều kiện trúng tuyển. Điểm xét tuyển = Điểm tổ hợp + Điểm cộng (nếu có) + Điểm ưu tiên (nếu có) Trong đó: Điểm tổ hợp = Điểm môn 1 + Điểm môn 2 + Điểm môn Năng khiếu TDTT Điểm cộng (được quy định tại mục 5b) Điểm ưu tiên = Điểm ưu tiên đối tượng + Điểm ưu tiên khu vực Riêng điểm ưu tiên đối với thí sinh đạt điểm tổ hợp từ 22,5 trở lên (tối đa là 30) được xác định theo công thức sau: [(30 - Đi",
+      "eligibility": "đối tượng + Điểm ưu tiên khu vực Riêng điểm ưu tiên đối với thí sinh đạt điểm tổ hợp từ 22,5 trở lên (tối đa là 30) được xác định theo công thức sau: [(30 - Điểm tổ hợp) / 7,5] x (Điểm ưu tiên đối tượng + Điểm ưu tiên khu vực)",
+      "rules": "QUY CHẾ Điểm trúng tuyển là ngưỡng điểm mà những thí sinh có điểm xét tuyển bằng hoặc cao hơn sẽ đủ điều kiện trúng tuyển. Điểm xét tuyển = Điểm tổ hợp + Điểm cộng (nếu có) + Điểm ưu tiên (nếu có) Trong đó: Điểm tổ hợp = Điểm môn 1 + Điểm môn 2 + Điểm môn Năng khiếu TDTT Điểm cộng (được quy định tại mục 5b) Điểm ưu tiên = Điểm ưu tiên",
+      "programs": [
+        {
+          "program_code": "7140206",
+          "program_name": "Ngành Giáo dục thể chất",
+          "subject_groups": [
+            "T00",
+            "T01",
+            "T02",
+            "T05",
+            "T08",
+            "T09",
+            "T10"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7810301",
+          "program_name": "Ngành Quản lý thể dục thể thao",
+          "subject_groups": [
+            "T00",
+            "T01",
+            "T02",
+            "T05",
+            "T08",
+            "T09",
+            "T10"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7810302",
+          "program_name": "Ngành Huấn luyện thể thao",
+          "subject_groups": [
+            "T00",
+            "T01",
+            "T02",
+            "T05",
+            "T08",
+            "T09",
+            "T10"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        }
+      ]
+    },
+    {
+      "method_id": "3-phuong-thuc-tuyen-sinh-ket-hop-giua-thi-tuyen-va-xet-tuyen-thi-mon-nang-khieu-the-duc-the-thao-ket-hop-xet-iem-2-mon-van-hoa",
+      "method_name": "3 PHƯƠNG THỨC TUYỂN SINH KẾT HỢP GIỮA THI TUYỂN VÀ XÉT TUYỂN: THI MÔN NĂNG KHIẾU THỂ DỤC THỂ THAO KẾT HỢP XÉT ĐIỂM 2 MÔN VĂN HÓA",
+      "description": "3.1 QUY CHẾ Điểm trúng tuyển là ngưỡng điểm mà những thí sinh có điểm xét tuyển bằng hoặc cao hơn sẽ đủ điều kiện trúng tuyển. Điểm xét tuyển = Điểm tổ hợp + Điểm cộng (nếu có) + Điểm ưu tiên (nếu có) Trong đó: Điểm tổ hợp = Điểm môn 1 + Điểm môn 2 + Điểm môn Năng khiếu TDTT Điểm cộng (được quy định tại mục 5b) Điểm ưu tiên = Điểm ưu tiên đối tượng + Điểm ưu tiên khu vực Riêng điểm ưu tiên đối với thí sinh đạt điểm tổ hợp từ 22,5 trở lên (tối đa là 30) được xác định theo công thức sau: [(30 - Đi",
+      "eligibility": "đối tượng + Điểm ưu tiên khu vực Riêng điểm ưu tiên đối với thí sinh đạt điểm tổ hợp từ 22,5 trở lên (tối đa là 30) được xác định theo công thức sau: [(30 - Điểm tổ hợp) / 7,5] x (Điểm ưu tiên đối tượng + Điểm ưu tiên khu vực)",
+      "rules": "QUY CHẾ Điểm trúng tuyển là ngưỡng điểm mà những thí sinh có điểm xét tuyển bằng hoặc cao hơn sẽ đủ điều kiện trúng tuyển. Điểm xét tuyển = Điểm tổ hợp + Điểm cộng (nếu có) + Điểm ưu tiên (nếu có) Trong đó: Điểm tổ hợp = Điểm môn 1 + Điểm môn 2 + Điểm môn Năng khiếu TDTT Điểm cộng (được quy định tại mục 5b) Điểm ưu tiên = Điểm ưu tiên",
+      "programs": [
+        {
+          "program_code": "7140206",
+          "program_name": "Ngành Giáo dục thể chất",
+          "subject_groups": [
+            "T00",
+            "T01",
+            "T02",
+            "T05",
+            "T08",
+            "T09",
+            "T10"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7810301",
+          "program_name": "Ngành Quản lý thể dục thể thao",
+          "subject_groups": [
+            "T00",
+            "T01",
+            "T02",
+            "T05",
+            "T08",
+            "T09",
+            "T10"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7810302",
+          "program_name": "Ngành Huấn luyện thể thao",
+          "subject_groups": [
+            "T00",
+            "T01",
+            "T02",
+            "T05",
+            "T08",
+            "T09",
+            "T10"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7140206",
+          "program_name": "Ngành Giáo dục thể chất",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140206",
+          "program_name": "Ngành Giáo dục thể chất",
+          "subject_groups": [
+            "T00",
+            "T01",
+            "T02",
+            "T05",
+            "T08",
+            "T09",
+            "T10"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7810301",
+          "program_name": "Ngành Quản lý thể dục thể thao",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7810301",
+          "program_name": "Ngành Quản lý thể dục thể thao",
+          "subject_groups": [
+            "T00",
+            "T01",
+            "T02",
+            "T05",
+            "T08",
+            "T09",
+            "T10"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7810302",
+          "program_name": "Ngành Huấn luyện thể thao",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7810302",
+          "program_name": "Ngành Huấn luyện thể thao",
+          "subject_groups": [
+            "T00",
+            "T01",
+            "T02",
+            "T05",
+            "T08",
+            "T09",
+            "T10"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Trường Đại Học Sư Phạm Thể Dục Thể Thao TPHCM các năm Tại đây",
+  "tuition_text": "Ngành Giáo dục thể chất (7140206): - Sinh viên chính quy ngành Giáo dục thể chất được hưởng chính sách về học phí và sinh hoạt phí theo Nghị định 116/2020/NĐ-CP. Được Nhà nước hỗ trợ tiền đóng học phí bằng mức thu học phí của nhà trường và được Nhà nước hỗ trợ 3.630.000 đồng/tháng để chi trả chi phí sinh hoạt trong thời gian học tập tại trường (không quá 10 tháng/năm học) theo quy định hiện hành. - Sinh viên chính quy ngành Giáo dục thể chất không đăng ký hưởng chính sách về học phí và sinh hoạt phí theo Nghị định 116/2020/NĐ-CP đóng mức học phí 15,9 triệu đồng/năm theo Nghị định 238/2025/NĐ-CP. Ngành Quản lý thể dục thể thao và Ngành Huấn luyện thể thao: - Sinh viên chính quy ngành Quản lý thể dục thể thao và ngành Huấn luyện thể thao đóng mức học phí 16,9 triệu đồng/năm theo Nghị định 238/2025/NĐ-CP. b) Lộ trình tăng học phí theo từng năm - Thực hiện lộ trình tăng học phí theo Nghị định số 238/2025/NĐ-CP ngày 03/09/2025 của Chính phủ quy định về khung học phí, cơ chế thu, quản lý học phí, chính sách miễn, giảm, hỗ trợ học phí, hỗ trợ chi phí học tập trong cơ sở giáo dục thuộc hệ thống giáo dục quốc dân và giá dịch vụ trong lĩnh vực giáo dục, đào tạo",
+  "timeline_text": "a) Các đợt tuyển sinh trong năm Đợt 1: Tháng 06 năm 2026. Đợt 2: Dự kiến tháng 10 năm 2026. Đối tượng tham gia đăng ký xét tuyển đợt 2 gồm: Thí sinh chưa trúng tuyển; Thí sinh đã trúng tuyển nhưng chưa xác nhận nhập học vào bất cứ cơ sở đào tạo nào; Thí sinh đã xác nhận nhập học tại một cơ sở đào tạo nhưng mong muốn được xét tuyển thì phải được cơ sở đào tạo nơi nhập học cho phép bằng văn bản",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-su-pham-the-duc-the-thao-tphcm-STS.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140206",
+            "program_name": "Giáo dục thể chất",
+            "subject_groups": [
+              "T00",
+              "T02",
+              "T05",
+              "T08",
+              "T09",
+              "T10"
+            ],
+            "score": 26,
+            "note": "Kết hợp điểm thi THPT với thi năng khiếu"
+          },
+          {
+            "program_code": "7810301",
+            "program_name": "Quản lý thể dục thể thao",
+            "subject_groups": [
+              "T00",
+              "T02",
+              "T05",
+              "T08",
+              "T09",
+              "T10"
+            ],
+            "score": 22.85,
+            "note": "Kết hợp điểm thi THPT với thi năng khiếu"
+          },
+          {
+            "program_code": "7810302",
+            "program_name": "Huấn luyện Thể thao",
+            "subject_groups": [
+              "T00",
+              "T02",
+              "T05",
+              "T08",
+              "T09",
+              "T10"
+            ],
+            "score": 24.65,
+            "note": "Kết hợp điểm thi THPT với thi năng khiếu"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140206",
+            "program_name": "Giáo dục thể chất",
+            "subject_groups": [
+              "T00",
+              "T02",
+              "T05",
+              "T08",
+              "T09",
+              "T10"
+            ],
+            "score": 27.45,
+            "note": "Kết hợp học bạ THPT với thi năng khiếu"
+          },
+          {
+            "program_code": "7810301",
+            "program_name": "Quản lý thể dục thể thao",
+            "subject_groups": [
+              "T00",
+              "T02",
+              "T05",
+              "T08",
+              "T09",
+              "T10"
+            ],
+            "score": 23.85,
+            "note": "Kết hợp học bạ THPT với thi năng khiếu"
+          },
+          {
+            "program_code": "7810302",
+            "program_name": "Huấn luyện Thể thao",
+            "subject_groups": [
+              "T00",
+              "T02",
+              "T05",
+              "T08",
+              "T09",
+              "T10"
+            ],
+            "score": 25.65,
+            "note": "Kết hợp học bạ THPT với thi năng khiếu"
+          }
+        ]
+      }
+    ]
+  }
+}

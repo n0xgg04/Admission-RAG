@@ -1,0 +1,147 @@
+{
+  "university": {
+    "code": "HGH",
+    "name": "Trường Sĩ Quan Phòng Hóa",
+    "short_name": "CCE",
+    "location": [
+      "Hà Nội"
+    ],
+    "address": "Xã Sơn Đông, Sơn Tây, Hà Nội.",
+    "website": "https://www.siquanphonghoa.edu.vn",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": 45,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/truong-si-quan-phong-hoa-HGH.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2025/0704/thong-tin-tuyen-sinh-truong-si-quan-phong-hoa-nam-2025.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG SĨ QUAN PHÒNG HÓA 2026 Thông tin tuyển sinh trường Sĩ quan Phòng hoá (HGH) năm 2026 Năm 2026, trường Sĩ quan Phòng hoá thông báo tuyển sinh 45 chỉ tiêu với 3 tổ hợp xét tuyển Phương thức 1: Xét tuyển thẳng, ưu tiên xét tuyển theo Quy chế tuyển sinh của Bộ Giáo dục và Đào tạo. Phương thức 2: Xét tuyển từ kết quả thi đánh giá năng lực do ĐHQG Hà Nội và ĐHQG TP.Hồ Chí Minh tổ chức. Phương thức 3: Xét tuyển dựa vào kết quả kỳ thi tốt nghiệp THPT năm 2026 do Bộ Giáo dục và Đào tạo tổ chức. Phương thức 4: Xét tuyển từ kết quả kỳ thi đánh giá năng lực do Bộ Quốc phòng tổ chức. Khám phá thêm Tài nguyên giáo dục Giáo dục khoá học",
+  "admission_methods": [
+    {
+      "method_id": "1-utxt-xt-thang",
+      "method_name": "1 ƯTXT, XT THẲNG",
+      "description": "1.1 QUY CHẾ Xét tuyển thẳng, ưu tiên xét tuyển theo Quy chế tuyển sinh của Bộ Giáo dục và Đào tạo. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ƯTXT, XT THẲNG STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7860229_B Chỉ huy Kỹ thuật Hoá học (Miền Bắc) 2 7860229_N Chỉ huy Kỹ thuật Hoá học (Miền Nam)",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét tuyển thẳng, ưu tiên xét tuyển theo Quy chế tuyển sinh của Bộ Giáo dục và Đào tạo.",
+      "programs": []
+    },
+    {
+      "method_id": "2-iem-thi-thpt",
+      "method_name": "2 ĐIỂM THI THPT",
+      "description": "2.1 QUY CHẾ Xét tuyển dựa vào kết quả kỳ thi tốt nghiệp THPT năm 2026 do Bộ Giáo dục và Đào tạo tổ chức. 3 tổ hợp xét tuyển: A00 ( Toán, Vật Lý, Hoá Học) C02 (Toán, Hoá Học, Ngữ Văn) D07 (Toán, Hoá Học, Tiếng Anh) DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM THI THPT STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7860229_B Chỉ huy Kỹ thuật Hoá học (Miền Bắc) A00, C02, D07 2 7860229_N Chỉ huy Kỹ thuật Hoá học (Miền Nam) A00, C02, D07",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét tuyển dựa vào kết quả kỳ thi tốt nghiệp THPT năm 2026 do Bộ Giáo dục và Đào tạo tổ chức. 3 tổ hợp xét tuyển: A00 ( Toán, Vật Lý, Hoá Học) C02 (Toán, Hoá Học, Ngữ Văn) D07 (Toán, Hoá Học, Tiếng Anh)",
+      "programs": []
+    },
+    {
+      "method_id": "3-iem-gnl-hn",
+      "method_name": "3 ĐIỂM ĐGNL HN",
+      "description": "3.1 QUY CHẾ Xét tuyển từ kết quả thi đánh giá năng lực do ĐHQG Hà Nội tổ chức. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐGNL HN STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7860229_B Chỉ huy Kỹ thuật Hoá học (Miền Bắc) Q00 2 7860229_N Chỉ huy Kỹ thuật Hoá học (Miền Nam) Q00",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét tuyển từ kết quả thi đánh giá năng lực do ĐHQG Hà Nội tổ chức.",
+      "programs": []
+    },
+    {
+      "method_id": "4-iem-gnl-hcm",
+      "method_name": "4 ĐIỂM ĐGNL HCM",
+      "description": "4.1 QUY CHẾ Xét tuyển từ kết quả thi đánh giá năng lực do ĐHQG TP.Hồ Chí Minh tổ chức. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐGNL HCM STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7860229_B Chỉ huy Kỹ thuật Hoá học (Miền Bắc) 2 7860229_N Chỉ huy Kỹ thuật Hoá học (Miền Nam)",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét tuyển từ kết quả thi đánh giá năng lực do ĐHQG TP.Hồ Chí Minh tổ chức.",
+      "programs": []
+    },
+    {
+      "method_id": "5",
+      "method_name": "5",
+      "description": "5.1 QUY CHẾ Xét tuyển từ kết quả kỳ thi đánh giá năng lực do Bộ Quốc phòng tổ chức. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7860229_B Chỉ huy Kỹ thuật Hoá học (Miền Bắc) 2 7860229_N Chỉ huy Kỹ thuật Hoá học (Miền Nam)",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét tuyển từ kết quả kỳ thi đánh giá năng lực do Bộ Quốc phòng tổ chức.",
+      "programs": []
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Trường Sĩ quan phòng hóa các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/truong-si-quan-phong-hoa-HGH.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860229",
+            "program_name": "Ngành Chỉ huy Kỹ thuật hóa học (Thí sinh ở miền Bắc)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C02",
+              "D07"
+            ],
+            "score": 22.99,
+            "note": null
+          },
+          {
+            "program_code": "7860229",
+            "program_name": "Ngành Chỉ huy Kỹ thuật hóa học (Thí sinh ở miền Nam)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C02",
+              "D07"
+            ],
+            "score": 22.45,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860229",
+            "program_name": "Ngành Chỉ huy Kỹ thuật hóa học (Thí sinh ở miền Bắc)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 90,
+            "note": null
+          },
+          {
+            "program_code": "7860229",
+            "program_name": "Ngành Chỉ huy Kỹ thuật hóa học (Thí sinh ở miền Nam)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 88,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860229",
+            "program_name": "Ngành Chỉ huy Kỹ thuật hóa học (Thí sinh ở miền Bắc)",
+            "subject_groups": [],
+            "score": 797,
+            "note": null
+          },
+          {
+            "program_code": "7860229",
+            "program_name": "Ngành Chỉ huy Kỹ thuật hóa học (Thí sinh ở miền Nam)",
+            "subject_groups": [],
+            "score": 779,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

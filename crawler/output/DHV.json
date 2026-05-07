@@ -1,0 +1,867 @@
+{
+  "university": {
+    "code": "DHV",
+    "name": "Trường Đại học Hùng Vương TPHCM",
+    "short_name": "DHV",
+    "location": [
+      "Hồ Chí Minh"
+    ],
+    "address": "736 Nguyễn Trãi, Phường 11, Quận 5, TP. Hồ Chí Minh",
+    "website": "www.hvuh.edu.vn",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2025,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-hung-vuong-tphcm-DHV.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2025/0725/thong-tin-tuyen-sinh-truong-dai-hoc-hung-vuong-tphcm-2025.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC HÙNG VƯƠNG TPHCM 2025 Thông tin tuyển sinh Đại học Hùng Vương TPHCM (DHV) năm 2025 Năm 2025, Đại học Hùng Vương TPHCM dự kiến tuyển sinh qua các phương thức xét tuyển như sau: 1) Xét tuyển dựa vào kết quả thi tốt nghiệp THPT năm 2025: Mức điểm nhận hồ sơ Trường công bố sau khi thí sinh có kết quả thi tốt nghiệp THPT năm 2025. 2) Xét tuyển dựa vào kết quả học tập THPT lớp 12 theo tổ hợp môn, ngưỡng đảm bảo chất lượng của từng môn từ 5 điểm trở lên (Tổng điểm ba môn trong tổ hợp không dưới 17 điểm). 3) Xét tuyển học sinh có kết quả học tập tốt ở THPT (Kết quả của học tập môn xét tuyển định hướng từ 5 điểm trở lên hoặc điểm chứng chỉ ngoại ngữ từ mức được miễn thi tốt nghiệp THPT môn ngoại ngữ). 4) Xét tuyển dựa vào kết quả thi đánh giá năng lực của ĐHQG – TP.HCM năm 2025: không nhỏ hơn 600/1.200 điểm. Khám phá thêm Tài nguyên giáo dục khoá học Hướng dẫn Thành phố & Địa phương",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 QUY CHẾ 1) Xét tuyển dựa vào kết quả thi tốt nghiệp THPT năm 2025: Mức điểm nhận hồ sơ Trường công bố sau khi thí sinh có kết quả thi tốt nghiệp THPT năm 2025. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM THI THPT STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7220201_01 Tiếng Anh thương mại A00; A01; D01 2 7220201_02 Giảng dạy tiếng Anh A00; A01; D01 3 7220204_01 Tiếng Trung thương mại D01; D04; D14; D15 4 7220204_02 Tiếng Trung Văn hóa - Du lịch D01; D04; D14; D15 5 7220204_03 Tiếng Trung Hành c",
+      "eligibility": null,
+      "rules": "QUY CHẾ 1) Xét tuyển dựa vào kết quả thi tốt nghiệp THPT năm 2025: Mức điểm nhận hồ sơ Trường công bố sau khi thí sinh có kết quả thi tốt nghiệp THPT năm 2025.",
+      "programs": [
+        {
+          "program_code": "7380107",
+          "program_name": "LUẬT KINH TẾ",
+          "subject_groups": [
+            "C00",
+            "A00",
+            "A01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "35"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-hoc-ba",
+      "method_name": "2 ĐIỂM HỌC BẠ",
+      "description": "2.1 QUY CHẾ 2) Xét tuyển dựa vào kết quả học tập THPT lớp 12 theo tổ hợp môn, ngưỡng đảm bảo chất lượng của từng môn từ 5 điểm trở lên (Tổng điểm ba môn trong tổ hợp không dưới 17 điểm). 3) Xét tuyển học sinh có kết quả học tập tốt ở THPT (Kết quả của học tập môn xét tuyển định hướng từ 5 điểm trở lên hoặc điểm chứng chỉ ngoại ngữ từ mức được miễn thi tốt nghiệp THPT môn ngoại ngữ). DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM HỌC BẠ STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7220201_01 Tiếng Anh ",
+      "eligibility": null,
+      "rules": "QUY CHẾ 2) Xét tuyển dựa vào kết quả học tập THPT lớp 12 theo tổ hợp môn, ngưỡng đảm bảo chất lượng của từng môn từ 5 điểm trở lên (Tổng điểm ba môn trong tổ hợp không dưới 17 điểm). 3) Xét tuyển học sinh có kết quả học tập tốt ở THPT (Kết quả của học tập môn xét tuyển định hướng từ 5 điểm trở lên hoặc điểm chứng chỉ ngoại ngữ từ mức được miễn thi tốt nghiệp THPT môn ngoại ngữ).",
+      "programs": [
+        {
+          "program_code": "7380107",
+          "program_name": "LUẬT KINH TẾ",
+          "subject_groups": [
+            "C00",
+            "A00",
+            "A01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "35"
+        }
+      ]
+    },
+    {
+      "method_id": "3-iem-gnl-hcm",
+      "method_name": "3 ĐIỂM ĐGNL HCM",
+      "description": "3.1 ĐIỀU KIỆN XÉT TUYỂN 4) Xét tuyển dựa vào kết quả thi đánh giá năng lực của ĐHQG – TP.HCM năm 2025: không nhỏ hơn 600/1.200 điểm. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐGNL HCM STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7220201_01 Tiếng Anh thương mại 2 7220201_02 Giảng dạy tiếng Anh 3 7220204_01 Tiếng Trung thương mại 4 7220204_02 Tiếng Trung Văn hóa - Du lịch 5 7220204_03 Tiếng Trung Hành chính văn phòng 6 7220204_04 Giảng dạy tiếng Trung 7 7220209_01 Tiếng Nhật thương mại 8 7220209_02",
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7380107",
+          "program_name": "LUẬT KINH TẾ",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "35"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7380101",
+          "program_name": "ĐGNL HCM",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "34"
+        },
+        {
+          "program_code": "7380101",
+          "program_name": "ĐT THPTHọc Bạ",
+          "subject_groups": [
+            "C00",
+            "A00",
+            "A01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "34"
+        },
+        {
+          "program_code": "7380107",
+          "program_name": "LUẬT KINH TẾ",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "35"
+        },
+        {
+          "program_code": "7380107",
+          "program_name": "LUẬT KINH TẾ",
+          "subject_groups": [
+            "C00",
+            "A00",
+            "A01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "35"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Trường Đại học Hùng Vương TPHCM các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-hung-vuong-tphcm-DHV.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "X78",
+              "X25",
+              "D14",
+              "D09"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "C04",
+              "X78",
+              "C03",
+              "C00",
+              "D04",
+              "D14"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7220209",
+            "program_name": "Ngôn ngữ Nhật",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "C04",
+              "X78",
+              "C03",
+              "C00",
+              "D04",
+              "D14"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7220210",
+            "program_name": "Ngôn ngữ Hàn Quốc",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "C04",
+              "X78",
+              "C03",
+              "C00",
+              "DD2",
+              "D14"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7310106",
+            "program_name": "Kinh tế quốc tế",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "C04",
+              "X78",
+              "C03",
+              "X01",
+              "C00"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "C04",
+              "X78",
+              "C03",
+              "X01",
+              "C00"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "C04",
+              "X78",
+              "C03",
+              "X01",
+              "C00"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340115",
+            "program_name": "Marketing",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "C04",
+              "X78",
+              "C03",
+              "X01",
+              "C00"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340122",
+            "program_name": "Thương mại điện tử",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "C04",
+              "X78",
+              "C03",
+              "X01",
+              "C00"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính ngân hàng",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "C04",
+              "X78",
+              "C03",
+              "X01",
+              "C00"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340205",
+            "program_name": "Công nghệ tài chính",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "C04",
+              "X78",
+              "C03",
+              "X01",
+              "C00"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "C04",
+              "X78",
+              "C03",
+              "X01",
+              "C00"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "C04",
+              "X78",
+              "C03",
+              "X01",
+              "C00"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Luật kinh tế",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "C04",
+              "X78",
+              "C03",
+              "X01",
+              "C00"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7480106",
+            "program_name": "Kỹ thuật máy tính",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "C04",
+              "C03",
+              "X01",
+              "C01",
+              "A00"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "C04",
+              "C03",
+              "X01",
+              "C01",
+              "A00"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7720802",
+            "program_name": "Quản lý bệnh viện",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "C04",
+              "X78",
+              "C03",
+              "X01",
+              "C00"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "C04",
+              "X78",
+              "C03",
+              "X01",
+              "C00",
+              "D14"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7810201",
+            "program_name": "Quản trị khách sạn",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "C04",
+              "X78",
+              "C03",
+              "X01",
+              "C00",
+              "D14"
+            ],
+            "score": 15,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "X78",
+              "X25",
+              "D14",
+              "D09"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "C04",
+              "X78",
+              "C03",
+              "C00",
+              "D04",
+              "D14"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7220209",
+            "program_name": "Ngôn ngữ Nhật",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "C04",
+              "X78",
+              "C03",
+              "C00",
+              "D04",
+              "D14"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7220210",
+            "program_name": "Ngôn ngữ Hàn Quốc",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "C04",
+              "X78",
+              "C03",
+              "C00",
+              "DD2",
+              "D14"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7310106",
+            "program_name": "Kinh tế quốc tế",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "C04",
+              "X78",
+              "C03",
+              "X01",
+              "C00"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "C04",
+              "X78",
+              "C03",
+              "X01",
+              "C00"
+            ],
+            "score": 20,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "C04",
+              "X78",
+              "C03",
+              "X01",
+              "C00"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340115",
+            "program_name": "Marketing",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "C04",
+              "X78",
+              "C03",
+              "X01",
+              "C00"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340122",
+            "program_name": "Thương mại điện tử",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "C04",
+              "X78",
+              "C03",
+              "X01",
+              "C00"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính ngân hàng",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "C04",
+              "X78",
+              "C03",
+              "X01",
+              "C00"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340205",
+            "program_name": "Công nghệ tài chính",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "C04",
+              "X78",
+              "C03",
+              "X01",
+              "C00"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "C04",
+              "X78",
+              "C03",
+              "X01",
+              "C00"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "C04",
+              "X78",
+              "C03",
+              "X01",
+              "C00"
+            ],
+            "score": 18,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Luật kinh tế",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "C04",
+              "X78",
+              "C03",
+              "X01",
+              "C00"
+            ],
+            "score": 18,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7480106",
+            "program_name": "Kỹ thuật máy tính",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "C04",
+              "C03",
+              "X01",
+              "C01",
+              "A00"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "C04",
+              "C03",
+              "X01",
+              "C01",
+              "A00"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7720802",
+            "program_name": "Quản lý bệnh viện",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "C04",
+              "X78",
+              "C03",
+              "X01",
+              "C00"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "C04",
+              "X78",
+              "C03",
+              "X01",
+              "C00",
+              "D14"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7810201",
+            "program_name": "Quản trị khách sạn",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "C04",
+              "X78",
+              "C03",
+              "X01",
+              "C00",
+              "D14"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7220209",
+            "program_name": "Ngôn ngữ Nhật",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7220210",
+            "program_name": "Ngôn ngữ Hàn Quốc",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7310106",
+            "program_name": "Kinh tế quốc tế",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [],
+            "score": 20,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340115",
+            "program_name": "Marketing",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340122",
+            "program_name": "Thương mại điện tử",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính ngân hàng",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340205",
+            "program_name": "Công nghệ tài chính",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [],
+            "score": 18,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Luật kinh tế",
+            "subject_groups": [],
+            "score": 18,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7480106",
+            "program_name": "Kỹ thuật máy tính",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7720802",
+            "program_name": "Quản lý bệnh viện",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7810201",
+            "program_name": "Quản trị khách sạn",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          }
+        ]
+      }
+    ]
+  }
+}

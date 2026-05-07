@@ -1,0 +1,540 @@
+{
+  "university": {
+    "code": "UFA",
+    "name": "Trường Đại học Tài Chính Kế Toán",
+    "short_name": "UFA",
+    "location": [
+      "Quảng Ngãi"
+    ],
+    "address": "Số 01 Đường Lê Quý Đôn, La Hà, huyện Tư Nghĩa, tỉnh Quảng Ngãi",
+    "website": "https://www.tckt.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/-UFA.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0403/ufa-thong-tin-tuyen-sinh-dai-hoc-chinh-quy-nam-2026.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC TÀI CHÍNH KẾ TOÁN 2026 Thông tin tuyển sinh Trường Đại học Tài chính - Kế Toán (UFA) năm 2026 Năm 2026 Trường Đại học Tài chính - Kế toán tuyển sinh đại học chính quy theo 02 phương thức sau đây: Phương thức 1: Xét tuyển điểm thi tốt nghiệp THPT năm 2026 theo tổ hợp môn xét tuyển Phương thức 2: Xét tuyển dựa vào kết quả điểm trung bình chung kết quả học tập cả năm các lớp 10, 11, 12 (học bạ) Khám phá thêm Khóa học giáo dục khoa học",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 ĐỐI TƯỢNG - Thí sinh tốt nghiệp THPT năm 2026 1.2 QUY CHẾ - Ngưỡng đầu vào: + Thí sinh có tổng điểm 03 môn thi kỳ thi tốt nghiệp THPT (kỳ thi trung học nghề đối với đối tượng trung học nghề) theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán, Ngữ văn và một môn thi khác) đạt tối thiểu 15,00 điểm theo thang điểm 30, áp dụng đối với thí sinh thi tốt nghiệp từ năm 2026. - Điểm trúng tuyển: + Điểm trúng tuyển được tính trên thang điểm 30. Điểm trúng tuyển là tổng điểm của 3 môn trong tổ hợp x",
+      "eligibility": "ĐỐI TƯỢNG - Thí sinh tốt nghiệp THPT năm 2026 1.2",
+      "rules": "QUY CHẾ - Ngưỡng đầu vào: + Thí sinh có tổng điểm 03 môn thi kỳ thi tốt nghiệp THPT (kỳ thi trung học nghề đối với",
+      "programs": [
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "C02",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh (phân hiệu Huế)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340120",
+          "program_name": "Kinh doanh quốc tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "D01",
+            "X01"
+          ],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "3"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán (phân hiệu Huế)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-hoc-ba",
+      "method_name": "2 ĐIỂM HỌC BẠ",
+      "description": "2.1 QUY CHẾ - Ngưỡng đầu vào: + Thí sinh có tổng điểm 03 môn thi kỳ thi tốt nghiệp THPT (kỳ thi trung học nghề đối với đối tượng trung học nghề) theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán, Ngữ văn và một môn thi khác) đạt tối thiểu 15,00 điểm theo thang điểm 30, áp dụng đối với thí sinh thi tốt nghiệp từ năm 2026. + Ngoài ra, Nhà trường sẽ công bố ngưỡng điểm nhận hồ sơ đối với từng phương thức xét tuyển theo hướng dẫn và kế hoạch chung của Bộ Giáo dục và Đào tạo (GDĐT). - Điểm trúng ",
+      "eligibility": "đối tượng trung học nghề) theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán, Ngữ văn và một môn thi khác) đạt tối thiểu 15,00 điểm theo thang điểm 30, áp dụng đối với thí sinh thi tốt nghiệp từ năm 2026. + Ngoài ra, Nhà trường sẽ công bố ngưỡng điểm nhận hồ sơ đối với từng phương thức xét tuyển theo hướng dẫn và kế hoạch chung của Bộ Giáo dục và Đào tạo (GDĐT). - Điểm trúng tuyển: + Điểm trúng tuyển được tính trên thang điểm 30. Điểm trúng tuyển là tổng điểm của 3 môn trong tổ hợp xét tuyển, không nhân hệ số (trọng số tính điểm xét của 01 môn bất kỳ trong tổ hợp xét tuyển là 1/3) cộng điểm ưu tiên theo",
+      "rules": "QUY CHẾ - Ngưỡng đầu vào: + Thí sinh có tổng điểm 03 môn thi kỳ thi tốt nghiệp THPT (kỳ thi trung học nghề đối với",
+      "programs": [
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "C02",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh (phân hiệu Huế)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340120",
+          "program_name": "Kinh doanh quốc tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "D01",
+            "X01"
+          ],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "3"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán (phân hiệu Huế)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "C02",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh (phân hiệu Huế)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340120",
+          "program_name": "Kinh doanh quốc tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "D01",
+            "X01"
+          ],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "3"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán (phân hiệu Huế)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Trường Đại học Tài Chính Kế Toán các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/-UFA.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C02",
+              "D01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "C00",
+              "X01"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7340120",
+            "program_name": "Kinh doanh quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C02",
+              "D01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340120",
+            "program_name": "Kinh doanh quốc tế",
+            "subject_groups": [
+              "C00",
+              "X01"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C02",
+              "D01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [
+              "C00",
+              "X01"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C02",
+              "D01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "C00",
+              "X01"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Luật kinh tế",
+            "subject_groups": [
+              "C00",
+              "C01",
+              "X01"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Luật kinh tế",
+            "subject_groups": [
+              "A00",
+              "C02",
+              "D01"
+            ],
+            "score": 18,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C02",
+              "D01"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "C00",
+              "X01"
+            ],
+            "score": 18.8,
+            "note": null
+          },
+          {
+            "program_code": "7340120",
+            "program_name": "Kinh doanh quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C02",
+              "D01"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7340120",
+            "program_name": "Kinh doanh quốc tế",
+            "subject_groups": [
+              "C00",
+              "X01"
+            ],
+            "score": 18.8,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [
+              "C00",
+              "X01"
+            ],
+            "score": 18.8,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C02",
+              "D01"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "C00",
+              "X01"
+            ],
+            "score": 18.8,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C02",
+              "D01"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Luật kinh tế",
+            "subject_groups": [
+              "A00",
+              "C02",
+              "D01"
+            ],
+            "score": 20.4,
+            "note": null
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Luật kinh tế",
+            "subject_groups": [
+              "C00",
+              "C01",
+              "X01"
+            ],
+            "score": 21.2,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

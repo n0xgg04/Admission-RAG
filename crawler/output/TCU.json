@@ -1,0 +1,172 @@
+{
+  "university": {
+    "code": "TCU",
+    "name": "Đại học Thông tin liên lạc",
+    "short_name": "TCU",
+    "location": [
+      "Khánh Hòa"
+    ],
+    "address": "Số 101 Mai Xuân Thưởng, Phường Vĩnh Hòa, Tp Nha Trang, Khánh Hòa",
+    "website": "http://www.tcu.edu.vn",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/truong-si-quan-thong-tin-he-dan-su-dai-hoc-thong-tin-lien-lac-TCU.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0428/thong-tin-tuyen-sinh-truong-si-quan-thong-tin-he-dan-su-2026.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG SĨ QUAN THÔNG TIN - HỆ DÂN SỰ - ĐẠI HỌC THÔNG TIN LIÊN LẠC 2026 Thông tin tuyển sinh 2026 Trường Sĩ Quan Thông Tin - Hệ Dân Sự Năm 2026, Trường Sĩ Quan Thông Tin hệ Dân Sự tuyển sinh 100 tiêu chí qua 4 phương thức xét tuyển: Phương thức 1: Xét tuyển thẳng, ưu tiên xét tuyển theo quy chế tuyển sinh đại học của BGD&ĐT, quy định của Bộ Quốc phòng. Phương thức 2: Xét tuyển từ kết quả kỳ thi đánh giá năng lực do Bộ Quốc phòng, Đại học Quốc gia Hà Nội và Đại học Quốc gia Thành phố Hồ Chí Minh tổ chức. Phương thức 3: Xét tuyển dựa vào kết quả kỳ thi tốt nghiệp THPT năm 2026. Phương thức 4: Xét tuyển từ kết quả kỳ thi ĐGNL do Bộ Quốc phòng tổ chức.",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 ĐỐI TƯỢNG - Thí sinh đã tốt nghiệp THPT, tham dự kỳ thi tốt nghiệp THPT năm 2026 hoặc kỳ thi ĐGNL của ĐHQG Hà Nội, ĐHQG TP. Hồ Chí Minh để lấy điểm xét tuyển và đạt ngưỡng đảm bảo chất lượng đầu theo quy định. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM THI THPT STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7480201 Công nghệ thông tin A00; A01; C01; X06 2 7520207 Kỹ thuật Điện tử - Viễn thông A00; A01; C01; X06",
+      "eligibility": "ĐỐI TƯỢNG - Thí sinh đã tốt nghiệp THPT, tham dự kỳ thi tốt nghiệp THPT năm 2026 hoặc kỳ thi ĐGNL của ĐHQG Hà Nội, ĐHQG TP. Hồ Chí Minh để lấy điểm xét tuyển và đạt ngưỡng đảm bảo chất lượng đầu theo quy định.",
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật Điện tử - Viễn thông",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-gnl-hcm",
+      "method_name": "2 ĐIỂM ĐGNL HCM",
+      "description": "2.1 ĐỐI TƯỢNG - Thí sinh đã tốt nghiệp THPT, tham dự kỳ thi tốt nghiệp THPT năm 2026 hoặc kỳ thi ĐGNL của ĐHQG Hà Nội, ĐHQG TP. Hồ Chí Minh để lấy điểm xét tuyển và đạt ngưỡng đảm bảo chất lượng đầu theo quy định. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐGNL HCM STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7480201 Công nghệ thông tin 2 7520207 Kỹ thuật Điện tử - Viễn thông",
+      "eligibility": "ĐỐI TƯỢNG - Thí sinh đã tốt nghiệp THPT, tham dự kỳ thi tốt nghiệp THPT năm 2026 hoặc kỳ thi ĐGNL của ĐHQG Hà Nội, ĐHQG TP. Hồ Chí Minh để lấy điểm xét tuyển và đạt ngưỡng đảm bảo chất lượng đầu theo quy định.",
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật Điện tử - Viễn thông",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    },
+    {
+      "method_id": "3-iem-gnl-hn",
+      "method_name": "3 ĐIỂM ĐGNL HN",
+      "description": "3.1 ĐỐI TƯỢNG - Thí sinh đã tốt nghiệp THPT, tham dự kỳ thi tốt nghiệp THPT năm 2026 hoặc kỳ thi ĐGNL của ĐHQG Hà Nội, ĐHQG TP. Hồ Chí Minh để lấy điểm xét tuyển và đạt ngưỡng đảm bảo chất lượng đầu theo quy định. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐGNL HN STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7480201 Công nghệ thông tin Q00 2 7520207 Kỹ thuật Điện tử - Viễn thông Q00",
+      "eligibility": "ĐỐI TƯỢNG - Thí sinh đã tốt nghiệp THPT, tham dự kỳ thi tốt nghiệp THPT năm 2026 hoặc kỳ thi ĐGNL của ĐHQG Hà Nội, ĐHQG TP. Hồ Chí Minh để lấy điểm xét tuyển và đạt ngưỡng đảm bảo chất lượng đầu theo quy định.",
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật Điện tử - Viễn thông",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật Điện tử - Viễn thông",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật Điện tử - Viễn thông",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật Điện tử - Viễn thông",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": null,
+  "tuition_text": null,
+  "timeline_text": null
+}

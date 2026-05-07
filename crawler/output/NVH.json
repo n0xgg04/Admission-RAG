@@ -1,0 +1,304 @@
+{
+  "university": {
+    "code": "NVH",
+    "name": "Học Viện Âm Nhạc Quốc Gia Việt Nam",
+    "short_name": "VNAM",
+    "location": [
+      "Hà Nội"
+    ],
+    "address": "77 Hào Nam - Ô Chợ Dừa - Đống Đa - Hà Nội",
+    "website": "www.vnam.edu.vn",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": 200,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/hoc-vien-am-nhac-quoc-gia-viet-nam-NVH.html",
+  "pdf_url": "https://images.tuyensinh247.com/user_data/2025/0403/thong-tin-tuyen-sinh-hv-am-nhac-quoc-gia.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH HỌC VIỆN ÂM NHẠC QUỐC GIA VIỆT NAM 2026 Thông tin tuyển sinh Học Viện Âm Nhạc Quốc Gia Việt Nam (VNAM) năm 2026 I. TUYỂN SINH ĐẠI HỌC CHÍNH QUY: Năm 2026, Học Viện Âm Nhạc Quốc Gia Việt Nam tuyển sinh 200 chỉ tiêu với các phương thức tuyển sinh sau: Phương thứ 1: Xét tuyển thẳng Phương thức 2: Kết hợp thi tuyển và xét tuyển Xem thời gian và hồ sơ đăng ký xét tuyển VNAM năm 2026 TẠI ĐÂY Khám phá thêm Violin đ&agrave;n Piano Đại hồ cầm",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-xet-tuyen-ket-hop",
+      "method_name": "1 ĐIỂM XÉT TUYỂN KẾT HỢP",
+      "description": "1.1 QUY CHẾ * Các môn xét tuyển Các môn xét tuyển dựa theo một trong các kết quả sau: - Điểm trung bình chung môn Ngữ văn trong học bạ của 3 năm học THPT. - Điểm trung bình chung môn Ngữ văn của 3 năm học THPT trong cơ sở giáo dục nghề nghiệp. - Điểm trung bình chung môn Ngữ văn của 3 năm học THPT của thí sinh có Bằng tốt nghiệp THPT của nước ngoài được công nhận trình độ tương đương (trường hợp học bạ không có môn Ngữ văn có thể thay thế bằng môn Toán). * Các môn thi tuyển - Môn kiến thức cơ ba",
+      "eligibility": null,
+      "rules": "QUY CHẾ * Các môn xét tuyển Các môn xét tuyển dựa theo một trong các kết quả sau: - Điểm trung bình chung môn Ngữ văn trong học bạ của 3 năm học THPT. - Điểm trung bình chung môn Ngữ văn của 3 năm học THPT trong cơ sở giáo dục nghề nghiệp. - Điểm trung bình chung môn Ngữ văn của 3 năm học THPT của thí sinh có Bằng tốt nghiệp THPT của nước ngoài được công nhận trình độ tương đương (trường hợp học bạ không có môn Ngữ văn có thể thay thế bằng môn Toán). * Các môn thi tuyển - Môn kiến thức cơ bản: Kiến thức âm nhạc tổng hợp; Piano phổ thông (đối với các chuyên ngành Sáng tác âm nhạc, Chỉ huy âm nhạc, Âm nhạc học). - Môn kiến thức cơ sở: Chuyên ngành.",
+      "programs": [
+        {
+          "program_code": "7210201",
+          "program_name": "Âm nhạc học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7210203",
+          "program_name": "Sáng tác âm nhạc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7210204",
+          "program_name": "Chỉ huy âm nhạc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7210205",
+          "program_name": "Thanh nhạc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7210207",
+          "program_name": "Biểu diễn nhạc cụ phương Tây",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7210208",
+          "program_name": "(Văn, Môn chuyên ngành)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7210209",
+          "program_name": "Nhạc Jazz",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7210210",
+          "program_name": "Biểu diễn nhạc cụ truyền thống",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        }
+      ]
+    },
+    {
+      "method_id": "2-utxt-xt-thang",
+      "method_name": "2 ƯTXT, XT THẲNG",
+      "description": "2.1 QUY CHẾ Xét tuyển thẳng, ưu tiên xét tuyển căn cứ điều 8 Quy chế tuyển sinh các ngành trình độ đại học và ngành Giáo dục Mầm non trình độ cao đẳng ban hành kèm theo Thông tư số 06/2026/TT-BGDĐT ngày 15 tháng 02 năm 2026 của Bộ Giáo dục và Đào tạo và thông báo tại Thông tin tuyển sinh của Học viện Âm nhạc Quốc gia Việt Nam. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ƯTXT, XT THẲNG STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7210201 Âm nhạc học (Văn, Kiến thức âm nhạc tổng hợp, Piano phổ thông, Môn ",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét tuyển thẳng, ưu tiên xét tuyển căn cứ điều 8 Quy chế tuyển sinh các ngành trình độ đại học và ngành Giáo dục Mầm non trình độ cao đẳng ban hành kèm theo Thông tư số 06/2026/TT-BGDĐT ngày 15 tháng 02 năm 2026 của Bộ Giáo dục và Đào tạo và thông báo tại Thông tin tuyển sinh của Học viện Âm nhạc Quốc gia Việt Nam.",
+      "programs": [
+        {
+          "program_code": "7210201",
+          "program_name": "Âm nhạc học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7210203",
+          "program_name": "Sáng tác âm nhạc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7210204",
+          "program_name": "Chỉ huy âm nhạc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7210205",
+          "program_name": "Thanh nhạc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7210207",
+          "program_name": "Biểu diễn nhạc cụ phương Tây",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7210208",
+          "program_name": "(Văn, Môn chuyên ngành)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7210209",
+          "program_name": "Nhạc Jazz",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7210210",
+          "program_name": "Biểu diễn nhạc cụ truyền thống",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7210201",
+          "program_name": "Âm nhạc học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7210203",
+          "program_name": "Sáng tác âm nhạc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7210204",
+          "program_name": "Chỉ huy âm nhạc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7210205",
+          "program_name": "Thanh nhạc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7210207",
+          "program_name": "Biểu diễn nhạc cụ phương Tây",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7210208",
+          "program_name": "Kết HợpƯu Tiên",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7210209",
+          "program_name": "Nhạc Jazz",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7210210",
+          "program_name": "Biểu diễn nhạc cụ truyền thống",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Học Viện Âm Nhạc Quốc Gia Việt Nam các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": "Thời gian, địa điểm, phương thức nộp hồ sơ, nhận phiếu thi a. Thời gian tư vấn và nhận hồ sơ: - Thời gian tư vấn tuyển sinh: từ ngày 16/3/2026 đến ngày 10/4/2026. - Thời gian khai hồ sơ online thi đại học theo đường link: từ ngày 24/3/2026. - Thời gian nhận hồ sơ gốc tuyển sinh hệ đại học: từ ngày 13/4/2026 đến 16/5/2026; chuyển phát nhanh qua đường bưu điện (hạn cuối trên tem thư là: 18/5/2026). * Lưu ý: Không nộp hồ sơ đăng ký tuyển sinh qua các Sở GDĐT. b. Phương thức nộp hồ sơ: Bước 1: Thí sinh khai hồ sơ trên hệ thống tuyển sinh online theo đường link: Bước 2: Thí sinh in hồ sơ và nộp hồ sơ gốc (có xác nhận của địa phương, trường học…) theo một trong hai hình thức sau: - Nộp hồ sơ trực tiếp tại: Trung tâm Đào tạo và Bồi dưỡng âm nhạc, nhà A1, HVÂNQGVN, 77 Hào Nam, phường Ô Chợ Dừa, Hà Nội. - Nộp hồ sơ qua đường bưu điện theo địa chỉ: Văn phòng tuyển sinh HVÂNQGVN, tầng 3 nhà A3, 77 Hào Nam, phường Ô Chợ Dừa, Hà Nội. c. Thời gian, địa điểm tập trung và nhận phiếu dự thi: Thời gian: 8h30 sáng ngày 02/6/2026. Địa điểm: Trung tâm Đào tạo và Bồi dưỡng âm nhạc, Nhà A1, HVÂNQGVN, 77 Hào Nam, phường Ô Chợ Dừa, Hà Nội. * Lưu ý: Thí sinh mang theo Phiếu số 2 để nhận phiếu dự thi. d. Thời gian đệm đàn đối với thí sinh thi chuyên ngành Thanh nhạc đã đăng ký: Thời gian: Sáng từ 9h00, chiều từ 13h30 ngày 02/6/2026. * Lưu ý: - Thí sinh thi chuyên ngành Thanh nhạc đăng ký đệm ngay khi nộp hồ sơ với Ban tư vấn và thu hồ sơ. - Hội đồng tuyển sinh niêm yết Danh sách và phòng đệm tại bảng tin nhà A1 trước ngày phát phiếu dự thi. - Thí sinh phải mang theo bản nhạc khi đệm đàn và dự thi. Đối với tác phẩm thính phòng cổ điển có phần đệm Piano, nếu thí sinh hát khác tông so với bản gốc thì phải chuẩn bị sẵn bản nhạc đã dịch giọng phù hợp. Đối với tác phẩm Việt Nam, thí sinh chuẩn bị bản nhạc và nắm được giọng sẽ trình bày khi dự thi.",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-am-nhac-quoc-gia-viet-nam-NVH.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2016",
+        "year": 2016,
+        "entries": [
+          {
+            "program_code": "7210201",
+            "program_name": "Âm nhạc học",
+            "subject_groups": [
+              "0"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "7210203",
+            "program_name": "Sáng tác âm nhạc",
+            "subject_groups": [
+              "0"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "7210204",
+            "program_name": "Chỉ huy âm nhạc",
+            "subject_groups": [
+              "0"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "7210205",
+            "program_name": "Thanh nhạc",
+            "subject_groups": [
+              "0"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "7210207",
+            "program_name": "Biểu diễn nhạc cụ phương tây",
+            "subject_groups": [
+              "0"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "7210208",
+            "program_name": "Piano",
+            "subject_groups": [
+              "0"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "7210209",
+            "program_name": "Nhạc Jazz",
+            "subject_groups": [
+              "0"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "7210210",
+            "program_name": "Biểu diễn nhạc cụ truyền thống",
+            "subject_groups": [
+              "0"
+            ],
+            "score": 22,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "university": {
+    "code": "HTA",
+    "name": "Học viện Tòa án",
+    "short_name": "Vietnam Court Academy",
+    "location": [
+      "Hà Nội"
+    ],
+    "address": "Đường 282, xã Kim Sơn, huyện Gia Lâm, thành phố Hà Nội.",
+    "website": "http://hvta.toaan.gov.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/hoc-vien-toa-an-HTA.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2025/0419/hoc-vien-toa-an-2025_1.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH HỌC VIỆN TÒA ÁN 2026 Thông tin tuyển sinh Học viện Tòa án (VCA) năm 2026 Năm 2026, Học viện Tòa án tổ chức tuyển sinh theo phương thức xét tuyển, các phương thức xét tuyển gồm: Phương thức 1: Xét tuyển dựa trên kết quả kỳ thi tốt nghiệp THPT năm 2026; Phương thức 2: Xét tuyển dựa trên kết quả học tập bậc THPT (chỉ xét tuyển đối với những thí sinh tốt nghiệp THPT năm 2026); Phương thức 3: Xét tuyển thẳng theo quy định của Quy chế tuyển sinh (Điều 8).",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 ĐỐI TƯỢNG Thí sinh đăng ký xét tuyển vào Học viện Tòa án phải đáp ứng các điều kiện chung theo quy định của Bộ Giáo dục và Đào tạo về tuyển sinh đại học và đáp ứng các điều kiện sau: (1) Điều kiện sơ tuyển: Đã tham gia sơ tuyển tại Tòa án nhân dân nơi thí sinh có hộ khẩu thường trú, tạm trú hoặc sơ tuyển tại Học viện Tòa án và có kết quả “Đạt sơ tuyển”. (2) Căn cứ Chuẩn chương trình đào tạo lĩnh vực Pháp luật trình độ đại học ban hành theo Quyết định số 678/QĐ-BGDĐT ngày 14/03/2025 của Bộ tr",
+      "eligibility": "ĐỐI TƯỢNG Thí sinh đăng ký xét tuyển vào Học viện Tòa án phải đáp ứng các",
+      "rules": "QUY CHẾ a. Các tiêu chí phụ sử dụng trong xét tuyển Tiêu chí phụ trong xét tuyển theo phương thức xét kết quả học tập bậc THPT (xét học bạ) và phương thức xét điểm thi tốt nghiệp THPT năm 2026: Những thí sinh ở cuối",
+      "programs": []
+    },
+    {
+      "method_id": "2-iem-hoc-ba",
+      "method_name": "2 ĐIỂM HỌC BẠ",
+      "description": "2.1 ĐỐI TƯỢNG Thí sinh đăng ký xét tuyển vào Học viện Tòa án phải đáp ứng các điều kiện chung theo quy định của Bộ Giáo dục và Đào tạo về tuyển sinh đại học và đáp ứng các điều kiện sau: (1) Điều kiện sơ tuyển: Đã tham gia sơ tuyển tại Tòa án nhân dân nơi thí sinh có hộ khẩu thường trú, tạm trú hoặc sơ tuyển tại Học viện Tòa án và có kết quả “Đạt sơ tuyển”. (2) Căn cứ Chuẩn chương trình đào tạo lĩnh vực Pháp luật trình độ đại học ban hành theo Quyết định số 678/QĐ-BGDĐT ngày 14/03/2025 của Bộ tr",
+      "eligibility": "ĐỐI TƯỢNG Thí sinh đăng ký xét tuyển vào Học viện Tòa án phải đáp ứng các",
+      "rules": "QUY CHẾ a. Các tiêu chí phụ sử dụng trong xét tuyển Tiêu chí phụ trong xét tuyển theo phương thức xét kết quả học tập bậc THPT (xét học bạ) và phương thức xét điểm thi tốt nghiệp THPT năm 2026: Những thí sinh ở cuối",
+      "programs": []
+    },
+    {
+      "method_id": "3-utxt-xt-thang",
+      "method_name": "3 ƯTXT, XT THẲNG",
+      "description": "3.1 QUY CHẾ a. Chỉ tiêu xét tuyển thẳng Dự kiến chỉ tiêu xét tuyển theo phương thức xét tuyển thẳng theo quy định của Quy chế tuyển sinh (Điều 8): 20 chỉ tiêu. b. Quy định về xét tuyển thẳng Xét tuyển thẳng đối với thí sinh đạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia, quốc tế do Bộ Giáo dục và Đào tạo tổ chức, cử tham gia như sau: Đối tượng xét tuyển thẳng: xét tuyển thẳng thí sinh thuộc diện có thành tích đạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia, quốc ",
+      "eligibility": "Đối tượng xét tuyển thẳng: xét tuyển thẳng thí sinh thuộc diện có thành tích đạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia, quốc tế do Bộ Giáo dục và Đào tạo tổ chức, cử tham gia với các môn sau Văn, Toán, Tiếng Anh, Vật lí, Hóa học, Lịch sử, Địa lí và có đăng ký xét tuyển thẳng vào Học viện Tòa án.",
+      "rules": "QUY CHẾ a. Chỉ tiêu xét tuyển thẳng Dự kiến chỉ tiêu xét tuyển theo phương thức xét tuyển thẳng theo quy định của Quy chế tuyển sinh (Điều 8): 20 chỉ tiêu. b. Quy định về xét tuyển thẳng Xét tuyển thẳng đối với thí sinh đạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia, quốc tế do Bộ Giáo dục và Đào tạo tổ chức, cử tham gia như sau:",
+      "programs": []
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7380101",
+          "program_name": "Ưu Tiên",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7380101",
+          "program_name": "ĐT THPTHọc Bạ",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Học viện Tòa án các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-toa-an-HTA.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7380101",
+            "program_name": "Luật (Thí sinh nam miền Bắc)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "D01"
+            ],
+            "score": 21.93,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật (Thí sinh nam miền Nam)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "D01"
+            ],
+            "score": 21.03,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật (Thí sinh nữ miền Bắc)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "D01"
+            ],
+            "score": 23,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật (Thí sinh nữ miền Nam)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "D01"
+            ],
+            "score": 22.26,
+            "note": "Điểm đã quy đổi"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7380101",
+            "program_name": "Luật (Thí sinh nam miền Bắc)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "D01"
+            ],
+            "score": 21.93,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật (Thí sinh nam miền Nam)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "D01"
+            ],
+            "score": 21.03,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật (Thí sinh nữ miền Bắc)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "D01"
+            ],
+            "score": 23,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật (Thí sinh nữ miền Nam)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C00",
+              "D01"
+            ],
+            "score": 22.26,
+            "note": "Điểm đã quy đổi"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1471 @@
+{
+  "university": {
+    "code": "EIU",
+    "name": "Đại học Quốc tế Miền Đông",
+    "short_name": "EIU",
+    "location": [
+      "Bình Dương"
+    ],
+    "address": "Đường Nam Kỳ Khởi Nghĩa, Phường Hòa Phú, Thành phố Thủ Dầu Một, Tỉnh Bình Dương.",
+    "website": "www.eiu.edu.vn",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-quoc-te-mien-dong-EIU.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0410/thong-tin-tuyen-sinh-truong-dai-hoc-quoc-te-mien-dong.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC QUỐC TẾ MIỀN ĐÔNG 2026 Thông tin tuyển sinh trường Đại học Quốc tế Miền Đông (EIU) năm 2026 Năm 2026, trường Đại học Quốc tế Miền Đông tuyển sinh 1400 tiêu chí theo 4 phương thức: Phương thức 1: Xét tuyển theo kết quả thi tốt nghiệp THPT năm 2026 Phương thức 2: Xét tuyển theo kết quả học tập 3 năm trong học bạ THPT giáo dục chính quy Phương thức 3: Xét tuyển theo kết quả thi Đánh giá năng lực (ĐGNL) ĐHQG-HCM năm 2026 Phương thức 4: Xét tuyển thẳng và ưu tiên xét tuyển Khám phá thêm Tài nguyên giáo dục Giáo dục Khóa học",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 QUY CHẾ - Điều kiện chung: Thí sinh có tổng điểm 03 môn thi kỳ thi tốt nghiệp THPT năm 2026 theo tổ hợp xét tuyển đạt tối thiểu 15,00 điểm theo thang điểm 30. - Đối với ngành Điều dưỡng: Theo ngưỡng đảm bảo chất lượng đầu vào do Bộ GD&ĐT công bố hàng năm. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM THI THPT STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7310101 Kinh tế A00; A01; X05; X06; A07; B00; C01; C02; C03; C04; X01; D01; X02; D07; D09; D10; X25; X26 2 7340101 Quản trị kinh doanh A00; A01; ",
+      "eligibility": null,
+      "rules": "QUY CHẾ - Điều kiện chung: Thí sinh có tổng điểm 03 môn thi kỳ thi tốt nghiệp THPT năm 2026 theo tổ hợp xét tuyển đạt tối thiểu 15,00 điểm theo thang điểm 30. - Đối với ngành Điều dưỡng: Theo ngưỡng đảm bảo chất lượng đầu vào do Bộ GD&ĐT công bố hàng năm.",
+      "programs": [
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X05",
+            "X06",
+            "A07",
+            "B00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "X01",
+            "D01",
+            "X02",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X05",
+            "X06",
+            "A07",
+            "B00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "X01",
+            "D01",
+            "X02",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7480102",
+          "program_name": "Mạng máy tính và truyền thông dữ liệu",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X05",
+            "X06",
+            "B00",
+            "C01",
+            "C02",
+            "D01",
+            "D07",
+            "X01",
+            "X02",
+            "X25",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7480103",
+          "program_name": "Kỹ thuật phần mềm",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X05",
+            "X06",
+            "B00",
+            "C01",
+            "C02",
+            "D01",
+            "D07",
+            "X01",
+            "X02",
+            "X25",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7520103",
+          "program_name": "Kỹ thuật cơ khí",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X05",
+            "X06",
+            "B00",
+            "C01",
+            "C02",
+            "D01",
+            "D07",
+            "X01",
+            "X02",
+            "X25",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7520114",
+          "program_name": "Kỹ thuật cơ điện tử",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X05",
+            "X06",
+            "B00",
+            "C01",
+            "C02",
+            "D01",
+            "D07",
+            "X01",
+            "X02",
+            "X25",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "Kỹ thuật điện",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X05",
+            "X06",
+            "B00",
+            "C01",
+            "C02",
+            "D01",
+            "D07",
+            "X01",
+            "X02",
+            "X25",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật điện tử - viễn thông",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X05",
+            "X06",
+            "B00",
+            "C01",
+            "C02",
+            "D01",
+            "D07",
+            "X01",
+            "X02",
+            "X25",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X05",
+            "X06",
+            "B00",
+            "C01",
+            "C02",
+            "D01",
+            "D07",
+            "X01",
+            "X02",
+            "X25",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "B03",
+            "B08",
+            "C02",
+            "D01",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X25"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-hoc-ba",
+      "method_name": "2 ĐIỂM HỌC BẠ",
+      "description": "2.1 QUY CHẾ - Điều kiện chung: Thí sinh có tổng điểm trung bình chung học bạ 6 kỳ (lớp 10, 11 và 12) của 3 môn học theo tổ hợp xét tuyển đạt tối thiểu 18,00 điểm theo thang điểm 30. Lưu ý: Đối với thí sinh tốt nghiệp từ năm 2026, thí sinh phải có tổng điểm 03 môn thi kỳ thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán, Văn và một môn khác) đạt tối thiểu 15,00 điểm theo thang điểm 30. - Đối với ngành Điều dưỡng: Theo ngưỡng đảm bảo chất lượng đầu vào do Bộ GD&ĐT công bố h",
+      "eligibility": null,
+      "rules": "QUY CHẾ - Điều kiện chung: Thí sinh có tổng điểm trung bình chung học bạ 6 kỳ (lớp 10, 11 và 12) của 3 môn học theo tổ hợp xét tuyển đạt tối thiểu 18,00 điểm theo thang điểm 30. Lưu ý: Đối với thí sinh tốt nghiệp từ năm 2026, thí sinh phải có tổng điểm 03 môn thi kỳ thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán, Văn và một môn khác) đạt tối thiểu 15,00 điểm theo thang điểm 30. - Đối với ngành Điều dưỡng: Theo ngưỡng đảm bảo chất lượng đầu vào do Bộ GD&ĐT công bố hàng năm.",
+      "programs": [
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X05",
+            "X06",
+            "A07",
+            "B00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "X01",
+            "D01",
+            "X02",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X05",
+            "X06",
+            "A07",
+            "B00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "X01",
+            "D01",
+            "X02",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7480102",
+          "program_name": "Mạng máy tính và truyền thông dữ liệu",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X05",
+            "X06",
+            "B00",
+            "C01",
+            "C02",
+            "D01",
+            "D07",
+            "X01",
+            "X02",
+            "X25",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7480103",
+          "program_name": "Kỹ thuật phần mềm",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X05",
+            "X06",
+            "B00",
+            "C01",
+            "C02",
+            "D01",
+            "D07",
+            "X01",
+            "X02",
+            "X25",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7520103",
+          "program_name": "Kỹ thuật cơ khí",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X05",
+            "X06",
+            "B00",
+            "C01",
+            "C02",
+            "D01",
+            "D07",
+            "X01",
+            "X02",
+            "X25",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7520114",
+          "program_name": "Kỹ thuật cơ điện tử",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X05",
+            "X06",
+            "B00",
+            "C01",
+            "C02",
+            "D01",
+            "D07",
+            "X01",
+            "X02",
+            "X25",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "Kỹ thuật điện",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X05",
+            "X06",
+            "B00",
+            "C01",
+            "C02",
+            "D01",
+            "D07",
+            "X01",
+            "X02",
+            "X25",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật điện tử - viễn thông",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X05",
+            "X06",
+            "B00",
+            "C01",
+            "C02",
+            "D01",
+            "D07",
+            "X01",
+            "X02",
+            "X25",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X05",
+            "X06",
+            "B00",
+            "C01",
+            "C02",
+            "D01",
+            "D07",
+            "X01",
+            "X02",
+            "X25",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "B03",
+            "B08",
+            "C02",
+            "D01",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X25"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        }
+      ]
+    },
+    {
+      "method_id": "3-iem-gnl-hcm",
+      "method_name": "3 ĐIỂM ĐGNL HCM",
+      "description": "3.1 QUY CHẾ - Điều kiện chung: Thí sinh có điểm thi ĐGNL ĐHQG-HCM năm 2026 đạt tối thiểu 600 điểm theo thang điểm 1200. Lưu ý: Đối với thí sinh tốt nghiệp từ năm 2026, thí sinh phải có tổng điểm 03 môn thi kỳ thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán, Văn và một môn khác) đạt tối thiểu 15,00 điểm theo thang điểm 30. - Đối với ngành Điều dưỡng: Theo ngưỡng đảm bảo chất lượng đầu vào do Bộ GD&ĐT công bố hàng năm. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐGNL HC",
+      "eligibility": null,
+      "rules": "QUY CHẾ - Điều kiện chung: Thí sinh có điểm thi ĐGNL ĐHQG-HCM năm 2026 đạt tối thiểu 600 điểm theo thang điểm 1200. Lưu ý: Đối với thí sinh tốt nghiệp từ năm 2026, thí sinh phải có tổng điểm 03 môn thi kỳ thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán, Văn và một môn khác) đạt tối thiểu 15,00 điểm theo thang điểm 30. - Đối với ngành Điều dưỡng: Theo ngưỡng đảm bảo chất lượng đầu vào do Bộ GD&ĐT công bố hàng năm.",
+      "programs": [
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7480102",
+          "program_name": "Mạng máy tính và truyền thông dữ liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7480103",
+          "program_name": "Kỹ thuật phần mềm",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7520103",
+          "program_name": "Kỹ thuật cơ khí",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7520114",
+          "program_name": "Kỹ thuật cơ điện tử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "Kỹ thuật điện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật điện tử - viễn thông",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        }
+      ]
+    },
+    {
+      "method_id": "4-utxt-xt-thang",
+      "method_name": "4 ƯTXT, XT THẲNG",
+      "description": "4.1 QUY CHẾ Thực hiện theo Quy chế Tuyển sinh của Bộ Giáo dục và Đào tạo. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ƯTXT, XT THẲNG STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7310101 Kinh tế 2 7340101 Quản trị kinh doanh 3 7480102 Mạng máy tính và truyền thông dữ liệu 4 7480103 Kỹ thuật phần mềm 5 7520103 Kỹ thuật cơ khí 6 7520114 Kỹ thuật cơ điện tử 7 7520201 Kỹ thuật điện 8 7520207 Kỹ thuật điện tử - viễn thông 9 7520216 Kỹ thuật điều khiển và tự động hóa 10 7720301 Điều dưỡng Xem thêm",
+      "eligibility": null,
+      "rules": "QUY CHẾ Thực hiện theo Quy chế Tuyển sinh của Bộ Giáo dục và Đào tạo.",
+      "programs": [
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7480102",
+          "program_name": "Mạng máy tính và truyền thông dữ liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7480103",
+          "program_name": "Kỹ thuật phần mềm",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7520103",
+          "program_name": "Kỹ thuật cơ khí",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7520114",
+          "program_name": "Kỹ thuật cơ điện tử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "Kỹ thuật điện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật điện tử - viễn thông",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X05",
+            "X06",
+            "A07",
+            "B00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "X01",
+            "D01",
+            "X02",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X05",
+            "X06",
+            "A07",
+            "B00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "X01",
+            "D01",
+            "X02",
+            "D07",
+            "D09",
+            "D10",
+            "X25",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7480102",
+          "program_name": "Mạng máy tính và truyền thông dữ liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7480102",
+          "program_name": "Mạng máy tính và truyền thông dữ liệu",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X05",
+            "X06",
+            "B00",
+            "C01",
+            "C02",
+            "D01",
+            "D07",
+            "X01",
+            "X02",
+            "X25",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7480103",
+          "program_name": "Kỹ thuật phần mềm",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7480103",
+          "program_name": "Kỹ thuật phần mềm",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X05",
+            "X06",
+            "B00",
+            "C01",
+            "C02",
+            "D01",
+            "D07",
+            "X01",
+            "X02",
+            "X25",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7520103",
+          "program_name": "Kỹ thuật cơ khí",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7520103",
+          "program_name": "Kỹ thuật cơ khí",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X05",
+            "X06",
+            "B00",
+            "C01",
+            "C02",
+            "D01",
+            "D07",
+            "X01",
+            "X02",
+            "X25",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7520114",
+          "program_name": "Kỹ thuật cơ điện tử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7520114",
+          "program_name": "Kỹ thuật cơ điện tử",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X05",
+            "X06",
+            "B00",
+            "C01",
+            "C02",
+            "D01",
+            "D07",
+            "X01",
+            "X02",
+            "X25",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "Kỹ thuật điện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "Kỹ thuật điện",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X05",
+            "X06",
+            "B00",
+            "C01",
+            "C02",
+            "D01",
+            "D07",
+            "X01",
+            "X02",
+            "X25",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật điện tử - viễn thông",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7520207",
+          "program_name": "Kỹ thuật điện tử - viễn thông",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X05",
+            "X06",
+            "B00",
+            "C01",
+            "C02",
+            "D01",
+            "D07",
+            "X01",
+            "X02",
+            "X25",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X05",
+            "X06",
+            "B00",
+            "C01",
+            "C02",
+            "D01",
+            "D07",
+            "X01",
+            "X02",
+            "X25",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "B03",
+            "B08",
+            "C02",
+            "D01",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X25"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn của trường Đại học Quốc tế Miền Đông các năm Tại đây",
+  "tuition_text": "TT Ngành Học phí/năm (VNĐ) 1 Kinh tế (04 chuyên ngành: Kinh tế học ứng dụng, Kinh tế quốc tế, Phân tích dữ liệu kinh tế, Kinh tế học sức khỏe) 50.000.000 2 Quản trị kinh doanh (08 chuyên ngành: Kế toán, Tài chính, Marketing, Khởi nghiệp, Quản trị nguồn nhân lực, Quản trị chuỗi cung ứng, Quản trị nhà hàng khách sạn, Phân tích kinh doanh) 50.000.000 3 Mạng máy tính và truyền thông dữ liệu 27.000.000 4 Kỹ thuật phần mềm 27.000.000 5 Kỹ thuật cơ khí 27.000.000 6 Kỹ thuật cơ điện tử 27.000.000 7 Kỹ thuật điện 27.000.000 8 Kỹ thuật điện tử – viễn thông 27.000.000 9 Kỹ thuật điều khiển và tự động hóa 27.000.000 10 Điều dưỡng 20.000.000",
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-quoc-te-mien-dong-EIU.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "C01",
+              "C03",
+              "C04",
+              "D01",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X05",
+              "X06",
+              "X25",
+              "X26"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "C01",
+              "C03",
+              "C04",
+              "D01",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X05",
+              "X06",
+              "X25",
+              "X26"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7480102",
+            "program_name": "Mạng máy tính và truyền thông dữ liệu",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "C01",
+              "C02",
+              "D01",
+              "D07",
+              "X01",
+              "X05",
+              "X06",
+              "X07",
+              "X25",
+              "X26",
+              "X27"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7480103",
+            "program_name": "Kỹ thuật phần mềm",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "C01",
+              "C02",
+              "D01",
+              "D07",
+              "X01",
+              "X05",
+              "X06",
+              "X07",
+              "X25",
+              "X26",
+              "X27"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7520103",
+            "program_name": "Kỹ thuật cơ khí",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "C01",
+              "C02",
+              "D01",
+              "D07",
+              "X01",
+              "X05",
+              "X06",
+              "X07",
+              "X25",
+              "X26",
+              "X27"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7520114",
+            "program_name": "Kỹ thuật cơ điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "C01",
+              "C02",
+              "D01",
+              "D07",
+              "X01",
+              "X05",
+              "X06",
+              "X07",
+              "X25",
+              "X26",
+              "X27"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7520201",
+            "program_name": "Kỹ thuật điện",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "C01",
+              "C02",
+              "D01",
+              "D07",
+              "X01",
+              "X05",
+              "X06",
+              "X07",
+              "X25",
+              "X26",
+              "X27"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7520207",
+            "program_name": "Kỹ thuật điện tử – viễn thông",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "C01",
+              "C02",
+              "D01",
+              "D07",
+              "X01",
+              "X05",
+              "X06",
+              "X07",
+              "X25",
+              "X26",
+              "X27"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7520216",
+            "program_name": "Kỹ thuật điều khiển và tự động hóa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "C01",
+              "C02",
+              "D01",
+              "D07",
+              "X01",
+              "X05",
+              "X06",
+              "X07",
+              "X25",
+              "X26",
+              "X27"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B03",
+              "B08",
+              "C02",
+              "D01",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X25"
+            ],
+            "score": 17,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "C01",
+              "C03",
+              "C04",
+              "D01",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X05",
+              "X06",
+              "X25",
+              "X26"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "C01",
+              "C03",
+              "C04",
+              "D01",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X05",
+              "X06",
+              "X25",
+              "X26"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7480102",
+            "program_name": "Mạng máy tính và truyền thông dữ liệu",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "C01",
+              "C02",
+              "D01",
+              "D07",
+              "X01",
+              "X05",
+              "X06",
+              "X07",
+              "X25",
+              "X26",
+              "X27"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7480103",
+            "program_name": "Kỹ thuật phần mềm",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "C01",
+              "C02",
+              "D01",
+              "D07",
+              "X01",
+              "X05",
+              "X06",
+              "X07",
+              "X25",
+              "X26",
+              "X27"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7520103",
+            "program_name": "Kỹ thuật cơ khí",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "C01",
+              "C02",
+              "D01",
+              "D07",
+              "X01",
+              "X05",
+              "X06",
+              "X07",
+              "X25",
+              "X26",
+              "X27"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7520114",
+            "program_name": "Kỹ thuật cơ điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "C01",
+              "C02",
+              "D01",
+              "D07",
+              "X01",
+              "X05",
+              "X06",
+              "X07",
+              "X25",
+              "X26",
+              "X27"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7520201",
+            "program_name": "Kỹ thuật điện",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B03",
+              "B08",
+              "C02",
+              "D01",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X25"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7520207",
+            "program_name": "Kỹ thuật điện tử – viễn thông",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "C01",
+              "C02",
+              "D01",
+              "D07",
+              "X01",
+              "X05",
+              "X06",
+              "X07",
+              "X25",
+              "X26",
+              "X27"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7520216",
+            "program_name": "Kỹ thuật điều khiển và tự động hóa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "C01",
+              "C02",
+              "D01",
+              "D07",
+              "X01",
+              "X05",
+              "X06",
+              "X07",
+              "X25",
+              "X26",
+              "X27"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B03",
+              "B08",
+              "C02",
+              "D01",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X25"
+            ],
+            "score": 19.5,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7480102",
+            "program_name": "Mạng máy tính và truyền thông dữ liệu",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7480103",
+            "program_name": "Kỹ thuật phần mềm",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7520103",
+            "program_name": "Kỹ thuật cơ khí",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7520114",
+            "program_name": "Kỹ thuật cơ điện tử",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7520201",
+            "program_name": "Kỹ thuật điện",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7520207",
+            "program_name": "Kỹ thuật điện tử – viễn thông",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7520216",
+            "program_name": "Kỹ thuật điều khiển và tự động hóa",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

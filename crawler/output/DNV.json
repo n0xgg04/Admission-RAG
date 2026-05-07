@@ -1,0 +1,1188 @@
+{
+  "university": {
+    "code": "DNV",
+    "name": "Trường Đại học Nội vụ Hà Nội",
+    "short_name": null,
+    "location": [
+      "Hà Nội"
+    ],
+    "address": null,
+    "website": null,
+    "type": null,
+    "description": null
+  },
+  "admission_year": null,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-noi-vu-ha-noi-DNV.html",
+  "pdf_url": null,
+  "admission_overview": "LỚP MỚI - DÀNH CHO 2K9 ÔN THI ĐGNL & ĐGTD • Kỳ thi Đánh giá năng lực ĐHQG Hà Nội 2027 - Xem ngay • Kỳ thi Đánh giá năng lực ĐHQG TP.HCM 2027 - Xem ngay • Kỳ thi Đánh giá năng lực Quân đội 2027 - Xem ngay • Kỳ thi Đánh giá tư duy Bách khoa HN 2027 - Xem ngay XEM THÊM các lớp dành cho kỳ thi khác (ĐGNL Bộ Công An, ĐGNL Sư phạm, TN THPT,....)",
+  "admission_methods": [
+    {
+      "method_id": "phuong-thuc",
+      "method_name": "Phương thức xét tuyển",
+      "description": "STT Mã ngành Tên ngành Chỉ tiêu Phương thức xét tuyển Tổ hợp",
+      "eligibility": null,
+      "rules": null,
+      "programs": []
+    }
+  ],
+  "cutoff_scores_text": null,
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-noi-vu-ha-noi-DNV.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2022",
+        "year": 2022,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh, chuyên ngành Biên - phiên dịch thuộc ngành Ngôn ngữ Anh chuyên ngành Tiếng Anh du lịch thuộc ngành Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 23.75,
+            "note": null
+          },
+          {
+            "program_code": "7229040",
+            "program_name": "Chuyên ngành Văn hóa du lịch thuộc ngành Văn hóa học chuyên ngành Văn hóa truyền thông thuộc ngành văn hóa học",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 20.25,
+            "note": null
+          },
+          {
+            "program_code": "7229040",
+            "program_name": "Chuyên ngành Văn hóa du lịch thuộc ngành Văn hóa học chuyên ngành Văn hóa truyền thông thuộc ngành văn hóa học",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 22.25,
+            "note": null
+          },
+          {
+            "program_code": "7229042",
+            "program_name": "Quản lý văn hóa (Chuyên ngành Quản lý di sản văn hóa và phát triển du lịch thuộc ngành Quản lí văn hóa)",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7229042",
+            "program_name": "Quản lý văn hóa (Chuyên ngành Quản lý di sản văn hóa và phát triển du lịch thuộc ngành Quản lí văn hóa)",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A07",
+              "D01"
+            ],
+            "score": 23.5,
+            "note": null
+          },
+          {
+            "program_code": "7310201",
+            "program_name": "Chính trị học (Chuyên ngành Chính sách công)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7310201",
+            "program_name": "Chính trị học (Chuyên ngành Chính sách công)",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7310201",
+            "program_name": "Chính trị học (Chuyên ngành Chính sách công)",
+            "subject_groups": [
+              "C14",
+              "C20"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và chính quyền nhà nước",
+            "subject_groups": [
+              "D14"
+            ],
+            "score": 15.5,
+            "note": null
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và chính quyền nhà nước",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 17.5,
+            "note": null
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và chính quyền nhà nước",
+            "subject_groups": [
+              "C19",
+              "C20"
+            ],
+            "score": 18.5,
+            "note": null
+          },
+          {
+            "program_code": "7310205",
+            "program_name": "Quản lý nhà nước",
+            "subject_groups": [
+              "A01",
+              "D01"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7310205",
+            "program_name": "Quản lý nhà nước",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 23,
+            "note": null
+          },
+          {
+            "program_code": "7310205",
+            "program_name": "Quản lý nhà nước",
+            "subject_groups": [
+              "C20"
+            ],
+            "score": 24,
+            "note": null
+          },
+          {
+            "program_code": "7310205QN",
+            "program_name": "Quản lý nhà nước",
+            "subject_groups": [
+              "D01",
+              "D15",
+              "C00"
+            ],
+            "score": 18,
+            "note": "Cơ sở Quảng Nam"
+          },
+          {
+            "program_code": "7310205QN",
+            "program_name": "Quản lý nhà nước",
+            "subject_groups": [
+              "C20"
+            ],
+            "score": 19,
+            "note": "Cơ sở Quảng Nam"
+          },
+          {
+            "program_code": "7310205TP-HCM",
+            "program_name": "Quản lý nhà nước",
+            "subject_groups": [
+              "A00",
+              "D01",
+              "D15",
+              "C00"
+            ],
+            "score": 21,
+            "note": "Cơ sở TPHCM"
+          },
+          {
+            "program_code": "7320201",
+            "program_name": "Thông tin - thư viện, chuyên ngành Quản trị thông tin thuộc ngành thông tin - thư viện",
+            "subject_groups": [
+              "A01",
+              "D01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7320201",
+            "program_name": "Thông tin - thư viện, chuyên ngành Quản trị thông tin thuộc ngành thông tin - thư viện",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7320201",
+            "program_name": "Thông tin - thư viện, chuyên ngành Quản trị thông tin thuộc ngành thông tin - thư viện",
+            "subject_groups": [
+              "C20"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7320303",
+            "program_name": "Lưu trữ học (Chuyên ngành Văn thư - Lưu trữ)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7320303",
+            "program_name": "Lưu trữ học (Chuyên ngành Văn thư - Lưu trữ)",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7320303",
+            "program_name": "Lưu trữ học (Chuyên ngành Văn thư - Lưu trữ)",
+            "subject_groups": [
+              "C19",
+              "C20"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7320303TP-HCM",
+            "program_name": "Lưu trữ học - Chuyên ngành Văn thư - lưu trữ thuộc ngành Lưu trữ học",
+            "subject_groups": [
+              "C19"
+            ],
+            "score": 16,
+            "note": "Cơ sở TPHCM"
+          },
+          {
+            "program_code": "7320303TP-HCM",
+            "program_name": "Lưu trữ học - Chuyên ngành Văn thư - lưu trữ thuộc ngành Lưu trữ học",
+            "subject_groups": [
+              "D14",
+              "C00",
+              "C03"
+            ],
+            "score": 15,
+            "note": "Cơ sở TPHCM"
+          },
+          {
+            "program_code": "7340404",
+            "program_name": "Quản trị nhân lực",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01"
+            ],
+            "score": 24,
+            "note": null
+          },
+          {
+            "program_code": "7340404",
+            "program_name": "Quản trị nhân lực",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 27,
+            "note": null
+          },
+          {
+            "program_code": "7340404QN",
+            "program_name": "Quản trị nhân lực",
+            "subject_groups": [
+              "A00",
+              "D01",
+              "C00"
+            ],
+            "score": 15,
+            "note": "Cơ sở Quảng Nam"
+          },
+          {
+            "program_code": "7340404QN",
+            "program_name": "Quản trị nhân lực",
+            "subject_groups": [
+              "C20"
+            ],
+            "score": 16,
+            "note": "Cơ sở Quảng Nam"
+          },
+          {
+            "program_code": "7340406",
+            "program_name": "Quản trị văn phòng",
+            "subject_groups": [
+              "A01",
+              "D01"
+            ],
+            "score": 23.75,
+            "note": null
+          },
+          {
+            "program_code": "7340406",
+            "program_name": "Quản trị văn phòng",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 25.75,
+            "note": null
+          },
+          {
+            "program_code": "7340406",
+            "program_name": "Quản trị văn phòng",
+            "subject_groups": [
+              "C20"
+            ],
+            "score": 26.75,
+            "note": null
+          },
+          {
+            "program_code": "7340406QN",
+            "program_name": "Quản trị văn phòng",
+            "subject_groups": [
+              "C20"
+            ],
+            "score": 18,
+            "note": "Cơ sở Quảng Nam"
+          },
+          {
+            "program_code": "7340406QN",
+            "program_name": "Quản trị văn phòng",
+            "subject_groups": [
+              "A00",
+              "D01",
+              "C00"
+            ],
+            "score": 17,
+            "note": "Cơ sở Quảng Nam"
+          },
+          {
+            "program_code": "7340406TP-HCM",
+            "program_name": "Quản trị văn phòng",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D15",
+              "C00"
+            ],
+            "score": 22.25,
+            "note": "Cơ sở TPHCM"
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật (Chuyên ngành Thanh tra)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01"
+            ],
+            "score": 24.25,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật (Chuyên ngành Thanh tra)",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 26.25,
+            "note": null
+          },
+          {
+            "program_code": "7380101QN 7380101-1QN",
+            "program_name": "Luật (Chuyên ngành Thanh tra)",
+            "subject_groups": [
+              "A00",
+              "D01",
+              "C00"
+            ],
+            "score": 15,
+            "note": "Cơ sở Quảng Nam"
+          },
+          {
+            "program_code": "7380101QN 7380101-1QN",
+            "program_name": "Luật (Chuyên ngành Thanh tra)",
+            "subject_groups": [
+              "C20"
+            ],
+            "score": 16,
+            "note": "Cơ sở Quảng Nam"
+          },
+          {
+            "program_code": "7380101TP-HCM",
+            "program_name": "Luật (Chuyên ngành Thanh tra)",
+            "subject_groups": [
+              "A00",
+              "A00",
+              "D01",
+              "C00"
+            ],
+            "score": 24.5,
+            "note": "Cơ sở TPHCM"
+          },
+          {
+            "program_code": "7480104",
+            "program_name": "Hệ thông thông tin (Chuyên ngành Hệ thống thông tin thương mại điện tử)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D10"
+            ],
+            "score": 19.75,
+            "note": null
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 23.25,
+            "note": null
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 25.25,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2022",
+        "year": 2022,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh, chuyên ngành Biên - phiên dịch thuộc ngành Ngôn ngữ Anh chuyên ngành Tiếng Anh du lịch thuộc ngành Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 26.75,
+            "note": null
+          },
+          {
+            "program_code": "7229040",
+            "program_name": "Chuyên ngành Văn hóa du lịch thuộc ngành Văn hóa học chuyên ngành Văn hóa truyền thông thuộc ngành văn hóa học",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 25.5,
+            "note": null
+          },
+          {
+            "program_code": "7229040",
+            "program_name": "Chuyên ngành Văn hóa du lịch thuộc ngành Văn hóa học chuyên ngành Văn hóa truyền thông thuộc ngành văn hóa học",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 23.5,
+            "note": null
+          },
+          {
+            "program_code": "7229042",
+            "program_name": "Quản lý văn hóa (Chuyên ngành Quản lý di sản văn hóa và phát triển du lịch thuộc ngành Quản lí văn hóa)",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 23,
+            "note": null
+          },
+          {
+            "program_code": "7229042",
+            "program_name": "Quản lý văn hóa (Chuyên ngành Quản lý di sản văn hóa và phát triển du lịch thuộc ngành Quản lí văn hóa)",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 25,
+            "note": null
+          },
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A07",
+              "D01"
+            ],
+            "score": 27.5,
+            "note": null
+          },
+          {
+            "program_code": "7310201",
+            "program_name": "Chính trị học (Chuyên ngành Chính sách công)",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 24,
+            "note": null
+          },
+          {
+            "program_code": "7310201",
+            "program_name": "Chính trị học (Chuyên ngành Chính sách công)",
+            "subject_groups": [
+              "C14",
+              "C20"
+            ],
+            "score": 25,
+            "note": null
+          },
+          {
+            "program_code": "7310201",
+            "program_name": "Chính trị học (Chuyên ngành Chính sách công)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và chính quyền nhà nước",
+            "subject_groups": [
+              "D01",
+              "D14"
+            ],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và chính quyền nhà nước",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 24.5,
+            "note": null
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và chính quyền nhà nước",
+            "subject_groups": [
+              "C20"
+            ],
+            "score": 25.5,
+            "note": null
+          },
+          {
+            "program_code": "7310205",
+            "program_name": "Quản lý nhà nước",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D15"
+            ],
+            "score": 25.75,
+            "note": null
+          },
+          {
+            "program_code": "7310205",
+            "program_name": "Quản lý nhà nước",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 27.75,
+            "note": null
+          },
+          {
+            "program_code": "7310205QN",
+            "program_name": "Quản lý nhà nước",
+            "subject_groups": [
+              "D01",
+              "D15",
+              "C00"
+            ],
+            "score": 18,
+            "note": "Cơ sở Quảng Nam"
+          },
+          {
+            "program_code": "7310205QN",
+            "program_name": "Quản lý nhà nước",
+            "subject_groups": [
+              "C20"
+            ],
+            "score": 19,
+            "note": "Cơ sở Quảng Nam"
+          },
+          {
+            "program_code": "7310205TP-HCM",
+            "program_name": "Quản lý nhà nước",
+            "subject_groups": [
+              "A00",
+              "D01",
+              "D15",
+              "C00"
+            ],
+            "score": 25,
+            "note": "Cơ sở TPHCM"
+          },
+          {
+            "program_code": "7320201",
+            "program_name": "Thông tin - thư viện, chuyên ngành Quản trị thông tin thuộc ngành thông tin - thư viện",
+            "subject_groups": [
+              "A01",
+              "D01"
+            ],
+            "score": 21.5,
+            "note": null
+          },
+          {
+            "program_code": "7320201",
+            "program_name": "Thông tin - thư viện, chuyên ngành Quản trị thông tin thuộc ngành thông tin - thư viện",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 23.5,
+            "note": null
+          },
+          {
+            "program_code": "7320201",
+            "program_name": "Thông tin - thư viện, chuyên ngành Quản trị thông tin thuộc ngành thông tin - thư viện",
+            "subject_groups": [
+              "C20"
+            ],
+            "score": 24.5,
+            "note": null
+          },
+          {
+            "program_code": "7320303",
+            "program_name": "Lưu trữ học (Chuyên ngành Văn thư - Lưu trữ)",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "7320303",
+            "program_name": "Lưu trữ học (Chuyên ngành Văn thư - Lưu trữ)",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 24.5,
+            "note": null
+          },
+          {
+            "program_code": "7320303",
+            "program_name": "Lưu trữ học (Chuyên ngành Văn thư - Lưu trữ)",
+            "subject_groups": [
+              "C19",
+              "C20"
+            ],
+            "score": 25.5,
+            "note": null
+          },
+          {
+            "program_code": "7320303TP-HCM",
+            "program_name": "Lưu trữ học - Chuyên ngành Văn thư - lưu trữ thuộc ngành Lưu trữ học",
+            "subject_groups": [
+              "D14",
+              "C00",
+              "C03"
+            ],
+            "score": 22,
+            "note": "Cơ sở TPHCM"
+          },
+          {
+            "program_code": "7320303TP-HCM",
+            "program_name": "Lưu trữ học - Chuyên ngành Văn thư - lưu trữ thuộc ngành Lưu trữ học",
+            "subject_groups": [
+              "C19"
+            ],
+            "score": 23,
+            "note": "Cơ sở TPHCM"
+          },
+          {
+            "program_code": "7340404",
+            "program_name": "Quản trị nhân lực",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01"
+            ],
+            "score": 28,
+            "note": null
+          },
+          {
+            "program_code": "7340404",
+            "program_name": "Quản trị nhân lực",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 0,
+            "note": null
+          },
+          {
+            "program_code": "7340404QN",
+            "program_name": "Quản trị nhân lực",
+            "subject_groups": [
+              "A00",
+              "D01",
+              "C00"
+            ],
+            "score": 22,
+            "note": "Cơ sở Quảng Nam"
+          },
+          {
+            "program_code": "7340404QN",
+            "program_name": "Quản trị nhân lực",
+            "subject_groups": [
+              "C20"
+            ],
+            "score": 23,
+            "note": "Cơ sở Quảng Nam"
+          },
+          {
+            "program_code": "7340406",
+            "program_name": "Quản trị văn phòng",
+            "subject_groups": [
+              "A01",
+              "D01"
+            ],
+            "score": 26.75,
+            "note": null
+          },
+          {
+            "program_code": "7340406",
+            "program_name": "Quản trị văn phòng",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 28.75,
+            "note": null
+          },
+          {
+            "program_code": "7340406",
+            "program_name": "Quản trị văn phòng",
+            "subject_groups": [
+              "C20"
+            ],
+            "score": 29.75,
+            "note": null
+          },
+          {
+            "program_code": "7340406QN",
+            "program_name": "Quản trị văn phòng",
+            "subject_groups": [
+              "A00",
+              "D01",
+              "C00"
+            ],
+            "score": 18,
+            "note": "Cơ sở Quảng Nam"
+          },
+          {
+            "program_code": "7340406QN",
+            "program_name": "Quản trị văn phòng",
+            "subject_groups": [
+              "C20"
+            ],
+            "score": 19,
+            "note": "Cơ sở Quảng Nam"
+          },
+          {
+            "program_code": "7340406TP-HCM",
+            "program_name": "Quản trị văn phòng",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D15",
+              "C00"
+            ],
+            "score": 25,
+            "note": "Cơ sở TPHCM"
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật (Chuyên ngành Thanh tra)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01"
+            ],
+            "score": 28,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật (Chuyên ngành Thanh tra)",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 0,
+            "note": null
+          },
+          {
+            "program_code": "7380101QN 7380101-1QN",
+            "program_name": "Luật (Chuyên ngành Thanh tra)",
+            "subject_groups": [
+              "A00",
+              "D01",
+              "C00"
+            ],
+            "score": 22,
+            "note": "Cơ sở Quảng Nam"
+          },
+          {
+            "program_code": "7380101QN 7380101-1QN",
+            "program_name": "Luật (Chuyên ngành Thanh tra)",
+            "subject_groups": [
+              "C20"
+            ],
+            "score": 23,
+            "note": "Cơ sở Quảng Nam"
+          },
+          {
+            "program_code": "7380101TP-HCM",
+            "program_name": "Luật (Chuyên ngành Thanh tra)",
+            "subject_groups": [
+              "A00",
+              "A00",
+              "D01",
+              "C00"
+            ],
+            "score": 27,
+            "note": "Cơ sở TPHCM"
+          },
+          {
+            "program_code": "7480104",
+            "program_name": "Hệ thông thông tin (Chuyên ngành Hệ thống thông tin thương mại điện tử)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D10"
+            ],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 26,
+            "note": null
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 28,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2022",
+        "year": 2022,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh, chuyên ngành Biên - phiên dịch thuộc ngành Ngôn ngữ Anh chuyên ngành Tiếng Anh du lịch thuộc ngành Ngôn ngữ Anh",
+            "subject_groups": [],
+            "score": 75,
+            "note": null
+          },
+          {
+            "program_code": "7229040",
+            "program_name": "Chuyên ngành Văn hóa du lịch thuộc ngành Văn hóa học chuyên ngành Văn hóa truyền thông thuộc ngành văn hóa học",
+            "subject_groups": [],
+            "score": 75,
+            "note": null
+          },
+          {
+            "program_code": "7229042",
+            "program_name": "Quản lý văn hóa (Chuyên ngành Quản lý di sản văn hóa và phát triển du lịch thuộc ngành Quản lí văn hóa)",
+            "subject_groups": [],
+            "score": 75,
+            "note": null
+          },
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế",
+            "subject_groups": [],
+            "score": 85,
+            "note": null
+          },
+          {
+            "program_code": "7310201",
+            "program_name": "Chính trị học (Chuyên ngành Chính sách công)",
+            "subject_groups": [],
+            "score": 75,
+            "note": null
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và chính quyền nhà nước",
+            "subject_groups": [],
+            "score": 75,
+            "note": null
+          },
+          {
+            "program_code": "7310205",
+            "program_name": "Quản lý nhà nước",
+            "subject_groups": [],
+            "score": 80,
+            "note": null
+          },
+          {
+            "program_code": "7310205TP-HCM",
+            "program_name": "Quản lý nhà nước",
+            "subject_groups": [],
+            "score": 80,
+            "note": "Cơ sở TPHCM"
+          },
+          {
+            "program_code": "7320201",
+            "program_name": "Thông tin - thư viện, chuyên ngành Quản trị thông tin thuộc ngành thông tin - thư viện",
+            "subject_groups": [],
+            "score": 75,
+            "note": null
+          },
+          {
+            "program_code": "7320303",
+            "program_name": "Lưu trữ học (Chuyên ngành Văn thư - Lưu trữ)",
+            "subject_groups": [],
+            "score": 75,
+            "note": null
+          },
+          {
+            "program_code": "7320303TP-HCM",
+            "program_name": "Lưu trữ học - Chuyên ngành Văn thư - lưu trữ thuộc ngành Lưu trữ học",
+            "subject_groups": [],
+            "score": 75,
+            "note": "Cơ sở TPHCM"
+          },
+          {
+            "program_code": "7340404",
+            "program_name": "Quản trị nhân lực",
+            "subject_groups": [],
+            "score": 85,
+            "note": null
+          },
+          {
+            "program_code": "7340406",
+            "program_name": "Quản trị văn phòng",
+            "subject_groups": [],
+            "score": 85,
+            "note": null
+          },
+          {
+            "program_code": "7340406TP-HCM",
+            "program_name": "Quản trị văn phòng",
+            "subject_groups": [],
+            "score": 85,
+            "note": "Cơ sở TPHCM"
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật (Chuyên ngành Thanh tra)",
+            "subject_groups": [],
+            "score": 85,
+            "note": null
+          },
+          {
+            "program_code": "7380101TP-HCM",
+            "program_name": "Luật (Chuyên ngành Thanh tra)",
+            "subject_groups": [],
+            "score": 85,
+            "note": "Cơ sở TPHCM"
+          },
+          {
+            "program_code": "7480104",
+            "program_name": "Hệ thống thông tin (Chuyên ngành Hệ thống thông tin thương mại điện tử)",
+            "subject_groups": [],
+            "score": 75,
+            "note": null
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [],
+            "score": 85,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2022",
+        "year": 2022,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh, chuyên ngành Biên - phiên dịch thuộc ngành Ngôn ngữ Anh chuyên ngành Tiếng Anh du lịch thuộc ngành Ngôn ngữ Anh",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7229040",
+            "program_name": "Chuyên ngành Văn hóa du lịch thuộc ngành Văn hóa học chuyên ngành Văn hóa truyền thông thuộc ngành văn hóa học",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7229042",
+            "program_name": "Quản lý văn hóa (Chuyên ngành Quản lý di sản văn hóa và phát triển du lịch thuộc ngành Quản lí văn hóa)",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế",
+            "subject_groups": [],
+            "score": 680,
+            "note": null
+          },
+          {
+            "program_code": "7310201",
+            "program_name": "Chính trị học (Chuyên ngành Chính sách công)",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và chính quyền nhà nước",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7310205",
+            "program_name": "Quản lý nhà nước",
+            "subject_groups": [],
+            "score": 640,
+            "note": null
+          },
+          {
+            "program_code": "7310205TP-HCM",
+            "program_name": "Quản lý nhà nước",
+            "subject_groups": [],
+            "score": 640,
+            "note": "Cơ sở TPHCM"
+          },
+          {
+            "program_code": "7320201",
+            "program_name": "Thông tin - thư viện, chuyên ngành Quản trị thông tin thuộc ngành thông tin - thư viện",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7320303",
+            "program_name": "Lưu trữ học (Chuyên ngành Văn thư - Lưu trữ)",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7320303TP-HCM",
+            "program_name": "Lưu trữ học - Chuyên ngành Văn thư - lưu trữ thuộc ngành Lưu trữ học",
+            "subject_groups": [],
+            "score": 600,
+            "note": "Cơ sở TPHCM"
+          },
+          {
+            "program_code": "7340404",
+            "program_name": "Quản trị nhân lực",
+            "subject_groups": [],
+            "score": 680,
+            "note": null
+          },
+          {
+            "program_code": "7340406",
+            "program_name": "Quản trị văn phòng",
+            "subject_groups": [],
+            "score": 680,
+            "note": null
+          },
+          {
+            "program_code": "7340406TP-HCM",
+            "program_name": "Quản trị văn phòng",
+            "subject_groups": [],
+            "score": 680,
+            "note": "Cơ sở TPHCM"
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật (Chuyên ngành Thanh tra)",
+            "subject_groups": [],
+            "score": 680,
+            "note": null
+          },
+          {
+            "program_code": "7380101TP-HCM",
+            "program_name": "Luật (Chuyên ngành Thanh tra)",
+            "subject_groups": [],
+            "score": 680,
+            "note": "Cơ sở TPHCM"
+          },
+          {
+            "program_code": "7480104",
+            "program_name": "Hệ thống thông tin (Chuyên ngành Hệ thống thông tin thương mại điện tử)",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [],
+            "score": 680,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

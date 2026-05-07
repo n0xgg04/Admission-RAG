@@ -1,0 +1,1669 @@
+{
+  "university": {
+    "code": "BMU",
+    "name": "Trường Đại học Y Dược Buôn Ma Thuột",
+    "short_name": "BMU",
+    "location": [
+      "Đắk Lắk"
+    ],
+    "address": "Số 298 Hà Huy Tập - P. Tân An - TP. Buôn Ma Thuột - Tỉnh Đắk Lắk",
+    "website": "https://bmtu.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-y-duoc-buon-ma-thuot-BMU.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0414/thong-tin-tuyen-sinh-truong-dai-hoc-y-duoc-buon-ma-thuot-2026.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC Y DƯỢC BUÔN MA THUỘT 2026 Thông tin tuyển sinh trường Đại học Y Dược Buôn Ma Thuột (BMU) năm 2026 Trường Đại học Y Dược Buôn Ma Thuột thông báo tuyển sinh đại học hệ chính quy năm 2026. Theo đó, thí sinh được lựa chọn 1 hoặc nhiều phương thức sau để đăng ký xét tuyển vào BMU: Phương thức 1: Xét tuyển điểm thi tốt nghiệp THPT năm 2026. Phương thức 2: Xét tuyển học bạ THPT (kết quả theo tổ hợp xét tuyển trong học bạ 03 năm lớp 10;11;12 THPT). Phương thức 3: Xét tuyển bài thi đánh giá năng lực do Trường ĐH Quốc gia TPHCM, ĐH QG Hà Nội, ĐH Sư phạm Hà Nội tổ chức năm 2026. Phương thức 4: Tuyển thẳng, ưu tiên xét tuyển theo Quy chế tuyển sinh của Bộ GD&ĐT.",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 ĐIỀU KIỆN XÉT TUYỂN - Đối với ngành Y khoa: Thí sinh chỉ đủ điều kiện được xét tuyển khi có học môn Sinh trong chương trình THPT (tối thiếu năm lớp 12). - Đối với ngành Dược học: Thí sinh chỉ đủ điều kiện được xét tuyển khi có học môn Hóa trong chương trình THPT (tối thiếu năm lớp 12). 1.2 QUY CHẾ Thí sinh có chứng chỉ ngoại ngữ được miễn thi bài thi môn ngoại ngữ đối được quy định tại Quy chế thi THPT, ban hành theo Thông tư số 24/2024/TT-BGDĐT ngày 24/12/2024 của Bộ Giáo dục và Đào tạo. Că",
+      "eligibility": "Đối tượng + Điểm ƯT Khu vực xác định theo quy định của",
+      "rules": "QUY CHẾ Thí sinh có chứng chỉ ngoại ngữ được miễn thi bài thi môn ngoại ngữ đối được quy định tại Quy chế thi THPT, ban hành theo Thông tư số 24/2024/TT-BGDĐT ngày 24/12/2024 của Bộ Giáo dục và Đào tạo. Căn cứ mức độ năng lực của chứng chỉ ngoại ngữ của thí sinh, điểm quy đổi khi xét tuyển được tính theo thang điểm theo quy định của Trường được ban hành chi tiết tại thông tin tuyển sinh của Trường. Thí sinh được sử dụng điểm thi được bảo lưu theo quy định tại Quy chế thi THPT và xét công nhận tốt nghiệp THPT các năm trước để tuyển sinh năm 2026. a) Cách thức xét tuyển: Xét tổng điểm 03 môn thi tốt nghiệp của thí sinh đăng ký xét tuyển theo tổ hợp có điểm cao nhất đã được quy định đối với ngành/chương trình đào tạo của Trường cộng với điểm ưu tiên theo quy định và được tính như sau: Điểm xét tuyển = ĐM1 + ĐM2 + ĐM3 + Điểm ưu tiên, Trong đó: ĐM1; ĐM2; ĐM3: Là kết quả điểm thi tốt nghiệp THPT của 03 môn tương ứng với 03 môn của tổ hợp xét tuyển, được làm tròn tới 02 chữ số thập phân. Điểm ưu tiên (ƯT) = Điểm ƯT",
+      "programs": [
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "B00",
+            "A02",
+            "X14",
+            "X15",
+            "X16",
+            "D08",
+            "D32",
+            "D33",
+            "D34",
+            "D31",
+            "D35",
+            "AH4",
+            "A00",
+            "X10",
+            "X11",
+            "X12",
+            "D07",
+            "D24",
+            "D23",
+            "D21",
+            "D22",
+            "D25",
+            "AH2",
+            "X06",
+            "X07",
+            "X08",
+            "A01",
+            "D28",
+            "D29",
+            "D26",
+            "D27",
+            "D30",
+            "AH3"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720110",
+          "program_name": "Y học dự phòng",
+          "subject_groups": [
+            "B00",
+            "A02",
+            "X14",
+            "X15",
+            "X16",
+            "D08",
+            "D32",
+            "D33",
+            "D34",
+            "D31",
+            "D35",
+            "AH4",
+            "A00",
+            "X10",
+            "X11",
+            "X12",
+            "D07",
+            "D24",
+            "D23",
+            "D21",
+            "D22",
+            "D25",
+            "AH2",
+            "X06",
+            "X07",
+            "X08",
+            "A01",
+            "D28",
+            "D29",
+            "D26",
+            "D27",
+            "D30",
+            "AH3"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720115",
+          "program_name": "Y học cổ truyền",
+          "subject_groups": [
+            "B00",
+            "A02",
+            "X14",
+            "X15",
+            "X16",
+            "D08",
+            "D32",
+            "D33",
+            "D34",
+            "D31",
+            "D35",
+            "AH4",
+            "A00",
+            "X10",
+            "X11",
+            "X12",
+            "D07",
+            "D24",
+            "D23",
+            "D21",
+            "D22",
+            "D25",
+            "AH2",
+            "X06",
+            "X07",
+            "X08",
+            "A01",
+            "D28",
+            "D29",
+            "D26",
+            "D27",
+            "D30",
+            "AH3"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [
+            "B00",
+            "A00",
+            "X10",
+            "X11",
+            "X12",
+            "D07",
+            "D21",
+            "D22",
+            "D23",
+            "D24",
+            "D25",
+            "AH2",
+            "A02",
+            "X14",
+            "X15",
+            "X16",
+            "D08",
+            "D31",
+            "D32",
+            "D33",
+            "D34",
+            "D35",
+            "AH4",
+            "X06",
+            "X07",
+            "X08",
+            "A01",
+            "D28",
+            "D29",
+            "D26",
+            "D27",
+            "D30",
+            "AH3"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng",
+          "subject_groups": [
+            "B00",
+            "A02",
+            "X14",
+            "X15",
+            "X16",
+            "D08",
+            "D32",
+            "D33",
+            "D34",
+            "D31",
+            "D35",
+            "AH4",
+            "A00",
+            "X10",
+            "X11",
+            "X12",
+            "D07",
+            "D24",
+            "D23",
+            "D21",
+            "D22",
+            "D25",
+            "AH2",
+            "X06",
+            "X07",
+            "X08",
+            "A01",
+            "D28",
+            "D29",
+            "D26",
+            "D27",
+            "D30",
+            "AH3"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật xét nghiệm y học",
+          "subject_groups": [
+            "B00",
+            "A02",
+            "X14",
+            "X15",
+            "X16",
+            "D08",
+            "D32",
+            "D33",
+            "D34",
+            "D31",
+            "D35",
+            "AH4",
+            "A00",
+            "X10",
+            "X11",
+            "X12",
+            "D07",
+            "D24",
+            "D23",
+            "D21",
+            "D22",
+            "D25",
+            "AH2",
+            "X06",
+            "X07",
+            "X08",
+            "A01",
+            "D28",
+            "D29",
+            "D26",
+            "D27",
+            "D30",
+            "AH3"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7720701",
+          "program_name": "Y tế công cộng",
+          "subject_groups": [
+            "B00",
+            "A02",
+            "X14",
+            "X15",
+            "X16",
+            "D08",
+            "D32",
+            "D33",
+            "D34",
+            "D31",
+            "D35",
+            "AH4",
+            "A00",
+            "X10",
+            "X11",
+            "X12",
+            "D07",
+            "D24",
+            "D23",
+            "D21",
+            "D22",
+            "D25",
+            "AH2",
+            "X06",
+            "X07",
+            "X08",
+            "A01",
+            "D28",
+            "D29",
+            "D26",
+            "D27",
+            "D30",
+            "AH3"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-hoc-ba",
+      "method_name": "2 ĐIỂM HỌC BẠ",
+      "description": "2.1 ĐIỀU KIỆN XÉT TUYỂN Ngưỡng đảm bảo chất lượng đầu vào: 1. Ngành Y Khoa, Y Học Cổ truyền: Thí sinh có có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán, Ngữ văn và một môn thi khác) đạt 20,00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp t",
+      "eligibility": "đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán, Ngữ văn và một môn thi khác) đạt 20,00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8,50 trở lên theo thang điểm 10. 2. Ngành Dược học: Thí sinh có có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán, Ngữ văn và một môn thi khác) đạt 20,00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8,50 trở lên theo thang điểm 10. 3. Các Ngành Y Học Dự Phòng, Điều dưỡng, Kỹ thuật xét nghiệm y học: Thí sinh có Kết quả trung bình chung học tập đánh giá mức khá (học lực xếp loại từ khá trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT đạt 16,50 điểm trở lên hoặc điểm xét tốt nghiệp THPT (trung học nghề) từ 6,50 trở lên 4. Ngành Y tế Công cộng: Thí sinh có tổng điểm 03 môn thi kỳ thi tốt nghiệp THPT (kỳ thi trung học nghề đối với đối tượng trung học nghề) các năm theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán, Ngữ văn và một môn thi khác) đạt tối thiểu 15,00 điểm theo thang điểm 30, áp dụng đối với thí sinh thi tốt nghiệp từ năm 2026; Lưu ý đối với thí sinh: - Thí sinh được xét tổ hợp môn có điểm cao nhất - Đối với ngành Y khoa: Thí sinh chỉ đủ",
+      "rules": "QUY CHẾ Điểm xét tuyển (ĐXT) được tính trên tổng điểm trung bình của 03 môn thuộc tổ hợp xét tuyển trong cả 3 năm học (lớp 10, 11, 12) THPT; (Ghi chú: n tương ứng với môn 1, môn 2 hoặc môn 3 trong tổ hợp xét tuyển). Điểm xét tuyển được làm tròn đến 2 chữ số thập phân (tính theo thang điểm 10). Điểm ưu tiên (ƯT) = Điểm ƯT",
+      "programs": [
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "B00",
+            "A02",
+            "X14",
+            "X15",
+            "X16",
+            "D08",
+            "D32",
+            "D33",
+            "D34",
+            "D31",
+            "D35",
+            "AH4",
+            "A00",
+            "X10",
+            "X11",
+            "X12",
+            "D07",
+            "D24",
+            "D23",
+            "D21",
+            "D22",
+            "D25",
+            "AH2",
+            "X06",
+            "X07",
+            "X08",
+            "A01",
+            "D28",
+            "D29",
+            "D26",
+            "D27",
+            "D30",
+            "AH3"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720110",
+          "program_name": "Y học dự phòng",
+          "subject_groups": [
+            "B00",
+            "A02",
+            "X14",
+            "X15",
+            "X16",
+            "D08",
+            "D32",
+            "D33",
+            "D34",
+            "D31",
+            "D35",
+            "AH4",
+            "A00",
+            "X10",
+            "X11",
+            "X12",
+            "D07",
+            "D24",
+            "D23",
+            "D21",
+            "D22",
+            "D25",
+            "AH2",
+            "X06",
+            "X07",
+            "X08",
+            "A01",
+            "D28",
+            "D29",
+            "D26",
+            "D27",
+            "D30",
+            "AH3"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720115",
+          "program_name": "Y học cổ truyền",
+          "subject_groups": [
+            "B00",
+            "A02",
+            "X14",
+            "X15",
+            "X16",
+            "D08",
+            "D32",
+            "D33",
+            "D34",
+            "D31",
+            "D35",
+            "AH4",
+            "A00",
+            "X10",
+            "X11",
+            "X12",
+            "D07",
+            "D24",
+            "D23",
+            "D21",
+            "D22",
+            "D25",
+            "AH2",
+            "X06",
+            "X07",
+            "X08",
+            "A01",
+            "D28",
+            "D29",
+            "D26",
+            "D27",
+            "D30",
+            "AH3"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [
+            "B00",
+            "A00",
+            "X10",
+            "X11",
+            "X12",
+            "D07",
+            "D21",
+            "D22",
+            "D23",
+            "D24",
+            "D25",
+            "AH2",
+            "A02",
+            "X14",
+            "X15",
+            "X16",
+            "D08",
+            "D31",
+            "D32",
+            "D33",
+            "D34",
+            "D35",
+            "AH4",
+            "X06",
+            "X07",
+            "X08",
+            "A01",
+            "D28",
+            "D29",
+            "D26",
+            "D27",
+            "D30",
+            "AH3"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng",
+          "subject_groups": [
+            "B00",
+            "A02",
+            "X14",
+            "X15",
+            "X16",
+            "D08",
+            "D32",
+            "D33",
+            "D34",
+            "D31",
+            "D35",
+            "AH4",
+            "A00",
+            "X10",
+            "X11",
+            "X12",
+            "D07",
+            "D24",
+            "D23",
+            "D21",
+            "D22",
+            "D25",
+            "AH2",
+            "X06",
+            "X07",
+            "X08",
+            "A01",
+            "D28",
+            "D29",
+            "D26",
+            "D27",
+            "D30",
+            "AH3"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật xét nghiệm y học",
+          "subject_groups": [
+            "B00",
+            "A02",
+            "X14",
+            "X15",
+            "X16",
+            "D08",
+            "D32",
+            "D33",
+            "D34",
+            "D31",
+            "D35",
+            "AH4",
+            "A00",
+            "X10",
+            "X11",
+            "X12",
+            "D07",
+            "D24",
+            "D23",
+            "D21",
+            "D22",
+            "D25",
+            "AH2",
+            "X06",
+            "X07",
+            "X08",
+            "A01",
+            "D28",
+            "D29",
+            "D26",
+            "D27",
+            "D30",
+            "AH3"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7720701",
+          "program_name": "Y tế công cộng",
+          "subject_groups": [
+            "B00",
+            "A02",
+            "X14",
+            "X15",
+            "X16",
+            "D08",
+            "D32",
+            "D33",
+            "D34",
+            "D31",
+            "D35",
+            "AH4",
+            "A00",
+            "X10",
+            "X11",
+            "X12",
+            "D07",
+            "D24",
+            "D23",
+            "D21",
+            "D22",
+            "D25",
+            "AH2",
+            "X06",
+            "X07",
+            "X08",
+            "A01",
+            "D28",
+            "D29",
+            "D26",
+            "D27",
+            "D30",
+            "AH3"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        }
+      ]
+    },
+    {
+      "method_id": "3-iem-gnl-hcm",
+      "method_name": "3 ĐIỂM ĐGNL HCM",
+      "description": "3.1 ĐIỀU KIỆN XÉT TUYỂN Ngưỡng đảm bảo chất lượng đầu vào: 1. Ngành Y Khoa, Y Học Cổ truyền: - Điều kiện học lực: Học lực cả năm lớp 12 xếp loại từ Giỏi trở lên VÀ tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp đạt từ 20,00 điểm trở lên (hoặc điểm xét tốt nghiệp THPT từ 8,50 trở lên). - Điều kiện điểm ĐGNL: Đạt từ 700/1200 điểm (ĐHQG TP.HCM) 2. Ngành Dược học: - Điều kiện học lực: Học lực cả năm lớp 12 xếp loại từ Giỏi trở lên và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp đạt từ 20,00 đi",
+      "eligibility": "đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán, Ngữ văn và một môn thi khác) đạt 20,00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8,50 trở lên theo thang điểm 10. Có kết quả bài thi ĐGNL theo đơn vị mà thí sinh đăng ký dự thi như sau: đạt 700/1200 điểm (ĐHQG HCM), 90/150 điểm (ĐHQG Hà Nội), và 20/30 điểm (ĐH Sư phạm Hà Nội) trở lên. Ngành Dược học: Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán, Ngữ văn và một môn thi khác) đạt 20,00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8,50 trở lên theo thang điểm 10. Có kết quả bài thi ĐGNL theo đơn vị mà thí sinh đăng ký dự thi như sau: đạt 600/1200 điểm của ĐHQG HCM, 80/150 điểm của ĐHQG Hà Nội, và 18/30 điểm của ĐH Sư Phạm Hà Nội trở lên.",
+      "rules": "QUY CHẾ Ngành Y Khoa, Y Học Cổ truyền: Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với",
+      "programs": [
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720110",
+          "program_name": "Y học dự phòng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720115",
+          "program_name": "Y học cổ truyền",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật xét nghiệm y học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7720701",
+          "program_name": "Y tế công cộng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        }
+      ]
+    },
+    {
+      "method_id": "4-iem-gnl-hn",
+      "method_name": "4 ĐIỂM ĐGNL HN",
+      "description": "4.1 ĐIỀU KIỆN XÉT TUYỂN Ngưỡng đảm bảo chất lượng đầu vào: 1. Ngành Y Khoa, Y Học Cổ truyền: - Điều kiện học lực: Học lực cả năm lớp 12 xếp loại từ Giỏi trở lên VÀ tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp đạt từ 20,00 điểm trở lên (hoặc điểm xét tốt nghiệp THPT từ 8,50 trở lên). - Điều kiện điểm ĐGNL: Đạt từ 90/150 điểm (ĐHQG Hà Nội). 2. Ngành Dược học: - Điều kiện học lực: Học lực cả năm lớp 12 xếp loại từ Giỏi trở lên và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp đạt từ 20,00 điể",
+      "eligibility": "đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán, Ngữ văn và một môn thi khác) đạt 20,00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8,50 trở lên theo thang điểm 10. Có kết quả bài thi ĐGNL theo đơn vị mà thí sinh đăng ký dự thi như sau: đạt 700/1200 điểm (ĐHQG HCM), 90/150 điểm (ĐHQG Hà Nội), và 20/30 điểm (ĐH Sư phạm Hà Nội) trở lên. Ngành Dược học: Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán, Ngữ văn và một môn thi khác) đạt 20,00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8,50 trở lên theo thang điểm 10. Có kết quả bài thi ĐGNL theo đơn vị mà thí sinh đăng ký dự thi như sau: đạt 600/1200 điểm của ĐHQG HCM, 80/150 điểm của ĐHQG Hà Nội, và 18/30 điểm của ĐH Sư Phạm Hà Nội trở lên.",
+      "rules": "QUY CHẾ Ngành Y Khoa, Y Học Cổ truyền: Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với",
+      "programs": [
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720110",
+          "program_name": "Y học dự phòng",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720115",
+          "program_name": "Y học cổ truyền",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật xét nghiệm y học",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7720701",
+          "program_name": "Y tế công cộng",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        }
+      ]
+    },
+    {
+      "method_id": "5-iem-gnl-h-su-pham-hn",
+      "method_name": "5 ĐIỂM ĐGNL ĐH SƯ PHẠM HN",
+      "description": "5.1 ĐIỀU KIỆN XÉT TUYỂN Ngưỡng đảm bảo chất lượng đầu vào: 1. Ngành Y Khoa, Y Học Cổ truyền: - Điều kiện học lực: Học lực cả năm lớp 12 xếp loại từ Giỏi trở lên VÀ tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp đạt từ 20,00 điểm trở lên (hoặc điểm xét tốt nghiệp THPT từ 8,50 trở lên). - Điều kiện điểm ĐGNL: Đạt từ 20/30 điểm (ĐH Sư phạm Hà Nội) 2. Ngành Dược học: - Điều kiện học lực: Học lực cả năm lớp 12 xếp loại từ Giỏi trở lên và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp đạt từ 20,00",
+      "eligibility": "đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán, Ngữ văn và một môn thi khác) đạt 20,00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8,50 trở lên theo thang điểm 10. Có kết quả bài thi ĐGNL theo đơn vị mà thí sinh đăng ký dự thi như sau: đạt 700/1200 điểm (ĐHQG HCM), 90/150 điểm (ĐHQG Hà Nội), và 20/30 điểm (ĐH Sư phạm Hà Nội) trở lên. Ngành Dược học: Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đối tượng trung học nghề và tương đương) và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán, Ngữ văn và một môn thi khác) đạt 20,00 điểm trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8,50 trở lên theo thang điểm 10. Có kết quả bài thi ĐGNL theo đơn vị mà thí sinh đăng ký dự thi như sau: đạt 600/1200 điểm của ĐHQG HCM, 80/150 điểm của ĐHQG Hà Nội, và 18/30 điểm của ĐH Sư Phạm Hà Nội trở lên.",
+      "rules": "QUY CHẾ Ngành Y Khoa, Y Học Cổ truyền: Thí sinh có Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với",
+      "programs": [
+        {
+          "program_code": "7720102",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "B00",
+            "A02",
+            "D08",
+            "D32",
+            "D33",
+            "D34",
+            "D31",
+            "D35",
+            "AH4"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720110",
+          "program_name": "Y học dự phòng",
+          "subject_groups": [
+            "B00",
+            "A02",
+            "D08",
+            "D32",
+            "D33",
+            "D34",
+            "D31",
+            "D35",
+            "AH4"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720115",
+          "program_name": "Y học cổ truyền",
+          "subject_groups": [
+            "B00",
+            "A02",
+            "D08",
+            "D32",
+            "D33",
+            "D34",
+            "D31",
+            "D35",
+            "AH4"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [
+            "B00",
+            "A02",
+            "D08",
+            "D32",
+            "D33",
+            "D34",
+            "D31",
+            "D35",
+            "AH4"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng",
+          "subject_groups": [
+            "B00",
+            "A02",
+            "D08",
+            "D32",
+            "D33",
+            "D34",
+            "D31",
+            "D35",
+            "AH4"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7720602",
+          "program_name": "Kỹ thuật xét nghiệm y học",
+          "subject_groups": [
+            "B00",
+            "A02",
+            "D08",
+            "D32",
+            "D33",
+            "D34",
+            "D31",
+            "D35",
+            "AH4"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7720701",
+          "program_name": "Y tế công cộng",
+          "subject_groups": [
+            "B00",
+            "A02",
+            "D08",
+            "D32",
+            "D33",
+            "D34",
+            "D31",
+            "D35",
+            "AH4"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        }
+      ]
+    },
+    {
+      "method_id": "6-utxt-xt-thang",
+      "method_name": "6 ƯTXT, XT THẲNG",
+      "description": "6.1 QUY CHẾ Thực hiện xét tuyển thẳng, ưu tiên xét tuyển theo quy định của Bộ Giáo dục và Đào tạo năm 2026. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ƯTXT, XT THẲNG STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7720101 Y khoa 2 7720110 Y học dự phòng 3 7720115 Y học cổ truyền 4 7720201 Dược học 5 7720301 Điều dưỡng 6 7720601 Kỹ thuật xét nghiệm y học 7 7720701 Y tế công cộng",
+      "eligibility": null,
+      "rules": "QUY CHẾ Thực hiện xét tuyển thẳng, ưu tiên xét tuyển theo quy định của Bộ Giáo dục và Đào tạo năm 2026.",
+      "programs": [
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720110",
+          "program_name": "Y học dự phòng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720115",
+          "program_name": "Y học cổ truyền",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật xét nghiệm y học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7720701",
+          "program_name": "Y tế công cộng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "B00",
+            "A02",
+            "X14",
+            "X15",
+            "X16",
+            "D08",
+            "D32",
+            "D33",
+            "D34",
+            "D31",
+            "D35",
+            "AH4",
+            "A00",
+            "X10",
+            "X11",
+            "X12",
+            "D07",
+            "D24",
+            "D23",
+            "D21",
+            "D22",
+            "D25",
+            "AH2",
+            "X06",
+            "X07",
+            "X08",
+            "A01",
+            "D28",
+            "D29",
+            "D26",
+            "D27",
+            "D30",
+            "AH3"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720102",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "B00",
+            "A02",
+            "D08",
+            "D32",
+            "D33",
+            "D34",
+            "D31",
+            "D35",
+            "AH4"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720110",
+          "program_name": "Y học dự phòng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720110",
+          "program_name": "Y học dự phòng",
+          "subject_groups": [
+            "B00",
+            "A02",
+            "D08",
+            "D32",
+            "D33",
+            "D34",
+            "D31",
+            "D35",
+            "AH4"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720110",
+          "program_name": "Y học dự phòng",
+          "subject_groups": [
+            "B00",
+            "A02",
+            "X14",
+            "X15",
+            "X16",
+            "D08",
+            "D32",
+            "D33",
+            "D34",
+            "D31",
+            "D35",
+            "AH4",
+            "A00",
+            "X10",
+            "X11",
+            "X12",
+            "D07",
+            "D24",
+            "D23",
+            "D21",
+            "D22",
+            "D25",
+            "AH2",
+            "X06",
+            "X07",
+            "X08",
+            "A01",
+            "D28",
+            "D29",
+            "D26",
+            "D27",
+            "D30",
+            "AH3"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720110",
+          "program_name": "Y học dự phòng",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720115",
+          "program_name": "Y học cổ truyền",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720115",
+          "program_name": "Y học cổ truyền",
+          "subject_groups": [
+            "B00",
+            "A02",
+            "D08",
+            "D32",
+            "D33",
+            "D34",
+            "D31",
+            "D35",
+            "AH4"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720115",
+          "program_name": "Y học cổ truyền",
+          "subject_groups": [
+            "B00",
+            "A02",
+            "X14",
+            "X15",
+            "X16",
+            "D08",
+            "D32",
+            "D33",
+            "D34",
+            "D31",
+            "D35",
+            "AH4",
+            "A00",
+            "X10",
+            "X11",
+            "X12",
+            "D07",
+            "D24",
+            "D23",
+            "D21",
+            "D22",
+            "D25",
+            "AH2",
+            "X06",
+            "X07",
+            "X08",
+            "A01",
+            "D28",
+            "D29",
+            "D26",
+            "D27",
+            "D30",
+            "AH3"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720115",
+          "program_name": "Y học cổ truyền",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [
+            "B00",
+            "A00",
+            "X10",
+            "X11",
+            "X12",
+            "D07",
+            "D21",
+            "D22",
+            "D23",
+            "D24",
+            "D25",
+            "AH2",
+            "A02",
+            "X14",
+            "X15",
+            "X16",
+            "D08",
+            "D31",
+            "D32",
+            "D33",
+            "D34",
+            "D35",
+            "AH4",
+            "X06",
+            "X07",
+            "X08",
+            "A01",
+            "D28",
+            "D29",
+            "D26",
+            "D27",
+            "D30",
+            "AH3"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [
+            "B00",
+            "A02",
+            "D08",
+            "D32",
+            "D33",
+            "D34",
+            "D31",
+            "D35",
+            "AH4"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng",
+          "subject_groups": [
+            "B00",
+            "A02",
+            "D08",
+            "D32",
+            "D33",
+            "D34",
+            "D31",
+            "D35",
+            "AH4"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng",
+          "subject_groups": [
+            "B00",
+            "A02",
+            "X14",
+            "X15",
+            "X16",
+            "D08",
+            "D32",
+            "D33",
+            "D34",
+            "D31",
+            "D35",
+            "AH4",
+            "A00",
+            "X10",
+            "X11",
+            "X12",
+            "D07",
+            "D24",
+            "D23",
+            "D21",
+            "D22",
+            "D25",
+            "AH2",
+            "X06",
+            "X07",
+            "X08",
+            "A01",
+            "D28",
+            "D29",
+            "D26",
+            "D27",
+            "D30",
+            "AH3"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật xét nghiệm y học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật xét nghiệm y học",
+          "subject_groups": [
+            "B00",
+            "A02",
+            "X14",
+            "X15",
+            "X16",
+            "D08",
+            "D32",
+            "D33",
+            "D34",
+            "D31",
+            "D35",
+            "AH4",
+            "A00",
+            "X10",
+            "X11",
+            "X12",
+            "D07",
+            "D24",
+            "D23",
+            "D21",
+            "D22",
+            "D25",
+            "AH2",
+            "X06",
+            "X07",
+            "X08",
+            "A01",
+            "D28",
+            "D29",
+            "D26",
+            "D27",
+            "D30",
+            "AH3"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật xét nghiệm y học",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7720602",
+          "program_name": "Kỹ thuật xét nghiệm y học",
+          "subject_groups": [
+            "B00",
+            "A02",
+            "D08",
+            "D32",
+            "D33",
+            "D34",
+            "D31",
+            "D35",
+            "AH4"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7720701",
+          "program_name": "Y tế công cộng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7720701",
+          "program_name": "Y tế công cộng",
+          "subject_groups": [
+            "B00",
+            "A02",
+            "D08",
+            "D32",
+            "D33",
+            "D34",
+            "D31",
+            "D35",
+            "AH4"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7720701",
+          "program_name": "Y tế công cộng",
+          "subject_groups": [
+            "B00",
+            "A02",
+            "X14",
+            "X15",
+            "X16",
+            "D08",
+            "D32",
+            "D33",
+            "D34",
+            "D31",
+            "D35",
+            "AH4",
+            "A00",
+            "X10",
+            "X11",
+            "X12",
+            "D07",
+            "D24",
+            "D23",
+            "D21",
+            "D22",
+            "D25",
+            "AH2",
+            "X06",
+            "X07",
+            "X08",
+            "A01",
+            "D28",
+            "D29",
+            "D26",
+            "D27",
+            "D30",
+            "AH3"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7720701",
+          "program_name": "Y tế công cộng",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Trường Đại học Y Dược Buôn Ma Thuột các năm Tại đây",
+  "tuition_text": "NGÀNH TUYỂN SINH ĐÀO TẠO ĐẠI HỌC HỆ CHÍNH QUY TT Mã trường Tên ngành Mã ngành Chỉ tiêu *Học phí/học kỳ 1 BMU Y khoa 7720101 400 32.500.000 đồng 2 Y học cổ truyền 7720115 50 25.000.000 đồng 3 Y học dự phòng 7720110 50 20.000.000 đồng 4 Dược học 7720201 160 20.000.000 đồng 5 Kỹ thuật xét nghiệm y học 7720601 50 17.500.000 đồng 6 Điều dưỡng 7720301 180 12.500.000 đồng 7 Y tế công cộng 7720701 25 10.000.000 đồng",
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-y-duoc-buon-ma-thuot-BMU.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "B00",
+              "B05",
+              "B08",
+              "A00",
+              "A01",
+              "A02",
+              "D07"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học",
+            "subject_groups": [
+              "B00",
+              "B05",
+              "B08",
+              "A00",
+              "A01",
+              "A02",
+              "D07"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [
+              "B00",
+              "B05",
+              "B08",
+              "A00",
+              "A01",
+              "A02",
+              "D07"
+            ],
+            "score": 20.5,
+            "note": null
+          },
+          {
+            "program_code": "7720701",
+            "program_name": "Y tế công cộng",
+            "subject_groups": [
+              "B00",
+              "B05",
+              "B08",
+              "A00",
+              "A01",
+              "A02",
+              "D07"
+            ],
+            "score": 16,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "B00",
+              "B05",
+              "B08",
+              "A00",
+              "A01",
+              "A02",
+              "D07"
+            ],
+            "score": 25.28,
+            "note": null
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học",
+            "subject_groups": [
+              "B00",
+              "B05",
+              "B08",
+              "A00",
+              "A01",
+              "A02",
+              "D07"
+            ],
+            "score": 23.5,
+            "note": null
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [
+              "B00",
+              "B05",
+              "B08",
+              "A00",
+              "A01",
+              "A02",
+              "D07"
+            ],
+            "score": 24.39,
+            "note": null
+          },
+          {
+            "program_code": "7720701",
+            "program_name": "Y tế công cộng",
+            "subject_groups": [
+              "B00",
+              "B05",
+              "B08",
+              "A00",
+              "A01",
+              "A02",
+              "D07"
+            ],
+            "score": 18,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [],
+            "score": 107.89,
+            "note": null
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học",
+            "subject_groups": [],
+            "score": 92,
+            "note": null
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [],
+            "score": 100,
+            "note": null
+          },
+          {
+            "program_code": "7720701",
+            "program_name": "Y tế công cộng",
+            "subject_groups": [],
+            "score": 60,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [],
+            "score": 880,
+            "note": null
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học",
+            "subject_groups": [],
+            "score": 760,
+            "note": null
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [],
+            "score": 820,
+            "note": null
+          },
+          {
+            "program_code": "7720701",
+            "program_name": "Y tế công cộng",
+            "subject_groups": [],
+            "score": 500,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

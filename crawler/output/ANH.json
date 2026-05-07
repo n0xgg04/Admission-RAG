@@ -1,0 +1,1187 @@
+{
+  "university": {
+    "code": "ANH",
+    "name": "Học viện An ninh nhân dân",
+    "short_name": "PSA",
+    "location": [
+      "Hà Nội"
+    ],
+    "address": "125 Trần Phú, phường Văn Quán, quận Hà Đông, thành phố Hà Nội.",
+    "website": "https://hvannd.edu.vn",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": 500,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/hoc-vien-an-ninh-nhan-dan-ANH.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0407/thong-tin-tuyen-sinh-hoc-vien-an-ninh-nhan-dan-2026.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH HỌC VIỆN AN NINH NHÂN DÂN 2026 Thông tin tuyển sinh Học viện An Ninh nhân dân (PSA) năm 2026 Năm 2026, Học viện An ninh nhân dân tuyển sinh 500 chỉ tiêu cụ thể như sau: 1. Đào tạo trình độ đại học tại Học viện An ninh nhân dân dân Tổng chỉ tiêu tuyển sinh: 400 chỉ tiêu, trong đó: - Nhóm ngành Nghiệp vụ An ninh: 250 chỉ tiêu (Nam: 225; Nữ: 25), địa bàn tuyển sinh Phía Bắc (từ thành phố Huế trở ra). - Ngành An toàn thông tin/An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao: 150 chỉ tiêu; trong đó dành tối đa 50 chỉ tiêu Nam để gửi đào tạo ở nước ngoài về lĩnh vực Công nghệ thông tin (xét chọn trong số thí sinh trúng tuyển nhập học vào trường), địa bàn tuyển sinh toàn quốc. Cụ thể: Địa bàn tuyển sinh Chỉ tiêu Tổng Nam Nữ Phía Bắc (từ thành phố Huế trở ra) 75 68 07 Phía Nam (từ thành phố Đà Nẵng trở vào) 75 68 07 TỔNG CỘNG 150 136 14 2. Hợp tác đào tạo trình độ đại học với Trường Công nghệ Thông tin và Truyền thông thuộc Đại học Bách khoa Hà Nội - Chỉ tiêu tuyển sinh: 100 chỉ tiêu Nam, ngành Công nghệ thông tin, địa bàn tuyển sinh toàn quốc. Địa điểm đào tạo: Học viện An ninh nhân dân dân. Khám phá thêm Khóa học Khoa học Giáo dục Trên đây là thông tin về chỉ tiêu tuyển sinh của Học viện An ninh nhân dân 2026. Đề án tuyển sinh 2026 của trường sẽ được cập nhật trong thời gian tới, các em có thể tham khảo đề án 2025 đăng tải bên dưới.",
+  "admission_methods": [
+    {
+      "method_id": "1-ket-hop-iem-thi-thpt-voi-gnl-cua-bo-cong-an---2025",
+      "method_name": "1 KẾT HỢP ĐIỂM THI THPT VỚI ĐGNL CỦA BỘ CÔNG AN - 2025",
+      "description": "1.1 ĐỐI TƯỢNG - Chiến sĩ nghĩa vụ Công an tại ngũ. - Công dân hoàn thành nghĩa vụ tham gia CAND có quyết định xuất ngũ trong vòng 12 tháng tính đến tháng dự tuyển. - Học sinh T11. - Công dân thường trú tại địa phương nơi đăng ký sơ tuyển. 1.2 ĐIỀU KIỆN XÉT TUYỂN Người dự tuyển ngoài đảm bảo các điều kiện theo quy định của Bộ GD&ĐT, phải đáp ứng các điều kiện sau: - Đủ tiêu chuẩn về chính trị, phẩm chất đạo đức theo quy định hiện hành của Bộ Công an tại Thông tư số 48/2023/TT-BCA ngày 10/10/2023 ",
+      "eligibility": "ĐỐI TƯỢNG - Chiến sĩ nghĩa vụ Công an tại ngũ. - Công dân hoàn thành nghĩa vụ tham gia CAND có quyết định xuất ngũ trong vòng 12 tháng tính đến tháng dự tuyển. - Học sinh T11. - Công dân thường trú tại địa phương nơi đăng ký sơ tuyển. 1.2",
+      "rules": "QUY CHẾ 1) Điểm xét tuyển Điểm xét tuyển là tổng điểm của 03 môn thuộc tổ hợp xét tuyển vào trường CAND (chiếm tỉ lệ 40%) và điểm bài thi đánh giá của Bộ Công an được quy về thang điểm 30 (chiếm tỉ lệ 60%) làm tròn đến 02 chữ số thập phân, cộng với điểm ưu tiên khu vực, ưu tiên",
+      "programs": [
+        {
+          "program_code": "7480201",
+          "program_name": "Ngành Công nghệ thông tin (Thí sinh Nam)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X27",
+            "X28"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nam, vùng 1)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nam, vùng 2)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nam, vùng 3)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nam, vùng 8)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nữ, vùng 1)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nữ, vùng 2)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nữ, vùng 3)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nữ, vùng 8)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7860114",
+          "program_name": "Ngành An ninh mạng và phòng chống tội phạm công nghệ cao (Thí sinh Nam, miền Bắc)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X27",
+            "X28"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7860114",
+          "program_name": "Ngành An ninh mạng và phòng chống tội phạm công nghệ cao (Thí sinh Nam, miền Nam)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X27",
+            "X28"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7860114",
+          "program_name": "Ngành An ninh mạng và phòng chống tội phạm công nghệ cao (Thí sinh Nữ, miền Bắc)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X27",
+            "X28"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7860114",
+          "program_name": "Ngành An ninh mạng và phòng chống tội phạm công nghệ cao (Thí sinh Nữ, miền Nam)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X27",
+            "X28"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        }
+      ]
+    },
+    {
+      "method_id": "2-utxt-xt-thang---2025",
+      "method_name": "2 ƯTXT, XT THẲNG - 2025",
+      "description": "2.1 ĐỐI TƯỢNG - Đối tượng: Thí sinh đoạt giải thưởng theo quy định của Bộ Giáo dục và Đào tạo và thời gian đoạt giải không quá 03 (ba) năm tính đến thời điểm xét tuyển thẳng. - Về giải đoạt được: + Thí sinh trong đội tuyển quốc gia dự thi khoa học, kỹ thuật quốc tế hoặc thí sinh được triệu tập tham dự kỳ thi chọn đội tuyển quốc gia dự thi Olympic quốc tế, khu vực theo quy định của Bộ Giáo dục và Đào tạo; + Thí sinh đoạt giải nhất trong kỳ thi chọn học sinh giỏi quốc gia bậc THPT môn Toán, Vật lí",
+      "eligibility": "ĐỐI TƯỢNG - Đối tượng: Thí sinh đoạt giải thưởng theo quy định của Bộ Giáo dục và Đào tạo và thời gian đoạt giải không quá 03 (ba) năm tính đến thời điểm xét tuyển thẳng. - Về giải đoạt được: + Thí sinh trong đội tuyển quốc gia dự thi khoa học, kỹ thuật quốc tế hoặc thí sinh được triệu tập tham dự kỳ thi chọn đội tuyển quốc gia dự thi Olympic quốc tế, khu vực theo quy định của Bộ Giáo dục và Đào tạo; + Thí sinh đoạt giải nhất trong kỳ thi chọn học sinh giỏi quốc gia bậc THPT môn Toán, Vật lí, Hóa học, Ngữ văn, Lịch sử, Tiếng Anh; + Thí sinh đoạt giải nhất cuộc thi khoa học, kỹ thuật cấp quốc gia bậc THPT được xét tuyển thẳng vào ngành Công nghệ thông tin, ngành An ninh mạng và phòng chống tội phạm sử dụng công nghệ cao. - Tốt nghiệp THPT đến thời điểm xác nhận nhập học. 2.2",
+      "rules": "QUY CHẾ 2) Hồ sơ đăng ký tuyển sinh - Bìa hồ sơ tuyển sinh. - Lý lịch tự khai. - Thẩm tra lý lịch. - Đơn xin dự tuyển vào các trường CAND. - Phiếu đăng ký dự tuyển được in ra từ phần mềm tuyển sinh (Phiếu có chữ ký của thí sinh, chữ ký của cán bộ thẩm định và đóng dấu của đơn vị sơ tuyển). - Tờ khai đăng ký dự tuyển đại học CAND (theo mẫu của Bộ Công an) kèm 02 (hai) ảnh 3x4 ghi rõ họ tên, ngày tháng năm sinh ở mặt sau. - Phiếu đăng ký xét tuyển thẳng theo mẫu của Bộ Giáo dục và Đào tạo. - Bản sao được chứng thực từ bản chính giấy chứng nhận, xác nhận kết quả về giải đoạt được của thí sinh. - Bản sao được chứng thực từ bản chính học bạ THPT của thí sinh. - Bản photo giấy báo dự thi tốt nghiệp THPT của thí sinh (trừ",
+      "programs": [
+        {
+          "program_code": "7480201",
+          "program_name": "Ngành Công nghệ thông tin (Thí sinh Nam)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nam, vùng 1)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nam, vùng 2)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nam, vùng 3)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nam, vùng 8)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nữ, vùng 1)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nữ, vùng 2)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nữ, vùng 3)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nữ, vùng 8)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7860114",
+          "program_name": "Ngành An ninh mạng và phòng chống tội phạm công nghệ cao (Thí sinh Nam, miền Bắc)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7860114",
+          "program_name": "Ngành An ninh mạng và phòng chống tội phạm công nghệ cao (Thí sinh Nam, miền Nam)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7860114",
+          "program_name": "Ngành An ninh mạng và phòng chống tội phạm công nghệ cao (Thí sinh Nữ, miền Bắc)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7860114",
+          "program_name": "Ngành An ninh mạng và phòng chống tội phạm công nghệ cao (Thí sinh Nữ, miền Nam)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        }
+      ]
+    },
+    {
+      "method_id": "3-ket-hop-ccqt-voi-gnl-cua-bo-cong-an---2025",
+      "method_name": "3 KẾT HỢP CCQT VỚI ĐGNL CỦA BỘ CÔNG AN - 2025",
+      "description": "3.1 ĐIỀU KIỆN XÉT TUYỂN 1) Điều kiện chứng chỉ ngoại ngữ - Có chứng chỉ ngoại ngữ quốc tế không quá 02 (hai) năm kể từ ngày được cấp chứng chỉ đến ngày 01/4/2025, chứng chỉ do tổ chức được Bộ Giáo dục và Đào tạo cho phép cấp chứng chỉ. Không sử dụng chứng chỉ ngoại ngữ phiên bản Home Edition Điều kiện của các chứng chỉ như sau của một trong các chứng chỉ sau: 1.1) Tiếng Anh + IELTS (Academic) đạt từ 5.5 trở lên + TOEFL iBT đạt từ 46 trở lên, TOEIC (LR&SW) đạt từ 600 và 242 trở lên + CEFR đạt từ ",
+      "eligibility": "đối tượng theo",
+      "rules": "QUY CHẾ 1) Điểm xét tuyển - Điểm xét tuyển là tổng điểm chứng chỉ ngoại ngữ quốc tế và điểm bài thi đánh giá của Bộ Công an được quy về thang điểm 30 làm tròn đến 02 chữ số thập phân, cộng với điểm ưu tiên khu vực, ưu tiên",
+      "programs": [
+        {
+          "program_code": "7480201",
+          "program_name": "Ngành Công nghệ thông tin (Thí sinh Nam)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X27",
+            "X28"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nam, vùng 1)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nam, vùng 2)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nam, vùng 3)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nam, vùng 8)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nữ, vùng 1)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nữ, vùng 2)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nữ, vùng 3)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nữ, vùng 8)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7860114",
+          "program_name": "Ngành An ninh mạng và phòng chống tội phạm công nghệ cao (Thí sinh Nam, miền Bắc)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X27",
+            "X28"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7860114",
+          "program_name": "Ngành An ninh mạng và phòng chống tội phạm công nghệ cao (Thí sinh Nam, miền Nam)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X27",
+            "X28"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7860114",
+          "program_name": "Ngành An ninh mạng và phòng chống tội phạm công nghệ cao (Thí sinh Nữ, miền Bắc)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X27",
+            "X28"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7860114",
+          "program_name": "Ngành An ninh mạng và phòng chống tội phạm công nghệ cao (Thí sinh Nữ, miền Nam)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X27",
+            "X28"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7480201",
+          "program_name": "Ngành Công nghệ thông tin (Thí sinh Nam)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Ngành Công nghệ thông tin (Thí sinh Nam)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X27",
+            "X28"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nam, vùng 1)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nam, vùng 1)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nam, vùng 2)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nam, vùng 2)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nam, vùng 3)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nam, vùng 3)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nam, vùng 8)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nam, vùng 8)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nữ, vùng 1)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nữ, vùng 1)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nữ, vùng 2)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nữ, vùng 2)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nữ, vùng 3)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nữ, vùng 3)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nữ, vùng 8)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7860100",
+          "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nữ, vùng 8)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7860114",
+          "program_name": "Ngành An ninh mạng và phòng chống tội phạm công nghệ cao (Thí sinh Nam, miền Bắc)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7860114",
+          "program_name": "Ngành An ninh mạng và phòng chống tội phạm công nghệ cao (Thí sinh Nam, miền Bắc)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X27",
+            "X28"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7860114",
+          "program_name": "Ngành An ninh mạng và phòng chống tội phạm công nghệ cao (Thí sinh Nam, miền Nam)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7860114",
+          "program_name": "Ngành An ninh mạng và phòng chống tội phạm công nghệ cao (Thí sinh Nam, miền Nam)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X27",
+            "X28"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7860114",
+          "program_name": "Ngành An ninh mạng và phòng chống tội phạm công nghệ cao (Thí sinh Nữ, miền Bắc)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7860114",
+          "program_name": "Ngành An ninh mạng và phòng chống tội phạm công nghệ cao (Thí sinh Nữ, miền Bắc)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X27",
+            "X28"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7860114",
+          "program_name": "Ngành An ninh mạng và phòng chống tội phạm công nghệ cao (Thí sinh Nữ, miền Nam)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7860114",
+          "program_name": "Ngành An ninh mạng và phòng chống tội phạm công nghệ cao (Thí sinh Nữ, miền Nam)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X26",
+            "X27",
+            "X28"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Học viện An ninh nhân dân các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-an-ninh-nhan-dan-ANH.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7480201",
+            "program_name": "Ngành Công nghệ thông tin (Thí sinh Nam)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X26",
+              "X27",
+              "X28"
+            ],
+            "score": 21.98,
+            "note": "Điểm thi THPT và điểm ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nam, vùng 1)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 23.05,
+            "note": "Điểm thi THPT và điểm ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nam, vùng 2)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 24.63,
+            "note": "Điểm thi THPT và điểm ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nam, vùng 3)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 23.03,
+            "note": "Điểm thi THPT và điểm ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nam, vùng 8)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 18.78,
+            "note": "Điểm thi THPT và điểm ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nữ, vùng 1)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 25.58,
+            "note": "Điểm thi THPT và điểm ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nữ, vùng 2)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 26.09,
+            "note": "Điểm thi THPT và điểm ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nữ, vùng 3)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 26.27,
+            "note": "Điểm thi THPT và điểm ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nữ, vùng 8)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 19.63,
+            "note": "Điểm thi THPT và điểm ĐGNL BCA"
+          },
+          {
+            "program_code": "7860114",
+            "program_name": "Ngành An ninh mạng và phòng chống tội phạm công nghệ cao (Thí sinh Nam, miền Bắc)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X26",
+              "X27",
+              "X28"
+            ],
+            "score": 24.48,
+            "note": "Điểm thi THPT và điểm ĐGNL BCA"
+          },
+          {
+            "program_code": "7860114",
+            "program_name": "Ngành An ninh mạng và phòng chống tội phạm công nghệ cao (Thí sinh Nam, miền Nam)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X26",
+              "X27",
+              "X28"
+            ],
+            "score": 20.63,
+            "note": "Điểm thi THPT và điểm ĐGNL BCA"
+          },
+          {
+            "program_code": "7860114",
+            "program_name": "Ngành An ninh mạng và phòng chống tội phạm công nghệ cao (Thí sinh Nữ, miền Bắc)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X26",
+              "X27",
+              "X28"
+            ],
+            "score": 24.69,
+            "note": "Điểm thi THPT và điểm ĐGNL BCA"
+          },
+          {
+            "program_code": "7860114",
+            "program_name": "Ngành An ninh mạng và phòng chống tội phạm công nghệ cao (Thí sinh Nữ, miền Nam)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X26",
+              "X27",
+              "X28"
+            ],
+            "score": 24.15,
+            "note": "Điểm thi THPT và điểm ĐGNL BCA"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-chung-chi-quoc-te",
+        "method_name": "Điểm chuẩn theo phương thức Chứng chỉ quốc tế năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7480201",
+            "program_name": "Ngành Công nghệ thông tin (Thí sinh Nam)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X26",
+              "X27",
+              "X28"
+            ],
+            "score": 21.98,
+            "note": "CCQT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nam, vùng 1)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 23.05,
+            "note": "CCQT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nam, vùng 2)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 24.63,
+            "note": "CCQT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nam, vùng 3)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 23.03,
+            "note": "CCQT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nam, vùng 8)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 18.78,
+            "note": "CCQT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nữ, vùng 1)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 25.58,
+            "note": "CCQT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nữ, vùng 2)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 26.09,
+            "note": "CCQT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nữ, vùng 3)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 26.27,
+            "note": "CCQT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7860100",
+            "program_name": "Ngành Nghiệp vụ an ninh (Thí sinh Nữ, vùng 8)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 19.63,
+            "note": "CCQT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7860114",
+            "program_name": "Ngành An ninh mạng và phòng chống tội phạm công nghệ cao (Thí sinh Nam, miền Bắc)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X26",
+              "X27",
+              "X28"
+            ],
+            "score": 24.48,
+            "note": "CCQT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7860114",
+            "program_name": "Ngành An ninh mạng và phòng chống tội phạm công nghệ cao (Thí sinh Nam, miền Nam)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X26",
+              "X27",
+              "X28"
+            ],
+            "score": 20.63,
+            "note": "CCQT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7860114",
+            "program_name": "Ngành An ninh mạng và phòng chống tội phạm công nghệ cao (Thí sinh Nữ, miền Bắc)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X26",
+              "X27",
+              "X28"
+            ],
+            "score": 24.69,
+            "note": "CCQT và điểm thi ĐGNL BCA"
+          },
+          {
+            "program_code": "7860114",
+            "program_name": "Ngành An ninh mạng và phòng chống tội phạm công nghệ cao (Thí sinh Nữ, miền Nam)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X26",
+              "X27",
+              "X28"
+            ],
+            "score": 24.15,
+            "note": "CCQT và điểm thi ĐGNL BCA"
+          }
+        ]
+      }
+    ]
+  }
+}

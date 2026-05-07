@@ -1,0 +1,280 @@
+{
+  "university": {
+    "code": "TGH",
+    "name": "Trường Sĩ quan Tăng thiết giáp",
+    "short_name": "MCTAO",
+    "location": [
+      "Vĩnh Phúc"
+    ],
+    "address": "Thị trấn Kim Long, huyện Tam Dương, tỉnh Vĩnh Phúc",
+    "website": "http://siquantangthietgiap.vn",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/truong-siquan-tang-thiet-giap-TGH.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0414/thong-bao-chi-tieu-tuyen-sinh-2026.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG SĨ QUAN TĂNG - THIẾT GIÁP 2026 Thông tin tuyển sinh trường Sĩ quan Tăng Thiết giáp (MCTAO) năm 2026 Trường Sĩ quan Tăng thiết giáp thông báo tổ hợp xét tuyển đào tạo đại học, cao đẳng quân sự và thủ tục tuyển sinh năm 2026 cụ thể như sau: Phương thức 1: Xét tuyển thẳng, ưu tiên xét tuyển đối với các thí sinh đạt giải quốc gia, quốc tế theo quy định của Bộ GD&ĐT và theo quy định của Bộ Quốc phòng. Phương thức 2: Xét tuyển bằng kết quả thi Đánh giá năng lực do Đại học Quốc gia Hà Nội và Đại học Quốc gia Thành Phố Hồ Chí Minh tổ chức năm 2026. Phương thức 3: Xét tuyển từ kết quả kỳ thi tốt nghiệp Trung học phổ thông năm 2026 đối với các thí sinh đăng ký dự tuyển. Phương thức 4: Xét tuyển bằng kết quả thi Đánh giá năng lực do Bộ Quốc phòng tổ chức. Khám phá thêm giáo dục Tài nguyên giáo dục Khóa học",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 QUY CHẾ Tổ hợp xét tuyển năm 2026 1. A00 (Toán, vật lý, hóa học). 2. A01 (Toán, Vật lý, tiếng Anh). 3. C01 (Toán, Vật lý, Ngữ văn). DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM THI THPT STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7860206 Chỉ huy tham mưu Tăng Thiết giáp (Thí sinh nam miền Bắc) A00; A01; C01 2 7860206 Chỉ huy tham mưu Tăng Thiết giáp (Thí sinh nam miền Nam) A00; A01; C01",
+      "eligibility": null,
+      "rules": "QUY CHẾ Tổ hợp xét tuyển năm 2026 1. A00 (Toán, vật lý, hóa học). 2. A01 (Toán, Vật lý, tiếng Anh). 3. C01 (Toán, Vật lý, Ngữ văn).",
+      "programs": [
+        {
+          "program_code": "7860206",
+          "program_name": "Chỉ huy tham mưu Tăng Thiết giáp (Thí sinh nam miền Bắc)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7860206",
+          "program_name": "Chỉ huy tham mưu Tăng Thiết giáp (Thí sinh nam miền Nam)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    },
+    {
+      "method_id": "2-utxt-xt-thang",
+      "method_name": "2 ƯTXT, XT THẲNG",
+      "description": "2.1 QUY CHẾ Xét tuyển thẳng, ưu tiên xét tuyển đối với các thí sinh đạt giải quốc gia, quốc tế theo quy định của Bộ GD&ĐT và theo quy định của Bộ Quốc phòng.",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét tuyển thẳng, ưu tiên xét tuyển đối với các thí sinh đạt giải quốc gia, quốc tế theo quy định của Bộ GD&ĐT và theo quy định của Bộ Quốc phòng.",
+      "programs": []
+    },
+    {
+      "method_id": "3-iem-gnl-hn",
+      "method_name": "3 ĐIỂM ĐGNL HN",
+      "description": "3.1 QUY CHẾ Xét tuyển bằng kết quả thi Đánh giá năng lực do Đại học Quốc gia Hà Nội tổ chức năm 2026. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐGNL HN STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7860206 Chỉ huy tham mưu Tăng Thiết giáp (Thí sinh nam miền Bắc) Q00 2 7860206 Chỉ huy tham mưu Tăng Thiết giáp (Thí sinh nam miền Nam) Q00",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét tuyển bằng kết quả thi Đánh giá năng lực do Đại học Quốc gia Hà Nội tổ chức năm 2026.",
+      "programs": [
+        {
+          "program_code": "7860206",
+          "program_name": "Chỉ huy tham mưu Tăng Thiết giáp (Thí sinh nam miền Bắc)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7860206",
+          "program_name": "Chỉ huy tham mưu Tăng Thiết giáp (Thí sinh nam miền Nam)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    },
+    {
+      "method_id": "4-iem-gnl-hcm",
+      "method_name": "4 ĐIỂM ĐGNL HCM",
+      "description": "4.1 QUY CHẾ Xét tuyển bằng kết quả thi Đánh giá năng lực do Đại học Quốc gia Thành Phố Hồ Chí Minh tổ chức năm 2026. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐGNL HCM STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7860206 Chỉ huy tham mưu Tăng Thiết giáp (Thí sinh nam miền Bắc) 2 7860206 Chỉ huy tham mưu Tăng Thiết giáp (Thí sinh nam miền Nam)",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét tuyển bằng kết quả thi Đánh giá năng lực do Đại học Quốc gia Thành Phố Hồ Chí Minh tổ chức năm 2026.",
+      "programs": [
+        {
+          "program_code": "7860206",
+          "program_name": "Chỉ huy tham mưu Tăng Thiết giáp (Thí sinh nam miền Bắc)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7860206",
+          "program_name": "Chỉ huy tham mưu Tăng Thiết giáp (Thí sinh nam miền Nam)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    },
+    {
+      "method_id": "5",
+      "method_name": "5",
+      "description": "5.1 QUY CHẾ Xét tuyển bằng kết quả thi Đánh giá năng lực do Bộ Quốc phòng tổ chức. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7860206 Chỉ huy tham mưu Tăng Thiết giáp (Thí sinh nam miền Bắc) 2 7860206 Chỉ huy tham mưu Tăng Thiết giáp (Thí sinh nam miền Nam)",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét tuyển bằng kết quả thi Đánh giá năng lực do Bộ Quốc phòng tổ chức.",
+      "programs": [
+        {
+          "program_code": "7860206",
+          "program_name": "Chỉ huy tham mưu Tăng Thiết giáp (Thí sinh nam miền Bắc)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7860206",
+          "program_name": "Chỉ huy tham mưu Tăng Thiết giáp (Thí sinh nam miền Nam)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7860206",
+          "program_name": "Chỉ huy tham mưu Tăng Thiết giáp (Thí sinh nam miền Bắc)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7860206",
+          "program_name": "Chỉ huy tham mưu Tăng Thiết giáp (Thí sinh nam miền Bắc)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7860206",
+          "program_name": "Chỉ huy tham mưu Tăng Thiết giáp (Thí sinh nam miền Bắc)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7860206",
+          "program_name": "Chỉ huy tham mưu Tăng Thiết giáp (Thí sinh nam miền Nam)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7860206",
+          "program_name": "Chỉ huy tham mưu Tăng Thiết giáp (Thí sinh nam miền Nam)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7860206",
+          "program_name": "Chỉ huy tham mưu Tăng Thiết giáp (Thí sinh nam miền Nam)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": null,
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/truong-siquan-tang-thiet-giap-TGH.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860206",
+            "program_name": "Chỉ huy tham mưu Tăng Thiết giáp (Thí sinh nam miền Bắc)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01"
+            ],
+            "score": 24.05,
+            "note": null
+          },
+          {
+            "program_code": "7860206",
+            "program_name": "Chỉ huy tham mưu Tăng Thiết giáp (Thí sinh nam miền Nam)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01"
+            ],
+            "score": 22.36,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860206",
+            "program_name": "Chỉ huy tham mưu Tăng Thiết giáp (Thí sinh nam miền Bắc)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 93,
+            "note": null
+          },
+          {
+            "program_code": "7860206",
+            "program_name": "Chỉ huy tham mưu Tăng Thiết giáp (Thí sinh nam miền Nam)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 88,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860206",
+            "program_name": "Chỉ huy tham mưu Tăng Thiết giáp (Thí sinh nam miền Bắc)",
+            "subject_groups": [],
+            "score": 837,
+            "note": null
+          },
+          {
+            "program_code": "7860206",
+            "program_name": "Chỉ huy tham mưu Tăng Thiết giáp (Thí sinh nam miền Nam)",
+            "subject_groups": [],
+            "score": 776,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

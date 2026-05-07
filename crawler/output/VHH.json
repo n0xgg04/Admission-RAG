@@ -1,0 +1,2245 @@
+{
+  "university": {
+    "code": "VHH",
+    "name": "Trường Đại học Văn hóa Hà Nội.",
+    "short_name": "HUC",
+    "location": [],
+    "address": "Số 418 Đường La Thanh, Phường Ô Chợ Dừa, Quận Đống Đa, Hà Nội",
+    "website": "https://huc.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-van-hoa-ha-noi-VHH.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2025/0524/thong-tin-tuyen-sinh-2025-dai-hoc-van-hoa-ha-noi.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC VĂN HÓA HÀ NỘI 2026 Thông tin tuyển sinh Đại Học Văn Hóa Hà Nội (HUC) năm 2026 Năm 2026, Trường Đại học Văn hóa Hà Nội dự kiến tuyển qua 4 phương thức xét tuyển. Phương thức 1 (PT1): Xét tuyển thẳng theo Quy chế tuyển sinh của Bộ GD&ĐT - Mã phương thức 301 Phương thức 2 (PT2): Xét kết quả thi tốt nghiệp THPT năm 2026 - Mã phương thức 100 Phương thức 3 (PT3): Xét kết quả học tập cấp THPT (học bạ) – Mã phương thức 200 Phương thức 4 (PT4): Xét tuyển kết hợp kết quả học tập cấp THPT (học bạ) với điểm thi năng khiếu Khám phá thêm sách Nghiên cứu văn hóa Luyện thi THPT",
+  "admission_methods": [
+    {
+      "method_id": "1-utxt-xt-thang",
+      "method_name": "1 ƯTXT, XT THẲNG",
+      "description": "1.1 QUY CHẾ Xét tuyển thẳng theo Quy chế tuyển sinh của Bộ GD&ĐT - Mã phương thức 301 DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ƯTXT, XT THẲNG STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7220110 Sáng tác văn học 2 7220201 Ngôn ngữ Anh 3 7229040 Nghiên cứu văn hóa 4 7229040 Văn hóa truyền thông 5 7229040 Văn hóa đối ngoại 6 7229042 Phát triển công nghiệp văn hóa 7 7229042 Quản lý di sản văn 8 7229042 Tổ chức hoạt động nghệ thuật 9 7229042 Tổ chức sự kiện văn hóa 10 7320101 Báo chí 11 7320201 Quản trị ",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét tuyển thẳng theo Quy chế tuyển sinh của Bộ GD&ĐT - Mã phương thức 301",
+      "programs": [
+        {
+          "program_code": "7220110",
+          "program_name": "Sáng tác văn học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7229040",
+          "program_name": "Nghiên cứu văn hóa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7229040",
+          "program_name": "Văn hóa truyền thông",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7229040",
+          "program_name": "Văn hóa đối ngoại",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7229042",
+          "program_name": "Phát triển công nghiệp văn hóa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7229042",
+          "program_name": "Quản lý di sản văn",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7229042",
+          "program_name": "Tổ chức hoạt động nghệ thuật",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7229042",
+          "program_name": "Tổ chức sự kiện văn hóa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7320101",
+          "program_name": "Báo chí",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7320201",
+          "program_name": "Quản trị thư viện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7320201",
+          "program_name": "Thư viện và thiết bị trường học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7320205",
+          "program_name": "Quản lý thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7320305",
+          "program_name": "Bảo tàng học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7320402",
+          "program_name": "Kinh doanh xuất bản phẩm",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7810101",
+          "program_name": "Văn hóa du lịch",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7810101",
+          "program_name": "Lữ hành, hướng dẫn du lịch",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7810101",
+          "program_name": "Hướng dẫn du lịch quốc tế",
+          "subject_groups": [],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "19"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị kinh doanh du lịch",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị du lịch cộng đồng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "21"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-thi-thpt",
+      "method_name": "2 ĐIỂM THI THPT",
+      "description": "2.1 QUY CHẾ Xét kết quả thi tốt nghiệp THPT năm 2026 - Mã phương thức 100 DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM THI THPT STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7220110 Sáng tác văn học C00; C03; C04; X01; X70; D01; D14; D15; X78; N06 2 7220201 Ngôn ngữ Anh D01; D14; D15; X78 3 7229040 Nghiên cứu văn hóa C00; C03; C04; X01; X70; D01; D14; D15; X78 4 7229040 Văn hóa truyền thông C00; C03; C04; X01; X70; D01; D14; D15; X78 5 7229040 Văn hóa đối ngoại C00; C03; C04; X01; X70; D01; D14; D15;",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét kết quả thi tốt nghiệp THPT năm 2026 - Mã phương thức 100",
+      "programs": [
+        {
+          "program_code": "7220110",
+          "program_name": "Sáng tác văn học",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "X01",
+            "X70",
+            "D01",
+            "D14",
+            "D15",
+            "X78",
+            "N06"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7229040",
+          "program_name": "Nghiên cứu văn hóa",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "X01",
+            "X70",
+            "D01",
+            "D14",
+            "D15",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7229040",
+          "program_name": "Văn hóa truyền thông",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "X01",
+            "X70",
+            "D01",
+            "D14",
+            "D15",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7229040",
+          "program_name": "Văn hóa đối ngoại",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "X01",
+            "X70",
+            "D01",
+            "D14",
+            "D15",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7229042",
+          "program_name": "Phát triển công nghiệp văn hóa",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "X01",
+            "X70",
+            "D01",
+            "D14",
+            "D15",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7229042",
+          "program_name": "Quản lý di sản văn",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "X01",
+            "X70",
+            "D01",
+            "D14",
+            "D15",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7229042",
+          "program_name": "Tổ chức hoạt động nghệ thuật",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "X01",
+            "X70",
+            "D01",
+            "D14",
+            "D15",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7229042",
+          "program_name": "Tổ chức sự kiện văn hóa",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "X01",
+            "X70",
+            "D01",
+            "D14",
+            "D15",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7320101",
+          "program_name": "Báo chí",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "X01",
+            "X70",
+            "D01",
+            "D14",
+            "D15",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7320201",
+          "program_name": "Quản trị thư viện",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "X01",
+            "X70",
+            "D01",
+            "D14",
+            "D15",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7320201",
+          "program_name": "Thư viện và thiết bị trường học",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "X01",
+            "X70",
+            "D01",
+            "D14",
+            "D15",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7320205",
+          "program_name": "Quản lý thông tin",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "X01",
+            "X70",
+            "D01",
+            "D14",
+            "D15",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7320305",
+          "program_name": "Bảo tàng học",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "X01",
+            "X70",
+            "D01",
+            "D14",
+            "D15",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7320402",
+          "program_name": "Kinh doanh xuất bản phẩm",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "X01",
+            "X70",
+            "D01",
+            "D14",
+            "D15",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7810101",
+          "program_name": "Văn hóa du lịch",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "X01",
+            "X70",
+            "D01",
+            "D14",
+            "D15",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7810101",
+          "program_name": "Lữ hành, hướng dẫn du lịch",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "X01",
+            "X70",
+            "D01",
+            "D14",
+            "D15",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7810101",
+          "program_name": "Hướng dẫn du lịch quốc tế",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15",
+            "X78"
+          ],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "19"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị kinh doanh du lịch",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "X01",
+            "X70",
+            "D01",
+            "D14",
+            "D15",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị du lịch cộng đồng",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "X01",
+            "X70",
+            "D01",
+            "D14",
+            "D15",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        }
+      ]
+    },
+    {
+      "method_id": "3-iem-hoc-ba",
+      "method_name": "3 ĐIỂM HỌC BẠ",
+      "description": "3.1 QUY CHẾ Xét kết quả học tập cấp THPT (học bạ) – Mã phương thức 200 DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM HỌC BẠ STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7220110 Sáng tác văn học 2 7220201 Ngôn ngữ Anh 3 7229040 Nghiên cứu văn hóa 4 7229040 Văn hóa truyền thông 5 7229040 Văn hóa đối ngoại 6 7229042 Phát triển công nghiệp văn hóa 7 7229042 Quản lý di sản văn 8 7229042 Tổ chức hoạt động nghệ thuật 9 7229042 Tổ chức sự kiện văn hóa 10 7320101 Báo chí 11 7320201 Quản trị thư viện 12 732020",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét kết quả học tập cấp THPT (học bạ) – Mã phương thức 200",
+      "programs": [
+        {
+          "program_code": "7220110",
+          "program_name": "Sáng tác văn học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7229040",
+          "program_name": "Nghiên cứu văn hóa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7229040",
+          "program_name": "Văn hóa truyền thông",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7229040",
+          "program_name": "Văn hóa đối ngoại",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7229042",
+          "program_name": "Phát triển công nghiệp văn hóa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7229042",
+          "program_name": "Quản lý di sản văn",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7229042",
+          "program_name": "Tổ chức hoạt động nghệ thuật",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7229042",
+          "program_name": "Tổ chức sự kiện văn hóa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7320101",
+          "program_name": "Báo chí",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7320201",
+          "program_name": "Quản trị thư viện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7320201",
+          "program_name": "Thư viện và thiết bị trường học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7320205",
+          "program_name": "Quản lý thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7320305",
+          "program_name": "Bảo tàng học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7320402",
+          "program_name": "Kinh doanh xuất bản phẩm",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7810101",
+          "program_name": "Văn hóa du lịch",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7810101",
+          "program_name": "Lữ hành, hướng dẫn du lịch",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7810101",
+          "program_name": "Hướng dẫn du lịch quốc tế",
+          "subject_groups": [],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "19"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị kinh doanh du lịch",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị du lịch cộng đồng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "21"
+        }
+      ]
+    },
+    {
+      "method_id": "4-ket-hop-ket-qua-hoc-tap-cap-thpt-hoc-ba-voi-iem-thi-nang-khieu",
+      "method_name": "4 KẾT HỢP KẾT QUẢ HỌC TẬP CẤP THPT (HỌC BẠ) VỚI ĐIỂM THI NĂNG KHIẾU",
+      "description": "4.1 QUY CHẾ Xét tuyển kết hợp kết quả học tập cấp THPT (học bạ) với điểm thi năng khiếu DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM XÉT TUYỂN KẾT HỢP STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7220110 Sáng tác văn học N06 2 7229042 Tổ chức hoạt động nghệ thuật N00 3 7229042 Tổ chức sự kiện văn hóa N05",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét tuyển kết hợp kết quả học tập cấp THPT (học bạ) với điểm thi năng khiếu",
+      "programs": [
+        {
+          "program_code": "7220110",
+          "program_name": "Sáng tác văn học",
+          "subject_groups": [
+            "N06"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7229042",
+          "program_name": "Tổ chức hoạt động nghệ thuật",
+          "subject_groups": [
+            "N00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7229042",
+          "program_name": "Tổ chức sự kiện văn hóa",
+          "subject_groups": [
+            "N05"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7220110",
+          "program_name": "Sáng tác văn học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7220110",
+          "program_name": "Sáng tác văn học",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "X01",
+            "X70",
+            "D01",
+            "D14",
+            "D15",
+            "X78",
+            "N06"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7220110",
+          "program_name": "Sáng tác văn học",
+          "subject_groups": [
+            "N06"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7229040",
+          "program_name": "Nghiên cứu văn hóa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7229040",
+          "program_name": "Nghiên cứu văn hóa",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "X01",
+            "X70",
+            "D01",
+            "D14",
+            "D15",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7229040",
+          "program_name": "Văn hóa truyền thông",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7229040",
+          "program_name": "Văn hóa truyền thông",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "X01",
+            "X70",
+            "D01",
+            "D14",
+            "D15",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7229040",
+          "program_name": "Văn hóa đối ngoại",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7229040",
+          "program_name": "Văn hóa đối ngoại",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "X01",
+            "X70",
+            "D01",
+            "D14",
+            "D15",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7229042",
+          "program_name": "Phát triển công nghiệp văn hóa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7229042",
+          "program_name": "Phát triển công nghiệp văn hóa",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "X01",
+            "X70",
+            "D01",
+            "D14",
+            "D15",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7229042",
+          "program_name": "Quản lý di sản văn",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7229042",
+          "program_name": "Quản lý di sản văn",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "X01",
+            "X70",
+            "D01",
+            "D14",
+            "D15",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7229042",
+          "program_name": "Tổ chức hoạt động nghệ thuật",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7229042",
+          "program_name": "Tổ chức hoạt động nghệ thuật",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "X01",
+            "X70",
+            "D01",
+            "D14",
+            "D15",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7229042",
+          "program_name": "Tổ chức hoạt động nghệ thuật",
+          "subject_groups": [
+            "N00"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7229042",
+          "program_name": "Tổ chức sự kiện văn hóa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7229042",
+          "program_name": "Tổ chức sự kiện văn hóa",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "X01",
+            "X70",
+            "D01",
+            "D14",
+            "D15",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7229042",
+          "program_name": "Tổ chức sự kiện văn hóa",
+          "subject_groups": [
+            "N05"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7320101",
+          "program_name": "Báo chí",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7320101",
+          "program_name": "Báo chí",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "X01",
+            "X70",
+            "D01",
+            "D14",
+            "D15",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7320201",
+          "program_name": "Quản trị thư viện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7320201",
+          "program_name": "Quản trị thư viện",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "X01",
+            "X70",
+            "D01",
+            "D14",
+            "D15",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7320201",
+          "program_name": "Thư viện và thiết bị trường học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7320201",
+          "program_name": "Thư viện và thiết bị trường học",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "X01",
+            "X70",
+            "D01",
+            "D14",
+            "D15",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7320205",
+          "program_name": "Quản lý thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7320205",
+          "program_name": "Quản lý thông tin",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "X01",
+            "X70",
+            "D01",
+            "D14",
+            "D15",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7320305",
+          "program_name": "Bảo tàng học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7320305",
+          "program_name": "Bảo tàng học",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "X01",
+            "X70",
+            "D01",
+            "D14",
+            "D15",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7320402",
+          "program_name": "Kinh doanh xuất bản phẩm",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7320402",
+          "program_name": "Kinh doanh xuất bản phẩm",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "X01",
+            "X70",
+            "D01",
+            "D14",
+            "D15",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7380101",
+          "program_name": "Học BạƯu Tiên",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7380101",
+          "program_name": "ĐT THPT",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "X01",
+            "X70",
+            "D01",
+            "D14",
+            "D15",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7810101",
+          "program_name": "Văn hóa du lịch",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7810101",
+          "program_name": "Văn hóa du lịch",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "X01",
+            "X70",
+            "D01",
+            "D14",
+            "D15",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7810101",
+          "program_name": "Lữ hành, hướng dẫn du lịch",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7810101",
+          "program_name": "Lữ hành, hướng dẫn du lịch",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "X01",
+            "X70",
+            "D01",
+            "D14",
+            "D15",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7810101",
+          "program_name": "Hướng dẫn du lịch quốc tế",
+          "subject_groups": [],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "19"
+        },
+        {
+          "program_code": "7810101",
+          "program_name": "Hướng dẫn du lịch quốc tế",
+          "subject_groups": [
+            "D01",
+            "D14",
+            "D15",
+            "X78"
+          ],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "19"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị kinh doanh du lịch",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị kinh doanh du lịch",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "X01",
+            "X70",
+            "D01",
+            "D14",
+            "D15",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị du lịch cộng đồng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị du lịch cộng đồng",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "X01",
+            "X70",
+            "D01",
+            "D14",
+            "D15",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem chi tiết điểm chuẩn Đại học Văn hóa Hà Nội các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-van-hoa-ha-noi-VHH.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 24.91,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D14",
+              "D15",
+              "X78"
+            ],
+            "score": 25.41,
+            "note": null
+          },
+          {
+            "program_code": "7229040A",
+            "program_name": "Nghiên cứu văn hóa",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 24.73,
+            "note": null
+          },
+          {
+            "program_code": "7229040A",
+            "program_name": "Nghiên cứu văn hóa",
+            "subject_groups": [
+              "C03",
+              "C04",
+              "D14",
+              "D15",
+              "X01",
+              "X78"
+            ],
+            "score": 25.23,
+            "note": null
+          },
+          {
+            "program_code": "7229040A",
+            "program_name": "Nghiên cứu văn hóa",
+            "subject_groups": [
+              "C00",
+              "X70"
+            ],
+            "score": 26.73,
+            "note": null
+          },
+          {
+            "program_code": "7229040B",
+            "program_name": "Văn hóa truyền thông",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 25.36,
+            "note": null
+          },
+          {
+            "program_code": "7229040B",
+            "program_name": "Văn hóa truyền thông",
+            "subject_groups": [
+              "C03",
+              "C04",
+              "D14",
+              "D15",
+              "X01",
+              "X78"
+            ],
+            "score": 25.86,
+            "note": null
+          },
+          {
+            "program_code": "7229040B",
+            "program_name": "Văn hóa truyền thông",
+            "subject_groups": [
+              "C00",
+              "X70"
+            ],
+            "score": 27.36,
+            "note": null
+          },
+          {
+            "program_code": "7229040C",
+            "program_name": "Văn hóa đối ngoại",
+            "subject_groups": [
+              "C00",
+              "X70"
+            ],
+            "score": 27,
+            "note": null
+          },
+          {
+            "program_code": "7229040C",
+            "program_name": "Văn hóa đối ngoại",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 25,
+            "note": null
+          },
+          {
+            "program_code": "7229040C",
+            "program_name": "Văn hóa đối ngoại",
+            "subject_groups": [
+              "C03",
+              "C04",
+              "D14",
+              "D15",
+              "X01",
+              "X78"
+            ],
+            "score": 25.5,
+            "note": null
+          },
+          {
+            "program_code": "7229042A",
+            "program_name": "Phát triển công nghiệp văn hóa",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 22.83,
+            "note": null
+          },
+          {
+            "program_code": "7229042A",
+            "program_name": "Phát triển công nghiệp văn hóa",
+            "subject_groups": [
+              "C03",
+              "C04",
+              "D14",
+              "D15",
+              "X01",
+              "X78"
+            ],
+            "score": 23.33,
+            "note": null
+          },
+          {
+            "program_code": "7229042A",
+            "program_name": "Phát triển công nghiệp văn hóa",
+            "subject_groups": [
+              "C00",
+              "X70"
+            ],
+            "score": 24.83,
+            "note": null
+          },
+          {
+            "program_code": "7229042B",
+            "program_name": "Quản lý di sản văn hóa",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 23.94,
+            "note": null
+          },
+          {
+            "program_code": "7229042B",
+            "program_name": "Quản lý di sản văn hóa",
+            "subject_groups": [
+              "C03",
+              "C04",
+              "D14",
+              "D15",
+              "X01",
+              "X78"
+            ],
+            "score": 24.44,
+            "note": null
+          },
+          {
+            "program_code": "7229042B",
+            "program_name": "Quản lý di sản văn hóa",
+            "subject_groups": [
+              "C00",
+              "X70"
+            ],
+            "score": 25.94,
+            "note": null
+          },
+          {
+            "program_code": "7229042C",
+            "program_name": "Tổ chức hoạt động nghệ thuật",
+            "subject_groups": [
+              "C03",
+              "C04",
+              "D14",
+              "D15",
+              "X01",
+              "X78"
+            ],
+            "score": 25.71,
+            "note": null
+          },
+          {
+            "program_code": "7229042C",
+            "program_name": "Tổ chức hoạt động nghệ thuật",
+            "subject_groups": [
+              "C00",
+              "X70"
+            ],
+            "score": 27.21,
+            "note": null
+          },
+          {
+            "program_code": "7229042C",
+            "program_name": "Tổ chức hoạt động nghệ thuật",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 25.21,
+            "note": null
+          },
+          {
+            "program_code": "7229042D",
+            "program_name": "Tổ chức sự kiện văn hóa",
+            "subject_groups": [
+              "C00",
+              "X70"
+            ],
+            "score": 27.55,
+            "note": null
+          },
+          {
+            "program_code": "7229042D",
+            "program_name": "Tổ chức sự kiện văn hóa",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 25.55,
+            "note": null
+          },
+          {
+            "program_code": "7229042D",
+            "program_name": "Tổ chức sự kiện văn hóa",
+            "subject_groups": [
+              "C03",
+              "C04",
+              "D14",
+              "D15",
+              "X01",
+              "X78"
+            ],
+            "score": 26.05,
+            "note": null
+          },
+          {
+            "program_code": "7320101",
+            "program_name": "Báo chí",
+            "subject_groups": [
+              "C00",
+              "X70"
+            ],
+            "score": 27.27,
+            "note": null
+          },
+          {
+            "program_code": "7320101",
+            "program_name": "Báo chí",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 25.27,
+            "note": null
+          },
+          {
+            "program_code": "7320101",
+            "program_name": "Báo chí",
+            "subject_groups": [
+              "C03",
+              "C04",
+              "D14",
+              "D15",
+              "X01",
+              "X78"
+            ],
+            "score": 25.77,
+            "note": null
+          },
+          {
+            "program_code": "7320201A",
+            "program_name": "Quản trị thư viện",
+            "subject_groups": [
+              "C00",
+              "X70"
+            ],
+            "score": 25.5,
+            "note": null
+          },
+          {
+            "program_code": "7320201A",
+            "program_name": "Quản trị thư viện",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 23.5,
+            "note": null
+          },
+          {
+            "program_code": "7320201A",
+            "program_name": "Quản trị thư viện",
+            "subject_groups": [
+              "C03",
+              "C04",
+              "D14",
+              "D15",
+              "X01",
+              "X78"
+            ],
+            "score": 24,
+            "note": null
+          },
+          {
+            "program_code": "7320201B",
+            "program_name": "Thư viện và thiết bị trường học",
+            "subject_groups": [
+              "C00",
+              "X70"
+            ],
+            "score": 25.34,
+            "note": null
+          },
+          {
+            "program_code": "7320201B",
+            "program_name": "Thư viện và thiết bị trường học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 23.34,
+            "note": null
+          },
+          {
+            "program_code": "7320201B",
+            "program_name": "Thư viện và thiết bị trường học",
+            "subject_groups": [
+              "C03",
+              "C04",
+              "D14",
+              "D15",
+              "X01",
+              "X78"
+            ],
+            "score": 23.84,
+            "note": null
+          },
+          {
+            "program_code": "7320205",
+            "program_name": "Quản lý thông tin",
+            "subject_groups": [
+              "C00",
+              "X70"
+            ],
+            "score": 26.27,
+            "note": null
+          },
+          {
+            "program_code": "7320205",
+            "program_name": "Quản lý thông tin",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 24.27,
+            "note": null
+          },
+          {
+            "program_code": "7320205",
+            "program_name": "Quản lý thông tin",
+            "subject_groups": [
+              "C03",
+              "C04",
+              "D14",
+              "D15",
+              "X01",
+              "X78"
+            ],
+            "score": 24.77,
+            "note": null
+          },
+          {
+            "program_code": "7320305",
+            "program_name": "Bảo tàng học",
+            "subject_groups": [
+              "C00",
+              "X70"
+            ],
+            "score": 25.2,
+            "note": null
+          },
+          {
+            "program_code": "7320305",
+            "program_name": "Bảo tàng học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 23.2,
+            "note": null
+          },
+          {
+            "program_code": "7320305",
+            "program_name": "Bảo tàng học",
+            "subject_groups": [
+              "C03",
+              "C04",
+              "D14",
+              "D15",
+              "X01",
+              "X78"
+            ],
+            "score": 23.7,
+            "note": null
+          },
+          {
+            "program_code": "7320402",
+            "program_name": "Kinh doanh xuất bản phẩm",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 23.76,
+            "note": null
+          },
+          {
+            "program_code": "7320402",
+            "program_name": "Kinh doanh xuất bản phẩm",
+            "subject_groups": [
+              "C03",
+              "C04",
+              "D14",
+              "D15",
+              "X01",
+              "X78"
+            ],
+            "score": 24.26,
+            "note": null
+          },
+          {
+            "program_code": "7320402",
+            "program_name": "Kinh doanh xuất bản phẩm",
+            "subject_groups": [
+              "C00",
+              "X70"
+            ],
+            "score": 25.76,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 24.81,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "C03",
+              "C04",
+              "D14",
+              "D15",
+              "X01",
+              "X78"
+            ],
+            "score": 25.31,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "C00",
+              "X70"
+            ],
+            "score": 26.81,
+            "note": null
+          },
+          {
+            "program_code": "7810101A",
+            "program_name": "Văn hóa du lịch",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 24.83,
+            "note": null
+          },
+          {
+            "program_code": "7810101A",
+            "program_name": "Văn hóa du lịch",
+            "subject_groups": [
+              "C03",
+              "C04",
+              "D14",
+              "D15",
+              "X01",
+              "X78"
+            ],
+            "score": 25.33,
+            "note": null
+          },
+          {
+            "program_code": "7810101A",
+            "program_name": "Văn hóa du lịch",
+            "subject_groups": [
+              "C00",
+              "X70"
+            ],
+            "score": 26.83,
+            "note": null
+          },
+          {
+            "program_code": "7810101B",
+            "program_name": "Lữ hành, hướng dẫn du lịch",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 25.2,
+            "note": null
+          },
+          {
+            "program_code": "7810101B",
+            "program_name": "Lữ hành, hướng dẫn du lịch",
+            "subject_groups": [
+              "C03",
+              "C04",
+              "D14",
+              "D15",
+              "X01",
+              "X78"
+            ],
+            "score": 25.7,
+            "note": null
+          },
+          {
+            "program_code": "7810101B",
+            "program_name": "Lữ hành, hướng dẫn du lịch",
+            "subject_groups": [
+              "C00",
+              "X70"
+            ],
+            "score": 27.2,
+            "note": null
+          },
+          {
+            "program_code": "7810101C",
+            "program_name": "Hướng dẫn du lịch quốc tế",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 22.8,
+            "note": null
+          },
+          {
+            "program_code": "7810101C",
+            "program_name": "Hướng dẫn du lịch quốc tế",
+            "subject_groups": [
+              "D14",
+              "D15",
+              "X78"
+            ],
+            "score": 23.3,
+            "note": null
+          },
+          {
+            "program_code": "7810103A",
+            "program_name": "Quản trị kinh doanh du lịch",
+            "subject_groups": [
+              "C00",
+              "X70"
+            ],
+            "score": 27.05,
+            "note": null
+          },
+          {
+            "program_code": "7810103A",
+            "program_name": "Quản trị kinh doanh du lịch",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 25.05,
+            "note": null
+          },
+          {
+            "program_code": "7810103A",
+            "program_name": "Quản trị kinh doanh du lịch",
+            "subject_groups": [
+              "C03",
+              "C04",
+              "D14",
+              "D15",
+              "X01",
+              "X78"
+            ],
+            "score": 25.55,
+            "note": null
+          },
+          {
+            "program_code": "7810103B",
+            "program_name": "Quản trị du lịch cộng đồng",
+            "subject_groups": [
+              "C00",
+              "X70"
+            ],
+            "score": 26.62,
+            "note": null
+          },
+          {
+            "program_code": "7810103B",
+            "program_name": "Quản trị du lịch cộng đồng",
+            "subject_groups": [
+              "C03",
+              "C04",
+              "D14",
+              "D15",
+              "X01",
+              "X78"
+            ],
+            "score": 25.12,
+            "note": null
+          },
+          {
+            "program_code": "7810103B",
+            "program_name": "Quản trị du lịch cộng đồng",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 24.62,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "D15",
+              "X78"
+            ],
+            "score": 27.44,
+            "note": null
+          },
+          {
+            "program_code": "7229040A",
+            "program_name": "Nghiên cứu văn hóa",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "X01",
+              "X70",
+              "D01",
+              "D14",
+              "D15",
+              "X78"
+            ],
+            "score": 27.32,
+            "note": null
+          },
+          {
+            "program_code": "7229040B",
+            "program_name": "Văn hóa truyền thông",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "X01",
+              "X70",
+              "D01",
+              "D14",
+              "D15",
+              "X78"
+            ],
+            "score": 27.74,
+            "note": null
+          },
+          {
+            "program_code": "7229040C",
+            "program_name": "Văn hóa đối ngoại",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "X01",
+              "X70",
+              "D01",
+              "D14",
+              "D15",
+              "X78"
+            ],
+            "score": 27.5,
+            "note": null
+          },
+          {
+            "program_code": "7229042A",
+            "program_name": "Phát triển công nghiệp văn hóa",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "X01",
+              "X70",
+              "D01",
+              "D14",
+              "D15",
+              "X78"
+            ],
+            "score": 25.9,
+            "note": null
+          },
+          {
+            "program_code": "7229042B",
+            "program_name": "Quản lý di sản văn hóa",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "X01",
+              "X70",
+              "D01",
+              "D14",
+              "D15",
+              "X78"
+            ],
+            "score": 26.79,
+            "note": null
+          },
+          {
+            "program_code": "7229042C",
+            "program_name": "Tổ chức hoạt động nghệ thuật",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "X01",
+              "X70",
+              "D01",
+              "D14",
+              "D15",
+              "X78"
+            ],
+            "score": 27.64,
+            "note": null
+          },
+          {
+            "program_code": "7229042D",
+            "program_name": "Tổ chức sự kiện văn hóa",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "X01",
+              "X70",
+              "D01",
+              "D14",
+              "D15",
+              "X78"
+            ],
+            "score": 27.87,
+            "note": null
+          },
+          {
+            "program_code": "7320101",
+            "program_name": "Báo chí",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "X01",
+              "X70",
+              "D01",
+              "D14",
+              "D15",
+              "X78"
+            ],
+            "score": 27.68,
+            "note": null
+          },
+          {
+            "program_code": "7320201A",
+            "program_name": "Quản trị thư viện",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "X01",
+              "X70",
+              "D01",
+              "D14",
+              "D15",
+              "X78"
+            ],
+            "score": 26.5,
+            "note": null
+          },
+          {
+            "program_code": "7320201B",
+            "program_name": "Thư viện và thiết bị trường học",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "X01",
+              "X70",
+              "D01",
+              "D14",
+              "D15",
+              "X78"
+            ],
+            "score": 26.36,
+            "note": null
+          },
+          {
+            "program_code": "7320205",
+            "program_name": "Quản lý thông tin",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "X01",
+              "X70",
+              "D01",
+              "D14",
+              "D15",
+              "X78"
+            ],
+            "score": 27.01,
+            "note": null
+          },
+          {
+            "program_code": "7320305",
+            "program_name": "Bảo tàng học",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "X01",
+              "X70",
+              "D01",
+              "D14",
+              "D15",
+              "X78"
+            ],
+            "score": 26.23,
+            "note": null
+          },
+          {
+            "program_code": "7320402",
+            "program_name": "Kinh doanh xuất bản phẩm",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "X01",
+              "X70",
+              "D01",
+              "D14",
+              "D15",
+              "X78"
+            ],
+            "score": 26.67,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "X01",
+              "X70",
+              "D01",
+              "D14",
+              "D15",
+              "X78"
+            ],
+            "score": 27.37,
+            "note": null
+          },
+          {
+            "program_code": "7810101A",
+            "program_name": "Văn hóa du lịch",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "X01",
+              "X70",
+              "D01",
+              "D14",
+              "D15",
+              "X78"
+            ],
+            "score": 27.39,
+            "note": null
+          },
+          {
+            "program_code": "7810101B",
+            "program_name": "Lữ hành, hướng dẫn du lịch",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "X01",
+              "X70",
+              "D01",
+              "D14",
+              "D15",
+              "X78"
+            ],
+            "score": 27.63,
+            "note": null
+          },
+          {
+            "program_code": "7810101C",
+            "program_name": "Hướng dẫn du lịch quốc tế",
+            "subject_groups": [
+              "D01",
+              "D14",
+              "D15",
+              "X78"
+            ],
+            "score": 25.87,
+            "note": null
+          },
+          {
+            "program_code": "7810103A",
+            "program_name": "Quản trị kinh doanh du lịch",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "X01",
+              "X70",
+              "D01",
+              "D14",
+              "D15",
+              "X78"
+            ],
+            "score": 27.53,
+            "note": null
+          },
+          {
+            "program_code": "7810103B",
+            "program_name": "Quản trị du lịch cộng đồng",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "X01",
+              "X70",
+              "D01",
+              "D14",
+              "D15",
+              "X78"
+            ],
+            "score": 27.25,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-xet-tuyen-ket-hop",
+        "method_name": "Điểm chuẩn theo phương thức Điểm xét tuyển kết hợp năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220110",
+            "program_name": "Sáng tác văn học",
+            "subject_groups": [
+              "N00"
+            ],
+            "score": 18.68,
+            "note": null
+          },
+          {
+            "program_code": "7229042C",
+            "program_name": "Tổ chức hoạt động nghệ thuật",
+            "subject_groups": [
+              "N00"
+            ],
+            "score": 24.71,
+            "note": null
+          },
+          {
+            "program_code": "7229042D",
+            "program_name": "Tổ chức sự kiện văn hóa",
+            "subject_groups": [
+              "N00"
+            ],
+            "score": 25.05,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

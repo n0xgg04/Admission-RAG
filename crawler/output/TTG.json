@@ -1,0 +1,2839 @@
+{
+  "university": {
+    "code": "TTG",
+    "name": "Trường Đại Học Tiền Giang",
+    "short_name": "TGU",
+    "location": [
+      "Tiền Giang"
+    ],
+    "address": "Số 119, đường Ấp Bắc, Phường 5, Thành phố Mỹ Tho, Tiền Giang",
+    "website": "https://tgu.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": 45,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-tien-giang-TTG.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2025/0522/thong-tin-tuyen-sinh-2025-dai-hoc-tien-giang.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC TIỀN GIANG 2026 Thông tin tuyển sinh Đại Học Tiền Giang (TGU) năm 2026 Năm 2026 trường Đại học Tiền Giang tuyển 2045 chỉ tiêu và xét tuyển theo 5 phương thức như sau: Phương thức 1: Xét tuyển theo kết quả thi tốt nghiệp THPT năm 2026 Phương thức 2: Xét tuyển dựa vào kết quả học tập 6 học kỳ THPT (học bạ) Phương thức 3: Xét điểm thi đánh giá năng lực của Trung tâm Khảo thí quốc gia và Đánh giá chất lượng giáo dục (V-SAT) Phương thức 4: Xét điểm thi đánh giá năng lực của Đại học Quốc gia TP. Hồ Chí Minh và Trường Đại học Sư phạm Hà Nội Phương thức 5: Xét tuyển thẳng",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 QUY CHẾ - Các ngành đào tạo giáo viên, các ngành thuộc lĩnh vực pháp luật phải đạt từ ngưỡng đầu vào (điểm xét tuyển) do Bộ GD&ĐT tạo quy định. - Các ngành đào tạo khác phải đạt ngưỡng đầu vào (tổng điểm 3 môn trong tổ hợp xét tuyển) phải từ 15,0 điểm trở lên. Trong đó phải có điểm thi môn Toán hoặc Ngữ văn trong tổ hợp xét tuyển từ 1/3 của tổng điểm xét tuyển. Điểm trúng tuyển các ngành tuyển sinh năm 2026 do Hội đồng tuyển sinh Trường xác định. - Trường hợp nhiều thí sinh có cùng điểm xét ",
+      "eligibility": null,
+      "rules": "QUY CHẾ - Các ngành đào tạo giáo viên, các ngành thuộc lĩnh vực pháp luật phải đạt từ ngưỡng đầu vào (điểm xét tuyển) do Bộ GD&ĐT tạo quy định. - Các ngành đào tạo khác phải đạt ngưỡng đầu vào (tổng điểm 3 môn trong tổ hợp xét tuyển) phải từ 15,0 điểm trở lên. Trong đó phải có điểm thi môn Toán hoặc Ngữ văn trong tổ hợp xét tuyển từ 1/3 của tổng điểm xét tuyển. Điểm trúng tuyển các ngành tuyển sinh năm 2026 do Hội đồng tuyển sinh Trường xác định. - Trường hợp nhiều thí sinh có cùng điểm xét ở cuối",
+      "programs": [
+        {
+          "program_code": "51140201",
+          "program_name": "CĐ Sư phạm Mầm non",
+          "subject_groups": [
+            "M01",
+            "M09"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140202",
+          "program_name": "ĐH Giáo dục tiểu học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A07",
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "C14",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7229040",
+          "program_name": "ĐH Văn hóa học",
+          "subject_groups": [
+            "C00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "C14",
+            "C05",
+            "B03",
+            "D01",
+            "D15",
+            "X01",
+            "X02",
+            "X70",
+            "X74"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7310101",
+          "program_name": "ĐH Kinh tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A97",
+            "B00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D10",
+            "X01",
+            "X21",
+            "X17"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "ĐH Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A97",
+            "B00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D10",
+            "X01",
+            "X21",
+            "X17"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "ĐH Tài chính ngân hàng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A97",
+            "B00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D10",
+            "X01",
+            "X21",
+            "X17"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "ĐH Kế toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A97",
+            "B00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D10",
+            "X01",
+            "X21",
+            "X17"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7380101",
+          "program_name": "ĐH Luật",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A97",
+            "B00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D10",
+            "X01",
+            "X21",
+            "X17"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "ĐH Công nghệ sinh học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "B03",
+            "B08",
+            "C02",
+            "C05",
+            "D01",
+            "D07",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "ĐH Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04",
+            "X06",
+            "X07"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7510103",
+          "program_name": "ĐH Công nghệ kỹ thuật xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04",
+            "X06",
+            "X07"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7510201",
+          "program_name": "ĐH Công nghệ kỹ thuật cơ khí",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04",
+            "X06",
+            "X07"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7510203",
+          "program_name": "ĐH Công nghệ kỹ thuật cơ điện tử",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04",
+            "X06",
+            "X07"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7510205",
+          "program_name": "ĐH Công nghệ kỹ thuật ô tô",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04",
+            "X06",
+            "X07"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7510303",
+          "program_name": "ĐH Công nghệ kỹ thuật điều khiển & tự động hóa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04",
+            "X06",
+            "X07"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "ĐH Kỹ thuật Điện",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04",
+            "X06",
+            "X07"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7540101",
+          "program_name": "ĐH Công nghệ thực phẩm",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C02",
+            "D01",
+            "D07",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7620112",
+          "program_name": "ĐH Bảo vệ thực vật",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C02",
+            "C04",
+            "D01",
+            "D07",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7620301",
+          "program_name": "ĐH Nuôi trồng thủy sản",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C02",
+            "C04",
+            "D01",
+            "D07",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7640101",
+          "program_name": "ĐH Thú y",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "C02",
+            "C04",
+            "C05",
+            "D01",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7810101",
+          "program_name": "ĐH Du lịch",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A97",
+            "B00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D10",
+            "X01",
+            "X21",
+            "X17"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-gnl-hcm",
+      "method_name": "2 ĐIỂM ĐGNL HCM",
+      "description": "2.1 QUY CHẾ - Thí sinh có tổng điểm 03 môn thi trong tổ hợp xét (đã quy đổi tương đương) đạt từ 15,0 điểm trở lên. Và phải có điểm môn Toán hoặc Ngữ văn trong tổ hợp xét tuyển phải có điểm từ 1/3 của điểm xét tuyển và có tổng điểm 3 môn thi TN THPT trong tổ hợp xét tuyển (hoặc điểm Toán, Ngữ văn và môn khác) đạt từ 15,0 điểm trở lên. - Điểm trúng tuyển các ngành tuyển sinh năm 2026 do Hội đồng tuyển sinh Trường xác định. - Trường hợp nhiều thí sinh có cùng điểm xét ở cuối danh sách, thứ tự xét ư",
+      "eligibility": null,
+      "rules": "QUY CHẾ - Thí sinh có tổng điểm 03 môn thi trong tổ hợp xét (đã quy đổi tương đương) đạt từ 15,0 điểm trở lên. Và phải có điểm môn Toán hoặc Ngữ văn trong tổ hợp xét tuyển phải có điểm từ 1/3 của điểm xét tuyển và có tổng điểm 3 môn thi TN THPT trong tổ hợp xét tuyển (hoặc điểm Toán, Ngữ văn và môn khác) đạt từ 15,0 điểm trở lên. - Điểm trúng tuyển các ngành tuyển sinh năm 2026 do Hội đồng tuyển sinh Trường xác định. - Trường hợp nhiều thí sinh có cùng điểm xét ở cuối",
+      "programs": [
+        {
+          "program_code": "51140201",
+          "program_name": "CĐ Sư phạm Mầm non",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140202",
+          "program_name": "ĐH Giáo dục tiểu học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7229040",
+          "program_name": "ĐH Văn hóa học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7310101",
+          "program_name": "ĐH Kinh tế",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "ĐH Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "ĐH Tài chính ngân hàng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "ĐH Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7380101",
+          "program_name": "ĐH Luật",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "ĐH Công nghệ sinh học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "ĐH Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7510103",
+          "program_name": "ĐH Công nghệ kỹ thuật xây dựng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7510201",
+          "program_name": "ĐH Công nghệ kỹ thuật cơ khí",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7510203",
+          "program_name": "ĐH Công nghệ kỹ thuật cơ điện tử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7510205",
+          "program_name": "ĐH Công nghệ kỹ thuật ô tô",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7510303",
+          "program_name": "ĐH Công nghệ kỹ thuật điều khiển & tự động hóa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "ĐH Kỹ thuật Điện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7540101",
+          "program_name": "ĐH Công nghệ thực phẩm",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7620112",
+          "program_name": "ĐH Bảo vệ thực vật",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7620301",
+          "program_name": "ĐH Nuôi trồng thủy sản",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7640101",
+          "program_name": "ĐH Thú y",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7810101",
+          "program_name": "ĐH Du lịch",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "21"
+        }
+      ]
+    },
+    {
+      "method_id": "3-iem-hoc-ba",
+      "method_name": "3 ĐIỂM HỌC BẠ",
+      "description": "3.1 QUY CHẾ - Đối với ngành Luật, Giáo dục tiểu học trình độ đại học phải có kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đổi tượng trung học nghề và tương đương) và có tổng điểm 3 môn thi tốt nghiệp THPT trong tổ hợp xét tuyển (hoặc điểm thi môn Toán, Ngữ văn và một môn thi khác) đạt 18.00 trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8,50 trở lên. - Đối với",
+      "eligibility": null,
+      "rules": "QUY CHẾ - Đối với ngành Luật, Giáo dục tiểu học trình độ đại học phải có kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuối cấp đối với đổi tượng trung học nghề và tương đương) và có tổng điểm 3 môn thi tốt nghiệp THPT trong tổ hợp xét tuyển (hoặc điểm thi môn Toán, Ngữ văn và một môn thi khác) đạt 18.00 trở lên hoặc điểm xét tốt nghiệp THPT (điểm thi tốt nghiệp trung học nghề) từ 8,50 trở lên. - Đối với ngành Giáo dục Mầm non trình độ cao đẳng phải có học tập xếp loại khá trở lên (học lực xếp loại khá trở lên) cả năm lớp 12 (kết quả học tập 02 học kỳ năm cuổi cấp đối với đổi tượng trung học nghề và tương đương) hoặc điểm xét tốt nghiệp THPT, trung học nghề từ 6,50 trở lên. Trong đó phải có điểm môn Toán hoặc Ngữ văn trong tổ hợp xét tuyền phải có điểm từ 1/3 của điểm xét tuyển và có tổng điểm 3 môn thi TN THPT trong tổ hợp xét tuyển (hoặc điểm Toán, Ngữ văn và môn khác) đạt từ 15,0 điểm trở lên. - Điểm xét tuyển các ngành khác phải từ 18,0 điểm trở lên. Trong đó phải có điểm môn Toán hoặc Ngữ văn trong tổ hợp xét tuyển phải có điểm từ 1/3 của điểm xét tuyển và có tổng điểm 3 môn thi TN THPT trong tổ hợp xét tuyển (hoặc điểm Toán, Ngữ văn và môn khác) đạt từ 15,0 điểm trở lên. - Điểm trúng tuyển các ngành tuyển sinh năm 2026 do Hội đồng tuyển sinh Trường xác định. - Trường hợp nhiều thí sinh có cùng điểm xét ở cuối",
+      "programs": [
+        {
+          "program_code": "51140201",
+          "program_name": "CĐ Sư phạm Mầm non",
+          "subject_groups": [
+            "M01",
+            "M09"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140202",
+          "program_name": "ĐH Giáo dục tiểu học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A07",
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "C14",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7229040",
+          "program_name": "ĐH Văn hóa học",
+          "subject_groups": [
+            "C00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "C14",
+            "C05",
+            "B03",
+            "D01",
+            "D15",
+            "X01",
+            "X02",
+            "X70",
+            "X74"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7310101",
+          "program_name": "ĐH Kinh tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A97",
+            "B00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D10",
+            "X01",
+            "X21",
+            "X17"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "ĐH Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A97",
+            "B00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D10",
+            "X01",
+            "X21",
+            "X17"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "ĐH Tài chính ngân hàng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A97",
+            "B00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D10",
+            "X01",
+            "X21",
+            "X17"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "ĐH Kế toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A97",
+            "B00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D10",
+            "X01",
+            "X21",
+            "X17"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7380101",
+          "program_name": "ĐH Luật",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A97",
+            "B00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D10",
+            "X01",
+            "X21",
+            "X17"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "ĐH Công nghệ sinh học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "B03",
+            "B08",
+            "C02",
+            "C05",
+            "D01",
+            "D07",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "ĐH Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04",
+            "X06",
+            "X07"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7510103",
+          "program_name": "ĐH Công nghệ kỹ thuật xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04",
+            "X06",
+            "X07"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7510201",
+          "program_name": "ĐH Công nghệ kỹ thuật cơ khí",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04",
+            "X06",
+            "X07"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7510203",
+          "program_name": "ĐH Công nghệ kỹ thuật cơ điện tử",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04",
+            "X06",
+            "X07"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7510205",
+          "program_name": "ĐH Công nghệ kỹ thuật ô tô",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04",
+            "X06",
+            "X07"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7510303",
+          "program_name": "ĐH Công nghệ kỹ thuật điều khiển & tự động hóa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04",
+            "X06",
+            "X07"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "ĐH Kỹ thuật Điện",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04",
+            "X06",
+            "X07"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7540101",
+          "program_name": "ĐH Công nghệ thực phẩm",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C02",
+            "D01",
+            "D07",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7620112",
+          "program_name": "ĐH Bảo vệ thực vật",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C02",
+            "C04",
+            "D01",
+            "D07",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7620301",
+          "program_name": "ĐH Nuôi trồng thủy sản",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C02",
+            "C04",
+            "D01",
+            "D07",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7640101",
+          "program_name": "ĐH Thú y",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "C02",
+            "C04",
+            "C05",
+            "D01",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7810101",
+          "program_name": "ĐH Du lịch",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A97",
+            "B00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D10",
+            "X01",
+            "X21",
+            "X17"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        }
+      ]
+    },
+    {
+      "method_id": "4-iem-gnl-h-su-pham-hn",
+      "method_name": "4 ĐIỂM ĐGNL ĐH SƯ PHẠM HN",
+      "description": "4.1 QUY CHẾ - Thí sinh có tổng điểm 03 môn thi trong tổ hợp xét (đã quy đổi tương đương) đạt từ 15,0 điểm trở lên. Và phải có điểm môn Toán hoặc Ngữ văn trong tổ hợp xét tuyển phải có điểm từ 1/3 của điểm xét tuyển và có tổng điểm 3 môn thi TN THPT trong tổ hợp xét tuyển (hoặc điểm Toán, Ngữ văn và môn khác) đạt từ 15,0 điểm trở lên. - Điểm trúng tuyển các ngành tuyển sinh năm 2026 do Hội đồng tuyển sinh Trường xác định. - Trường hợp nhiều thí sinh có cùng điểm xét ở cuối danh sách, thứ tự xét ư",
+      "eligibility": null,
+      "rules": "QUY CHẾ - Thí sinh có tổng điểm 03 môn thi trong tổ hợp xét (đã quy đổi tương đương) đạt từ 15,0 điểm trở lên. Và phải có điểm môn Toán hoặc Ngữ văn trong tổ hợp xét tuyển phải có điểm từ 1/3 của điểm xét tuyển và có tổng điểm 3 môn thi TN THPT trong tổ hợp xét tuyển (hoặc điểm Toán, Ngữ văn và môn khác) đạt từ 15,0 điểm trở lên. - Điểm trúng tuyển các ngành tuyển sinh năm 2026 do Hội đồng tuyển sinh Trường xác định. - Trường hợp nhiều thí sinh có cùng điểm xét ở cuối",
+      "programs": [
+        {
+          "program_code": "51140201",
+          "program_name": "CĐ Sư phạm Mầm non",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140202",
+          "program_name": "ĐH Giáo dục tiểu học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7229040",
+          "program_name": "ĐH Văn hóa học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7310101",
+          "program_name": "ĐH Kinh tế",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "ĐH Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "ĐH Tài chính ngân hàng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "ĐH Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7380101",
+          "program_name": "ĐH Luật",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "ĐH Công nghệ sinh học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "ĐH Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7510103",
+          "program_name": "ĐH Công nghệ kỹ thuật xây dựng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7510201",
+          "program_name": "ĐH Công nghệ kỹ thuật cơ khí",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7510203",
+          "program_name": "ĐH Công nghệ kỹ thuật cơ điện tử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7510205",
+          "program_name": "ĐH Công nghệ kỹ thuật ô tô",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7510303",
+          "program_name": "ĐH Công nghệ kỹ thuật điều khiển & tự động hóa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "ĐH Kỹ thuật Điện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7540101",
+          "program_name": "ĐH Công nghệ thực phẩm",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7620112",
+          "program_name": "ĐH Bảo vệ thực vật",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7620301",
+          "program_name": "ĐH Nuôi trồng thủy sản",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7640101",
+          "program_name": "ĐH Thú y",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7810101",
+          "program_name": "ĐH Du lịch",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "21"
+        }
+      ]
+    },
+    {
+      "method_id": "5-utxt-xt-thang",
+      "method_name": "5 ƯTXT, XT THẲNG",
+      "description": "5.1 QUY CHẾ Theo Quy định hiện hành của Bộ GD&ĐT. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ƯTXT, XT THẲNG STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 51140201 CĐ Sư phạm Mầm non 2 7140202 ĐH Giáo dục tiểu học 3 7229040 ĐH Văn hóa học 4 7310101 ĐH Kinh tế 5 7340101 ĐH Quản trị kinh doanh 6 7340201 ĐH Tài chính ngân hàng 7 7340301 ĐH Kế toán 8 7380101 ĐH Luật 9 7420201 ĐH Công nghệ sinh học 10 7480201 ĐH Công nghệ thông tin 11 7510103 ĐH Công nghệ kỹ thuật xây dựng 12 7510201 ĐH Công nghệ kỹ thuật cơ ",
+      "eligibility": null,
+      "rules": "QUY CHẾ Theo Quy định hiện hành của Bộ GD&ĐT.",
+      "programs": [
+        {
+          "program_code": "51140201",
+          "program_name": "CĐ Sư phạm Mầm non",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140202",
+          "program_name": "ĐH Giáo dục tiểu học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7229040",
+          "program_name": "ĐH Văn hóa học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7310101",
+          "program_name": "ĐH Kinh tế",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "ĐH Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "ĐH Tài chính ngân hàng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "ĐH Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7380101",
+          "program_name": "ĐH Luật",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "ĐH Công nghệ sinh học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "ĐH Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7510103",
+          "program_name": "ĐH Công nghệ kỹ thuật xây dựng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7510201",
+          "program_name": "ĐH Công nghệ kỹ thuật cơ khí",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7510203",
+          "program_name": "ĐH Công nghệ kỹ thuật cơ điện tử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7510205",
+          "program_name": "ĐH Công nghệ kỹ thuật ô tô",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7510303",
+          "program_name": "ĐH Công nghệ kỹ thuật điều khiển & tự động hóa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "ĐH Kỹ thuật Điện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7540101",
+          "program_name": "ĐH Công nghệ thực phẩm",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7620112",
+          "program_name": "ĐH Bảo vệ thực vật",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7620301",
+          "program_name": "ĐH Nuôi trồng thủy sản",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7640101",
+          "program_name": "ĐH Thú y",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7810101",
+          "program_name": "ĐH Du lịch",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "21"
+        }
+      ]
+    },
+    {
+      "method_id": "6-iem-anh-gia-au-vao-v-sat",
+      "method_name": "6 ĐIỂM ĐÁNH GIÁ ĐẦU VÀO V-SAT",
+      "description": "6.1 QUY CHẾ - Thí sinh có tổng điểm 03 môn thi trong tổ hợp xét (đã quy đổi tương đương) đạt từ 15,0 điểm trở lên. Và phải có điểm môn Toán hoặc Ngữ văn trong tổ hợp xét tuyển phải có điểm từ 1/3 của điểm xét tuyển và có tổng điểm 3 môn thi TN THPT trong tổ hợp xét tuyển (hoặc điểm Toán, Ngữ văn và môn khác) đạt từ 15,0 điểm trở lên. - Điểm trúng tuyển các ngành tuyển sinh năm 2026 do Hội đồng tuyển sinh Trường xác định. - Trường hợp nhiều thí sinh có cùng điểm xét ở cuối danh sách, thứ tự xét ư",
+      "eligibility": null,
+      "rules": "QUY CHẾ - Thí sinh có tổng điểm 03 môn thi trong tổ hợp xét (đã quy đổi tương đương) đạt từ 15,0 điểm trở lên. Và phải có điểm môn Toán hoặc Ngữ văn trong tổ hợp xét tuyển phải có điểm từ 1/3 của điểm xét tuyển và có tổng điểm 3 môn thi TN THPT trong tổ hợp xét tuyển (hoặc điểm Toán, Ngữ văn và môn khác) đạt từ 15,0 điểm trở lên. - Điểm trúng tuyển các ngành tuyển sinh năm 2026 do Hội đồng tuyển sinh Trường xác định. - Trường hợp nhiều thí sinh có cùng điểm xét ở cuối",
+      "programs": [
+        {
+          "program_code": "51140201",
+          "program_name": "CĐ Sư phạm Mầm non",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140202",
+          "program_name": "ĐH Giáo dục tiểu học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7229040",
+          "program_name": "ĐH Văn hóa học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7310101",
+          "program_name": "ĐH Kinh tế",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "ĐH Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "ĐH Tài chính ngân hàng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "ĐH Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7380101",
+          "program_name": "ĐH Luật",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "ĐH Công nghệ sinh học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "ĐH Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7510103",
+          "program_name": "ĐH Công nghệ kỹ thuật xây dựng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7510201",
+          "program_name": "ĐH Công nghệ kỹ thuật cơ khí",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7510203",
+          "program_name": "ĐH Công nghệ kỹ thuật cơ điện tử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7510205",
+          "program_name": "ĐH Công nghệ kỹ thuật ô tô",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7510303",
+          "program_name": "ĐH Công nghệ kỹ thuật điều khiển & tự động hóa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "ĐH Kỹ thuật Điện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7540101",
+          "program_name": "ĐH Công nghệ thực phẩm",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7620112",
+          "program_name": "ĐH Bảo vệ thực vật",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7620301",
+          "program_name": "ĐH Nuôi trồng thủy sản",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7640101",
+          "program_name": "ĐH Thú y",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7810101",
+          "program_name": "ĐH Du lịch",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "21"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "51140201",
+          "program_name": "CĐ Sư phạm Mầm non",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "51140201",
+          "program_name": "CĐ Sư phạm Mầm non",
+          "subject_groups": [
+            "M01",
+            "M09"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7140202",
+          "program_name": "ĐH Giáo dục tiểu học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7140202",
+          "program_name": "ĐH Giáo dục tiểu học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A07",
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "C14",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7229040",
+          "program_name": "ĐH Văn hóa học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7229040",
+          "program_name": "ĐH Văn hóa học",
+          "subject_groups": [
+            "C00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "C14",
+            "C05",
+            "B03",
+            "D01",
+            "D15",
+            "X01",
+            "X02",
+            "X70",
+            "X74"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7310101",
+          "program_name": "ĐH Kinh tế",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7310101",
+          "program_name": "ĐH Kinh tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A97",
+            "B00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D10",
+            "X01",
+            "X21",
+            "X17"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "ĐH Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "ĐH Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A97",
+            "B00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D10",
+            "X01",
+            "X21",
+            "X17"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "ĐH Tài chính ngân hàng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "ĐH Tài chính ngân hàng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A97",
+            "B00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D10",
+            "X01",
+            "X21",
+            "X17"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "ĐH Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "ĐH Kế toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A97",
+            "B00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D10",
+            "X01",
+            "X21",
+            "X17"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7380101",
+          "program_name": "ĐH Luật",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7380101",
+          "program_name": "ĐH Luật",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A97",
+            "B00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D10",
+            "X01",
+            "X21",
+            "X17"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "ĐH Công nghệ sinh học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "ĐH Công nghệ sinh học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "B03",
+            "B08",
+            "C02",
+            "C05",
+            "D01",
+            "D07",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "ĐH Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "ĐH Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04",
+            "X06",
+            "X07"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7510103",
+          "program_name": "ĐH Công nghệ kỹ thuật xây dựng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7510103",
+          "program_name": "ĐH Công nghệ kỹ thuật xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04",
+            "X06",
+            "X07"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7510201",
+          "program_name": "ĐH Công nghệ kỹ thuật cơ khí",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7510201",
+          "program_name": "ĐH Công nghệ kỹ thuật cơ khí",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04",
+            "X06",
+            "X07"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7510203",
+          "program_name": "ĐH Công nghệ kỹ thuật cơ điện tử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7510203",
+          "program_name": "ĐH Công nghệ kỹ thuật cơ điện tử",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04",
+            "X06",
+            "X07"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7510205",
+          "program_name": "ĐH Công nghệ kỹ thuật ô tô",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7510205",
+          "program_name": "ĐH Công nghệ kỹ thuật ô tô",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04",
+            "X06",
+            "X07"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7510303",
+          "program_name": "ĐH Công nghệ kỹ thuật điều khiển & tự động hóa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7510303",
+          "program_name": "ĐH Công nghệ kỹ thuật điều khiển & tự động hóa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04",
+            "X06",
+            "X07"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "ĐH Kỹ thuật Điện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "ĐH Kỹ thuật Điện",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "C02",
+            "D01",
+            "X02",
+            "X03",
+            "X04",
+            "X06",
+            "X07"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7540101",
+          "program_name": "ĐH Công nghệ thực phẩm",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7540101",
+          "program_name": "ĐH Công nghệ thực phẩm",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C02",
+            "D01",
+            "D07",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7620112",
+          "program_name": "ĐH Bảo vệ thực vật",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7620112",
+          "program_name": "ĐH Bảo vệ thực vật",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C02",
+            "C04",
+            "D01",
+            "D07",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7620301",
+          "program_name": "ĐH Nuôi trồng thủy sản",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7620301",
+          "program_name": "ĐH Nuôi trồng thủy sản",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "B03",
+            "B08",
+            "C01",
+            "C02",
+            "C04",
+            "D01",
+            "D07",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7640101",
+          "program_name": "ĐH Thú y",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7640101",
+          "program_name": "ĐH Thú y",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "C02",
+            "C04",
+            "C05",
+            "D01",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7810101",
+          "program_name": "ĐH Du lịch",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7810101",
+          "program_name": "ĐH Du lịch",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A97",
+            "B00",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D10",
+            "X01",
+            "X21",
+            "X17"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Trường Đại Học Tiền Giang các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-tien-giang-TTG.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7229040",
+            "program_name": "Văn hoá học",
+            "subject_groups": [
+              "C04",
+              "D01",
+              "C00",
+              "C03",
+              "X01",
+              "X74",
+              "X70",
+              "C01",
+              "C02",
+              "C05"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế",
+            "subject_groups": [
+              "C04",
+              "C01",
+              "C02",
+              "D01",
+              "C03",
+              "D10",
+              "X01",
+              "A00",
+              "A01",
+              "X21"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "C04",
+              "C01",
+              "C02",
+              "D01",
+              "C03",
+              "D10",
+              "X01",
+              "A00",
+              "A01",
+              "X21"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [
+              "C04",
+              "C01",
+              "C02",
+              "D01",
+              "C03",
+              "D10",
+              "X01",
+              "A00",
+              "A01",
+              "X21"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "C04",
+              "C01",
+              "C02",
+              "D01",
+              "C03",
+              "D10",
+              "X01",
+              "A00",
+              "A01",
+              "X21"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "C04",
+              "C01",
+              "C02",
+              "D01",
+              "C03",
+              "X01",
+              "X70",
+              "C00",
+              "C05",
+              "X74"
+            ],
+            "score": 18,
+            "note": "Điểm môn Toán hoặc môn Văn hoặc Toán và Văn trong tổ hợp xét tuyển đạt từ 6.0 điểm trở lên"
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [
+              "C01",
+              "C02",
+              "D01",
+              "B03",
+              "A00",
+              "A01",
+              "B00",
+              "D07",
+              "X04",
+              "C04"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "C01",
+              "C02",
+              "D01",
+              "A00",
+              "A01",
+              "D07",
+              "X03",
+              "X02",
+              "X26",
+              "X07"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7510103",
+            "program_name": "Công nghệ kỹ thuật xây dựng",
+            "subject_groups": [
+              "C01",
+              "C02",
+              "D01",
+              "A00",
+              "A01",
+              "D07",
+              "X03",
+              "X02",
+              "X26"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7510201",
+            "program_name": "Công nghệ kỹ thuật cơ khí",
+            "subject_groups": [
+              "C01",
+              "C02",
+              "D01",
+              "A00",
+              "A01",
+              "D07",
+              "X03",
+              "X02",
+              "X26",
+              "X07"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7510203",
+            "program_name": "Công nghệ kỹ thuật cơ - điện tử",
+            "subject_groups": [
+              "C01",
+              "C02",
+              "D01",
+              "A00",
+              "A01",
+              "D07",
+              "X03",
+              "X02",
+              "X26",
+              "X07"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7510303",
+            "program_name": "Công nghệ kỹ thuật điều khiển và tự động hoá",
+            "subject_groups": [
+              "C01",
+              "C02",
+              "D01",
+              "A00",
+              "A01",
+              "D07",
+              "X03",
+              "X02",
+              "X26",
+              "X07"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7540101",
+            "program_name": "Công nghệ thực phẩm",
+            "subject_groups": [
+              "C01",
+              "C02",
+              "D01",
+              "B03",
+              "A00",
+              "A01",
+              "B00",
+              "D07",
+              "X04",
+              "C04"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7620112",
+            "program_name": "Bảo vệ thực vật",
+            "subject_groups": [
+              "C01",
+              "C02",
+              "D01",
+              "B03",
+              "A00",
+              "A01",
+              "B00",
+              "D07",
+              "X04",
+              "C04"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7620301",
+            "program_name": "Nuôi trồng thuỷ sản",
+            "subject_groups": [
+              "C01",
+              "C02",
+              "D01",
+              "B03",
+              "A00",
+              "A01",
+              "B00",
+              "D07",
+              "X04",
+              "C04"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7810101",
+            "program_name": "Du lịch",
+            "subject_groups": [
+              "C04",
+              "C01",
+              "C02",
+              "D01",
+              "C03",
+              "X01",
+              "X70",
+              "C00",
+              "C05",
+              "X74"
+            ],
+            "score": 15,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7229040",
+            "program_name": "Văn hoá học",
+            "subject_groups": [
+              "C04",
+              "D01",
+              "C00",
+              "C03",
+              "X01",
+              "X74",
+              "X70",
+              "C01",
+              "C02",
+              "C05"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế",
+            "subject_groups": [
+              "C04",
+              "C01",
+              "C02",
+              "D01",
+              "C03",
+              "D10",
+              "X01",
+              "A00",
+              "A01",
+              "X21"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "C04",
+              "C01",
+              "C02",
+              "D01",
+              "C03",
+              "D10",
+              "X01",
+              "A00",
+              "A01",
+              "X21"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [
+              "C04",
+              "C01",
+              "C02",
+              "D01",
+              "C03",
+              "D10",
+              "X01",
+              "A00",
+              "A01",
+              "X21"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "C04",
+              "C01",
+              "C02",
+              "D01",
+              "C03",
+              "D10",
+              "X01",
+              "A00",
+              "A01",
+              "X21"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "C04",
+              "C01",
+              "C02",
+              "D01",
+              "C03",
+              "X01",
+              "X70",
+              "C00",
+              "C05",
+              "X74"
+            ],
+            "score": 18,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [
+              "C01",
+              "C02",
+              "D01",
+              "B03",
+              "A00",
+              "A01",
+              "B00",
+              "D07",
+              "X04",
+              "C04"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "C01",
+              "C02",
+              "D01",
+              "A00",
+              "A01",
+              "D07",
+              "X03",
+              "X02",
+              "X26",
+              "X07"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510103",
+            "program_name": "Công nghệ kỹ thuật xây dựng",
+            "subject_groups": [
+              "C01",
+              "C02",
+              "D01",
+              "A00",
+              "A01",
+              "D07",
+              "X03",
+              "X02",
+              "X26"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510201",
+            "program_name": "Công nghệ kỹ thuật cơ khí",
+            "subject_groups": [
+              "C01",
+              "C02",
+              "D01",
+              "A00",
+              "A01",
+              "D07",
+              "X03",
+              "X02",
+              "X26",
+              "X07"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510203",
+            "program_name": "Công nghệ kỹ thuật cơ - điện tử",
+            "subject_groups": [
+              "C01",
+              "C02",
+              "D01",
+              "A00",
+              "A01",
+              "D07",
+              "X03",
+              "X02",
+              "X26",
+              "X07"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510303",
+            "program_name": "Công nghệ kỹ thuật điều khiển và tự động hoá",
+            "subject_groups": [
+              "C01",
+              "C02",
+              "D01",
+              "A00",
+              "A01",
+              "D07",
+              "X03",
+              "X02",
+              "X26",
+              "X07"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7540101",
+            "program_name": "Công nghệ thực phẩm",
+            "subject_groups": [
+              "C01",
+              "C02",
+              "D01",
+              "B03",
+              "A00",
+              "A01",
+              "B00",
+              "D07",
+              "X04",
+              "C04"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7620112",
+            "program_name": "Bảo vệ thực vật",
+            "subject_groups": [
+              "C01",
+              "C02",
+              "D01",
+              "B03",
+              "A00",
+              "A01",
+              "B00",
+              "D07",
+              "X04",
+              "C04"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7620301",
+            "program_name": "Nuôi trồng thuỷ sản",
+            "subject_groups": [
+              "C01",
+              "C02",
+              "D01",
+              "B03",
+              "A00",
+              "A01",
+              "B00",
+              "D07",
+              "X04",
+              "C04"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7810101",
+            "program_name": "Du lịch",
+            "subject_groups": [
+              "C04",
+              "C01",
+              "C02",
+              "D01",
+              "C03",
+              "X01",
+              "X70",
+              "C00",
+              "C05",
+              "X74"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7229040",
+            "program_name": "Văn hoá học",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [],
+            "score": 18,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510103",
+            "program_name": "Công nghệ kỹ thuật xây dựng",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510201",
+            "program_name": "Công nghệ kỹ thuật cơ khí",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510203",
+            "program_name": "Công nghệ kỹ thuật cơ - điện tử",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510303",
+            "program_name": "Công nghệ kỹ thuật điều khiển và tự động hoá",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7540101",
+            "program_name": "Công nghệ thực phẩm",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7620112",
+            "program_name": "Bảo vệ thực vật",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7620301",
+            "program_name": "Nuôi trồng thuỷ sản",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7810101",
+            "program_name": "Du lịch",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-anh-gia-au-vao-v-sat",
+        "method_name": "Điểm chuẩn theo phương thức Điểm Đánh giá đầu vào V-SAT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7229040",
+            "program_name": "Văn hoá học",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [],
+            "score": 18,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510103",
+            "program_name": "Công nghệ kỹ thuật xây dựng",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510201",
+            "program_name": "Công nghệ kỹ thuật cơ khí",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510203",
+            "program_name": "Công nghệ kỹ thuật cơ - điện tử",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7510303",
+            "program_name": "Công nghệ kỹ thuật điều khiển và tự động hoá",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7540101",
+            "program_name": "Công nghệ thực phẩm",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7620112",
+            "program_name": "Bảo vệ thực vật",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7620301",
+            "program_name": "Nuôi trồng thuỷ sản",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7810101",
+            "program_name": "Du lịch",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          }
+        ]
+      }
+    ]
+  }
+}

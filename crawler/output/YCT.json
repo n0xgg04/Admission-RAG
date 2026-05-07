@@ -1,0 +1,836 @@
+{
+  "university": {
+    "code": "YCT",
+    "name": "Trường Đại học Y Dược Cần Thơ",
+    "short_name": "CTUMP",
+    "location": [],
+    "address": "179 Nguyễn Văn Cừ, phường An Khánh, quận Ninh Kiều, thành phố Cần Thơ",
+    "website": "https://www.ctump.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": 2460,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-y-duoc-can-tho-YCT.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0407/thong-tin-tuyen-sinh-truong-dai-hoc-y-duoc-can-tho-2026.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC Y DƯỢC CẦN THƠ 2026 Thông tin tuyển sinh trường Đại học Y Dược Cần Thơ (CTUMP) năm 2026 Trường Đại học Y Dược Cần Thơ tuyển 2.460 chỉ tiêu cùng với 5 phương thức như sau: Phương thức 1: Xét tuyển dựa trên kết quả kỳ thi tốt nghiệp THPT năm 2026 với tổ hợp môn phù hợp từng ngành, điểm xét tuyển không nhân hệ số. Phương thức 2: Xét tuyển theo kết quả kỳ thi V-SAT năm 2026 (các môn tương ứng tổ hợp xét tuyển của một ngành). Điểm dùng để xét tuyển là điểm cao nhất của thí sinh trong các đợt thi V-SAT năm 2026 trước thời điểm xét tuyển. Ngưỡng đầu vào theo phương thức này được quy đổi tương đương về thang điểm 30. Phương thức 3: Tuyển thẳng và ưu tiên xét tuyển thẳng theo quy chế của Bộ GD-ĐT đối với thí sinh đạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia, quốc tế ở các môn phù hợp tổ hợp xét tuyển. Phương thức 4: Xét tuyển đào tạo theo hợp đồng. Xét tuyển thí sinh có điểm thi tốt nghiệp THPT/V-SAT năm 2026 phù hợp với tổ hợp môn xét tuyển của Trường, điểm xét tuyển không nhân hệ số. Phương thức 5: Đối với phương thức xét tuyển người nước ngoài, thí sinh phải tốt nghiệp THPT (12/12) hoặc trung cấp có học chương trình THPT và có quốc tịch nước ngoài. Khám phá thêm sách Sức khoẻ Khóa học",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 CHỈ TIÊU Chỉ tiêu xét tuyển đợt 1: - Chỉ tiêu từng ngành có thể thay đổi 20% để phù hợp nhu cầu và mức điểm chung của ngành. Chỉ tiêu trên có chỉ tiêu xét tuyển thẳng theo quy chế tuyển sinh đại học, chỉ tiêu đào tạo từ các trường Dự bị đại học chuyển đến. - Đào tạo theo hợp đồng: Chỉ tiêu đào tạo theo nhu cầu của Ủy ban nhân dân cấp tỉnh/Thành phố, Bệnh viện, Cơ quan, Đơn vị trong lĩnh vực y tế có ký kết hợp tác, đăng ký đặt hàng đào tạo với Trường; đặc biệt ưu tiên cho tuyến y tế cơ sở, vù",
+      "eligibility": null,
+      "rules": "quy chế tuyển sinh đại học, chỉ tiêu đào tạo từ các trường Dự bị đại học chuyển đến. - Đào tạo theo hợp đồng: Chỉ tiêu đào tạo theo nhu cầu của Ủy ban nhân dân cấp tỉnh/Thành phố, Bệnh viện, Cơ quan, Đơn vị trong lĩnh vực y tế có ký kết hợp tác, đăng ký đặt hàng đào tạo với Trường; đặc biệt ưu tiên cho tuyến y tế cơ sở, vùng biên giới, hải đảo. Thí sinh bắt buộc phải có quyết định cử đi đào tạo của Đơn vị hợp đồng. - Xét tuyển thí sinh tốt nghiệp THPT nước ngoài: Chỉ tiêu đào tạo thí sinh tốt nghiệp THPT ở nước ngoài hoặc trung cấp có học chương trình THPT ở nước ngoài và có quốc tịch nước ngoài. 1.2 QUY CHẾ Xét tuyển dựa trên kết quả kỳ thi tốt nghiệp THPT năm 2026 với tổ hợp môn phù hợp từng ngành, điểm xét tuyển không nhân hệ số.",
+      "programs": [
+        {
+          "program_code": "7310401",
+          "program_name": "Tâm lý học",
+          "subject_groups": [
+            "B00",
+            "C00",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7520212",
+          "program_name": "Kỹ thuật Y sinh",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "B00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720110",
+          "program_name": "Y học dự phòng",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "B08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720115",
+          "program_name": "Y học cổ truyền",
+          "subject_groups": [
+            "B00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "B08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "B08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7720302",
+          "program_name": "Hộ sinh",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "B08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7720401",
+          "program_name": "Dinh dưỡng",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "B08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7720501",
+          "program_name": "Răng hàm mặt",
+          "subject_groups": [
+            "B00"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật Xét nghiệm y học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "B08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7720602",
+          "program_name": "Kỹ thuật Hình ảnh y học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7720603",
+          "program_name": "Kỹ thuật Phục hồi chức năng",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "B08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7720701",
+          "program_name": "Y tế công cộng",
+          "subject_groups": [
+            "B00",
+            "C00",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-anh-gia-au-vao-v-sat",
+      "method_name": "2 ĐIỂM ĐÁNH GIÁ ĐẦU VÀO V-SAT",
+      "description": "2.1 QUY CHẾ 1. Quy đổi ngưỡng đầu vào: Xét tuyển kết quả thi V-SAT: thí sinh dự tuyển vào chương trình đào tạo thuộc lĩnh vực sức khỏe có cấp giấy phép hành nghề, ngưỡng đầu vào áp dụng một trong các tiêu chí sau: a) Tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển của Trường đạt ngưỡng đầu vào do Bộ GDĐT quy định; b) Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặ",
+      "eligibility": null,
+      "rules": "QUY CHẾ 1. Quy đổi ngưỡng đầu vào: Xét tuyển kết quả thi V-SAT: thí sinh dự tuyển vào chương trình đào tạo thuộc lĩnh vực sức khỏe có cấp giấy phép hành nghề, ngưỡng đầu vào áp dụng một trong các tiêu chí sau: a) Tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển của Trường đạt ngưỡng đầu vào do Bộ GDĐT quy định; b) Kết quả trung bình chung học tập được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cả năm lớp 12 và tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc điểm thi môn Toán, Ngữ văn và một môn thi khác) đạt 20,00 điểm trở lên hoặc điểm xét tốt nghiệp THPT từ 8,50 trở lên theo thang điểm 10, trừ các trường hợp quy định tại mục c và d; c) Kết quả trung bình chung học tập đánh giá mức khá (học lực xếp loại từ khá trở lên) cả năm lớp 12 và tổng điểm 03 môn thi tốt nghiệp THPT đạt 16,50 điểm trở lên hoặc điểm xét tốt nghiệp THPT từ 6,50 trở lên đối với chương trình đào tạo Điều dưỡng, Y học dự phòng, Hộ sinh, Kỹ thuật phục hình răng, Kỹ thuật xét nghiệm y học, Kỹ thuật hình ảnh y học, Kỹ thuật phục hồi chức năng. d) Đối với chương trình đào tạo không có cấp giấy phép hành nghề hoặc không thuộc lĩnh vực sức khỏe, tổng điểm 03 môn thi kỳ thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc điểm thi môn Toán, Ngữ văn và một môn thi khác) đạt tối thiểu 15,00 điểm trở lên.",
+      "programs": [
+        {
+          "program_code": "7310401",
+          "program_name": "Tâm lý học",
+          "subject_groups": [
+            "B00",
+            "C00",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7520212",
+          "program_name": "Kỹ thuật Y sinh",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "B00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720110",
+          "program_name": "Y học dự phòng",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "B08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720115",
+          "program_name": "Y học cổ truyền",
+          "subject_groups": [
+            "B00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "B08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "B08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7720302",
+          "program_name": "Hộ sinh",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "B08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7720401",
+          "program_name": "Dinh dưỡng",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "B08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7720501",
+          "program_name": "Răng hàm mặt",
+          "subject_groups": [
+            "B00"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật Xét nghiệm y học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "B08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7720602",
+          "program_name": "Kỹ thuật Hình ảnh y học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7720603",
+          "program_name": "Kỹ thuật Phục hồi chức năng",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "B08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7720701",
+          "program_name": "Y tế công cộng",
+          "subject_groups": [
+            "B00",
+            "C00",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        }
+      ]
+    },
+    {
+      "method_id": "3-utxt-xt-thang",
+      "method_name": "3 ƯTXT, XT THẲNG",
+      "description": "3.1 QUY CHẾ - Tổ chức xét tuyển thẳng: Tuyển thẳng thí sinh đạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia, quốc tế do Bộ GDĐT tổ chức, cử tham gia các môn tương ứng theo tổ hợp ngành xét tuyển của Trường và đã tốt nghiệp trung học phổ thông. Thời gian đạt giải không quá 3 năm tính đến thời điểm xét tuyển thẳng. - Tổ chức Ưu tiên xét tuyển: Thí sinh tốt nghiệp THPT năm 2026 đạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia, quốc tế có môn thi chọn học sinh giỏi quố",
+      "eligibility": null,
+      "rules": "QUY CHẾ - Tổ chức xét tuyển thẳng: Tuyển thẳng thí sinh đạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia, quốc tế do Bộ GDĐT tổ chức, cử tham gia các môn tương ứng theo tổ hợp ngành xét tuyển của Trường và đã tốt nghiệp trung học phổ thông. Thời gian đạt giải không quá 3 năm tính đến thời điểm xét tuyển thẳng. - Tổ chức Ưu tiên xét tuyển: Thí sinh tốt nghiệp THPT năm 2026 đạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia, quốc tế có môn thi chọn học sinh giỏi quốc gia, quốc tế trùng với môn xét tuyển của Trường mà không dùng quyền tuyển thẳng, sau khi hoàn thành kỳ thi THPT có 3 môn xét tuyển của trường và đáp ứng tiêu chí đảm bảo chất lượng đầu vào do Bộ GDĐT quy định. Thời gian đạt giải không quá 3 năm tính đến thời điểm xét tuyển.",
+      "programs": [
+        {
+          "program_code": "7310401",
+          "program_name": "Tâm lý học",
+          "subject_groups": [
+            "B00",
+            "C00",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7520212",
+          "program_name": "Kỹ thuật Y sinh",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "B00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720110",
+          "program_name": "Y học dự phòng",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "B08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720115",
+          "program_name": "Y học cổ truyền",
+          "subject_groups": [
+            "B00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "B08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "B08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7720302",
+          "program_name": "Hộ sinh",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "B08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7720401",
+          "program_name": "Dinh dưỡng",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "B08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7720501",
+          "program_name": "Răng hàm mặt",
+          "subject_groups": [
+            "B00"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật Xét nghiệm y học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "B08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7720602",
+          "program_name": "Kỹ thuật Hình ảnh y học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7720603",
+          "program_name": "Kỹ thuật Phục hồi chức năng",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "B08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7720701",
+          "program_name": "Y tế công cộng",
+          "subject_groups": [
+            "B00",
+            "C00",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7310401",
+          "program_name": "Tâm lý học",
+          "subject_groups": [
+            "B00",
+            "C00",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7520212",
+          "program_name": "Kỹ thuật Y sinh",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "B00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720110",
+          "program_name": "Y học dự phòng",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "B08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7720115",
+          "program_name": "Y học cổ truyền",
+          "subject_groups": [
+            "B00"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "B08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "B08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7720302",
+          "program_name": "Hộ sinh",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "B08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7720401",
+          "program_name": "Dinh dưỡng",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "B08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7720501",
+          "program_name": "Răng hàm mặt",
+          "subject_groups": [
+            "B00"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật Xét nghiệm y học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "B08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7720602",
+          "program_name": "Kỹ thuật Hình ảnh y học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7720603",
+          "program_name": "Kỹ thuật Phục hồi chức năng",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "B08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7720701",
+          "program_name": "Y tế công cộng",
+          "subject_groups": [
+            "B00",
+            "C00",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Trường Đại học Y Dược Cần Thơ các năm Tại đây",
+  "tuition_text": "Học phí dự kiến với sinh viên đại học chính quy: TT Ngành Học phí năm học 1 Y khoa, Dược học 71.050.000 đ 2 Răng hàm mặt 66.500.000 đ 3 Y học cổ truyền, Y học dự phòng 64.050.000 đ 4 Điều dưỡng, Kỹ thuật xét nghiệm y học 57.137.000 đ 5 Kỹ thuật Hình ảnh y học, Hộ sinh, Y tế công cộng, Dinh dưỡng, KT Y sinh, Kỹ thuật Phục hồi chức năng, Tâm lý học (dự kiến) 50.141.000 đ - Mức học phí đối với diện đào tạo theo hợp đồng trên cơ sở ký kết đào tạo với UBND các tỉnh theo Nghị định 81/2021/NĐ-CP và Nghị định 97/2023/NĐ-CP.",
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-y-duoc-can-tho-YCT.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7520212",
+            "program_name": "Kỹ thuật Y sinh",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "X06"
+            ],
+            "score": 18.85,
+            "note": null
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 23.88,
+            "note": null
+          },
+          {
+            "program_code": "7720110",
+            "program_name": "Y học dự phòng",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7720115",
+            "program_name": "Y học cổ truyền",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 19.5,
+            "note": null
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học",
+            "subject_groups": [
+              "A00",
+              "B00"
+            ],
+            "score": 20.8,
+            "note": null
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 18.6,
+            "note": null
+          },
+          {
+            "program_code": "7720302",
+            "program_name": "Hộ sinh",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7720401",
+            "program_name": "Dinh dưỡng",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7720501",
+            "program_name": "Răng hàm mặt",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 23.35,
+            "note": null
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật Xét nghiệm y học",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 19.4,
+            "note": null
+          },
+          {
+            "program_code": "7720602",
+            "program_name": "Kỹ thuật Hình ảnh y học",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 18.88,
+            "note": null
+          },
+          {
+            "program_code": "7720701",
+            "program_name": "Y tế công cộng",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 17,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-anh-gia-au-vao-v-sat",
+        "method_name": "Điểm chuẩn theo phương thức Điểm Đánh giá đầu vào V-SAT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 23.88,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7720501",
+            "program_name": "Răng hàm mặt",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 23.35,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật Xét nghiệm y học",
+            "subject_groups": [
+              "B00"
+            ],
+            "score": 19.4,
+            "note": "Điểm đã được quy đổi"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,733 @@
+{
+  "university": {
+    "code": "DFA",
+    "name": "Đại học Tài chính Quản trị kinh doanh",
+    "short_name": "UFBA",
+    "location": [
+      "Hưng Yên"
+    ],
+    "address": "Trưng Trắc - Văn Lâm - Hưng Yên",
+    "website": "https://ufba.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": 375,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-tai-chinh-quan-tri-kinh-doanh-DFA.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0330/thong-tin-tuyen-sinh-truong-dai-hoc-tai-chinh-quan-tri-kinh-doanh.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC TÀI CHÍNH QUẢN TRỊ KINH DOANH 2026 Thông tin tuyển sinh Đại học Tài chính Quản trị Kinh doanh (UFBA) năm 2026 Năm 2026, Đại học Tài chính - Quản trị Kinh Doanh thông báo tuyển 1375 chỉ tiêu với 4 phương thức xét tuyển và 7 ngành đào tạo Phương thức 1: Xét tuyển thẳng theo quy chế tuyển sinh đại học hệ chính quy của Bộ Giáo dục và Đào tạo Phương thức 2: Xét tuyển kết hợp Phương thức 3: Xét điểm thi THPT Phương thức 4: Xét học bạ trung bình 3 năm",
+  "admission_methods": [
+    {
+      "method_id": "1-utxt-xt-thang",
+      "method_name": "1 ƯTXT, XT THẲNG",
+      "description": "1.1 ĐỐI TƯỢNG Trường xét tuyển thẳng vào các ngành đào tạo trình độ đại học hệ chính quy các đối tượng quy định tại Khoản 1, 2 Điều 8 của Quy chế tuyển sinh và có kết quả học tập THPT đáp ứng tiêu chí đảm bảo chất lượng đầu vào quy định, cụ thể như sau: Anh hùng lao động, Anh hùng lực lượng vũ trang nhân dân, Chiến sĩ thi đua toàn quốc được tuyển thẳng vào các ngành đào tạo của Trường. Thí sinh đoạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia, quốc tế hoặc thi khoa học, kỹ thuật ",
+      "eligibility": "ĐỐI TƯỢNG Trường xét tuyển thẳng vào các ngành đào tạo trình độ đại học hệ chính quy các đối tượng quy định tại Khoản 1, 2 Điều 8 của",
+      "rules": "Quy chế tuyển sinh và có kết quả học tập THPT đáp ứng tiêu chí đảm bảo chất lượng đầu vào quy định, cụ thể như sau: Anh hùng lao động, Anh hùng lực lượng vũ trang nhân dân, Chiến sĩ thi đua toàn quốc được tuyển thẳng vào các ngành đào tạo của Trường. Thí sinh đoạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia, quốc tế hoặc thi khoa học, kỹ thuật cấp quốc gia, quốc tế do Bộ Giáo dục và Đào tạo tổ chức, cử tham gia; thời gian đạt giải không quá 3 năm tính tới thời điểm xét tuyển thẳng. Thí sinh là người khuyết tật đặc biệt nặng có giấy xác nhận khuyết tật của cơ quan có thẩm quyền cấp theo quy định; Giấy chứng nhận sức khỏe của bệnh viện cấp quận, huyện trở lên và giấy cam kết của thí sinh, gia đình chịu trách nhiệm về sức khỏe của thí sinh trong quá trình học tập; về học lực, từng năm học trung học phổ thông đạt điểm tổng kết từ 6,0 trở lên; về hạnh kiểm, từng năm học trung học phổ thông đạt hạnh kiểm Khá trở lên. Thí sinh là người dân tộc thiểu số rất ít người theo quy định hiện hành của Chính phủ và thí sinh 20 huyện nghèo biên giới, hải đảo thuộc khu vực Tây Nam Bộ; Thí sinh có nơi thường trú từ 3 năm trở lên, học 3 năm và tốt nghiệp THPT tại các huyện nghèo (học sinh học phổ thông dân tộc nội trú tính theo nơi thường trú) theo quy định của Chính phủ, Thủ tướng Chính phủ. Những thí sinh này phải học bổ sung kiến thức 1 năm tại các trường Dự bị đại học. Thí sinh là người nước ngoài có kết quả kiểm tra kiến thức và năng lực Tiếng Việt đáp ứng quy định hiện hành của Bộ trưởng Bộ Giáo dục và Đào tạo. 1.2 THỜI GIAN XÉT TUYỂN Thí sinh xét tuyển nộp hồ sơ xét tuyển về Trường trước 17h00 ngày 20/6/2026. Nhà trường thực hiện xét tuyển thẳng và thông báo kết quả cho thí sinh. Cập nhật",
+      "programs": [
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340120",
+          "program_name": "Kinh doanh quốc tế",
+          "subject_groups": [],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "3"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340302",
+          "program_name": "Kiểm toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340405",
+          "program_name": "Hệ thống thông tin quản lý",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-xet-tuyen-ket-hop",
+      "method_name": "2 ĐIỂM XÉT TUYỂN KẾT HỢP",
+      "description": "2.1 ĐỐI TƯỢNG Nhóm 1: Thí sinh đã tốt nghiệp THPT trên toàn quốc xếp loại học tập 3 năm bậc THPT đạt loại Khá trở lên và có một trong các thành tích vượt trội như sau: Đạt giải Khuyến khích trong kỳ thi chọn học sinh giỏi quốc gia, quốc tế do Bộ GDĐT tổ chức, cử tham gia hoặc đạt giải Nhất, Nhì, Ba, Khuyến khích trong kỳ thi chọn học sinh giỏi cấp Tỉnh/Thành phố trực thuộc Trung ương của một trong các môn Toán, Vật lý, Hóa học, Tin học, Tiếng Anh, Ngữ văn (Thời gian đạt giải không quá 3 năm tính",
+      "eligibility": "ĐỐI TƯỢNG Nhóm 1: Thí sinh đã tốt nghiệp THPT trên toàn quốc xếp loại học tập 3 năm bậc THPT đạt loại Khá trở lên và có một trong các thành tích vượt trội như sau: Đạt giải Khuyến khích trong kỳ thi chọn học sinh giỏi quốc gia, quốc tế do Bộ GDĐT tổ chức, cử tham gia hoặc đạt giải Nhất, Nhì, Ba, Khuyến khích trong kỳ thi chọn học sinh giỏi cấp Tỉnh/Thành phố trực thuộc Trung ương của một trong các môn Toán, Vật lý, Hóa học, Tin học, Tiếng Anh, Ngữ văn (Thời gian đạt giải không quá 3 năm tính đến thời điểm xét tuyển). Chứng chỉ IELTS Academic đạt từ 4.5 điểm hoặc TOEFL iBT (trước năm 2026) đạt từ 45 điểm hoặc TOEFL iBT (từ năm 2026) đạt từ 2.5 điểm (TOEFL iBT không sử dụng Home Edition) hoặc SAT từ 800 điểm hoặc ACT từ 17 điểm (Các chứng chỉ tiếng Anh quốc tế IELTS/TOEFL iBT được các tổ chức quốc tế cấp từ ngày 01/6/2024 đến thời điểm kết thúc nộp hồ sơ xét tuyển). Nhóm 2: Thí sinh đã tốt nghiệp THPT trên toàn quốc xếp loại học tập 3 năm bậc THPT đạt loại Khá trở lên. 2.2",
+      "rules": "QUY CHẾ Nhóm 1: Điểm xét tuyển (ĐXT) được xác định như sau: ĐXT = Điểm môn 1 + Điểm môn 2 + Điểm môn 3 + Điểm ưu tiên (Nếu có). Điểm môn 1: Điểm cao nhất trong các Điểm thi tốt nghiệp THPT năm 2026 môn Toán và Điểm TBC kết quả học tập cả năm lớp 10, 11, 12 của môn Toán theo thang điểm 10. Điểm môn 2: Điểm TBC kết quả học tập cả năm lớp 10, 11, 12 của môn cao nhất trong các môn Ngữ văn, Vật lý, Hóa học, Tin học, Giáo dục kinh tế và pháp luật theo thang điểm 10. Điểm môn 3: Điểm quy đổi thành tích vượt trội của thí sinh (Xác định tại Bảng điểm quy đổi chứng chỉ Tiếng Anh quốc tế theo thang điểm 10 và Bảng quy đổi kết quả học tập theo thang điểm 10). Điểm ưu tiên (Nếu có): Điểm Khu vực ưu tiên và",
+      "programs": [
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07",
+            "X06",
+            "X26",
+            "C14"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07",
+            "X06",
+            "X26",
+            "C14"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340120",
+          "program_name": "Kinh doanh quốc tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07",
+            "X06",
+            "X26",
+            "C14"
+          ],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "3"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07",
+            "X06",
+            "X26",
+            "C14"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07",
+            "X06",
+            "X26",
+            "C14"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340302",
+          "program_name": "Kiểm toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07",
+            "X06",
+            "X26",
+            "C14"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340405",
+          "program_name": "Hệ thống thông tin quản lý",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07",
+            "X06",
+            "X26",
+            "C14"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        }
+      ]
+    },
+    {
+      "method_id": "3-iem-hoc-ba",
+      "method_name": "3 ĐIỂM HỌC BẠ",
+      "description": "3.1 ĐỐI TƯỢNG Đối tượng xét tuyển: Thí sinh tốt nghiệp THPT và tương đương có tổng điểm xét tuyển của 3 môn học thuộc một trong các tổ hợp áp dụng cho xét tuyển các ngành đào tạo của Trường phải đạt từ 18,00 điểm trở lên (bao gồm cả điểm ưu tiên đối tượng và khu vực). 3.2 QUY CHẾ Điểm xét tuyển được xác định theo công thức như sau: Điểm xét tuyển = Điểm TBC cả năm lớp 10, 11, 12 môn 1 + Điểm TBC cả năm lớp 10, 11, 12 môn 2 + Điểm TBC cả năm lớp 10, 11, 12 môn 3 + Điểm ưu tiên Trong đó: Điểm TBC ",
+      "eligibility": "ĐỐI TƯỢNG Đối tượng xét tuyển: Thí sinh tốt nghiệp THPT và tương đương có tổng điểm xét tuyển của 3 môn học thuộc một trong các tổ hợp áp dụng cho xét tuyển các ngành đào tạo của Trường phải đạt từ 18,00 điểm trở lên (bao gồm cả điểm ưu tiên đối tượng và khu vực). 3.2",
+      "rules": "QUY CHẾ Điểm xét tuyển được xác định theo công thức như sau: Điểm xét tuyển = Điểm TBC cả năm lớp 10, 11, 12 môn 1 + Điểm TBC cả năm lớp 10, 11, 12 môn 2 + Điểm TBC cả năm lớp 10, 11, 12 môn 3 + Điểm ưu tiên Trong đó: Điểm TBC cả năm lớp 10, 11, 12 môn 1, Điểm TBC cả năm lớp 10, 11, 12 môn 2, Điểm TBC cả năm lớp 10, 11, 12 môn 3 là Điểm TBC cả năm lớp 10, 11, 12 các môn thuộc tổ hợp đăng ký xét tuyển. Nếu thí sinh có chứng chỉ Tiếng Anh quốc tế được quy đổi điểm thay thế môn Tiếng Anh theo Bảng điểm quy đổi chứng chỉ Tiếng Anh quốc tế theo thang điểm 10 (trường hợp thí sinh có điểm thi THPT môn Tiếng Anh cao hơn điểm quy đổi, thí sinh được giữ nguyên điểm thi này). Điểm ưu tiên bao gồm ưu tiên khu vực và ưu tiên",
+      "programs": [
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07",
+            "X06",
+            "X26",
+            "C14"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07",
+            "X06",
+            "X26",
+            "C14"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340120",
+          "program_name": "Kinh doanh quốc tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07",
+            "X06",
+            "X26",
+            "C14"
+          ],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "3"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07",
+            "X06",
+            "X26",
+            "C14"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07",
+            "X06",
+            "X26",
+            "C14"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340302",
+          "program_name": "Kiểm toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07",
+            "X06",
+            "X26",
+            "C14"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340405",
+          "program_name": "Hệ thống thông tin quản lý",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07",
+            "X06",
+            "X26",
+            "C14"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        }
+      ]
+    },
+    {
+      "method_id": "4-iem-thi-thpt",
+      "method_name": "4 ĐIỂM THI THPT",
+      "description": "4.1 ĐỐI TƯỢNG Tiêu chí xét tuyển: Thí sinh tốt nghiệp THPT và tương đương có tổng điểm xét tuyển của 3 môn học thuộc một trong các tổ hợp áp dụng cho xét tuyển các ngành đào tạo của Trường phải đạt từ 15,00 điểm trở lên (bao gồm cả điểm ưu tiên đối tượng và khu vực). 4.2 QUY CHẾ Điểm xét tuyển được tính theo công thức: Điểm xét tuyển = Điểm thi môn 1 + Điểm thi môn 2 + Điểm thi môn 3 + Điểm ưu tiên Trong đó: Điểm môn 1, Điểm môn 2, Điểm môn 3 là điểm thi tốt nghiệp THPT năm 2026 các môn thuộc tổ",
+      "eligibility": "ĐỐI TƯỢNG Tiêu chí xét tuyển: Thí sinh tốt nghiệp THPT và tương đương có tổng điểm xét tuyển của 3 môn học thuộc một trong các tổ hợp áp dụng cho xét tuyển các ngành đào tạo của Trường phải đạt từ 15,00 điểm trở lên (bao gồm cả điểm ưu tiên đối tượng và khu vực). 4.2",
+      "rules": "QUY CHẾ Điểm xét tuyển được tính theo công thức: Điểm xét tuyển = Điểm thi môn 1 + Điểm thi môn 2 + Điểm thi môn 3 + Điểm ưu tiên Trong đó: Điểm môn 1, Điểm môn 2, Điểm môn 3 là điểm thi tốt nghiệp THPT năm 2026 các môn thuộc tổ hợp đăng ký xét tuyển. Nếu thí sinh có chứng chỉ Tiếng Anh quốc tế được quy đổi điểm thay thế môn Tiếng Anh theo Bảng điểm quy đổi chứng chỉ Tiếng Anh quốc tế theo thang điểm 10 (trường hợp thí sinh có điểm thi THPT môn Tiếng Anh cao hơn điểm quy đổi, thí sinh được giữ nguyên điểm thi). Điểm ưu tiên bao gồm ưu tiên khu vực và ưu tiên",
+      "programs": [
+        {
+          "program_code": "TT",
+          "program_name": "TOEFL iBT (Trước năm 2026)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "IELTS"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07",
+            "X06",
+            "X26",
+            "C14"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07",
+            "X06",
+            "X26",
+            "C14"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340120",
+          "program_name": "Kinh doanh quốc tế",
+          "subject_groups": [],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "3"
+        },
+        {
+          "program_code": "7340120",
+          "program_name": "Kinh doanh quốc tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07",
+            "X06",
+            "X26",
+            "C14"
+          ],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "3"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07",
+            "X06",
+            "X26",
+            "C14"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07",
+            "X06",
+            "X26",
+            "C14"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340302",
+          "program_name": "Kiểm toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340302",
+          "program_name": "Kiểm toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07",
+            "X06",
+            "X26",
+            "C14"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340405",
+          "program_name": "Hệ thống thông tin quản lý",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7340405",
+          "program_name": "Hệ thống thông tin quản lý",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07",
+            "X06",
+            "X26",
+            "C14"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn của Trường Đại học Tài chính Quản trị kinh doanh các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-tai-chinh-quan-tri-kinh-doanh-DFA.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "C04"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "C04"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340120",
+            "program_name": "Kinh doanh quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "C14"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "C14"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "C03"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340302",
+            "program_name": "Kiểm toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "C03"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340405",
+            "program_name": "Hệ thống thông tin quản lý",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "C01"
+            ],
+            "score": 15,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "C04"
+            ],
+            "score": 19,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "C04"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340120",
+            "program_name": "Kinh doanh quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "C14"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "C14"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "C03"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340302",
+            "program_name": "Kiểm toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "C03"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340405",
+            "program_name": "Hệ thống thông tin quản lý",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "C01"
+            ],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế",
+            "subject_groups": [],
+            "score": 19,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340120",
+            "program_name": "Kinh doanh quốc tế",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340302",
+            "program_name": "Kiểm toán",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "7340405",
+            "program_name": "Hệ thống thông tin quản lý",
+            "subject_groups": [],
+            "score": 15,
+            "note": "Điểm đã được quy đổi"
+          }
+        ]
+      }
+    ]
+  }
+}

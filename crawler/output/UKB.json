@@ -1,0 +1,1012 @@
+{
+  "university": {
+    "code": "UKB",
+    "name": "Trường Đại Học Kinh Bắc",
+    "short_name": "UKB",
+    "location": [
+      "Bắc Ninh"
+    ],
+    "address": "Phố Phúc Sơn, phường Vũ Ninh TP Bắc Ninh, tỉnh Bắc Ninh.",
+    "website": "https://daihockinhbac.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2025,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-kinh-bac-UKB.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2025/0519/thong-tin-tuyen-sinh-2025-dai-hoc-kinh-bac.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC KINH BẮC 2025 Thông tin tuyển sinh Đại Học Kinh Bắc (UKB) năm 2025 Năm 2025, Đại Học Kinh Bắc (UKB) dự kiến tuyển sinh qua 5 phương thức xét tuyển Phương thức 1 (Mã PT 100): Xét tuyển theo kết quả kỳ thi tốt nghiệp THPT năm 2025. Phương thức 2 (Mã PT 200): Xét tuyển theo kết quả học tập cấp THPT (Học bạ). Phương thức 3 (Mã PT 301): Xét tuyển thẳng theo Quy chế tuyển sinh đại học của Bộ Giáo dục và Đào tạo. Phương thức 4 (Mã PT 402): Xét tuyển theo kết quả kỳ thi đánh giá năng lực do các trường khác tổ chức. Phương thức 5 (Mã PT 500): Xét tuyển đối với thí sinh đã tốt nghiệp trình độ trung cấp trở lên cùng nhóm ngành dự tuyển (nhóm ngành sức khỏe). Xem thời gian và hồ sơ đăng ký xét tuyển UKB năm 2025 TẠI ĐÂY",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 ĐIỀU KIỆN XÉT TUYỂN a) Đối với nhóm ngành sức khỏe (Dược học, Y học cổ truyền, Y khoa): Theo ngưỡng đảm bảo chất lượng đầu vào do Bộ Giáo dục và Đào tạo quy định năm 2025. b) Đối với các ngành khác: Tổng điểm các môn theo tổ hợp xét tuyển (bao gồm điểm ưu tiên) phải đạt từ 15,0 điểm trở lên. 1.2 QUY CHẾ Bảng quy đổi chứng chỉ ngoại ngữ Điểm trúng tuyển đối với từng ngành, từng phương thức xét tuyển được xác định căn cứ vào số lượng thí sinh đăng ký xét tuyển, chỉ tiêu tuyển sinh, quy tắc quy",
+      "eligibility": null,
+      "rules": "QUY CHẾ Bảng quy đổi chứng chỉ ngoại ngữ Điểm trúng tuyển đối với từng ngành, từng phương thức xét tuyển được xác định căn cứ vào số lượng thí sinh đăng ký xét tuyển, chỉ tiêu tuyển sinh, quy tắc quy đổi tương đương điểm trúng tuyển của các phương thức xét tuyển và được công bố sau khi có kết quả xét tuyển. Trường hợp nhiều thí sinh có cùng điểm xét tuyển thì sử dụng điểm TBC các môn thuộc tổ hợp xét tuyển của kết quả học tập lớp 12 hoặc kết quả thi tốt nghiệp THPT hoặc kết quả thi đánh giá năng lực làm tiêu chí phụ để xếp thứ tự xét trúng tuyển.",
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "D01",
+            "A01",
+            "D14",
+            "D66"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "D01",
+            "A01",
+            "D84"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A00",
+            "D01",
+            "A01",
+            "D84"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "D01",
+            "A01",
+            "A10"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "D08",
+            "D90"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7720115",
+          "program_name": "Y học cổ truyền",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "D08",
+            "D90"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "D08",
+            "D90"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D14",
+            "D15",
+            "C00"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-hoc-ba",
+      "method_name": "2 ĐIỂM HỌC BẠ",
+      "description": "2.1 ĐIỀU KIỆN XÉT TUYỂN a) Đối với nhóm ngành sức khỏe (Dược học, Y học cổ truyền, Y khoa): Có kết quả học tập cả năm lớp 12 được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) hoặc điểm xét tốt nghiệp THPT từ 8,0 trở lên. b) Đối với các ngành khác: Đáp ứng một trong hai điều kiện sau: Điểm trung bình chung (TBC) cả năm lớp 12 đạt từ 5.5 trở lên hoặc Tổng điểm các môn theo tổ hợp xét tuyển từ 16,5 điểm trở lên (bao gồm điểm ưu tiên). 2.2 QUY CHẾ Bảng quy đổi chứng chỉ ngoại ngữ Điểm trúng t",
+      "eligibility": null,
+      "rules": "QUY CHẾ Bảng quy đổi chứng chỉ ngoại ngữ Điểm trúng tuyển đối với từng ngành, từng phương thức xét tuyển được xác định căn cứ vào số lượng thí sinh đăng ký xét tuyển, chỉ tiêu tuyển sinh, quy tắc quy đổi tương đương điểm trúng tuyển của các phương thức xét tuyển và được công bố sau khi có kết quả xét tuyển. Trường hợp nhiều thí sinh có cùng điểm xét tuyển thì sử dụng điểm TBC các môn thuộc tổ hợp xét tuyển của kết quả học tập lớp 12 hoặc kết quả thi tốt nghiệp THPT hoặc kết quả thi đánh giá năng lực làm tiêu chí phụ để xếp thứ tự xét trúng tuyển.",
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "D01",
+            "A01",
+            "D14",
+            "D66"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "D01",
+            "A01",
+            "D84"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A00",
+            "D01",
+            "A01",
+            "D84"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "D01",
+            "A01",
+            "A10"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "D08",
+            "D90"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7720115",
+          "program_name": "Y học cổ truyền",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "D08",
+            "D90"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "D08",
+            "D90"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D14",
+            "D15",
+            "C00"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        }
+      ]
+    },
+    {
+      "method_id": "3-utxt-xt-thang",
+      "method_name": "3 ƯTXT, XT THẲNG",
+      "description": "3.1 ĐỐI TƯỢNG Phương thức 3: Xét tuyển thẳng theo Quy chế tuyển sinh đại học của Bộ Giáo dục và Đào tạo (Mã PT 301) Thí sinh thuộc đối tượng quy định tại khoản 1, 2, 3 và 4 Điều 8, Thông tư 08/2022/TT-BGDĐT ngày 06/06/2022 của Bộ trưởng Bộ Giáo dục và Đào tạo được tuyển thẳng vào các ngành Trường Đại học Kinh Bắc được phép đào tạo (trừ khối ngành sức khỏe). Ưu tiên xét tuyển Thí sinh thuộc một trong các trường hợp quy định tại điểm a, b, c Khoản 4 Điều 8, Quy chế tuyển sinh đại học năm 2022 của ",
+      "eligibility": "ĐỐI TƯỢNG Phương thức 3: Xét tuyển thẳng theo",
+      "rules": "Quy chế tuyển sinh đại học của Bộ Giáo dục và Đào tạo (Mã PT 301) Thí sinh thuộc",
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D90"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7720115",
+          "program_name": "Y học cổ truyền",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        }
+      ]
+    },
+    {
+      "method_id": "4-iem-gnl-hn",
+      "method_name": "4 ĐIỂM ĐGNL HN",
+      "description": "4.1 ĐIỀU KIỆN XÉT TUYỂN Phương thức 4: Xét tuyển theo kết quả kỳ thi đánh giá năng lực do các trường khác tổ chức để xét tuyển (Mã PT 402) a) Đối với nhóm ngành sức khỏe (Dược học, Y học cổ truyền, Y khoa): Tổng điểm các môn theo kết quả kỳ thi đánh giá năng lực tương đương ngưỡng đảm bảo chất lượng đầu vào năm 2025 do Bộ Giáo dục và Đào tạo quy định. b) Đối với các ngành khác: Tổng điểm các môn theo kết quả kỳ thi đánh giá năng lực (bao gồm điểm ưu tiên) phải đạt 50% điểm tối đa trở lên. DANH S",
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7720115",
+          "program_name": "Y học cổ truyền",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        }
+      ]
+    },
+    {
+      "method_id": "5-iem-anh-gia-tu-duy",
+      "method_name": "5 ĐIỂM ĐÁNH GIÁ TƯ DUY",
+      "description": "5.1 ĐIỀU KIỆN XÉT TUYỂN Phương thức 4: Xét tuyển theo kết quả kỳ thi đánh giá năng lực do các trường khác tổ chức để xét tuyển (Mã PT 402) a) Đối với nhóm ngành sức khỏe (Dược học, Y học cổ truyền, Y khoa): Tổng điểm các môn theo kết quả kỳ thi đánh giá năng lực tương đương ngưỡng đảm bảo chất lượng đầu vào năm 2025 do Bộ Giáo dục và Đào tạo quy định. b) Đối với các ngành khác: Tổng điểm các môn theo kết quả kỳ thi đánh giá năng lực (bao gồm điểm ưu tiên) phải đạt 50% điểm tối đa trở lên. DANH S",
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D90"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7720115",
+          "program_name": "Y học cổ truyền",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        }
+      ]
+    },
+    {
+      "method_id": "6-xet-tuyen-oi-voi-thi-sinh-a-tot-nghiep-trinh-o-trung-cap-tro-len-cung-nhom-nganh-du-tuyen",
+      "method_name": "6 XÉT TUYỂN ĐỐI VỚI THÍ SINH ĐÃ TỐT NGHIỆP TRÌNH ĐỘ TRUNG CẤP TRỞ LÊN CÙNG NHÓM NGÀNH DỰ TUYỂN",
+      "description": "6.1 ĐỐI TƯỢNG Phương thức 5: Xét tuyển đối với thí sinh đã tốt nghiệp trình độ trung cấp trở lên cùng nhóm ngành dự tuyển (nhóm ngành sức khỏe) (Mã PT 500) Thí sinh đã tốt nghiệp trình độ trung cấp trở lên cùng nhóm ngành dự tuyển được áp dụng ngưỡng đầu vào một trong các tiêu chí sau: a) Tiêu chí 1: Kết quả học tập cả năm lớp 12 được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) hoặc điểm trung bình chung các môn văn hóa cấp THPT đạt từ 8,0 trở lên; b) Tiêu chí 2: Tốt nghiệp THPT loại Giỏ",
+      "eligibility": "ĐỐI TƯỢNG Phương thức 5: Xét tuyển đối với thí sinh đã tốt nghiệp trình độ trung cấp trở lên cùng nhóm ngành dự tuyển (nhóm ngành sức khỏe) (Mã PT 500) Thí sinh đã tốt nghiệp trình độ trung cấp trở lên cùng nhóm ngành dự tuyển được áp dụng ngưỡng đầu vào một trong các tiêu chí sau: a) Tiêu chí 1: Kết quả học tập cả năm lớp 12 được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) hoặc điểm trung bình chung các môn văn hóa cấp THPT đạt từ 8,0 trở lên; b) Tiêu chí 2: Tốt nghiệp THPT loại Giỏi trở lên hoặc kết quả học tập cả năm lớp 12 được đánh giá mức khá (học lực xếp loại từ khá trở lên) và thời gian công tác từ 3 năm trở lên đúng với chuyên môn đào tạo hoặc có giấy phép hành nghề từ 1 năm trở lên tính đến thời điểm xét tuyển; c) Tiêu chí 3: Tốt nghiệp trung cấp, cao đẳng, đại học đạt loại Giỏi trở lên và có điểm TBC học bạ lớp 12 đạt từ 5.0 trở lên; d) Tiêu chí 4: Tốt nghiệp trình độ trung cấp, hoặc trình độ cao đẳng hoặc trình độ đại học đạt loại khá và thời gian công tác từ 3 năm trở lên đúng với chuyên môn đào tạo hoặc có giấy phép hành nghề từ 1 năm trở lên tính đến thời điểm xét tuyển và có điểm TBC học bạ lớp 12 đạt từ 5.0 trở lên.",
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D90"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720115",
+          "program_name": "Y học cổ truyền",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "D01",
+            "A01",
+            "D14",
+            "D66"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "D01",
+            "A01",
+            "D84"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A00",
+            "D01",
+            "A01",
+            "D84"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00",
+            "D01",
+            "A01",
+            "A10"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "D08",
+            "D90"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D90"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7720115",
+          "program_name": "Y học cổ truyền",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7720115",
+          "program_name": "Y học cổ truyền",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "D08",
+            "D90"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7720115",
+          "program_name": "Y học cổ truyền",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D07",
+            "D08",
+            "D90"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D14",
+            "D15",
+            "C00"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7810103",
+          "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Trường Đại Học Kinh Bắc các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": "Hồ sơ xét tuyển gồm: a) Đối với xét kết quả kỳ thi tốt nghiệp THPT năm 2025 Phiếu đăng ký xét tuyển (theo mẫu của Trường Đại học Kinh Bắc) Giấy chứng nhận kết quả kỳ thi tốt nghiệp THPT năm 2025 Bản sao công chứng Bằng tốt nghiệp THPT hoặc Giấy chứng nhận tốt nghiệp tạm thời đối với thí sinh tốt nghiệp năm 2025 Bản sao công chứng CCCD/CMND b) Đối với các phương thức xét tuyển khác Phiếu đăng ký xét tuyển (theo mẫu của Trường Đại học Kinh Bắc) (Mẫu 01 hoặc Mẫu 02) Bản sao công chứng Bằng tốt nghiệp THPT hoặc Giấy chứng nhận tốt nghiệp tạm thời đối với thí sinh tốt nghiệp năm 2025 Bản sao công chứng Học bạ THPT Bản sao công chứng CCCD/CMND Bản sao công chứng Bằng tốt nghiệp trung cấp, cao đẳng, đại học (đối với phương thức 5) Đơn xin xác nhận thời gian công tác từ 3 năm trở lên đúng với chuyên môn được đào tạo (Mẫu 03) hoặc có giấy phép hành nghề từ 1 năm trở lên tính đến thời điểm xét tuyển (đối với phương thức 5) Giấy xác nhận kết quả đánh giá năng lực của các trường khác (đối với phương thức 4) Các giấy tờ ưu tiên, chứng nhận liên quan (đối với phương thức 3) Thời gian nhận hồ sơ a) Thời gian nhận hồ sơ đăng ký xét tuyển: Theo quy định của Bộ Giáo dục và Đào tạo b) Xét tuyển đợt 1: Theo quy định của Bộ Giáo dục và Đào tạo c) Các đợt xét tuyển bổ sung: Đến hết ngày 20/12/2025 Chú ý: Nhà trường có thể điều chỉnh lịch xét tuyển các đợt tuyển phù hợp với tình hình thực tế. Địa điểm nhận hồ sơ xét tuyển Trung tâm Tuyển sinh và Hợp tác doanh nghiệp Trường Đại học Kinh Bắc - phố Phúc Sơn, phường Vũ Ninh, thành phố Bắc Ninh, tỉnh Bắc Ninh Hình thức nộp hồ sơ Đăng ký trên cổng thông tin của Bộ Giáo dục và Đào tạo Thí sinh nộp hồ sơ đăng ký xét tuyển trực tiếp tại Trung tâm Tuyển sinh và Hợp tác doanh nghiệp Trường Đại học Kinh Bắc Thí sinh gửi chuyển phát nhanh hồ sơ qua bưu điện về địa chỉ: Trung tâm Tuyển sinh và Hợp tác doanh nghiệp Trường Đại học Kinh Bắc – phố Phúc Sơn, phường Vũ Ninh, TP Bắc Ninh Đăng ký trên Website của Nhà trường: https://truongdaihockinhbac.edu.vn Quy trình xét tuyển Bước 1: Thí sinh gửi hồ sơ đăng ký xét tuyển về Trường Đại học Kinh Bắc Bước 2: Tổng hợp hồ sơ của thí sinh đăng ký Bước 3: Nhập dữ liệu, thống kê các điều kiện xét tuyển (cập nhật dữ liệu lên hệ thống của Bộ Giáo dục và Đào tạo và của Nhà trường) Bước 4: Họp Hội đồng tuyển sinh, xét tuyển thí sinh theo danh sách đăng ký nguyện vọng vào Trường Đại học Kinh Bắc Bước 5: Tổng hợp và công bố kết quả xét tuyển Bước 6: Thông báo kết quả xét tuyển và gửi Giấy báo nhập học Bước 7: Xác nhận thí sinh trúng tuyển nhập học lên hệ thống",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-kinh-bac-UKB.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2024",
+        "year": 2024,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "D14",
+              "D10"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "C00"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Luật kinh tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "C00"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D90"
+            ],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "7720115",
+            "program_name": "Y học cổ truyền",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D90"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D90"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "C00"
+            ],
+            "score": 15,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2024",
+        "year": 2024,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01",
+              "A01",
+              "D14",
+              "D10"
+            ],
+            "score": 15,
+            "note": "Hoặc ĐTB lớp 12 từ 5.0"
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01"
+            ],
+            "score": 15,
+            "note": "Hoặc ĐTB lớp 12 từ 5.0"
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01"
+            ],
+            "score": 15,
+            "note": "Hoặc ĐTB lớp 12 từ 5.0"
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "C00"
+            ],
+            "score": 15,
+            "note": "Hoặc ĐTB lớp 12 từ 5.0"
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Luật kinh tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "C00"
+            ],
+            "score": 15,
+            "note": "Hoặc ĐTB lớp 12 từ 5.0"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01"
+            ],
+            "score": 15,
+            "note": "Hoặc ĐTB lớp 12 từ 5.0"
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D90"
+            ],
+            "score": 0,
+            "note": "Học lực lớp 12 xếp loại Giỏi trở lên"
+          },
+          {
+            "program_code": "7720115",
+            "program_name": "Y học cổ truyền",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D90"
+            ],
+            "score": 0,
+            "note": "Học lực lớp 12 xếp loại Giỏi trở lên"
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D90"
+            ],
+            "score": 0,
+            "note": "Học lực lớp 12 xếp loại Giỏi trở lên"
+          },
+          {
+            "program_code": "7810103",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "C00"
+            ],
+            "score": 15,
+            "note": "Hoặc ĐTB lớp 12 từ 5.0"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,2220 @@
+{
+  "university": {
+    "code": "DHK",
+    "name": "Đại học Kinh tế - Đại học Huế",
+    "short_name": "HCE",
+    "location": [
+      "Huế"
+    ],
+    "address": "99 Hồ Đắc Di, Thành phố Huế",
+    "website": "https://hce.edu.vn",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-kinh-te-dai-hoc-hue-DHK.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0423/thong-tin-tuyen-sinh-truong-dai-hoc-kinh-te-hue-2026.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC KINH TẾ - ĐẠI HỌC HUẾ 2026 Thông tin tuyển sinh trường Đại học Kinh tế - Đại học Huế (HCE) năm 2026 Năm 2026, trường Đại học Kinh Tế tuyển sinh 3 nhóm chương trình đào tạo: Chương trình tiêu chuẩn, Chương trình đào tạo bằng tiếng anh (Cử nhân tài năng) và Chương trình chuyển tiếp quốc tế. Nhà trường tuyển sinh theo 5 phương thức, cụ thể: Phương thức 1: Xét tuyển thẳng theo quy định của Quy chế tuyển sinh (Điều 8). Phương thức 2: Xét tuyển sử dụng kết quả thi tốt nghiệp trung học phổ thông năm 2026. Phương thức 3: Xét tuyển kết hợp kết quả thi tốt nghiệp THPT năm 2026 với chứng chỉ ngoại ngữ Phương thức 4: Xét tuyển kết hợp kết quả học tập cấp THPT (Học bạ) với chứng chỉ ngoại ngữ Phương thức 5: Xét tuyển sử dụng kết quả thi đánh giá năng lực của Đại học Quốc gia TP. Hồ Chí Minh năm 2026.",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt---2025",
+      "method_name": "1 ĐIỂM THI THPT - 2025",
+      "description": "1.1 QUY CHẾ Phương thức 1: Xét tuyển theo kết quả thi THPT năm 2025. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM THI THPT STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7310101 Kinh tế A00; A01; C03; D01; D03; D07; D09; D10; X01; X26 1. Chương trình chuẩn 2 7310101TA Kinh tế, chuyên ngành Kế hoạch - Đầu tư A00; A01; C03; D01; D03; D07; D09; D10; X01; X26 2. Chương trình tài năng và chương trình tiên tiến 3 7310102 Kinh tế chính trị A00; A01; C03; D01; D03; D07; D09; D10; X01; X26 1. Chương trình chuẩ",
+      "eligibility": null,
+      "rules": "QUY CHẾ Phương thức 1: Xét tuyển theo kết quả thi THPT năm 2025.",
+      "programs": [
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310102",
+          "program_name": "Kinh tế chính trị",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7310106",
+          "program_name": "Kinh tế quốc tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "4"
+        },
+        {
+          "program_code": "7310107",
+          "program_name": "Thống kê kinh tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7310109",
+          "program_name": "Kinh tế số",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7340120",
+          "program_name": "Kinh doanh quốc tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "10"
+        },
+        {
+          "program_code": "7340121",
+          "program_name": "Kinh doanh thương mại",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7340302",
+          "program_name": "Kiểm toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7340404",
+          "program_name": "Quản trị nhân lực",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7340405",
+          "program_name": "Hệ thống thông tin quản lý",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7349001",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics và Quản lý chuỗi cung ứng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7620115",
+          "program_name": "Kinh tế nông nghiệp",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7903124",
+          "program_name": "Song ngành Kinh tế - Tài chính",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-hoc-ba---2025",
+      "method_name": "2 ĐIỂM HỌC BẠ - 2025",
+      "description": "2.1 QUY CHẾ Phương thức 4: Xét tuyển thẳng theo quy định của Trường (thỏa mãn một trong các tiêu chí sau): + Học sinh tốt nghiệp THPT 2025 có kết quả học tập đạt học sinh giỏi 4 học kỳ (HK 1 và 2 của lớp 11; HK1 và 2 lớp 12). DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM HỌC BẠ STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7310101 Kinh tế A00; A01; C03; D01; D03; D07; D09; D10; X01; X26 1. Chương trình chuẩn 2 7310101TA Kinh tế, chuyên ngành Kế hoạch - Đầu tư A00; A01; C03; D01; D03; D07; D09; D10; X",
+      "eligibility": null,
+      "rules": "QUY CHẾ Phương thức 4: Xét tuyển thẳng theo quy định của Trường (thỏa mãn một trong các tiêu chí sau): + Học sinh tốt nghiệp THPT 2025 có kết quả học tập đạt học sinh giỏi 4 học kỳ (HK 1 và 2 của lớp 11; HK1 và 2 lớp 12).",
+      "programs": [
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310102",
+          "program_name": "Kinh tế chính trị",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7310106",
+          "program_name": "Kinh tế quốc tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "4"
+        },
+        {
+          "program_code": "7310107",
+          "program_name": "Thống kê kinh tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7310109",
+          "program_name": "Kinh tế số",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7340120",
+          "program_name": "Kinh doanh quốc tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "10"
+        },
+        {
+          "program_code": "7340121",
+          "program_name": "Kinh doanh thương mại",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7340302",
+          "program_name": "Kiểm toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7340404",
+          "program_name": "Quản trị nhân lực",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7340405",
+          "program_name": "Hệ thống thông tin quản lý",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7349001",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics và Quản lý chuỗi cung ứng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7620115",
+          "program_name": "Kinh tế nông nghiệp",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7903124",
+          "program_name": "Song ngành Kinh tế - Tài chính",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        }
+      ]
+    },
+    {
+      "method_id": "3-chung-chi-quoc-te---2025",
+      "method_name": "3 CHỨNG CHỈ QUỐC TẾ - 2025",
+      "description": "3.1 QUY CHẾ Phương thức 4: Xét tuyển thẳng theo quy định của Trường (thỏa mãn một trong các tiêu chí sau): Học sinh tốt nghiệp THPT năm 2025 có chứng chỉ tiếng Anh (Còn thời hạn tính đến ngày nộp hồ sơ xét tuyển) IELTS >= 5.0 hoặc TOEFL iBT >= 60, TOEFL ITP >= 500 DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC CHỨNG CHỈ QUỐC TẾ STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7310101 Kinh tế 1. Chương trình chuẩn 2 7310101TA Kinh tế, chuyên ngành Kế hoạch - Đầu tư 2. Chương trình tài năng và chương trình tiên ",
+      "eligibility": null,
+      "rules": "QUY CHẾ Phương thức 4: Xét tuyển thẳng theo quy định của Trường (thỏa mãn một trong các tiêu chí sau): Học sinh tốt nghiệp THPT năm 2025 có chứng chỉ tiếng Anh (Còn thời hạn tính đến ngày nộp hồ sơ xét tuyển) IELTS >= 5.0 hoặc TOEFL iBT >= 60, TOEFL ITP >= 500",
+      "programs": [
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310102",
+          "program_name": "Kinh tế chính trị",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7310106",
+          "program_name": "Kinh tế quốc tế",
+          "subject_groups": [],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "4"
+        },
+        {
+          "program_code": "7310107",
+          "program_name": "Thống kê kinh tế",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7310109",
+          "program_name": "Kinh tế số",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7340120",
+          "program_name": "Kinh doanh quốc tế",
+          "subject_groups": [],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "10"
+        },
+        {
+          "program_code": "7340121",
+          "program_name": "Kinh doanh thương mại",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7340302",
+          "program_name": "Kiểm toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7340404",
+          "program_name": "Quản trị nhân lực",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7340405",
+          "program_name": "Hệ thống thông tin quản lý",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7349001",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics và Quản lý chuỗi cung ứng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7620115",
+          "program_name": "Kinh tế nông nghiệp",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7903124",
+          "program_name": "Song ngành Kinh tế - Tài chính",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "22"
+        }
+      ]
+    },
+    {
+      "method_id": "4-iem-gnl-hcm---2025",
+      "method_name": "4 ĐIỂM ĐGNL HCM - 2025",
+      "description": "4.1 QUY CHẾ Phương thức 3: Xét kết quả thi đánh giá năng lực năm 2025 của Đại học Quốc gia TP. Hồ Chí Minh. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐGNL HCM STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7310101 Kinh tế 1. Chương trình chuẩn 2 7310101TA Kinh tế, chuyên ngành Kế hoạch - Đầu tư 2. Chương trình tài năng và chương trình tiên tiến 3 7310102 Kinh tế chính trị 1. Chương trình chuẩn 4 7310106 Kinh tế quốc tế 1. Chương trình chuẩn 5 7310107 Thống kê kinh tế 1. Chương trình chuẩn 6 7310109",
+      "eligibility": null,
+      "rules": "QUY CHẾ Phương thức 3: Xét kết quả thi đánh giá năng lực năm 2025 của Đại học Quốc gia TP. Hồ Chí Minh.",
+      "programs": [
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310102",
+          "program_name": "Kinh tế chính trị",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7310106",
+          "program_name": "Kinh tế quốc tế",
+          "subject_groups": [],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "4"
+        },
+        {
+          "program_code": "7310107",
+          "program_name": "Thống kê kinh tế",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7310109",
+          "program_name": "Kinh tế số",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7340120",
+          "program_name": "Kinh doanh quốc tế",
+          "subject_groups": [],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "10"
+        },
+        {
+          "program_code": "7340121",
+          "program_name": "Kinh doanh thương mại",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7340302",
+          "program_name": "Kiểm toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7340404",
+          "program_name": "Quản trị nhân lực",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7340405",
+          "program_name": "Hệ thống thông tin quản lý",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7349001",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics và Quản lý chuỗi cung ứng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7620115",
+          "program_name": "Kinh tế nông nghiệp",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7903124",
+          "program_name": "Song ngành Kinh tế - Tài chính",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "22"
+        }
+      ]
+    },
+    {
+      "method_id": "5-utxt-xt-thang---2025",
+      "method_name": "5 ƯTXT, XT THẲNG - 2025",
+      "description": "5.1 QUY CHẾ Phương thức 2: Xét tuyển thẳng theo quy định của Bộ Giáo dục và Đào tạo Phương thức 4: Xét tuyển thẳng theo quy định của Trường (thỏa mãn một trong các tiêu chí sau): + Học sinh tốt nghiệp THPT năm 2025 đạt các giải Nhất, Nhì, Ba trong các cuộc thi học sinh giỏi cấp tỉnh, thành phố trực thuộc trung ương các năm 2024, 2025 đối với các môn trong tổ hợp xét tuyển của trường. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ƯTXT, XT THẲNG STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7310101 Kinh tế 1",
+      "eligibility": null,
+      "rules": "QUY CHẾ Phương thức 2: Xét tuyển thẳng theo quy định của Bộ Giáo dục và Đào tạo Phương thức 4: Xét tuyển thẳng theo quy định của Trường (thỏa mãn một trong các tiêu chí sau): + Học sinh tốt nghiệp THPT năm 2025 đạt các giải Nhất, Nhì, Ba trong các cuộc thi học sinh giỏi cấp tỉnh, thành phố trực thuộc trung ương các năm 2024, 2025 đối với các môn trong tổ hợp xét tuyển của trường.",
+      "programs": [
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310102",
+          "program_name": "Kinh tế chính trị",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7310106",
+          "program_name": "Kinh tế quốc tế",
+          "subject_groups": [],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "4"
+        },
+        {
+          "program_code": "7310107",
+          "program_name": "Thống kê kinh tế",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7310109",
+          "program_name": "Kinh tế số",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7340120",
+          "program_name": "Kinh doanh quốc tế",
+          "subject_groups": [],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "10"
+        },
+        {
+          "program_code": "7340121",
+          "program_name": "Kinh doanh thương mại",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7340302",
+          "program_name": "Kiểm toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7340404",
+          "program_name": "Quản trị nhân lực",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7340405",
+          "program_name": "Hệ thống thông tin quản lý",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7349001",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics và Quản lý chuỗi cung ứng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7620115",
+          "program_name": "Kinh tế nông nghiệp",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7903124",
+          "program_name": "Song ngành Kinh tế - Tài chính",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "22"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310102",
+          "program_name": "Kinh tế chính trị",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7310102",
+          "program_name": "Kinh tế chính trị",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7310106",
+          "program_name": "Kinh tế quốc tế",
+          "subject_groups": [],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "4"
+        },
+        {
+          "program_code": "7310106",
+          "program_name": "Kinh tế quốc tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "4"
+        },
+        {
+          "program_code": "7310107",
+          "program_name": "Thống kê kinh tế",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7310107",
+          "program_name": "Thống kê kinh tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7310109",
+          "program_name": "Kinh tế số",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7310109",
+          "program_name": "Kinh tế số",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Marketing",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7340120",
+          "program_name": "Kinh doanh quốc tế",
+          "subject_groups": [],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "10"
+        },
+        {
+          "program_code": "7340120",
+          "program_name": "Kinh doanh quốc tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "10"
+        },
+        {
+          "program_code": "7340121",
+          "program_name": "Kinh doanh thương mại",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7340121",
+          "program_name": "Kinh doanh thương mại",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7340302",
+          "program_name": "Kiểm toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7340302",
+          "program_name": "Kiểm toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7340404",
+          "program_name": "Quản trị nhân lực",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7340404",
+          "program_name": "Quản trị nhân lực",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7340405",
+          "program_name": "Hệ thống thông tin quản lý",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7340405",
+          "program_name": "Hệ thống thông tin quản lý",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7349001",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7349001",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics và Quản lý chuỗi cung ứng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics và Quản lý chuỗi cung ứng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7620115",
+          "program_name": "Kinh tế nông nghiệp",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7620115",
+          "program_name": "Kinh tế nông nghiệp",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7903124",
+          "program_name": "Song ngành Kinh tế - Tài chính",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7903124",
+          "program_name": "Song ngành Kinh tế - Tài chính",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C03",
+            "C04",
+            "D01",
+            "D03",
+            "D07",
+            "D09",
+            "D10",
+            "X01",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn các năm của trường Đại học Kinh tế - ĐH Huế tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-kinh-te-dai-hoc-hue-DHK.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "D03",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X26"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7310101TA",
+            "program_name": "Kinh tế (Đào tạo bằng Tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "D03",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X26"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7310102",
+            "program_name": "Kinh tế chính trị",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "D03",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X26"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7310106",
+            "program_name": "Kinh tế quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "D03",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X26"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7310107",
+            "program_name": "Thống kê kinh tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "D03",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X26"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7310109",
+            "program_name": "Kinh tế số",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "D03",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X26"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "D03",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X26"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7340101TA",
+            "program_name": "Quản trị kinh doanh (Đào tạo bằng Tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "D03",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X26"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7340115",
+            "program_name": "Marketing",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "D03",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X26"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7340121",
+            "program_name": "Kinh doanh thương mại",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "D03",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X26"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7340122",
+            "program_name": "Thương mại điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "D03",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X26"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "D03",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X26"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "D03",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X26"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7340301TA",
+            "program_name": "Kế toán (Đào tạo bằng Tiếng Anh)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "D03",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X26"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7340302",
+            "program_name": "Kiểm toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "D03",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X26"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340404",
+            "program_name": "Quản trị nhân lực",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "D03",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X26"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7340405",
+            "program_name": "Hệ thống thông tin quản lý",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "D03",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X26"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7349001",
+            "program_name": "Tài chính - Ngân hàng (Liên kết)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "D03",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X26"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7510605",
+            "program_name": "Logistics và Quản lý chuỗi cung ứng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "D03",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X26"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7620115",
+            "program_name": "Kinh tế nông nghiệp",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "D03",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X26"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7903124",
+            "program_name": "Song ngành Kinh tế - Tài chính",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C03",
+              "D01",
+              "D03",
+              "D07",
+              "D09",
+              "D10",
+              "X01",
+              "X26"
+            ],
+            "score": 16,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7310101TA",
+            "program_name": "Kinh tế (Đào tạo bằng Tiếng Anh)",
+            "subject_groups": [],
+            "score": 640,
+            "note": null
+          },
+          {
+            "program_code": "7310102",
+            "program_name": "Kinh tế chính trị",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7310106",
+            "program_name": "Kinh tế quốc tế",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7310107",
+            "program_name": "Thống kê kinh tế",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7310109",
+            "program_name": "Kinh tế số",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 640,
+            "note": null
+          },
+          {
+            "program_code": "7340101TA",
+            "program_name": "Quản trị kinh doanh (Đào tạo bằng Tiếng Anh)",
+            "subject_groups": [],
+            "score": 640,
+            "note": null
+          },
+          {
+            "program_code": "7340115",
+            "program_name": "Marketing",
+            "subject_groups": [],
+            "score": 800,
+            "note": null
+          },
+          {
+            "program_code": "7340121",
+            "program_name": "Kinh doanh thương mại",
+            "subject_groups": [],
+            "score": 640,
+            "note": null
+          },
+          {
+            "program_code": "7340122",
+            "program_name": "Thương mại điện tử",
+            "subject_groups": [],
+            "score": 680,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [],
+            "score": 640,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [],
+            "score": 640,
+            "note": null
+          },
+          {
+            "program_code": "7340301TA",
+            "program_name": "Kế toán (Đào tạo bằng Tiếng Anh)",
+            "subject_groups": [],
+            "score": 640,
+            "note": null
+          },
+          {
+            "program_code": "7340302",
+            "program_name": "Kiểm toán",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7340404",
+            "program_name": "Quản trị nhân lực",
+            "subject_groups": [],
+            "score": 640,
+            "note": null
+          },
+          {
+            "program_code": "7340405",
+            "program_name": "Hệ thống thông tin quản lý",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7349001",
+            "program_name": "Tài chính - Ngân hàng (Liên kết)",
+            "subject_groups": [],
+            "score": 640,
+            "note": null
+          },
+          {
+            "program_code": "7510605",
+            "program_name": "Logistics và Quản lý chuỗi cung ứng",
+            "subject_groups": [],
+            "score": 720,
+            "note": null
+          },
+          {
+            "program_code": "7620115",
+            "program_name": "Kinh tế nông nghiệp",
+            "subject_groups": [],
+            "score": 600,
+            "note": null
+          },
+          {
+            "program_code": "7903124",
+            "program_name": "Song ngành Kinh tế - Tài chính",
+            "subject_groups": [],
+            "score": 640,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

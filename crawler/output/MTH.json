@@ -1,0 +1,143 @@
+{
+  "university": {
+    "code": "MTH",
+    "name": "Trường Đại Học Mỹ Thuật Việt Nam",
+    "short_name": "VNUFA",
+    "location": [
+      "Hà Nội"
+    ],
+    "address": "42 Yết Kiêu, Q. Hoàn Kiếm, Hà Nội",
+    "website": "http://mythuatvietnam.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2025,
+  "total_quota": 135,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-my-thuat-viet-nam-MTH.html",
+  "pdf_url": "https://images.tuyensinh247.com/user_data/2025/0428/De_an_tuyen_sinh_Dai_hoc_My_thuat_Viet_Nam_2025.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC MỸ THUẬT VIỆT NAM 2025 Thông tin tuyển sinh Đại Học Mỹ Thuật Việt Nam (VNUFA) năm 2025 Năm 2025, Đại Học Mỹ Thuật Việt Nam (VNUFA) dự kiến tuyển sinh 135 chỉ tiêu qua phương thức kết hợp giữ thi tuyển và xét tuyển (tổ chức thi tuyển các môn năng khiếu, xét tuyển môn Văn) Xem thời gian và hồ sơ đăng ký xét tuyển VNUFA năm 2025 TẠI ĐÂY",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-hoc-ba",
+      "method_name": "1 ĐIỂM HỌC BẠ",
+      "description": "1.1 ĐỐI TƯỢNG Đối tượng dự tuyển là người Việt Nam hoặc người nước ngoài thuộc một trong hai trường hợp sau: - Người đã có bằng tốt nghiệp trung học phổ thông (THPT) của Việt Nam, hoặc bằng tốt nghiệp của nước ngoài được công nhận trình độ tương đương được dự tuyển vào tất cả các ngành; - Người đã có bằng tốt nghiệp trung cấp và đã hoàn thành đủ yêu cầu khối lượng kiến thức văn hóa THPT theo quy định của pháp luật được dự tuyển vào các ngành thuộc nhóm ngành của ngành nghề đã tốt nghiệp trung câ",
+      "eligibility": "ĐỐI TƯỢNG Đối tượng dự tuyển là người Việt Nam hoặc người nước ngoài thuộc một trong hai trường hợp sau: - Người đã có bằng tốt nghiệp trung học phổ thông (THPT) của Việt Nam, hoặc bằng tốt nghiệp của nước ngoài được công nhận trình độ tương đương được dự tuyển vào tất cả các ngành; - Người đã có bằng tốt nghiệp trung cấp và đã hoàn thành đủ yêu cầu khối lượng kiến thức văn hóa THPT theo quy định của pháp luật được dự tuyển vào các ngành thuộc nhóm ngành của ngành nghề đã tốt nghiệp trung câp. 1.2",
+      "rules": "QUY CHẾ 1) Điểm xét tuyển - Trọng số của các điểm thi tuyển và xét tuyển: + Môn Hình họa, Tượng tròn (thi tuyển): hệ số 2 + Môn Bố cục, Trang trí, Phù điêu (thi tuyển): hệ số 1 + Môn Ngữ văn (xét tuyển): hệ số 1 Điểm xét tuyển là điểm tổng của 2 môn năng khiếu và môn Ngữ văn. Cụ thể điểm xét tuyển của các ngành được tính như sau: + Ngành Hội họa: Hình họa (hs2) + Bố cục (hs1) + Ngữ văn (hs1) + Ngành Đồ họa: Hình họa (hs2) + Bố cục (hs1) + Ngữ văn (hs1) + Ngành Điêu khắc: Tượng tròn (hs2) + Phù điêu (hs1) + Ngữ văn (hs1) + Ngành Lý luận, lịch sử và phê bình mỹ thuật: Hình họa (hs2) + Bố cục (hs1) + Ngữ văn (hs1) + Ngành Thiết kế đồ họa: Hình họa (hs2) + Trang trí (hs1) + Ngữ văn (hs1) + Ngành Sư phạm mỹ thuật: Hình họa (hs2) + Bố cục (hs1) + Ngữ văn (hs1) - 2) Điểm cộng Tổng điểm cộng, điểm thưởng, điểm khuyến khích (gọi chung là điểm cộng) đối với thí sinh có thành tích đặc biệt không vượt quá 10% mức điểm tối đa của thang điểm xét (tối đa 4 điểm đối với thang điểm 40). 3) Thi năng khiếu Xem chi tiết thông tin về kì thi năng khiếu do trường Đại học Mỹ thuật Việt Nam TẠI ĐÂY 1.4 THỜI GIAN XÉT TUYỂN Thời gian: Từ ngày 5/5/2025 đến hết ngày 31/5/2025",
+      "programs": []
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7140222",
+          "program_name": "Sư phạm Mỹ thuật",
+          "subject_groups": [
+            "H00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7210101",
+          "program_name": "Lý luận, lịch sử và phê bình nghệ thuật",
+          "subject_groups": [
+            "H00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7210103",
+          "program_name": "Hội họa",
+          "subject_groups": [
+            "H00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7210104",
+          "program_name": "Đồ họa",
+          "subject_groups": [
+            "H00"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7210105",
+          "program_name": "Điêu khắc",
+          "subject_groups": [
+            "H00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7210403",
+          "program_name": "Thiết kế đồ họa",
+          "subject_groups": [
+            "H00"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Trường Đại Học Mỹ Thuật Việt Nam các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": "THÔNG TIN TỔ CHỨC THI NĂNG KHIẾU TRƯỜNG ĐẠI HỌC MỸ THUẬT VIỆT NAM 1) Thời gian Trường Đại học Mỹ thuật Việt Nam tổ chức thi tuyển sinh đại học chính quy năm 2025 (trừ ngành Sư phạm mỹ thuật): Dự kiến từ ngày 7/7/2025 đến ngày 11/7/2025. Cụ thể thời gian như sau: STT Ngày thi Buổi Môn thi Ngành thi 1 7/7/2025 Sáng từ 8g30 Làm thủ tục dự thi, phổ biến quy chế thi, xử lý những sai sót trong đăng ký dự thi của thí sinh 2 8/7/2025 Sáng Bố cục Hội họa, Đồ họa Phù điêu Điêu khắc Chiều Bố cục Hội họa, Đồ họa Phù điêu Điêu khắc 3 9/7/2025 Sáng Hình họa Hội họa, Đồ họa Tượng tròn Điêu khắc Chiều Hình họa Hội họa, Đồ họa Tượng tròn Điêu khắc 4 10/7/2025 Sáng Hình họa Thiết kế đồ họa; Lý luận, lịch sử và phê bình mỹ thuật Chiều Hình họa Thiết kế đồ họa; Lý luận, lịch sử và phê bình mỹ thuật 5 11/7/2025 Sáng Trang trí Thiết kế đồ họa Bố cục Lý luận, lịch sử và phê bình mỹ thuật Chiều Trang trí Thiết kế đồ họa Bố cục Lý luận, lịch sử và phê bình mỹ thuật * Nội dung và thời gian làm bài thI của các môn thi tuyển cụ thể như sau: STT Tên ngành Môn thi tuyển 1 Ngành Hội họa - Hình họa: Vẽ ngưòi toàn thân, thời gian thi 01 ngày (8 tiết, mỗi tiết 45 phút) - Bố cục: Vẽ phác thảo tranh màu, thời gian thi 01 ngày (8 giờ liền kể cả thời gian nghỉ ăn trưa) 2 Ngành Đồ họa - Hình họa: Vẽ người toàn thân, thời gian thi 01 ngày (8 tiết, mỗi tiết 45 phút) - Bố cục: Vẽ phác thảo tranh màu, thời gian thi 01 ngày (8 giờ liền kể cả thời gian nghỉ ăn trưa) 3 Ngành Điêu khắc - Tượng tròn: Nặn tượng chân dung, thời gian thi 01 ngày (8 tiết, mỗi tiết 45 phút) - Phù điêu: Nặn phác thảo phù điêu, thời gian thi 01 ngày (8 giờ liền kể cả thời gian nghỉ ăn trưa) 4 Ngành Lý luận, lịch sử và phê bình mỹ thuật - Hình họa: Vẽ tĩnh vật đen trắng, thời gian thi 01 ngày (8 tiết, mỗi tiết 45 phút) - Bố cục: Vẽ phác thảo tranh màu, thời gian thi 01 ngày (8 giờ liền kể cả thời gian nghỉ ăn trưa) 5 Ngành Thiết kế đồ họa - Hình họa: Vẽ ngưò’i bán thân, thời gian thi 01 ngày (8 tiết, mỗi tiết 45 phút) - Trang trí: Vẽ bài trang trí theo yêu cầu, thời gian thi 01 ngày (8 giờ liền kể cả thời gian nghỉ ăn trưa) 2) Hình thức nhận hồ sơ đăng ký dự thi 2.1) Bộ hồ sơ gồm: - Phiếu đăng ký dự thi (ĐKDT) đại học chính quy năm 2025 theo mẫu của Trường Đại học Mỹ thuật Việt Nam. - Bản sao có công chứng giấy chứng nhận ưu tiên (nếu có). - Bản sao có công chứng giấy chứng nhận giải thưỏng chính thức toàn quốc (nếu có). - 3 ảnh chân dung mới cỡ 3x4 (mới chụp trong vòng 6 tháng). - 2 phong bì dán sẵn tem, ghi địa chỉ nơi nhận. - 01 bản sao Học bạ Trung học phổ thông có công chứng. 2.2) Thời gian, địa điểm và phương thức nhận hồ sơ: - Thời gian: Từ ngày 5/5/2025 đến hết ngày 31 /5/2025. - Địa điểm: Phòng Đào tạo, Quản lý khoa học và Họp tác quốc tế, Trường Đại học Mỹ thuật Việt Nam số 42, phố Yết Kiêu, phường Cửa Nam, quận Hoàn Kiếm, thành phố Hà Nội. - Phương thức: + Nộp trực tiếp tại Phòng Đào tạo, Quản lý khoa học và Họp tác quốc tế, Trường Đại học Mỹ thuật Việt Nam. + Gửi phát nhanh qua bưu điện về: Phòng Đào tạo, Quản lý khoa học và Hợp tác quốc tế, Trường Đại học Mỹ thuật Việt Nam số 42, phố Yết Kiêu, phường Cửa Nam, quận Hoàn Kiếm, thành phố Hà Nội. Lưu ý: thí sinh không nộp qua Trường Trung học phổ thông hoặc Sở Giáo dục và Đào tạo. 3) Lệ phí - Lệ phí hồ sơ: 100.000 đồng - Lệ phí xét tuyển môn Ngữ văn và thi năng khiếu: 800.000 đồng",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-my-thuat-viet-nam-MTH.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7210101",
+            "program_name": "Lý luận, lịch sử và phê bình mỹ thuật",
+            "subject_groups": [],
+            "score": 31.57,
+            "note": "Kết hợp xét học bạ và thi năng khiếu"
+          },
+          {
+            "program_code": "7210103",
+            "program_name": "Hội họa",
+            "subject_groups": [],
+            "score": 31.07,
+            "note": "Kết hợp xét học bạ và thi năng khiếu"
+          },
+          {
+            "program_code": "7210104",
+            "program_name": "Đồ họa",
+            "subject_groups": [],
+            "score": 30.36,
+            "note": "Kết hợp xét học bạ và thi năng khiếu"
+          },
+          {
+            "program_code": "7210105",
+            "program_name": "Điêu khắc",
+            "subject_groups": [],
+            "score": 27.8,
+            "note": "Kết hợp xét học bạ và thi năng khiếu"
+          },
+          {
+            "program_code": "7210403",
+            "program_name": "Thiết kế đồ họa",
+            "subject_groups": [],
+            "score": 30.93,
+            "note": "Kết hợp xét học bạ và thi năng khiếu"
+          }
+        ]
+      }
+    ]
+  }
+}

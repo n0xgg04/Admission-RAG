@@ -1,0 +1,388 @@
+{
+  "university": {
+    "code": "YTC",
+    "name": "Đại học Y tế công cộng",
+    "short_name": "HUPH",
+    "location": [
+      "Hà Nội"
+    ],
+    "address": "138 Giảng Võ, P.Kim Mã, Q.Ba Đình, TP.Hà Nội",
+    "website": "http://www.hsph.edu.vn",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-y-te-cong-cong-YTC.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0414/thong-tin-tuyen-sinh-dai-hoc-chinh-quy-dai-hoc-y-te-cong-cong-2026.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC Y TẾ CÔNG CỘNG 2026 Thông tin tuyển sinh Đại học Y tế Công cộng (HUPH) năm 2026 Trường tổ chức xét tuyển với các phương thức tuyển sinh sau Phương thức 1: Xét tuyển thẳng và xét chuyên vào học trình độ đại học đối với học sinh dự bị đại học Phương thức 2: Xét tuyển dựa trên kết quả thi tốt nghiệp THPT 2026 Phương thức 3: Xét tuyển dựa trên kết quả học tập THPT (học bạ) Phương thức 4: Xét tuyển dựa vào kết quả thi đánh giá năng lực của Đại học Quốc Gia Hà Nội năm 2026 Xem thời gian và hồ sơ đăng ký xét tuyển HUPH năm 2026 TẠI ĐÂY Khám phá thêm giáo dục Tài nguyên giáo dục khoá học",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 ĐỐI TƯỢNG Xét tuyển dựa trên kết quả thi tốt nghiệp THPT 2026: 6 ngành gồm Y tế công cộng, Dinh dưỡng, Công tác xã hội, Kỹ thuật phục hồi chức năng, Kỹ thuật xét nghiệm y học và Khoa học dữ liệu. 1.2 QUY CHẾ Điểm xét tuyển được tính trên thang điểm 30 Điểm xét tuyển = [Điểm Môn 1 + Điểm Môn 2 + Điểm Môn 3 + Điểm khuyến khích (nếu có)]+ Điểm ưu tiên (nếu có) Trong đó: Điểm khuyến khích theo thang điểm 30, quy định tại bảng 2; Điểm khuyến khích Chứng chỉ Theo thang điểm 30 Theo thang điểm 150 ",
+      "eligibility": "ĐỐI TƯỢNG Xét tuyển dựa trên kết quả thi tốt nghiệp THPT 2026: 6 ngành gồm Y tế công cộng, Dinh dưỡng, Công tác xã hội, Kỹ thuật phục hồi chức năng, Kỹ thuật xét nghiệm y học và Khoa học dữ liệu. 1.2",
+      "rules": "QUY CHẾ Điểm xét tuyển được tính trên thang điểm 30 Điểm xét tuyển = [Điểm Môn 1 + Điểm Môn 2 + Điểm Môn 3 + Điểm khuyến khích (nếu có)]+ Điểm ưu tiên (nếu có) Trong đó: Điểm khuyến khích theo thang điểm 30, quy định tại bảng 2; Điểm khuyến khích Chứng chỉ Theo thang điểm 30 Theo thang điểm 150 0,5 1,0 1,25 1,5 2,5 5 6,25 7,5 IELTS (Academic) 5,5-6 6,5 7 >=7,5 5,5-6 6,5 7 >=7,5 TOEFL iBT 46-78 79-93 94-101 >=102 46-78 79-93 94-101 >=102 * Nơi cấp chứng chỉ Tiếng Anh quốc tế: Chứng chỉ Đơn vị cấp chứng chỉ IELTS British Council (BC) International Development Program (IDP) TOEFL iBT Educational Testing Service (ETS) Hồ sơ chứng chỉ Tiếng Anh gồm: 01 bản sao có công chứng Chứng chỉ Tiếng Anh còn hiệu lực tính đến ngày 20/06/2026. Lưu ý: Trường Đại học Y tế công cộng KHÔNG chấp chận chứng chỉ Tiếng Anh quốc tế thi theo hình thức Home Edition. Khi [Điểm Môn 1 + Điểm Môn 2 + Điểm Môn 3 + Điểm khuyến khích (nếu có)] vượt qua 30 điểm sẽ quy về 30 điểm; Điểm ưu tiên là điểm ưu tiên",
+      "programs": []
+    },
+    {
+      "method_id": "2-iem-hoc-ba",
+      "method_name": "2 ĐIỂM HỌC BẠ",
+      "description": "2.1 QUY CHẾ Điểm xét tuyển được tính trên thang điểm 30 Điểm xét tuyển = [Điểm Môn 1 + Điểm Môn 2 + Điểm Môn 3 + Điểm khuyến khích (nếu có)]+ Điểm ưu tiên (nếu có) Trong đó: Điểm khuyến khích theo thang điểm 30, quy định tại bảng 2 Điểm khuyến khích Chứng chỉ Theo thang điểm 30 Theo thang điểm 150 0,5 1,0 1,25 1,5 2,5 5 6,25 7,5 IELTS (Academic) 5,5-6 6,5 7 >=7,5 5,5-6 6,5 7 >=7,5 TOEFL iBT 46-78 79-93 94-101 >=102 46-78 79-93 94-101 >=102 * Nơi cấp chứng chỉ Tiếng Anh quốc tế: Chứng chỉ Đơn vị ",
+      "eligibility": "đối tượng, khu vực theo quy định của Bộ GDĐT, giảm dần khi [Điểm Môn 1 + Điểm Môn 2 + Điểm Môn 3 + Điểm khuyến khích (nếu có)] từ 22,5 điểm trở lên theo",
+      "rules": "QUY CHẾ Điểm xét tuyển được tính trên thang điểm 30 Điểm xét tuyển = [Điểm Môn 1 + Điểm Môn 2 + Điểm Môn 3 + Điểm khuyến khích (nếu có)]+ Điểm ưu tiên (nếu có) Trong đó: Điểm khuyến khích theo thang điểm 30, quy định tại bảng 2 Điểm khuyến khích Chứng chỉ Theo thang điểm 30 Theo thang điểm 150 0,5 1,0 1,25 1,5 2,5 5 6,25 7,5 IELTS (Academic) 5,5-6 6,5 7 >=7,5 5,5-6 6,5 7 >=7,5 TOEFL iBT 46-78 79-93 94-101 >=102 46-78 79-93 94-101 >=102 * Nơi cấp chứng chỉ Tiếng Anh quốc tế: Chứng chỉ Đơn vị cấp chứng chỉ IELTS British Council (BC) International Development Program (IDP) TOEFL iBT Educational Testing Service (ETS) Hồ sơ chứng chỉ Tiếng Anh gồm: 01 bản sao có công chứng Chứng chỉ Tiếng Anh còn hiệu lực tính đến ngày 20/06/2026. Lưu ý: Trường Đại học Y tế công cộng KHÔNG chấp chận chứng chỉ Tiếng Anh quốc tế thi theo hình thức Home Edition. Khi [Điểm Môn 1 + Điểm Môn 2 + Điểm Môn 3 + Điểm khuyến khích (nếu có)] vượt qua 30 điểm sẽ quy về 30 điểm; Điểm ưu tiên là điểm ưu tiên",
+      "programs": []
+    },
+    {
+      "method_id": "3-utxt-xt-thang",
+      "method_name": "3 ƯTXT, XT THẲNG",
+      "description": "3.1 QUY CHẾ Chính sách ưu tiên: Theo quy định tại Quy chế tuyển sinh trình độ đại học, cao đẳng giáo dục mầm non và các hướng dẫn hiện hành của Bộ Giáo dục và đào tạo. Xét tuyển thẳng: Hồ sơ xét tuyển: Theo quy định của Bộ giáo dục và Đào tạo Bảng 3. Đối tượng, ngành xét tuyển thẳng STT Đối tượng Ngành xét tuyển thẳng 1 Đối với thí sinh đoạt giải nhất, nhì, ba, trong kỳ thi chọn học sinh giỏi quốc gia, quốc tế hoặc thi khoa học, kỹ thuật cấp quốc gia, quốc tế do Bộ GDĐT tổ chức, cử tham gia; thờ",
+      "eligibility": "Đối tượng, ngành xét tuyển thẳng STT Đối tượng Ngành xét tuyển thẳng 1 Đối với thí sinh đoạt giải nhất, nhì, ba, trong kỳ thi chọn học sinh giỏi quốc gia, quốc tế hoặc thi khoa học, kỹ thuật cấp quốc gia, quốc tế do Bộ GDĐT tổ chức, cử tham gia; thời gian đoạt giải không quá 3 năm tính tới thời điểm xét tuyển thẳng . Ngành xét tuyển thẳng căn cứ vào hồ sơ của thí sinh đăng ký 1.1 Toán học, Hóa học, Sinh học, Tiếng Anh Y tế công cộng - 7720701 Kỹ thuật xét nghiệm y học- 7720601 Dinh dưỡng - 7720401 Công tác xã hội -7760101 Kỹ thuật phục hồi chức năng-7720603 Khoa học dữ liệu - 7460108 1.2 Ngữ Văn Y tế công cộng - 7720701 Dinh dưỡng - 7720401 Công tác xã hội -7760101 Kỹ thuật phục hồi chức năng-7720603 Khoa học dữ liệu - 7460108 1.3 Vật lý Kỹ thuật xét nghiệm y học - 7720601 Kỹ thuật phục hồi chức năng -7720603 Khoa học dữ liệu - 7460108 1.4 Lịch sử Công tác xã hội -7760101 1.5 Địa lý Công tác xã hội -7760101 2 Các đối tượng còn lại dưới đây Hội đồng tuyển sinh ĐHYTCC sẽ căn cứ kết quả học tập cấp THPT của thí sinh để xem xét, quyết định.",
+      "rules": "QUY CHẾ Chính sách ưu tiên: Theo quy định tại Quy chế tuyển sinh trình độ đại học, cao đẳng giáo dục mầm non và các hướng dẫn hiện hành của Bộ Giáo dục và đào tạo. Xét tuyển thẳng: Hồ sơ xét tuyển: Theo quy định của Bộ giáo dục và Đào tạo Bảng 3.",
+      "programs": []
+    },
+    {
+      "method_id": "4-iem-gnl-hn",
+      "method_name": "4 ĐIỂM ĐGNL HN",
+      "description": "4.1 QUY CHẾ - Điểm xét tuyển được tính trên thang điểm 150. Điểm xét tuyển = [Tổng điểm thi đánh giá năng lực + Điểm khuyến khích (nếu có)] + Điểm ưu tiên (nếu có) Trong đó: Điểm khuyến khích theo thang điểm 150, quy định tại bảng 2; Thí sinh có chứng chỉ Tiếng Anh quốc tế IELTS (academic) và TOEFL iBT được cộng điểm khuyến khích khi xét tuyển theo các phương thức xét tuyển dựa trên kết quả học tập bậc THPT, kết quả thi tốt nghiệp THPT năm 2026 và kết quả đánh giá năng lực của ĐHQG Hà Nội năm 20",
+      "eligibility": "đối tượng, khu vực theo quy định của Bộ Giáo dục và Đào tạo, quy về thang điểm 150, giảm dần khi [Tổng điểm thi đánh giá năng lực + Điểm khuyến khích (nếu có)] từ 112,5 trở lên theo",
+      "rules": "QUY CHẾ - Điểm xét tuyển được tính trên thang điểm 150. Điểm xét tuyển = [Tổng điểm thi đánh giá năng lực + Điểm khuyến khích (nếu có)] + Điểm ưu tiên (nếu có) Trong đó: Điểm khuyến khích theo thang điểm 150, quy định tại bảng 2; Thí sinh có chứng chỉ Tiếng Anh quốc tế IELTS (academic) và TOEFL iBT được cộng điểm khuyến khích khi xét tuyển theo các phương thức xét tuyển dựa trên kết quả học tập bậc THPT, kết quả thi tốt nghiệp THPT năm 2026 và kết quả đánh giá năng lực của ĐHQG Hà Nội năm 2026. Điểm khuyến khích chứng chỉ Tiếng Anh quốc tế áp dụng cho cả 6 ngành tuyển sinh năm 2026. Điểm khuyến khích tối đa 1,50 điểm (theo thang điểm 30) và 7,50 điểm (theo thang điểm 150). Bảng 2. Mức điểm khuyến khích đối với các chứng chỉ Tiếng Anh quốc tế Điểm khuyến khích Chứng chỉ Theo thang điểm 30 Theo thang điểm 150 0,5 1,0 1,25 1,5 2,5 5 6,25 7,5 IELTS (Academic) 5,5-6 6,5 7 >=7,5 5,5-6 6,5 7 >=7,5 TOEFL iBT 46-78 79-93 94-101 >=102 46-78 79-93 94-101 >=102 * Nơi cấp chứng chỉ Tiếng Anh quốc tế: Chứng chỉ Đơn vị cấp chứng chỉ IELTS British Council (BC) International Development Program (IDP) TOEFL iBT Educational Testing Service (ETS) Hồ sơ chứng chỉ Tiếng Anh gồm: 01 bản sao có công chứng Chứng chỉ Tiếng Anh còn hiệu lực tính đến ngày 20/06/2026. Lưu ý: Trường Đại học Y tế công cộng KHÔNG chấp chận chứng chỉ Tiếng Anh quốc tế thi theo hình thức Home Edition. Khi [Tổng điểm thi đánh giá năng lực + Điểm khuyến khích (nếu có)] vượt qua 150 điểm sẽ quy về 150 điểm; Điểm ưu tiên là điểm ưu tiên",
+      "programs": []
+    },
+    {
+      "method_id": "5-du-bi-ai-hoc",
+      "method_name": "5 DỰ BỊ ĐẠI HỌC",
+      "description": "5.1 ĐỐI TƯỢNG Xét chuyển vào học trình độ đại học đối với học sinh dự bị đại học: 6 ngành gồm Y tế công cộng, Dinh dưỡng, Công tác xã hội, Kỹ thuật phục hồi chức năng, Kỹ thuật xét nghiệm y học và Khoa học dữ liệu. 5.2 QUY CHẾ Điểm xét tuyển được tính trên thang điểm 30 Điểm xét tuyển = [Điểm Môn 1 + Điểm Môn 2 + Điểm Môn 3 + Điểm khuyến khích (nếu có)]+ Điểm ưu tiên (nếu có) Trong đó: Điểm khuyến khích theo thang điểm 30, quy định tại bảng 2; Điểm khuyến khích Thí sinh có chứng chỉ Tiếng Anh qu",
+      "eligibility": "ĐỐI TƯỢNG Xét chuyển vào học trình độ đại học đối với học sinh dự bị đại học: 6 ngành gồm Y tế công cộng, Dinh dưỡng, Công tác xã hội, Kỹ thuật phục hồi chức năng, Kỹ thuật xét nghiệm y học và Khoa học dữ liệu. 5.2",
+      "rules": "QUY CHẾ Điểm xét tuyển được tính trên thang điểm 30 Điểm xét tuyển = [Điểm Môn 1 + Điểm Môn 2 + Điểm Môn 3 + Điểm khuyến khích (nếu có)]+ Điểm ưu tiên (nếu có) Trong đó: Điểm khuyến khích theo thang điểm 30, quy định tại bảng 2; Điểm khuyến khích Thí sinh có chứng chỉ Tiếng Anh quốc tế IELTS (academic) và TOEFL iBT được cộng điểm khuyến khích khi xét tuyển theo các phương thức xét tuyển dựa trên kết quả học tập bậc THPT, kết quả thi tốt nghiệp THPT năm 2026 và kết quả đánh giá năng lực của ĐHQG Hà Nội năm 2026. Điểm khuyến khích chứng chỉ Tiếng Anh quốc tế áp dụng cho cả 6 ngành tuyển sinh năm 2026. Điểm khuyến khích tối đa 1,50 điểm (theo thang điểm 30) và 7,50 điểm (theo thang điểm 150). Bảng 2. Mức điểm khuyến khích đối với các chứng chỉ Tiếng Anh quốc tế Điểm khuyến khích Chứng chỉ Theo thang điểm 30 Theo thang điểm 150 0,5 1,0 1,25 1,5 2,5 5 6,25 7,5 IELTS (Academic) 5,5-6 6,5 7 >=7,5 5,5-6 6,5 7 >=7,5 TOEFL iBT 46-78 79-93 94-101 >=102 46-78 79-93 94-101 >=102 * Nơi cấp chứng chỉ Tiếng Anh quốc tế: Chứng chỉ Đơn vị cấp chứng chỉ IELTS British Council (BC) International Development Program (IDP) TOEFL iBT Educational Testing Service (ETS) Hồ sơ chứng chỉ Tiếng Anh gồm: 01 bản sao có công chứng Chứng chỉ Tiếng Anh còn hiệu lực tính đến ngày 20/06/2026. Lưu ý: Trường Đại học Y tế công cộng KHÔNG chấp chận chứng chỉ Tiếng Anh quốc tế thi theo hình thức Home Edition. Khi [Điểm Môn 1 + Điểm Môn 2 + Điểm Môn 3 + Điểm khuyến khích (nếu có)] vượt qua 30 điểm sẽ quy về 30 điểm; Điểm ưu tiên là điểm ưu tiên",
+      "programs": []
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "D01",
+            "D07",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720401",
+          "program_name": "Dinh dưỡng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720401",
+          "program_name": "Dinh dưỡng",
+          "subject_groups": [
+            "B00",
+            "B03",
+            "B08",
+            "C02",
+            "D01",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật xét nghiệm y học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật xét nghiệm y học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "B08",
+            "C01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720603",
+          "program_name": "Kỹ thuật phục hồi chức năng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720603",
+          "program_name": "Kỹ thuật phục hồi chức năng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "B03",
+            "C01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720701",
+          "program_name": "Y tế công cộng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7720701",
+          "program_name": "Y tế công cộng",
+          "subject_groups": [
+            "B00",
+            "B03",
+            "B08",
+            "C02",
+            "D01",
+            "D13"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7760101",
+          "program_name": "Công tác xã hội",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7760101",
+          "program_name": "Công tác xã hội",
+          "subject_groups": [
+            "C00",
+            "C20",
+            "D01",
+            "D14",
+            "D15",
+            "D66",
+            "X74",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem thêm điểm chuẩn của Đại học Y tế Công cộng các năm Tại đây",
+  "tuition_text": "STT Nội dung Dự kiến học phí năm học 2026-2027 (đồng/năm) I Cử nhân chính quy Y tế công cộng 1 CNCQ YTCC25-1A 30.590.000 II Cử nhân chính quy Kỹ thuật xét nghiệm y học 1 CNCQ KTXNYH13-1A 38.570.000 III Cử nhân chính quy Dinh dưỡng 1 CNCQDD10-1A 30.590.000 IV Cử nhân chính quy Công tác xã hội 1 CNCQCTXH10-1A 21.010.000 V Cử nhân chính quy Kỹ thuật phục hồi chức năng 1 CNCQKTPHCN7-1A 38.570.000 VI Cử nhân chính quy Khoa học dữ liệu 1 CNCQKHDL5-1A 29.260.000 VII Môn giáo dục quốc phòng 1.200.000đ/môn Lưu ý: Tổng học phí năm học 2026-2027 của từng sinh viên sẽ phụ thuộc vào số tín chỉ sinh viên đăng ký trong năm học 2026-2027. Lộ trình tăng học phí theo quy định tại Nghị định 238/2025/NĐ-CP. Khi các cơ quan có thẩm quyền có thay đổi thì nhà trường sẽ điều chỉnh và thông báo cho người học.",
+  "timeline_text": "Đợt 1 1. Phương thức 1 xét tuyển thẳng: Ngành áp dụng: Y tế công cộng, Kỹ thuật xét nghiệm y học, Dinh dưỡng, Công tác xã hội, Kỹ thuật phục hồi chức năng và Khoa học dữ liệu. Cách thức đăng ký xét tuyển: thí sinh nộp hồ sơ về trường theo 1 trong 2 hình thức sau: + Gửi hồ sơ qua đường bưu điện + Nộp hồ sơ trực tiếp tại Trường Đại học Y tế công cộng Thời hạn đăng ký xét tuyển tại trường Đại học Y tế công cộng: trước 17h ngày 20/6/2026 theo quy định của Bộ Giáo dục và Đào tạo. Thời gian công bố kết quả đủ điều kiện trúng tuyển: chậm nhất là ngày 30/6/2026. Thời gian đăng ký xét tuyển: từ ngày 02/7/2026 đến 17h ngày 14/7/2026 theo quy định của Bộ Giáo dục và Đào tạo. Thời gian công bố kết quả trúng tuyển: trước 17h ngày 13/8/2026. Thời gian xác nhận nhập học trực tuyến trên hệ thống của Bộ Giáo dục và Đào tạo và nhập học tại trường: trước 17h00 ngày 21/8/2026. 2. Phương thức 2 xét chuyển vào học trình độ đại học đối với học sinh dự bị đại học Ngành áp dụng: Y tế công cộng, Kỹ thuật xét nghiệm y học, Dinh dưỡng, Công tác xã hội, Kỹ thuật phục hồi chức năng và Khoa học dữ liệu. Cách thức đăng ký xét tuyển: thí sinh nộp hồ sơ về trường theo 1 trong 2 hình thức sau: + Gửi hồ sơ qua đường bưu điện + Nộp hồ sơ trực tiếp tại Trường Đại học Y tế công cộng Thời hạn đăng ký xét tuyển tại trường Đại học Y tế công cộng: trước 17h ngày 20/6/2026 theo quy định của Bộ Giáo dục và Đào tạo. Thời gian đăng ký xét tuyển: từ ngày 02/7/2026 đến 17h ngày 14/7/2026 theo quy định của Bộ Giáo dục và Đào tạo. Thời gian công bố kết quả trúng tuyển: trước 17h ngày 13/8/2026. Thời gian xác nhận nhập học trực tuyến trên hệ thống của Bộ Giáo dục và Đào tạo và nhập học tại trường: trước 17h00 ngày 21/8/2026. 3. Phương thức 3 xét tuyển dựa vào kết quả thi đánh giá năng lực của Đại học Quốc Gia Hà Nội năm 2026 Ngành áp dụng: Khoa học dữ liệu Cách thức đăng ký xét tuyển: Đăng ký xét tuyển trên Cổng thông tin tuyển sinh của Bộ Giáo dục và Đào tạo, Cổng dịch vụ công quốc gia. Thời gian đăng ký xét tuyển: từ ngày 02/7/2026 đến 17h ngày 14/7/2026 theo quy định của Bộ Giáo dục và Đào tạo. Thời gian công bố kết quả trúng tuyển: trước 17h ngày 13/8/2026. Thời gian xác nhận nhập học trực tuyến trên hệ thống của Bộ Giáo dục và Đào tạo và nhập học tại trường: trước 17h00 ngày 21/8/2026. 4. Phương thức 4 xét tuyển dựa vào kết quả học tập bậc THPT Ngành áp dụng: Y tế công cộng, Dinh dưỡng, Công tác xã hội và Khoa học dữ liệu Cách thức đăng ký xét tuyển: Đăng ký xét tuyển trên Cổng thông tin tuyển sinh của Bộ Giáo dục và Đào tạo, Cổng dịch vụ công quốc gia. Thời gian đăng ký xét tuyển: từ ngày 02/7/2026 đến 17h ngày 14/7/2026 theo quy định của Bộ Giáo dục và Đào tạo. Thời gian công bố kết quả trúng tuyển: trước 17h ngày 13/8/2026. Thời gian xác nhận nhập học trực tuyến trên hệ thống của Bộ Giáo dục và Đào tạo và nhập học tại trường: trước 17h00 ngày 21/8/2026. 5. Phương thức 5: xét tuyển dựa vào kết quả thi tốt nghiệp THPT năm 2026 Ngành áp dụng: Y tế công cộng, Kỹ thuật xét nghiệm y học, Dinh dưỡng, Công tác xã hội, Kỹ thuật phục hồi chức năng và Khoa học dữ liệu. Cách thức đăng ký xét tuyển: Đăng ký xét tuyển trên Cổng thông tin tuyển sinh của Bộ Giáo dục và Đào tạo, Cổng dịch vụ công quốc gia. Thời gian đăng ký xét tuyển: từ ngày 02/7/2026 đến 17h ngày 14/7/2026 theo quy định của Bộ Giáo dục và Đào tạo. Thời gian công bố kết quả trúng tuyển: trước 17h ngày 13/8/2026. Thời gian xác nhận nhập học trực tuyến trên hệ thống của Bộ Giáo dục và Đào tạo và nhập học tại trường: trước 17h00 ngày 21/8/2026. Đợt 2 (nếu còn chỉ tiêu) Ngành áp dụng: sẽ áp dụng đối với các ngành còn chỉ tiêu. Cách thức đăng ký xét tuyển: Thí sinh nộp hồ sơ về trường theo một trong ba hình thức sau: + Đăng ký trực tuyến tại: https://tuyensinhdaihoc.huph.edu.vn/ + Gửi hồ sơ qua đường bưu điện + Nộp hồ sơ trực tiếp tại Trường Đại học Y tế công cộng (thí sinh nộp hồ sơ vào giờ hành chính các ngày làm việc trong tuần). Thời gian nhận hồ sơ đăng ký xét tuyển: dự kiến đến 17h ngày 20/9/2026. Thời gian công bố kết quả trúng tuyển: dự kiến 25/9/2026. Thời gian xác nhận nhập học: dự kiến từ ngày 28/9/2026 đến 17h ngày 02/10/2026. 6.3. Đợt 3 (nếu còn chỉ tiêu) Ngành áp dụng: sẽ áp dụng đối với các ngành còn chỉ tiêu. Cách thức đăng ký xét tuyển: Thí sinh nộp hồ sơ về trường theo một trong ba hình thức sau: + Đăng ký trực tuyến tại: https://tuyensinhdaihoc.huph.edu.vn/ + Gửi hồ sơ qua đường bưu điện. + Nộp hồ sơ trực tiếp tại Trường Đại học Y tế công cộng (thí sinh nộp hồ sơ vào giờ hành chính các ngày làm việc trong tuần). Thời gian nhận hồ sơ đăng ký xét tuyển: dự kiến đến 17h ngày 20/10/2026. Thời gian công bố kết quả trúng tuyển: dự kiến 26/10/2026. Thời gian xác nhận nhập học: dự kiến đến trước 17h ngày 01/11/2026.",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-y-te-cong-cong-YTC.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7460108",
+            "program_name": "Khoa học dữ liệu",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "D07",
+              "X26"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7720401",
+            "program_name": "Dinh dưỡng",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "B08",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 22.1,
+            "note": null
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật xét nghiệm y học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "D01",
+              "D07"
+            ],
+            "score": 18.3,
+            "note": null
+          },
+          {
+            "program_code": "7720603",
+            "program_name": "Kỹ thuật phục hồi chức năng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B08",
+              "C01",
+              "D01"
+            ],
+            "score": 20.25,
+            "note": null
+          },
+          {
+            "program_code": "7720701",
+            "program_name": "Y tế công cộng",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "B08",
+              "C02",
+              "D01",
+              "D13"
+            ],
+            "score": 20.5,
+            "note": null
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "C00",
+              "C20",
+              "D01",
+              "D14",
+              "D15",
+              "D66",
+              "X74",
+              "X78"
+            ],
+            "score": 23.5,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7460108",
+            "program_name": "Khoa học dữ liệu",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "D07",
+              "X26"
+            ],
+            "score": 19,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7720401",
+            "program_name": "Dinh dưỡng",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "B08",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 22.1,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7720701",
+            "program_name": "Y tế công cộng",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "B08",
+              "C02",
+              "D01",
+              "D13"
+            ],
+            "score": 20.5,
+            "note": "Điểm đã quy đổi"
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác xã hội",
+            "subject_groups": [
+              "C00",
+              "C20",
+              "D01",
+              "D14",
+              "D15",
+              "D66",
+              "X74",
+              "X78"
+            ],
+            "score": 23.5,
+            "note": "Điểm đã quy đổi"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7460108",
+            "program_name": "Khoa học dữ liệu",
+            "subject_groups": [],
+            "score": 19,
+            "note": "Điểm đã quy đổi"
+          }
+        ]
+      }
+    ]
+  }
+}

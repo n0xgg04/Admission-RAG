@@ -1,0 +1,918 @@
+{
+  "university": {
+    "code": "QSB",
+    "name": "Đại học Bách Khoa, Đại học Quốc gia TPHCM",
+    "short_name": "HCMUT",
+    "location": [
+      "HCM - Hồ Chí Minh"
+    ],
+    "address": "268 Lý Th­ường Kiệt, phường 14, quận 10, TP.Hồ Chí Minh",
+    "website": "www.aao.hcmut.edu.vn/tuyen_sinh/index.html",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": 5685,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-bach-khoa-hcm-QSB.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0227/thong-tin-tuyen-sinh-truong-dh-bach-khoa-tphcm-2026.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC BÁCH KHOA HCM 2026 Thông tin tuyển sinh trường Đại học Bách khoa - ĐHQG TPHCM (HCMUT) năm 2026 Năm 2026, Trường Đại học Bách khoa - ĐHQG-HCM dự kiến tuyển sinh 44 ngành đào tạo bậc đại học chính quy với khoảng 5.685 chỉ tiêu. Trường tuyển sinh theo 2 phương thức: Phương thức 1: Xét tuyển thẳng, ưu tiên xét tuyển thẳng theo quy chế tuyển sinh của Bộ GD&ĐT năm 2026, 1% ~ 5% tổng chỉ tiêu. Phương thức 2: Xét tuyển Tổng hợp bao gồm các tiêu chí về học lực (kết quả kỳ thi ĐGNL của ĐHQG-HCM, kết quả kỳ thi Tốt nghiệp THPT, kết quả quá trình học tập THPT), năng lực khác và hoạt động xã hội, 95% ~ 99% tổng chỉ tiêu.",
+  "admission_methods": [
+    {
+      "method_id": "1-xet-tuyen-tong-hop",
+      "method_name": "1 XÉT TUYỂN TỔNG HỢP",
+      "description": "1.1 ĐỐI TƯỢNG a) Đối tượng dự tuyển đối với các chương trình: Chương trình Tiêu chuẩn, Chương trình Dạy và học bằng Tiếng Anh, Chương trình Tiên tiến, Chương trình Định hướng Nhật Bản: Đối tượng 2.1: Thí sinh CÓ kết quả thi Đánh giá Năng lực ĐHQG-HCM năm 2026 Đối tượng 2.2: Thí sinh KHÔNG CÓ kết quả thi Đánh giá Năng lực ĐHQG-HCM năm 2026 Đối tượng 2.3: Thí sinh tốt nghiệp chương trình THPT nước ngoài và năm thi TN THPT của thí sinh không quá 02 năm so với năm dự tuyển. Đối tượng 2.4: Thí sinh t",
+      "eligibility": "ĐỐI TƯỢNG a) Đối tượng dự tuyển đối với các chương trình: Chương trình Tiêu chuẩn, Chương trình Dạy và học bằng Tiếng Anh, Chương trình Tiên tiến, Chương trình Định hướng Nhật Bản: Đối tượng 2.1: Thí sinh CÓ kết quả thi Đánh giá Năng lực ĐHQG-HCM năm 2026 Đối tượng 2.2: Thí sinh KHÔNG CÓ kết quả thi Đánh giá Năng lực ĐHQG-HCM năm 2026 Đối tượng 2.3: Thí sinh tốt nghiệp chương trình THPT nước ngoài và năm thi TN THPT của thí sinh không quá 02 năm so với năm dự tuyển. Đối tượng 2.4: Thí sinh tốt nghiệp chương trình THPT Việt nam, dùng Chứng chỉ tuyển sinh Quốc tế và năm thi TN THPT của thí sinh không quá 02 năm so với năm dự tuyển. b) Đối tượng dự tuyển đối với Chương trình Chuyển tiếp quốc tế: Đối tượng 2.5: Thí sinh dự tính du học nước ngoài theo Chương trình Chuyển tiếp Quốc tế sang các trường đại học đối tác tại Úc, Mỹ, New Zealand và Châu Âu c) Đối tượng dự tuyển đối với Chương trình Liên kết Cử nhân Kỹ thuật Quốc tế giữa Trường Đại học Bách khoa – ĐHQG-HCM và Đại học Công nghệ Sydney UTS, Úc (TNE): Đối tượng 2.6: Thí sinh tốt nghiệp chương trình THPT Việt Nam Đối tượng 2.7: Thí sinh tốt nghiệp chương trình THPT nước ngoài Đối tượng 2.8: Thí sinh sử dụng Chứng chỉ tuyển sinh quốc tế 1.2 CHỈ TIÊU Phương thức 2: Xét tuyển tổng hợp, là phương thức chủ đạo, chiếm 95-99% tổng chỉ tiêu, được áp dụng đồng bộ cho 8 đối tượng xét tuyển. 1.3",
+      "rules": "QUY CHẾ CÔNG THỨC VÀ THANG ĐIỂM XÉT TUYỂN: Điểm xét tuyển tổng hợp = Điểm học lực + Điểm cộng + Điểm ưu tiên Trong đó: Điểm học lực = (Điểm năng lực) x 70% + (Điểm tốt nghiệp THPT quy đổi) x 20% + (Điểm học THPT quy đổi) x 10%. Điểm cộng: Quy đổi Điểm cộng: hội đồng tuyển sinh xem xét điểm cộng với tổng điểm thưởng, điểm xét thưởng, điểm khuyến khích (gọi chung là Điểm cộng) đối với thí sinh có thành tích đặc biệt không vượt quá 10% mức điểm tối đa của thang điểm xét tuyển (tối đa 10 điểm đối với thang 100) theo công thức như sau: [Điểm cộng thành tích] = [Điểm thưởng] + [Điểm xét thưởng] + [Điểm khuyến khích] Trường hợp 1: Nếu [Điểm học lực] + [Điểm cộng thành tích] < 100 điểm: [Điểm cộng] = [Điểm cộng thành tích] Trường hợp 2: Nếu [Điểm học lực] + [Điểm cộng thành tích] ≥ 100 điểm: [Điểm cộng] = 100 - [Điểm học lực] Lưu ý: [Điểm thưởng] (tối đa 10 điểm): dành cho các thí sinh thuộc diện xét tuyển thẳng theo quy chế tuyển sinh của Bộ GD&ĐT (các",
+      "programs": [
+        {
+          "program_code": "TOEIC",
+          "program_name": "Loại chứng chỉ",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "IELTS Academic"
+        }
+      ]
+    },
+    {
+      "method_id": "2-utxt-xt-thang",
+      "method_name": "2 ƯTXT, XT THẲNG",
+      "description": "2.1 ĐỐI TƯỢNG Đối tượng 1.1 (quy định tại khoản 1 Điều 8 của Quy chế tuyển sinh của Bộ GD&ĐT): Các đối tượng sau được tuyển thẳng vào các chương trình đào tạo của trường: Anh hùng lao động. Anh hùng lực lượng vũ trang nhân dân Chiến sĩ thi đua toàn quốc. Đối tượng 1.2 (quy định tại điểm a khoản 2 Điều 8 của Quy chế tuyển sinh của Bộ GD&ĐT): Thí sinh được xét tuyển thẳng nếu đáp ứng tất cả điều kiện sau: Đạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia, quốc tế do Bộ GD&ĐT tổ chức,",
+      "eligibility": "ĐỐI TƯỢNG Đối tượng 1.1 (quy định tại khoản 1 Điều 8 của",
+      "rules": "Quy chế tuyển sinh của Bộ GD&ĐT): Các",
+      "programs": []
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn của trường Đại học Bách Khoa - ĐHQG TPHCM các năm Tại đây.",
+  "tuition_text": "Học phí thu theo học kỳ với số tín chỉ tối đa là 18 tín chỉ/học kỳ. Phần tín chỉ vượt được tính theo đơn giá tín chỉ. Một năm học có 02 học kỳ chính. Học phí các học kỳ phụ (nếu sinh viên có nhu cầu học) thu theo đơn giá tín chỉ. (Đơn vị tính: 1.000 đồng/năm/sinh viên) Nội dung 2024-2025 2025-2026 2026-2027 2027-2028 Học phí trung bình dự kiến (chương trình Tiêu chuẩn) 29,000 30,000 31,500 33,000 Học phí trung bình dự kiến (chương trình Tiên tiến, Dạy & học bằng tiếng Anh) 80,000 80,000 80,000 84,000 Học phí trung bình dự kiến (chương trình Định hướng Nhật Bản) 60,000 60,000 60,000 63,000",
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-bach-khoa-hcm-QSB.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-xet-tuyen-ket-hop",
+        "method_name": "Điểm chuẩn theo phương thức Điểm xét tuyển kết hợp năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "106",
+            "program_name": "Khoa học Máy tính",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X07",
+              "X08"
+            ],
+            "score": 85.41,
+            "note": null
+          },
+          {
+            "program_code": "107",
+            "program_name": "Kỹ thuật Máy tính",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X07",
+              "X08"
+            ],
+            "score": 82.91,
+            "note": null
+          },
+          {
+            "program_code": "108",
+            "program_name": "Điện - Điện tử - Viễn Thông - Tự động hoá - Thiết kế vi mạch",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X07",
+              "X08"
+            ],
+            "score": 80.77,
+            "note": null
+          },
+          {
+            "program_code": "109",
+            "program_name": "Kỹ Thuật Cơ khí",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X07"
+            ],
+            "score": 75.43,
+            "note": null
+          },
+          {
+            "program_code": "110",
+            "program_name": "Kỹ Thuật Cơ Điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X07",
+              "X08"
+            ],
+            "score": 81.82,
+            "note": null
+          },
+          {
+            "program_code": "112",
+            "program_name": "Dệt - May",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X07",
+              "X08"
+            ],
+            "score": 60.75,
+            "note": null
+          },
+          {
+            "program_code": "114",
+            "program_name": "Hoá - Thực phẩm - Sinh học",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "D07",
+              "X10",
+              "X12",
+              "X11",
+              "B08"
+            ],
+            "score": 75.43,
+            "note": null
+          },
+          {
+            "program_code": "115",
+            "program_name": "Xây dựng và Quản lý Dự án Xây dựng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X07",
+              "X08"
+            ],
+            "score": 55.05,
+            "note": null
+          },
+          {
+            "program_code": "117",
+            "program_name": "Kiến Trúc",
+            "subject_groups": [
+              "A01",
+              "X08",
+              "X07",
+              "D01",
+              "X03",
+              "X04"
+            ],
+            "score": 67.42,
+            "note": null
+          },
+          {
+            "program_code": "120",
+            "program_name": "Dầu khí - Địa chất",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X07",
+              "X08"
+            ],
+            "score": 60,
+            "note": null
+          },
+          {
+            "program_code": "123",
+            "program_name": "Quản lý Công nghiệp",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X07",
+              "X08",
+              "D01",
+              "D07",
+              "X26",
+              "X27",
+              "X28"
+            ],
+            "score": 75.98,
+            "note": null
+          },
+          {
+            "program_code": "125",
+            "program_name": "Tài nguyên và Môi trường",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X07",
+              "X08",
+              "B00",
+              "D07",
+              "X11",
+              "X12"
+            ],
+            "score": 60.93,
+            "note": null
+          },
+          {
+            "program_code": "128",
+            "program_name": "Logistics và Hệ thống Công nghiệp",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X60",
+              "X61"
+            ],
+            "score": 80.52,
+            "note": null
+          },
+          {
+            "program_code": "129",
+            "program_name": "Kỹ thuật Vật liệu",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X07",
+              "X08",
+              "B00",
+              "D07",
+              "X11",
+              "X12"
+            ],
+            "score": 71.1,
+            "note": null
+          },
+          {
+            "program_code": "137",
+            "program_name": "Vật lý Kỹ thuật",
+            "subject_groups": [
+              "A02",
+              "A00",
+              "A01",
+              "X06",
+              "X07",
+              "X08"
+            ],
+            "score": 76.61,
+            "note": null
+          },
+          {
+            "program_code": "138",
+            "program_name": "Cơ Kỹ thuật",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X07"
+            ],
+            "score": 75.98,
+            "note": null
+          },
+          {
+            "program_code": "140",
+            "program_name": "Kỹ thuật Nhiệt",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X07",
+              "X08"
+            ],
+            "score": 73.5,
+            "note": null
+          },
+          {
+            "program_code": "141",
+            "program_name": "Bảo dưỡng Công nghiệp",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X07"
+            ],
+            "score": 65.59,
+            "note": null
+          },
+          {
+            "program_code": "142",
+            "program_name": "Kỹ thuật Ô tô",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X07"
+            ],
+            "score": 76.34,
+            "note": null
+          },
+          {
+            "program_code": "145",
+            "program_name": "(Song ngành) Tàu thủy - Hàng không",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X07",
+              "X08"
+            ],
+            "score": 76.63,
+            "note": null
+          },
+          {
+            "program_code": "146",
+            "program_name": "Khoa học Dữ liệu",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X07"
+            ],
+            "score": 83.85,
+            "note": null
+          },
+          {
+            "program_code": "147",
+            "program_name": "Địa Kỹ thuật Xây dựng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X07"
+            ],
+            "score": 55.06,
+            "note": null
+          },
+          {
+            "program_code": "148",
+            "program_name": "Kinh tế Xây dựng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X07"
+            ],
+            "score": 55.72,
+            "note": null
+          },
+          {
+            "program_code": "153",
+            "program_name": "Quản trị Kinh doanh (Ngành mới)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X07",
+              "X08",
+              "D01",
+              "D07",
+              "X26",
+              "X27"
+            ],
+            "score": 71.24,
+            "note": null
+          },
+          {
+            "program_code": "206",
+            "program_name": "Khoa học Máy tính",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X07",
+              "X08"
+            ],
+            "score": 83.74,
+            "note": "Chương trình dạy và học bằng TA"
+          },
+          {
+            "program_code": "207",
+            "program_name": "Kỹ thuật Máy tính",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X07",
+              "X08"
+            ],
+            "score": 78.66,
+            "note": "Chương trình dạy và học bằng TA"
+          },
+          {
+            "program_code": "208",
+            "program_name": "Kỹ thuật Điện - Điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X07",
+              "X08"
+            ],
+            "score": 79.5,
+            "note": "Chương trình tiên tiến"
+          },
+          {
+            "program_code": "209",
+            "program_name": "Kỹ thuật Cơ khí",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X07"
+            ],
+            "score": 74.3,
+            "note": "Chương trình dạy và học bằng TA"
+          },
+          {
+            "program_code": "210",
+            "program_name": "Kỹ thuật Cơ Điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X07"
+            ],
+            "score": 78.44,
+            "note": "Chương trình dạy và học bằng TA"
+          },
+          {
+            "program_code": "211",
+            "program_name": "Kỹ thuật Robot",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X07",
+              "X08"
+            ],
+            "score": 73.89,
+            "note": "Chương trình dạy và học bằng TA"
+          },
+          {
+            "program_code": "214",
+            "program_name": "Kỹ thuật Hóa học",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "D07",
+              "X10",
+              "X12",
+              "X11",
+              "B08"
+            ],
+            "score": 63.3,
+            "note": "Chương trình dạy và học bằng TA"
+          },
+          {
+            "program_code": "215",
+            "program_name": "Quản lý Dự án Xây dựng và Kỹ thuật Xây dựng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X07",
+              "X08"
+            ],
+            "score": 56.2,
+            "note": "Chương trình dạy và học bằng TA"
+          },
+          {
+            "program_code": "217",
+            "program_name": "Kiến trúc Cảnh quan (Chuyên ngành của kiến trúc)",
+            "subject_groups": [
+              "A01",
+              "X08",
+              "X07",
+              "D01",
+              "X03",
+              "X04"
+            ],
+            "score": 55.45,
+            "note": "Chương trình dạy và học bằng TA"
+          },
+          {
+            "program_code": "218",
+            "program_name": "Công nghệ Sinh học",
+            "subject_groups": [
+              "B00",
+              "A02",
+              "B08",
+              "X14",
+              "X15",
+              "D07"
+            ],
+            "score": 66.13,
+            "note": "Chương trình dạy và học bằng TA"
+          },
+          {
+            "program_code": "219",
+            "program_name": "Công nghệ Thực phẩm",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B08",
+              "D07",
+              "X10",
+              "X11"
+            ],
+            "score": 59.21,
+            "note": "Chương trình dạy và học bằng TA"
+          },
+          {
+            "program_code": "220",
+            "program_name": "Kỹ thuật Dầu khí",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X07"
+            ],
+            "score": 60.25,
+            "note": "Chương trình dạy và học bằng TA"
+          },
+          {
+            "program_code": "223",
+            "program_name": "Quản lý Công nghiệp",
+            "subject_groups": [
+              "A00",
+              "X06",
+              "A01",
+              "X08",
+              "X07",
+              "D01",
+              "D07",
+              "X26",
+              "X27",
+              "X28"
+            ],
+            "score": 61.08,
+            "note": "Chương trình dạy và học bằng TA"
+          },
+          {
+            "program_code": "225",
+            "program_name": "Tài nguyên và Môi trường",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X08",
+              "X07",
+              "B00",
+              "D07",
+              "X11",
+              "X12"
+            ],
+            "score": 55.46,
+            "note": "Chương trình dạy và học bằng TA"
+          },
+          {
+            "program_code": "228",
+            "program_name": "Logistics và Hệ thống Công nghiệp",
+            "subject_groups": [
+              "A00",
+              "X06",
+              "A01",
+              "X08",
+              "X07"
+            ],
+            "score": 73.05,
+            "note": "Chương trình dạy và học bằng TA"
+          },
+          {
+            "program_code": "229",
+            "program_name": "Kỹ thuật Vật liệu",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D07",
+              "X07",
+              "X11"
+            ],
+            "score": 55.23,
+            "note": "Chương trình dạy và học bằng TA"
+          },
+          {
+            "program_code": "237",
+            "program_name": "Kỹ thuật Y sinh",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "A01",
+              "X06",
+              "X07",
+              "X08"
+            ],
+            "score": 64.74,
+            "note": "Chương trình dạy và học bằng TA"
+          },
+          {
+            "program_code": "242",
+            "program_name": "Kỹ thuật Ô tô",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X07"
+            ],
+            "score": 69.49,
+            "note": "Chương trình dạy và học bằng TA"
+          },
+          {
+            "program_code": "245",
+            "program_name": "Kỹ thuật Hàng không",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X07"
+            ],
+            "score": 78.79,
+            "note": "Chương trình dạy và học bằng TA"
+          },
+          {
+            "program_code": "253",
+            "program_name": "Kinh doanh số (Ngành mới)",
+            "subject_groups": [
+              "A00",
+              "X06",
+              "A01",
+              "X08",
+              "X07",
+              "D01",
+              "D07",
+              "X26",
+              "X27",
+              "X28"
+            ],
+            "score": 59.06,
+            "note": "Chương trình dạy và học bằng TA"
+          },
+          {
+            "program_code": "254",
+            "program_name": "Công nghệ Sinh học số (Ngành mới)",
+            "subject_groups": [
+              "B00",
+              "A02",
+              "B08",
+              "X14",
+              "X15",
+              "X16",
+              "D07"
+            ],
+            "score": 56.42,
+            "note": "Chương trình dạy và học bằng TA"
+          },
+          {
+            "program_code": "255",
+            "program_name": "Kinh tế Tuần hoàn (Ngành mới)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X08",
+              "X07",
+              "B00",
+              "D07",
+              "X11",
+              "X12"
+            ],
+            "score": 64.38,
+            "note": "Chương trình dạy và học bằng TA"
+          },
+          {
+            "program_code": "257",
+            "program_name": "Năng lượng Tái tạo (Ngành mới)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X07",
+              "X08"
+            ],
+            "score": 58.07,
+            "note": "Chương trình dạy và học bằng TA"
+          },
+          {
+            "program_code": "258",
+            "program_name": "Thiết kế Vi mạch (Ngành mới)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X07"
+            ],
+            "score": 83.09,
+            "note": "Chương trình dạy và học bằng TA"
+          },
+          {
+            "program_code": "266",
+            "program_name": "Khoa học Máy tính",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X07",
+              "X08"
+            ],
+            "score": 77.05,
+            "note": "CT định hướng Nhật Bản"
+          },
+          {
+            "program_code": "268",
+            "program_name": "Cơ Kỹ thuật",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X07"
+            ],
+            "score": 69.4,
+            "note": null
+          },
+          {
+            "program_code": "306",
+            "program_name": "Khoa học Máy tính | Úc, New Zealand, Mỹ",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X07"
+            ],
+            "score": 72.9,
+            "note": null
+          },
+          {
+            "program_code": "307",
+            "program_name": "Kỹ thuật Máy tính | Úc, New Zealand",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X07"
+            ],
+            "score": 67.68,
+            "note": null
+          },
+          {
+            "program_code": "308",
+            "program_name": "Kỹ thuật Điện - Điện tử | Úc, Hàn Quốc",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X07"
+            ],
+            "score": 65.52,
+            "note": null
+          },
+          {
+            "program_code": "309",
+            "program_name": "Kỹ thuật Cơ khí | Mỹ, Úc",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X07"
+            ],
+            "score": 74.3,
+            "note": null
+          },
+          {
+            "program_code": "310",
+            "program_name": "Kỹ thuật Cơ Điện tử | Mỹ, Úc",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X07"
+            ],
+            "score": 78.44,
+            "note": null
+          },
+          {
+            "program_code": "314",
+            "program_name": "Kỹ thuật Hóa học | Úc",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B08",
+              "D07",
+              "X10",
+              "X11"
+            ],
+            "score": 63.3,
+            "note": null
+          },
+          {
+            "program_code": "315",
+            "program_name": "Kỹ thuật Xây dựng | Úc",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X07"
+            ],
+            "score": 56.2,
+            "note": null
+          },
+          {
+            "program_code": "319",
+            "program_name": "Công nghệ Thực phẩm | New Zealand",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "B08",
+              "D07",
+              "X10",
+              "X11"
+            ],
+            "score": 56.2,
+            "note": null
+          },
+          {
+            "program_code": "323",
+            "program_name": "Quản lý Công nghiệp | Úc",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06",
+              "X07",
+              "X26",
+              "X27"
+            ],
+            "score": 61.08,
+            "note": null
+          },
+          {
+            "program_code": "325",
+            "program_name": "Kỹ thuật Môi trường, Quản lý Tài nguyên & Môi trường | Úc",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D07",
+              "X07",
+              "X11"
+            ],
+            "score": 55.46,
+            "note": null
+          },
+          {
+            "program_code": "342",
+            "program_name": "Kỹ thuật Ô tô | Úc",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X07"
+            ],
+            "score": 69.49,
+            "note": null
+          },
+          {
+            "program_code": "345",
+            "program_name": "Kỹ thuật Hàng không | Úc",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X07"
+            ],
+            "score": 78.79,
+            "note": null
+          },
+          {
+            "program_code": "406",
+            "program_name": "Trí tuệ Nhân tạo | ĐH Công nghệ Sydney (Úc) cấp bằng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X07",
+              "X08"
+            ],
+            "score": 65.5,
+            "note": null
+          },
+          {
+            "program_code": "416",
+            "program_name": "Công nghệ Thông tin | ĐH Công nghệ Sydney (Úc) cấp bằng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X07",
+              "X08"
+            ],
+            "score": 57.38,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

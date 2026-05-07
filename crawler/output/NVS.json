@@ -1,0 +1,209 @@
+{
+  "university": {
+    "code": "NVS",
+    "name": "Nhạc Viện TPHCM",
+    "short_name": "HCMCONS",
+    "location": [
+      "Hồ Chí Minh"
+    ],
+    "address": "112 Nguyễn Du,Q. 1, TP. HCM",
+    "website": "https://hcmcons.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2025,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/nhac-vien-tphcm-NVS.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2025/0519/thong-tin-tuyen-sinh-2025-nhac-vien-tphcm.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH NHẠC VIỆN TPHCM 2025 Thông tin tuyển sinh Nhạc Viện TPHCM (HCMCONS) 2025 Thông tin tuyển sinh năm 2025 của Nhạc Viện TPHCM đang được cập nhật. Các em tham khảo đề án tuyển sinh năm 2024 bên dưới. Khám phá thêm Tài nguyên giáo dục Giáo dục Đề án tuyển sinh",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-xet-tuyen-ket-hop---2024",
+      "method_name": "1 ĐIỂM XÉT TUYỂN KẾT HỢP - 2024",
+      "description": "Kết hợp thi tuyển và xét tuyển. Thời gian nộp hồ sơ: Từ 15/4/2024 đến hết 31/5/2024, gia hạn thêm đến 14/6/2024 (từ thứ Hai đến thứ Sáu trong giờ hành chính). - Thời gian thi dự kiến: Từ ngày 09/7/2024 đến ngày 19/7/2024 (Lịch cụ thể cho từng thí sinh sẽ ghi trong giấy báo thi). - Địa điểm thị: Nhạc viện TP. Hồ Chí Minh, 112 Nguyễn Du, P. Bến Thành, Quận 1, TP. Hồ Chí Minh. - Hình thức nhận hồ sơ đăng ký thi tuyển: + Hồ sơ thi tuyển theo mẫu của Nhạc viện TP. Hồ Chí Minh (Mua tại Nhạc viện hoặc ",
+      "eligibility": "ĐỐI TƯỢNG Kết hợp thi tuyển và xét tuyển 1.2",
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7210201",
+          "program_name": "Âm nhạc học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7210203",
+          "program_name": "Sáng tác âm nhạc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7210204",
+          "program_name": "Chỉ huy âm nhạc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7210205",
+          "program_name": "Thanh nhạc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7210207",
+          "program_name": "Biểu diễn nhạc cụ Phương tây",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7210210",
+          "program_name": "Biểu diễn nhạc cụ truyền thống",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7210201",
+          "program_name": "Âm nhạc học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7210203",
+          "program_name": "Sáng tác âm nhạc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7210204",
+          "program_name": "Chỉ huy âm nhạc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7210205",
+          "program_name": "Thanh nhạc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7210207",
+          "program_name": "Biểu diễn nhạc cụ Phương tây",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7210208",
+          "program_name": "Kết Hợp",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7210210",
+          "program_name": "Biểu diễn nhạc cụ truyền thống",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Nhạc Viện TPHCM các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/nhac-vien-tphcm-NVS.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2022",
+        "year": 2022,
+        "entries": [
+          {
+            "program_code": "7210201",
+            "program_name": "Âm nhạc học",
+            "subject_groups": [
+              "1"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7210203",
+            "program_name": "Sáng tác âm nhạc",
+            "subject_groups": [
+              "1"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7210204",
+            "program_name": "Chỉ huy âm nhạc",
+            "subject_groups": [
+              "1"
+            ],
+            "score": 20.5,
+            "note": null
+          },
+          {
+            "program_code": "7210205",
+            "program_name": "Thanh nhạc",
+            "subject_groups": [
+              "1"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7210207",
+            "program_name": "Biểu diễn nhạc cụ phương tây",
+            "subject_groups": [
+              "1"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7210208",
+            "program_name": "Piano",
+            "subject_groups": [
+              "1"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7210210",
+            "program_name": "Biểu diễn nhạc cụ truyền thống",
+            "subject_groups": [
+              "1"
+            ],
+            "score": 22,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

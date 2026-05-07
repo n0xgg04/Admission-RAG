@@ -1,0 +1,143 @@
+{
+  "university": {
+    "code": "DCH",
+    "name": "Trường Sĩ Quan Đặc Công",
+    "short_name": null,
+    "location": [
+      "Hà Nội"
+    ],
+    "address": null,
+    "website": null,
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": 68,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/truong-si-quan-dac-cong-DCH.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0415/thong-tin-tuyen-sinh-truong-si-quan-dac-cong-2026.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG SĨ QUAN ĐẶC CÔNG 2026 Thông tin tuyển sinh Trường Sĩ Quan Đặc Công (DCH) năm 2026 Năm 2026, Trường Sĩ Quan Đặc Công (DCH) thông báo tuyển sinh 68 chỉ tiêu với 3 tổ hợp xét tuyển. Phương thức 1: Xét tuyển thẳng, ưu tiên xét tuyển đối với các thí sinh đạt giải quốc gia, quốc tế theo quy định của Bộ GD&ĐT và theo quy định của Bộ Quốc phòng (PT1) Phương thức 2: Xét tuyển bằng kết quả thi Đánh giá năng lực do Đại học Quốc gia Hà Nội và Đại học Quốc gia Thành Phố Hồ Chí Minh tổ chức năm 2026 (PT2). Phương thức 3: Xét tuyển từ kết quả kỳ thi tốt nghiệp Trung học phổ thông năm 2026 đối với các thí sinh đăng ký dự tuyển, có kết quả điểm các môn trong kỳ thi tốt nghiệp THPT phù hợp với tổ hợp xét tuyển của trường tuyển sinh (PT3). Phương thức 4: Xét tuyển bằng kết quả thi Đánh giá năng lực do Bộ Quốc phòng tổ chức (PT4).",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 QUY CHẾ Xét tuyển từ kết quả kỳ thi tốt nghiệp Trung học phổ thông năm 2026 đối với các thí sinh đăng ký dự tuyển, có kết quả điểm các môn trong kỳ thi tốt nghiệp THPT phù hợp với tổ hợp xét tuyển của trường tuyển sinh (PT3). DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM THI THPT STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7860207_B Chỉ huy - Tham mưu đặc công (miền Nam) A00; A01; C01 2 7860207_N Chỉ huy - Tham mưu đặc công (miền Bắc) A00; A01; C01",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét tuyển từ kết quả kỳ thi tốt nghiệp Trung học phổ thông năm 2026 đối với các thí sinh đăng ký dự tuyển, có kết quả điểm các môn trong kỳ thi tốt nghiệp THPT phù hợp với tổ hợp xét tuyển của trường tuyển sinh (PT3).",
+      "programs": []
+    },
+    {
+      "method_id": "2-utxt-xt-thang",
+      "method_name": "2 ƯTXT, XT THẲNG",
+      "description": "2.1 QUY CHẾ Xét tuyển thẳng, ưu tiên xét tuyển đối với các thí sinh đạt giải quốc gia, quốc tế theo quy định của Bộ GD&ĐT và theo quy định của Bộ Quốc phòng (PT1) DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ƯTXT, XT THẲNG STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7860207_B Chỉ huy - Tham mưu đặc công (miền Nam) 2 7860207_N Chỉ huy - Tham mưu đặc công (miền Bắc)",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét tuyển thẳng, ưu tiên xét tuyển đối với các thí sinh đạt giải quốc gia, quốc tế theo quy định của Bộ GD&ĐT và theo quy định của Bộ Quốc phòng (PT1)",
+      "programs": []
+    },
+    {
+      "method_id": "3-iem-gnl-hcm",
+      "method_name": "3 ĐIỂM ĐGNL HCM",
+      "description": "3.1 QUY CHẾ Xét tuyển bằng kết quả thi Đánh giá năng lực do Đại học Quốc gia Thành Phố Hồ Chí Minh tổ chức năm 2026 (PT2). DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐGNL HCM STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7860207_B Chỉ huy - Tham mưu đặc công (miền Nam) 2 7860207_N Chỉ huy - Tham mưu đặc công (miền Bắc)",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét tuyển bằng kết quả thi Đánh giá năng lực do Đại học Quốc gia Thành Phố Hồ Chí Minh tổ chức năm 2026 (PT2).",
+      "programs": []
+    },
+    {
+      "method_id": "4-iem-gnl-hn",
+      "method_name": "4 ĐIỂM ĐGNL HN",
+      "description": "4.1 QUY CHẾ Xét tuyển bằng kết quả thi Đánh giá năng lực do Đại học Quốc gia Hà Nội tổ chức năm 2026 (PT2). DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐGNL HN STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7860207_B Chỉ huy - Tham mưu đặc công (miền Nam) Q00 2 7860207_N Chỉ huy - Tham mưu đặc công (miền Bắc) Q00",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét tuyển bằng kết quả thi Đánh giá năng lực do Đại học Quốc gia Hà Nội tổ chức năm 2026 (PT2).",
+      "programs": []
+    },
+    {
+      "method_id": "5",
+      "method_name": "5",
+      "description": "5.1 QUY CHẾ Xét tuyển bằng kết quả thi Đánh giá năng lực do Bộ Quốc phòng tổ chức (PT4). DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7860207_B Chỉ huy - Tham mưu đặc công (miền Nam) 2 7860207_N Chỉ huy - Tham mưu đặc công (miền Bắc)",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét tuyển bằng kết quả thi Đánh giá năng lực do Bộ Quốc phòng tổ chức (PT4).",
+      "programs": []
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn của trường Sĩ quan Đặc Công các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/truong-si-quan-dac-cong-DCH.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860207",
+            "program_name": "Ngành Chỉ huy tham mưu Đặc công (Thí sinh Nam miền Bắc)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01"
+            ],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "7860207",
+            "program_name": "Ngành Chỉ huy tham mưu Đặc công (Thí sinh Nam miền Nam)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01"
+            ],
+            "score": 21.5,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860207",
+            "program_name": "Ngành Chỉ huy tham mưu Đặc công (Thí sinh Nam miền Bắc)",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 88,
+            "note": null
+          },
+          {
+            "program_code": "7860207",
+            "program_name": "Ngành Chỉ huy tham mưu Đặc công (Thí sinh Nam miền Nam)",
+            "subject_groups": [],
+            "score": 85,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860207",
+            "program_name": "Ngành Chỉ huy tham mưu Đặc công (Thí sinh Nam miền Bắc)",
+            "subject_groups": [],
+            "score": 785,
+            "note": null
+          },
+          {
+            "program_code": "7860207",
+            "program_name": "Ngành Chỉ huy tham mưu Đặc công (Thí sinh Nam miền Nam)",
+            "subject_groups": [],
+            "score": 735,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "university": {
+    "code": "DVX",
+    "name": "Trường Đại Học Công Nghệ Vạn Xuân",
+    "short_name": "VXUT",
+    "location": [
+      "Nghệ An"
+    ],
+    "address": "Đại lộ Nguyễn Sinh Cung, TX. Cửa Lò, Nghệ An",
+    "website": "https://www.vxut.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": null,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-cong-nghe-van-xuan-DVX.html",
+  "pdf_url": null,
+  "admission_overview": "LỚP MỚI - DÀNH CHO 2K9 ÔN THI ĐGNL & ĐGTD • Kỳ thi Đánh giá năng lực ĐHQG Hà Nội 2027 - Xem ngay • Kỳ thi Đánh giá năng lực ĐHQG TP.HCM 2027 - Xem ngay • Kỳ thi Đánh giá năng lực Quân đội 2027 - Xem ngay • Kỳ thi Đánh giá tư duy Bách khoa HN 2027 - Xem ngay XEM THÊM các lớp dành cho kỳ thi khác (ĐGNL Bộ Công An, ĐGNL Sư phạm, TN THPT,....)",
+  "admission_methods": [
+    {
+      "method_id": "phuong-thuc",
+      "method_name": "Phương thức xét tuyển",
+      "description": "STT Mã ngành Tên ngành Chỉ tiêu Phương thức xét tuyển Tổ hợp",
+      "eligibility": null,
+      "rules": null,
+      "programs": []
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Trường Đại Học Công Nghệ Vạn Xuân các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-cong-nghe-van-xuan-DVX.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2022",
+        "year": 2022,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01",
+              "D90",
+              "D78",
+              "A01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A12",
+              "C01",
+              "D01",
+              "D90"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính ngân hàng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D90"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D90"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [
+              "C08",
+              "B02",
+              "B00",
+              "D90"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A16",
+              "D90"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7580201",
+            "program_name": "Kỹ thuật xây dựng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07",
+              "C01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7810201",
+            "program_name": "Quản trị khách sạn",
+            "subject_groups": [
+              "C00",
+              "D78",
+              "D96",
+              "C15"
+            ],
+            "score": 15,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2022",
+        "year": 2022,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01",
+              "D90",
+              "D78",
+              "A01"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A12",
+              "C01",
+              "D01",
+              "D90"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính ngân hàng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D90"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D90"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [
+              "C08",
+              "B02",
+              "B00",
+              "D90"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A16",
+              "D90"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7580201",
+            "program_name": "Kỹ thuật xây dựng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D07",
+              "C01"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7810201",
+            "program_name": "Quản trị khách sạn",
+            "subject_groups": [
+              "C00",
+              "D78",
+              "D96",
+              "C15"
+            ],
+            "score": 17,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

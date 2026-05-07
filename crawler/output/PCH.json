@@ -1,0 +1,230 @@
+{
+  "university": {
+    "code": "PCH",
+    "name": "Đại học Phòng cháy chữa cháy",
+    "short_name": "UFPF",
+    "location": [
+      "Hà Nội"
+    ],
+    "address": "Số 243, đường Khuất duy Tiến, quận Thanh Xuân, Hà Nội",
+    "website": "http://daihocpccc.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": 200,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-phong-chay-chua-chay-phia-bac-PCH.html",
+  "pdf_url": null,
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC PHÒNG CHÁY CHỮA CHÁY (PHÍA BẮC) 2026 Thông tin tuyển sinh Đại Học Phòng Cháy Chữa Cháy phía Bắc (UFPF) năm 2026 Trường Đại học Phòng cháy chữa cháy thông báo tuyển sinh 200 chỉ tiêu trên địa bàn toàn quốc với các phương thức cụ thể sau Phương thức 1: Tuyển thẳng theo quy chế tuyển sinh hiện hành của Bộ Giáo dục và Đào tạo và quy định của Bộ Công an. Phương thức 2: Xét tuyển kết hợp chứng chỉ ngoại ngữ quốc tế với kết quả Bài thi đánh giá của Bộ Công an. Phương thức 3: Xét tuyển kết hợp kết quả thi tốt nghiệp THPT với kết quả Bài thi đánh giá của Bộ Công an. Xem thời gian và hồ sơ đăng ký xét tuyển UFPF năm 2026 TẠI ĐÂY",
+  "admission_methods": [
+    {
+      "method_id": "1-utxt-xt-thang",
+      "method_name": "1 ƯTXT, XT THẲNG",
+      "description": "1.1 QUY CHẾ – Tổ chức xét tuyển sau khi Công an các đơn vị, địa phương hoàn thành nộp hồ sơ dự tuyển và theo hướng dẫn của Bộ Giáo dục và Đào tạo. – Căn cứ chỉ tiêu được giao và số lượng hồ sơ đăng ký xét tuyển, Trường Đại học PCCC tổ chức xét tuyển thẳng theo thứ tự như sau: + Thứ nhất, xét thí sinh được triệu tập tham dự kỳ thi chọn đội tuyển quốc gia dự thi Olympic quốc tế, khu vực; trong đội tuyển quốc gia dự cuộc thi khoa học, kỹ thuật quốc tế; + Thứ hai, xét lần lượt thí sinh đoạt giải nhấ",
+      "eligibility": null,
+      "rules": "QUY CHẾ – Tổ chức xét tuyển sau khi Công an các đơn vị, địa phương hoàn thành nộp hồ sơ dự tuyển và theo hướng dẫn của Bộ Giáo dục và Đào tạo. – Căn cứ chỉ tiêu được giao và số lượng hồ sơ đăng ký xét tuyển, Trường Đại học PCCC tổ chức xét tuyển thẳng theo thứ tự như sau: + Thứ nhất, xét thí sinh được triệu tập tham dự kỳ thi chọn đội tuyển quốc gia dự thi Olympic quốc tế, khu vực; trong đội tuyển quốc gia dự cuộc thi khoa học, kỹ thuật quốc tế; + Thứ hai, xét lần lượt thí sinh đoạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia bậc THPT hoặc cuộc thi khoa học, kỹ thuật cấp quốc gia bậc THPT; + Thứ ba, xét thí sinh đoạt giải trong kỳ thi chọn học sinh giỏi quốc gia bậc THPT; + Thứ tư, xét thí sinh đoạt giải trong cuộc thi khoa học, kỹ thuật cấp quốc gia bậc THPT; + Thứ năm, xét thí sinh có điểm tổng kết của môn đoạt giải (môn Toán với cuộc thi khoa học kỹ thuật) các năm học THPT từ cao xuống thấp. – Trường hợp giải được xác định theo loại huy chương vàng, bạc, đồng thì huy chương vàng được xác định tương đương giải nhất, huy chương bạc tương đương giải nhì, huy chương đồng tương đương giải ba. – Trường hợp xét hết tiêu chí trên mà vẫn vượt chỉ tiêu, khi thẩm định phương án điểm trúng tuyển, Cục Đào tạo sẽ phối hợp Cục Tổ chức cán bộ báo cáo lãnh đạo Bộ quyết định. Trường hợp tuyển không đủ chỉ tiêu thì chỉ tiêu còn lại sẽ được chuyển sang chỉ tiêu xét tuyển theo Phương thức 2, Phương thức 3. – Thí sinh dự tuyển Phương thức 1 được tham gia xét tuyển theo Phương thức 2 hoặc Phương thức 3 (nếu nộp đủ hồ sơ và đảm bảo điều kiện theo quy định). 1.2 THỜI GIAN XÉT TUYỂN – Sau khi được phê duyệt số lượng,",
+      "programs": [
+        {
+          "program_code": "7860113",
+          "program_name": "Phòng cháy chữa cháy và cứu nạn, cứu hộ (Thí sinh Nam, miền Bắc)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7860113",
+          "program_name": "Phòng cháy chữa cháy và cứu nạn, cứu hộ (Thí sinh Nam, miền Nam)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7860113",
+          "program_name": "Phòng cháy chữa cháy và cứu nạn, cứu hộ (Thí sinh Nữ, miền Bắc)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7860113",
+          "program_name": "Phòng cháy chữa cháy và cứu nạn, cứu hộ (Thí sinh Nữ, miền Nam)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        }
+      ]
+    },
+    {
+      "method_id": "2-ket-hop-iem-thi-tot-nghiep-thpt-voi-ket-qua-gnl-bo-cong-an",
+      "method_name": "2 KẾT HỢP ĐIỂM THI TỐT NGHIỆP THPT VỚI KẾT QUẢ ĐGNL BỘ CÔNG AN.",
+      "description": "2.1 ĐIỀU KIỆN XÉT TUYỂN – Đối với thí sinh học THPT có môn ngoại ngữ là ngôn ngữ khác ngoài tiếng Anh (đăng ký các ngành sử dụng môn tiếng Anh để xét tuyển) hoặc tiếng Trung Quốc (đăng ký các ngành sử dụng môn Tiếng Trung Quốc để xét tuyển) nếu có nguyện vọng dự tuyển được sử dụng điểm của môn ngoại ngữ đó để sơ tuyển. Đối với thí sinh đang học lớp 12 vẫn được đăng ký sơ tuyển, sau khi có điểm tổng kết năm lớp 12, căn cứ quy định để xác định thí sinh đạt điều kiện hay không. – Tốt nghiệp THPT đế",
+      "eligibility": "đối tượng ưu tiên, điểm học bạ THPT, điểm thưởng của thí sinh lấy theo dữ liệu của Bộ Công an (sau khi đã được Công an các đơn vị, địa phương và các trường CAND kiểm dò). – Điểm xét tuyển là tổng điểm của 03 môn thuộc tổ hợp xét tuyển vào trường CAND (chiếm tỉ lệ 40%) và điểm Bài thi đánh giá của Bộ Công an được quy về thang điểm 30 (chiếm tỉ lệ 60%) làm tròn đến 02 chữ số thập phân, cộng với điểm ưu tiên khu vực, ưu tiên đối tượng theo",
+      "rules": "QUY CHẾ – Điều kiện xét tuyển: Thí sinh đã đạt điều kiện sơ tuyển, nộp hồ sơ đăng ký dự tuyển về Trường Đại học PCCC, tham gia Bài thi đánh giá của Bộ Công an năm 2026, đăng ký nguyện vọng xét tuyển chính thức vào Trường Đại học PCCC là Nguyện vọng 1, đảm bảo điều kiện dự tuyển theo tổ hợp đăng ký, phân vùng tuyển sinh, đảm bảo ngưỡng đầu vào theo quy định của Bộ Giáo dục và Đào tạo và quy định của Bộ Công an. – Dữ liệu xét tuyển được lấy từ các nguồn sau: + Thông tin nhận từ Cổng Thông tin tuyển sinh theo hướng dẫn của Bộ Giáo dục và Đào tạo, gồm: mã trường, mã ngành (sau khi đã được kiểm tra, đối chiếu theo quy định), điểm thi từng môn; + Kết quả Bài thi đánh giá của Bộ Công an; + Khu vực ưu tiên,",
+      "programs": []
+    },
+    {
+      "method_id": "3-ket-hop-ccqt-voi-bai-thi-gnl-bca",
+      "method_name": "3 KẾT HỢP CCQT VỚI BÀI THI ĐGNL BCA",
+      "description": "3.1 ĐIỀU KIỆN XÉT TUYỂN Thí sinh đã đạt điều kiện sơ tuyển, nộp hồ sơ đăng ký dự tuyển về Trường Đại học PCCC, tham gia Bài thi đánh giá của Bộ Công an năm 2026, đăng ký nguyện vọng xét tuyển chính thức vào các trường CAND là Nguyện vọng 1, đảm bảo phân vùng tuyển sinh, đảm bảo ngưỡng đầu vào theo quy định của Bộ Giáo dục và Đào tạo và quy định của Bộ Công an. Có chứng chỉ ngoại ngữ quốc tế không quá 02 (hai) năm kể từ ngày được cấp chứng chỉ đến ngày 01/5/2026, chứng chỉ do tổ chức được Bộ Giáo",
+      "eligibility": "đối tượng ưu tiên, điểm học bạ THPT, điểm thưởng của thí sinh lấy theo dữ liệu của Bộ Công an (sau khi được Công an các đơn vị, địa phương và các trường CAND kiểm dò); + Dữ liệu về chứng chỉ ngoại ngữ quốc tế trong hồ sơ dự tuyển của thí sinh (sau khi được Công an các đơn vị, địa phương và các trường CAND kiểm dò). – Điểm xét tuyển là tổng điểm Bài thi đánh giá của Bộ Công an (chiếm tỷ lệ 60%) được quy về thang điểm 30 và điểm chứng chỉ ngoại ngữ quốc tế được quy về thang điểm 30 (chiếm tỉ lệ 40%), làm tròn đến 02 chữ số thập phân, cộng với điểm ưu tiên, điểm thưởng. Công thức tính như sau: ĐXT = BTBCA*3/5 + TA*2/5 + ĐT + KV + Đth Trong đó: + ĐXT: điểm xét tuyển ; + BTBCA: điểm Bài thi đánh giá của Bộ Công an quy về thang điểm 30; + TA: điểm chứng chỉ ngoại ngữ quốc tế quy về thang điểm 30; + ĐT: điểm ưu tiên đối tượng theo quy định của Bộ Giáo dục và Đào tạo; + KV: điểm ưu tiên khu vực theo quy định của Bộ Giáo dục và Đào tạo; + Đth: điểm thưởng đối với thí sinh đạt giải quốc gia, quốc tế. – Trường hợp thí sinh đạt tổng điểm Bài thi đánh giá của Bộ Công an (chiếm tỉ lệ 60%) được quy về thang điểm 30 và điểm chứng chỉ ngoại ngữ quốc tế được quy về thang điểm 30 (chiếm tỉ lệ 40%), làm tròn đến 02 chữ số thập phân từ 22,5 điểm trở lên thì tổng điểm điểm ưu tiên, điểm thưởng được xác định như sau: Tổng điểm ưu tiên, điểm thưởng = [(30 – tổng điểm đạt được)/7,5] x (ĐT + KV + Đth) Tiêu chí phụ trong xét tuyển Trong trường hợp số lượng thí sinh cùng một mức điểm xét tuyển, nếu lấy hết sẽ vượt chỉ tiêu phân bổ thì xét trúng tuyển theo thứ tự như sau: + Thứ nhất, lấy thí sinh có chứng chỉ ngoại ngữ quốc tế, điểm xét trong từng chứng chỉ tương đương lần lượt từ cao đến thấp; + Thứ hai, xét thí sinh có điểm bài thi đánh giá của Bộ Công an từ cao xuống thấp; + Thứ ba, xét thí sinh có điểm Phần thi tự luận, bài thi đánh giá của Bộ Công an từ cao xuống thấp đến đủ chỉ tiêu. Trường hợp xét hết tiêu chí trên mà vẫn vượt chỉ tiêu, khi thẩm định phương án điểm trúng tuyển, Cục Đào tạo sẽ phối hợp Cục Tổ chức cán bộ báo cáo lãnh đạo Bộ quyết định. Xét tuyển bổ sung – Trong trường hợp không xét tuyển đủ chỉ tiêu được giao, thí sinh trúng tuyển nhưng không xác nhận nhập học hoặc khi nhập học thí sinh không đảm bảo",
+      "rules": "QUY CHẾ – Dữ liệu xét tuyển được lấy từ các nguồn sau: + Thông tin nhận từ Cổng Thông tin tuyển sinh theo hướng dẫn của Bộ Giáo dục và Đào tạo, gồm: mã trường, mã ngành (sau khi đã được kiểm tra, đối chiếu theo quy định); + Kết quả Bài thi đánh giá tuyển sinh của Bộ Công an; + Khu vực ưu tiên,",
+      "programs": []
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7860113",
+          "program_name": "Phòng cháy chữa cháy và cứu nạn, cứu hộ (Thí sinh Nam, miền Bắc)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7860113",
+          "program_name": "Phòng cháy chữa cháy và cứu nạn, cứu hộ (Thí sinh Nam, miền Bắc)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7860113",
+          "program_name": "Phòng cháy chữa cháy và cứu nạn, cứu hộ (Thí sinh Nam, miền Nam)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7860113",
+          "program_name": "Phòng cháy chữa cháy và cứu nạn, cứu hộ (Thí sinh Nam, miền Nam)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7860113",
+          "program_name": "Phòng cháy chữa cháy và cứu nạn, cứu hộ (Thí sinh Nữ, miền Bắc)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7860113",
+          "program_name": "Phòng cháy chữa cháy và cứu nạn, cứu hộ (Thí sinh Nữ, miền Bắc)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7860113",
+          "program_name": "Phòng cháy chữa cháy và cứu nạn, cứu hộ (Thí sinh Nữ, miền Nam)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7860113",
+          "program_name": "Phòng cháy chữa cháy và cứu nạn, cứu hộ (Thí sinh Nữ, miền Nam)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn của trường Đại học Phòng cháy chữa cháy (Phía Bắc) các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": "1. Kỳ thi đánh giá của Bộ Công an – Thời gian làm bài thi: Tổng thời gian làm bài thi là 180 phút. – Hình thức thi: Thi viết. – Thí sinh chọn 01 trong 02 mã bài thi CA1 hoặc CA2 của Bộ Công an để đăng ký dự thi vào Trường Đại học PCCC. (Mã CA1: Phần tự luận bắt buộc: Ngữ văn; Trắc nghiệm bắt buộc: Toán, Lịch sử, Ngôn ngữ Anh; Trắc nghiệm tự chọn: Vật lý; Mã CA2: Phần tự luận bắt buộc: Ngữ văn; Trắc nghiệm bắt buộc: Toán, Lịch sử, Ngôn ngữ Anh; Trắc nghiệm tự chọn: Hoá học). – Lệ phí dự thi: 180.000 đồng, thí sinh nộp tại Công an đơn vị, địa phương khi sơ tuyển, CAND nộp về trường cùng hồ sơ dự tuyển của thí sinh. – Địa điểm thi: + Thí sinh phía Phía Bắc (từ thành phố Huế trở ra): thi tại Cơ sở 1, Trường Đại học PCCC, số 243 Khuất Duy Tiến, Đại Mỗ, Hà Nội + Thí sinh phía Nam (từ thành phố Đà Nẵng trở vào): thi tại địa điểm do Trường Đại học Cảnh sát nhân dân phối hợp Trường Đại học PCCC tổ chức (Thành phố Hồ Chí Minh). – Thời gian tổ chức thi: Ngày 20-21/6/2026. – Thời gian công bố điểm thi: Sau ngày 10/7/2026. – Thời gian phúc khảo bài thi: Thông báo sau khi có kết quả thi. 2. Hồ sơ tuyển sinh a) Hồ sơ chung cho tất cả thí sinh – Bìa hồ sơ tuyển sinh. – Lý lịch tự khai. – Thẩm tra lý lịch. – Đơn xin dự tuyển vào các trường CAND. – Phiếu đăng ký dự tuyển được in ra từ phần mềm tuyển sinh (Phiếu có chữ ký của thí sinh, chữ ký của cán bộ thẩm định và đóng dấu của đơn vị sơ tuyển). b) Hồ sơ đối với thí sinh dự tuyển theo Phương thức 1 – Tờ khai đăng ký dự tuyển đại học CAND (theo mẫu của Bộ Công an) kèm 02 (hai) ảnh 3×4 ghi rõ họ tên, ngày tháng năm sinh ở mặt sau. – Phiếu đăng ký xét tuyển thẳng theo mẫu của Bộ Giáo dục và Đào tạo. – Bản sao được chứng thực từ bản chính giấy chứng nhận, xác nhận kết quả về giải đoạt được của thí sinh. – Bản sao được chứng thực từ bản chính học bạ THPT của thí sinh. – Bản photo giấy báo dự thi tốt nghiệp THPT của thí sinh (trừ đối tượng miễn thi tốt nghiệp theo quy định của Bộ Giáo dục và Đào tạo). – Bản photo Căn cước/Căn cước công dân của thí sinh. c) Hồ sơ đối với thí sinh dự tuyển theo Phương thức 2 – Tờ khai đăng ký dự tuyển đại học CAND (theo mẫu của Bộ Công an) kèm 02 (hai) ảnh 3×4 ghi rõ họ tên, ngày tháng năm sinh ở mặt sau. – Bản sao được chứng thực từ bản chính giấy chứng nhận chứng chỉ ngoại ngữ quốc tế của thí sinh. – Bản sao được chứng thực từ bản chính học bạ THPT của thí sinh. – Bản photo giấy báo dự thi tốt nghiệp THPT của thí sinh. – Bản photo Căn cước/Căn cước công dân của thí sinh. – Thí sinh thuộc diện xét tuyển nộp 30.000 đồng lệ phí xét tuyển cho Công an địa phương (trong đó: Công an sơ tuyển: 15.000 đồng, trường CAND: 15.000 đồng). d) Hồ sơ đối với thí sinh dự tuyển theo Phương thức 3 – Tờ khai đăng ký dự tuyển đại học CAND (theo mẫu của Bộ Công an) kèm 02 (hai) ảnh 3×4 ghi rõ họ tên, ngày tháng năm sinh ở mặt sau. – Bản sao được chứng thực từ bản chính học bạ THPT của thí sinh. – Bản photo giấy báo dự thi tốt nghiệp THPT của thí sinh. – Bản photo Căn cước (căn cước công dân) của thí sinh. – Các tài liệu chứng minh để hưởng ưu tiên trong tuyển sinh của thí sinh (nếu có). 3. Hướng dẫn thí sinh có nguyện vọng xét tuyển vào trường CAND đăng ký dự thi tốt nghiệp THPT năm 2026 và đăng ký nguyện vọng trên Cổng thông tin tuyển sinh – Thí sinh đăng ký dự thi tốt nghiệp THPT theo hướng dẫn của Bộ Giáo dục và Đào tạo, Sở GD&ĐT địa phương nơi cư trú. Quá trình khai Phiếu đăng ký dự thi tốt nghiệp THPT của Bộ Giáo dục và Đào tạo ban hành và Phiếu đăng ký dự tuyển đại học CAND của Bộ Công an ban hành, thí sinh thống nhất sử dụng cùng số Căn cước/Căn cước công dân. – Cán bộ, chiến sĩ CAND mặc thường phục khi dự thi tốt nghiệp THPT. Công an các đơn vị, địa phương quán triệt cán bộ, chiến sĩ nghiêm chỉnh chấp hành quy chế thi tốt nghiệp THPT, trường hợp vi phạm, tùy thuộc vào tính chất, mức độ vi phạm để có hình thức kỷ luật phù hợp (cảnh cáo, khiển trách, hạ thi đua năm). – Công an các đơn vị, địa phương yêu cầu thí sinh nộp đầy đủ các tài liệu hồ sơ dự tuyển theo quy định. Nếu thí sinh không nộp đầy đủ các tài liệu hồ sơ dự tuyển thì từ chối quyền đăng ký dự tuyển của thí sinh (trừ các trường hợp có quy định khác). – Thí sinh (bao gồm thí sinh đăng ký dự tuyển vào Trường Đại học PCCC) được đăng ký nguyện vọng xét tuyển chính thức theo lịch trình tuyển sinh của Bộ Giáo dục và Đào tạo. Thí sinh đã đạt điều kiện dự tuyển và đăng ký xét tuyển vào Trường Đại học PCCC được điều chỉnh nguyện vọng đăng ký xét tuyển giữa các ngành, nhóm ngành, các trường CAND so với nguyện vọng đã khai trên Phiếu đăng ký dự tuyển đại học CAND đảm bảo quy định về điều kiện dự tuyển và phân vùng tuyển sinh. Điều kiện để điều chỉnh nguyện vọng: + Nguyện vọng Trường Đại học PCCC xét tuyển trên Cổng thông tin tuyển sinh phải ở thứ tự Nguyện vọng số 1. + Tổ hợp xét tuyển: Trường Đại học PCCC xét tuyển theo tổ hợp tuyển sinh đã công bố và theo tổ hợp thí sinh đăng ký xét tuyển, đảm bảo điều kiện sơ tuyển theo quy định. Trường hợp thí sinh không đăng ký tổ hợp xét tuyển trên dữ liệu tuyển sinh của Bộ Công an thì sẽ không sử dụng tổ hợp đó để xét tuyển. – Công an các đơn vị, địa phương có trách nhiệm phổ biến rõ quy định về việc đăng ký tổ hợp xét tuyển và đăng ký dự tuyển của thí sinh để đảm bảo quyền lợi cho thí sinh, tránh phát sinh đơn, thư khiếu nại sau này. 4. Nộp hồ sơ dự tuyển – Thời gian tiếp nhận hồ sơ: chậm nhất 20/5/2026 – Địa điểm tiếp nhận hồ sơ: + Phía Bắc: Cơ sở 1, Trường Đại học PCCC, số 243 Khuất Duy Tiến, phường Đại Mỗ, TP Hà Nội. Cán bộ tiếp nhận hồ sơ: Đại úy Lại Thị Hoa, cán bộ phòng Quản lý đào tạo và bồi dưỡng nâng cao, Trường Đại học PCCC (sđt: 0343.070.221). + Phía Nam: Cơ sở 3, Trường Đại học PCCC, Ấp 7, xã An Phước, tỉnh Đồng Nai. Cán bộ tiếp nhận hồ sơ: Thiếu tá Thiều Thị Thắm, cán bộ phòng Quản lý đào tạo và bồi dưỡng nâng cao, Trường Đại học PCCC (sđt: 0977.768.241). 5. Lịch tổ chức tuyển sinh tuyển mới đào tạo đại học chính quy CAND TT Thời gian Nội dung 1 15/3-15/4/2026 Thí sinh dự tuyển đại học chính quy tuyển mới đến đăng ký dự tuyển tại Công an cấp xã (sau ngày 15/4/2026, thí sinh tiếp tục hoàn thiện hồ sơ dự tuyển tại các Ban tuyển sinh) 2 10-12/6/2026 Hướng dẫn thí sinh dự tuyển vào các trường CAND tham dự Kỳ thi tốt nghiệp THPT Quốc gia năm 2026 3 10-15/6/2026 Thông báo và phối hợp Công an các địa phương có thí sinh trúng tuyển Phương thức 1 đại học chính quy tuyển mới hướng dẫn xác nhận nguyện vọng nhập học. 4 20-21/6/2026 Tổ chức Kỳ thi đánh giá của Bộ Công an năm 2026 5 Tháng 6-7/2026 Tổ chức chấm thi 6 10-15/7/2026 Thống nhất ngày công bố điểm thi đại học chính quy tuyển mới theo lịch tuyển sinh của Bộ Công an; tiếp nhận đơn phúc khảo 7 Tháng 7/2026 Hướng dẫn thí sinh dự thi tuyển sinh đại học chính quy tuyển mới đăng ký nguyện vọng xét tuyển chính thức theo lịch của Bộ Giáo dục và Đào tạo 8 Tháng 7/2026 Thông báo ngưỡng đảm bảo chất lượng đầu vào 9 Tháng 7/2026 Công bố kết quả phúc khảo 10 13/8/2026 Các trường CAND báo cáo kết quả xét tuyển Phương thức 2, 3 đại học chính quy tuyển mới 11 14/8/2026 Thông báo danh sách thí sinh trúng tuyển đại học chính quy tuyển mới về Công an các đơn vị, địa phương và thông báo trên phương tiện thông tin đại chúng 12 15/8-01/9/2026 Công an các đơn vị, địa phương tiếp nhận bản chính: giấy chứng nhận kết quả thi tốt nghiệp THPT, giấy chứng nhận về giải đạt được, chứng chỉ ngoại ngữ,… từ thí sinh trúng tuyển đại học chính quy tuyển mới; báo cáo kết quả tiếp nhận về các trường 13 07/9/2026 – Cập nhật thông tin thí sinh xác nhận nhập học đại học chính quy tuyển mới và báo cáo kết quả xác nhận nhập học về Cục Đào tạo; – Thông báo xét tuyển bổ sung đối với số thí sinh không xác nhận nhập học theo hướng dẫn của Cục Đào tạo. 14 23-27/9/2026 Chiêu sinh, nhập học thí sinh trúng tuyển",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-phong-chay-chua-chay-phia-bac-PCH.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860113",
+            "program_name": "Phòng cháy chữa cháy và cứu nạn, cứu hộ (Thí sinh Nam, miền Bắc)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 21.1,
+            "note": "Điểm thi THPT và ĐGNL BCA"
+          },
+          {
+            "program_code": "7860113",
+            "program_name": "Phòng cháy chữa cháy và cứu nạn, cứu hộ (Thí sinh Nữ, miền Bắc)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 24.23,
+            "note": "Điểm ĐGNL BCA và CCQT"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-chung-chi-quoc-te",
+        "method_name": "Điểm chuẩn theo phương thức Chứng chỉ quốc tế năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7860113",
+            "program_name": "Phòng cháy chữa cháy và cứu nạn, cứu hộ (Thí sinh Nam, miền Bắc)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 21.1,
+            "note": "Điểm thi THPT và ĐGNL BCA"
+          },
+          {
+            "program_code": "7860113",
+            "program_name": "Phòng cháy chữa cháy và cứu nạn, cứu hộ (Thí sinh Nữ, miền Bắc)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 24.23,
+            "note": "Điểm ĐGNL BCA và CCQT"
+          }
+        ]
+      }
+    ]
+  }
+}

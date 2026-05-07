@@ -1,0 +1,1272 @@
+{
+  "university": {
+    "code": "QSC",
+    "name": "Trường Đại học Công nghệ Thông tin - Đại học Quốc gia TPHCM",
+    "short_name": "UIT",
+    "location": [
+      "HCM - Hồ Chí Minh"
+    ],
+    "address": "KM 20, xa lộ Hà Nội, phường Linh Trung, quận Thủ Đức, TP.Hồ Chí Minh",
+    "website": "http://www.uit.edu.vn",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": 20,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-cong-nghe-thong-tin-dhqg-tphcm-QSC.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2025/0611/thong-tin-tuyen-sinh-dai-hoc-cong-nghe-thong-tin-dhqghcm-2025.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN - ĐHQG TPHCM 2026 Thông tin tuyển sinh Đại Học Công Nghệ Thông Tin – Đại Học Quốc Gia TPHCM (UIT) năm 2026 Hôm nay (11.2), Trường ĐH Công nghệ thông tin (ĐH Quốc gia TP.HCM) công bố dự kiến phương hướng tuyển sinh ĐH chính quy năm 2026. Đáng chú ý, theo PGS-TS Nguyễn Tấn Trần Minh Khang, Phó hiệu trưởng phụ trách, trường ĐH này lần đầu tiên dành chỉ tiêu xét riêng với sinh viên quốc tế học học tại trường. Theo đó, năm nay trường chỉ tuyển sinh theo 2 phương thức: tuyển thẳng theo quy chế tuyển sinh của Bộ GD-ĐT và xét tuyển tổng hợp. Phương thức 1: Tuyển thẳng theo quy chế tuyển sinh của Bộ GD-ĐT Phương thức 2: xét tuyển tổng hợp được thực hiện theo công thức: Điểm xét tuyển = Hs1 x THPT + Hs2 x ĐGNL + Hs3 x HB + Điểm cộng (nếu có) + Điểm ưu tiên (nếu có) Đáng chú ý, trong thông báo tuyển sinh ĐH hệ chính quy năm 2026, Trường ĐH Công nghệ thông tin TP.HCM dự kiến lần đầu tiên thực hiện xét tuyển riêng đối với sinh viên quốc tế vào ngành kỹ thuật phần mềm (20 chỉ tiêu). Đối tượng và điều kiện tuyển sinh gồm: Công dân các quốc gia thuộc Hiệp hội các quốc gia Đông Nam Á (ASEAN), có nguyện vọng học tập tại trường, ngành kỹ thuật phần mềm, theo chương trình đào tạo giảng dạy bằng tiếng Việt; Đã tốt nghiệp THPT hoặc tương đương; văn bằng, chứng chỉ do cơ sở giáo dục nước ngoài cấp phải được công nhận theo quy định của Bộ GD-ĐT Việt Nam. Khám phá thêm Hướng dẫn Thành phố & Địa phương Khoa học Tài nguyên giáo dục",
+  "admission_methods": [
+    {
+      "method_id": "1-utxt-xt-thang",
+      "method_name": "1 ƯTXT, XT THẲNG",
+      "description": "1.1 ĐỐI TƯỢNG Phương thức 1 tuyển thẳng theo quy chế tuyển sinh của Bộ GD-ĐT được quy định cụ thể như bảng sau: DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ƯTXT, XT THẲNG STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7320104 Truyền thông Đa phương tiện 2 7340122 Thương mại điện tử 3 7460108 Khoa học dữ liệu 4 7460108_TA Khoa học dữ liệu (Chương trình đào tạo bằng tiếng Anh) 5 7480101 Khoa học máy tính 6 7480101_TA Khoa học máy tính (Chương trình đào tạo bằng tiếng Anh) 7 7480102 Mạng máy tính và truyền t",
+      "eligibility": "ĐỐI TƯỢNG Phương thức 1 tuyển thẳng theo",
+      "rules": "quy chế tuyển sinh của Bộ GD-ĐT được quy định cụ thể như bảng sau:",
+      "programs": [
+        {
+          "program_code": "7320104",
+          "program_name": "Truyền thông Đa phương tiện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7480102",
+          "program_name": "Mạng máy tính và truyền thông dữ liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7480103",
+          "program_name": "Kỹ thuật phần mềm",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7480104",
+          "program_name": "Hệ thống thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7480106",
+          "program_name": "Kỹ thuật máy tính",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7480107",
+          "program_name": "Trí tuệ nhân tạo",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7480202",
+          "program_name": "An toàn thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "17"
+        }
+      ]
+    },
+    {
+      "method_id": "2-xet-tuyen-tong-hop",
+      "method_name": "2 XÉT TUYỂN TỔNG HỢP",
+      "description": "2.1 ĐIỀU KIỆN XÉT TUYỂN Ngưỡng đảm bảo đầu vào dự kiến Ngưỡng đảm bảo chất lượng đầu vào (NĐBCL): Thí sinh chỉ được tham gia xét tuyển theo phương thức tổng hợp nếu thỏa một trong các điều kiện sau: - Đối với kết quả kỳ thi tốt nghiệp THPT năm 2026: Ngành Thiết kế vi mạch: thí sinh phải thuộc top 25% thí sinh có điểm tổ hợp môn xét tuyển cao nhất toàn quốc và thuộc nhóm 20% thí sinh có điểm môn Toán cao nhất toàn quốc (theo số liệu BGD&ĐT công bố hàng năm). Tất cả các ngành còn lại (trừ ngành Th",
+      "eligibility": null,
+      "rules": "QUY CHẾ Phương thức 2 xét tuyển tổng hợp được thực hiện theo công thức: Điểm xét tuyển = Hs1 x THPT + Hs2 x ĐGNL + Hs3 x HB + Điểm cộng (nếu có) + Điểm ưu tiên (nếu có) Trong đó, hệ số thành phần điểm: Hs1 = 47,5%, Hs2 47,5%, Hs3 = 5% Điểm xét tuyển tính trên thang điểm 100, mức tối đa là 100 điểm. Các loại điểm thành phần để xét tuyển bao gồm: + Thành phần điểm THPT gồm: THPT ĐT: Điểm thi tốt nghiệp THPT năm 2026 của thí sinh (tổ hợp xét tuyển cao nhất của ngành); THPT QĐ: Điểm THPT quy đổi từ điểm thi đánh giá năng lực theo phương pháp bách phân vị; THPT QT: Điểm tốt nghiệp THPT theo chương trình quốc tế (A level, IB...). + Thành phần điểm đánh giá năng lực (ĐGNL): ĐGNL ĐT: Điểm thi đánh giá năng lực do ĐH Quốc gia TP.HCM tổ chức năm 2026 của thí sinh; ĐGNL QĐ: Điểm đánh giá năng lực quy đổi từ điểm thi tốt nghiệp THPT theo phương pháp bách phân vị; ĐGNL_QT: Điểm của chứng chỉ quốc tế đánh giá năng lực (SAT, ACT...). + Thành phần điểm HB: Điểm trung bình 3 năm kết quả học tập THPT các môn theo tổ hợp xét tuyển cao nhất của ngành. Điểm cộng tối đa 10 điểm trên thang 100 Trường quy định điểm cộng tối đa 10 điểm trên thang 100. Cụ thể: Điểm cộng tối đa 5 điểm: dành cho thí sinh đạt huy chương vàng/bạc/đồng kỳ thi Olympic quốc tế; giải nhất, nhì, ba, khuyến khích trong kỳ thi chọn học sinh giỏi quốc gia; Thí sinh đạt giải nhất, nhì, ba kỳ thi học sinh giỏi cấp tỉnh/thành phố trực thuộc T.Ư (trong thời gian học tập ở bậc THPT) các môn học theo bảng sau: Điểm cộng tối đa 5 điểm dành cho thí sinh đạt giải đặc biệt, giải nhất, nhì, ba kỳ thi Olympic tin học sinh viên Việt Nam (OLP) - khối siêu cúp và khối chuyên tin năm 2024, 2025, 2026; Thí sinh đạt giải đặc biệt, giải nhất, nhì, ba kỳ thi Olympic trí tuệ nhân tạo dành cho học sinh toàn quốc (VOAI) năm 2025, 2026. Điểm cộng tối đa 5 điểm dành cho thí sinh có chứng chỉ ngoại ngữ quốc tế (IELTS, TOEFL IBT, TOEIC, JLPT) còn thời hạn thỏa điều kiện trong bảng sau: Điểm cộng tối đa 5 điểm dành cho thí sinh thuộc",
+      "programs": [
+        {
+          "program_code": "7320104",
+          "program_name": "Truyền thông Đa phương tiện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7480102",
+          "program_name": "Mạng máy tính và truyền thông dữ liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7480103",
+          "program_name": "Kỹ thuật phần mềm",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7480104",
+          "program_name": "Hệ thống thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7480106",
+          "program_name": "Kỹ thuật máy tính",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7480107",
+          "program_name": "Trí tuệ nhân tạo",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7480202",
+          "program_name": "An toàn thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "17"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7320104",
+          "program_name": "Truyền thông Đa phương tiện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7320104",
+          "program_name": "Truyền thông Đa phương tiện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7480101",
+          "program_name": "Khoa học máy tính",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7480102",
+          "program_name": "Mạng máy tính và truyền thông dữ liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7480102",
+          "program_name": "Mạng máy tính và truyền thông dữ liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7480103",
+          "program_name": "Kỹ thuật phần mềm",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7480103",
+          "program_name": "Kỹ thuật phần mềm",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7480104",
+          "program_name": "Hệ thống thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7480104",
+          "program_name": "Hệ thống thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7480106",
+          "program_name": "Kỹ thuật máy tính",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7480106",
+          "program_name": "Kỹ thuật máy tính",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7480107",
+          "program_name": "Trí tuệ nhân tạo",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7480107",
+          "program_name": "Trí tuệ nhân tạo",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7480202",
+          "program_name": "An toàn thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7480202",
+          "program_name": "An toàn thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "17"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn của trường Đại học Công nghệ thông tin - Đại học Quốc gia TPHCM các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-cong-nghe-thong-tin-dhqg-tphcm-QSC.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông Đa phương tiện",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "X26",
+              "D09",
+              "D10",
+              "D07"
+            ],
+            "score": 25,
+            "note": null
+          },
+          {
+            "program_code": "7340122",
+            "program_name": "Thương mại điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X06",
+              "D07"
+            ],
+            "score": 24.57,
+            "note": null
+          },
+          {
+            "program_code": "7460108",
+            "program_name": "Khoa học dữ liệu",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X06",
+              "D07",
+              "A02"
+            ],
+            "score": 27.7,
+            "note": null
+          },
+          {
+            "program_code": "7480101",
+            "program_name": "Khoa học máy tính",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X06",
+              "D07"
+            ],
+            "score": 27.2,
+            "note": null
+          },
+          {
+            "program_code": "7480102",
+            "program_name": "Mạng máy tính và truyền thông dữ liệu",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X06",
+              "D07",
+              "X14"
+            ],
+            "score": 24,
+            "note": null
+          },
+          {
+            "program_code": "7480103",
+            "program_name": "Kỹ thuật phần mềm",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X06",
+              "D07"
+            ],
+            "score": 26,
+            "note": null
+          },
+          {
+            "program_code": "7480104",
+            "program_name": "Hệ thống thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X06",
+              "D07",
+              "D08"
+            ],
+            "score": 24.7,
+            "note": null
+          },
+          {
+            "program_code": "7480104_TT",
+            "program_name": "Hệ thống thông tin (tiên tiến)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "X26",
+              "D07",
+              "D08"
+            ],
+            "score": 24.2,
+            "note": null
+          },
+          {
+            "program_code": "7480106",
+            "program_name": "Kỹ thuật máy tính",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26"
+            ],
+            "score": 25.3,
+            "note": null
+          },
+          {
+            "program_code": "7480107",
+            "program_name": "Trí tuệ nhân tạo",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X06",
+              "D07"
+            ],
+            "score": 29.6,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X06",
+              "D07"
+            ],
+            "score": 26.6,
+            "note": null
+          },
+          {
+            "program_code": "7480201_VN",
+            "program_name": "Công nghệ thông tin Việt Nhật",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X06",
+              "D07",
+              "D06"
+            ],
+            "score": 24.2,
+            "note": null
+          },
+          {
+            "program_code": "7480202",
+            "program_name": "An toàn thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X06",
+              "D07"
+            ],
+            "score": 26.27,
+            "note": null
+          },
+          {
+            "program_code": "752020A1",
+            "program_name": "Thiết kế Vi mạch",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26"
+            ],
+            "score": 27,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông Đa phương tiện",
+            "subject_groups": [],
+            "score": 911,
+            "note": null
+          },
+          {
+            "program_code": "7340122",
+            "program_name": "Thương mại điện tử",
+            "subject_groups": [],
+            "score": 889,
+            "note": null
+          },
+          {
+            "program_code": "7460108",
+            "program_name": "Khoa học dữ liệu",
+            "subject_groups": [],
+            "score": 1010,
+            "note": null
+          },
+          {
+            "program_code": "7480101",
+            "program_name": "Khoa học máy tính",
+            "subject_groups": [],
+            "score": 993,
+            "note": null
+          },
+          {
+            "program_code": "7480102",
+            "program_name": "Mạng máy tính và truyền thông dữ liệu",
+            "subject_groups": [],
+            "score": 854,
+            "note": null
+          },
+          {
+            "program_code": "7480103",
+            "program_name": "Kỹ thuật phần mềm",
+            "subject_groups": [],
+            "score": 946,
+            "note": null
+          },
+          {
+            "program_code": "7480104",
+            "program_name": "Hệ thống thông tin",
+            "subject_groups": [],
+            "score": 891,
+            "note": null
+          },
+          {
+            "program_code": "7480104_TT",
+            "program_name": "Hệ thống thông tin (tiên tiến)",
+            "subject_groups": [],
+            "score": 867,
+            "note": null
+          },
+          {
+            "program_code": "7480106",
+            "program_name": "Kỹ thuật máy tính",
+            "subject_groups": [],
+            "score": 923,
+            "note": null
+          },
+          {
+            "program_code": "7480107",
+            "program_name": "Trí tuệ nhân tạo",
+            "subject_groups": [],
+            "score": 1098,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [],
+            "score": 969,
+            "note": null
+          },
+          {
+            "program_code": "7480201_VN",
+            "program_name": "Công nghệ thông tin Việt Nhật",
+            "subject_groups": [],
+            "score": 867,
+            "note": null
+          },
+          {
+            "program_code": "7480202",
+            "program_name": "An toàn thông tin",
+            "subject_groups": [],
+            "score": 956,
+            "note": null
+          },
+          {
+            "program_code": "752020A1",
+            "program_name": "Thiết kế Vi mạch",
+            "subject_groups": [],
+            "score": 984,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-utxt-xt-thang",
+        "method_name": "Điểm chuẩn theo phương thức ƯTXT, XT thẳng năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông Đa phương tiện",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D09",
+              "D10",
+              "X02",
+              "X26"
+            ],
+            "score": 27.97,
+            "note": "Thí sinh thuộc DS 149 trường THPT ƯTXT vào ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông Đa phương tiện",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D09",
+              "D10",
+              "X02",
+              "X26"
+            ],
+            "score": 27.97,
+            "note": "Thí sinh giỏi, tài năng của các trường THPT"
+          },
+          {
+            "program_code": "7340122",
+            "program_name": "Thương mại điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X06",
+              "D07"
+            ],
+            "score": 27.75,
+            "note": "Thí sinh thuộc DS 149 trường THPT ƯTXT vào ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7340122",
+            "program_name": "Thương mại điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X06",
+              "D07"
+            ],
+            "score": 27.75,
+            "note": "Thí sinh giỏi, tài năng của các trường THPT"
+          },
+          {
+            "program_code": "7460108",
+            "program_name": "Khoa học dữ liệu",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X06",
+              "D07",
+              "A02"
+            ],
+            "score": 29.14,
+            "note": "Thí sinh giỏi, tài năng của các trường THPT"
+          },
+          {
+            "program_code": "7460108",
+            "program_name": "Khoa học dữ liệu",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X06",
+              "D07",
+              "A02"
+            ],
+            "score": 29.14,
+            "note": "Thí sinh thuộc DS 149 trường THPT ƯTXT vào ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7480101",
+            "program_name": "Khoa học máy tính",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X06",
+              "D07"
+            ],
+            "score": 28.9,
+            "note": "Thí sinh thuộc DS 149 trường THPT ƯTXT vào ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7480101",
+            "program_name": "Khoa học máy tính",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X06",
+              "D07"
+            ],
+            "score": 28.9,
+            "note": "Thí sinh giỏi, tài năng của các trường THPT"
+          },
+          {
+            "program_code": "7480102",
+            "program_name": "Mạng máy tính và truyền thông dữ liệu",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X06",
+              "D07",
+              "X14"
+            ],
+            "score": 27.47,
+            "note": "Thí sinh thuộc DS 149 trường THPT ƯTXT vào ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7480102",
+            "program_name": "Mạng máy tính và truyền thông dữ liệu",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X06",
+              "D07",
+              "X14"
+            ],
+            "score": 27.47,
+            "note": "Thí sinh giỏi, tài năng của các trường THPT"
+          },
+          {
+            "program_code": "7480103",
+            "program_name": "Kỹ thuật phần mềm",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X06",
+              "D07"
+            ],
+            "score": 28.37,
+            "note": "Thí sinh thuộc DS 149 trường THPT ƯTXT vào ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7480103",
+            "program_name": "Kỹ thuật phần mềm",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X06",
+              "D07"
+            ],
+            "score": 28.37,
+            "note": "Thí sinh giỏi, tài năng của các trường THPT"
+          },
+          {
+            "program_code": "7480104",
+            "program_name": "Hệ thống thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X06",
+              "D07",
+              "D08"
+            ],
+            "score": 27.81,
+            "note": "Thí sinh giỏi, tài năng của các trường THPT"
+          },
+          {
+            "program_code": "7480104",
+            "program_name": "Hệ thống thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X06",
+              "D07",
+              "D08"
+            ],
+            "score": 27.81,
+            "note": "Thí sinh thuộc DS 149 trường THPT ƯTXT vào ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7480104_TT",
+            "program_name": "Hệ thống thông tin (tiên tiến)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "X26",
+              "D07",
+              "D08"
+            ],
+            "score": 27.58,
+            "note": "Thí sinh giỏi, tài năng của các trường THPT"
+          },
+          {
+            "program_code": "7480104_TT",
+            "program_name": "Hệ thống thông tin (tiên tiến)",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "X26",
+              "D07",
+              "D08"
+            ],
+            "score": 27.58,
+            "note": "Thí sinh thuộc DS 149 trường THPT ƯTXT vào ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7480106",
+            "program_name": "Kỹ thuật máy tính",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26"
+            ],
+            "score": 28.1,
+            "note": "Thí sinh giỏi, tài năng của các trường THPT"
+          },
+          {
+            "program_code": "7480106",
+            "program_name": "Kỹ thuật máy tính",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26"
+            ],
+            "score": 28.1,
+            "note": "Thí sinh thuộc DS 149 trường THPT ƯTXT vào ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7480107",
+            "program_name": "Trí tuệ nhân tạo",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X06",
+              "D07"
+            ],
+            "score": 29.91,
+            "note": "Thí sinh giỏi, tài năng của các trường THPT"
+          },
+          {
+            "program_code": "7480107",
+            "program_name": "Trí tuệ nhân tạo",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X06",
+              "D07"
+            ],
+            "score": 29.91,
+            "note": "Thí sinh thuộc DS 149 trường THPT ƯTXT vào ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X06",
+              "D07"
+            ],
+            "score": 28.64,
+            "note": "Thí sinh giỏi, tài năng của các trường THPT"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X06",
+              "D07"
+            ],
+            "score": 28.64,
+            "note": "Thí sinh thuộc DS 149 trường THPT ƯTXT vào ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7480201_VN",
+            "program_name": "Công nghệ thông tin Việt Nhật",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X06",
+              "D07",
+              "D06"
+            ],
+            "score": 27.58,
+            "note": "Thí sinh thuộc DS 149 trường THPT ƯTXT vào ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7480201_VN",
+            "program_name": "Công nghệ thông tin Việt Nhật",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X06",
+              "D07",
+              "D06"
+            ],
+            "score": 27.58,
+            "note": "Thí sinh giỏi, tài năng của các trường THPT"
+          },
+          {
+            "program_code": "7480202",
+            "program_name": "An toàn thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X06",
+              "D07"
+            ],
+            "score": 28.48,
+            "note": "Thí sinh thuộc DS 149 trường THPT ƯTXT vào ĐHQG TPHCM"
+          },
+          {
+            "program_code": "7480202",
+            "program_name": "An toàn thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X06",
+              "D07"
+            ],
+            "score": 28.48,
+            "note": "Thí sinh giỏi, tài năng của các trường THPT"
+          },
+          {
+            "program_code": "752020A1",
+            "program_name": "Thiết kế Vi mạch",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26"
+            ],
+            "score": 28.8,
+            "note": "Thí sinh giỏi, tài năng của các trường THPT"
+          },
+          {
+            "program_code": "752020A1",
+            "program_name": "Thiết kế Vi mạch",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "X06",
+              "X26"
+            ],
+            "score": 28.8,
+            "note": "Thí sinh thuộc DS 149 trường THPT ƯTXT vào ĐHQG TPHCM"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-chung-chi-quoc-te",
+        "method_name": "Điểm chuẩn theo phương thức Chứng chỉ quốc tế năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông Đa phương tiện",
+            "subject_groups": [],
+            "score": 1360,
+            "note": "SAT"
+          },
+          {
+            "program_code": "7320104",
+            "program_name": "Truyền thông Đa phương tiện",
+            "subject_groups": [],
+            "score": 30,
+            "note": "ACT"
+          },
+          {
+            "program_code": "7340122",
+            "program_name": "Thương mại điện tử",
+            "subject_groups": [],
+            "score": 29,
+            "note": "ACT"
+          },
+          {
+            "program_code": "7340122",
+            "program_name": "Thương mại điện tử",
+            "subject_groups": [],
+            "score": 1340,
+            "note": "SAT"
+          },
+          {
+            "program_code": "7460108",
+            "program_name": "Khoa học dữ liệu",
+            "subject_groups": [],
+            "score": 29,
+            "note": "ACT"
+          },
+          {
+            "program_code": "7460108",
+            "program_name": "Khoa học dữ liệu",
+            "subject_groups": [],
+            "score": 1344,
+            "note": "SAT"
+          },
+          {
+            "program_code": "7480101",
+            "program_name": "Khoa học máy tính",
+            "subject_groups": [],
+            "score": 29,
+            "note": "ACT"
+          },
+          {
+            "program_code": "7480101",
+            "program_name": "Khoa học máy tính",
+            "subject_groups": [],
+            "score": 1344,
+            "note": "SAT"
+          },
+          {
+            "program_code": "7480102",
+            "program_name": "Mạng máy tính và truyền thông dữ liệu",
+            "subject_groups": [],
+            "score": 29,
+            "note": "ACT"
+          },
+          {
+            "program_code": "7480102",
+            "program_name": "Mạng máy tính và truyền thông dữ liệu",
+            "subject_groups": [],
+            "score": 1344,
+            "note": "SAT"
+          },
+          {
+            "program_code": "7480103",
+            "program_name": "Kỹ thuật phần mềm",
+            "subject_groups": [],
+            "score": 29,
+            "note": "ACT"
+          },
+          {
+            "program_code": "7480103",
+            "program_name": "Kỹ thuật phần mềm",
+            "subject_groups": [],
+            "score": 1344,
+            "note": "SAT"
+          },
+          {
+            "program_code": "7480104",
+            "program_name": "Hệ thống thông tin",
+            "subject_groups": [],
+            "score": 1344,
+            "note": "SAT"
+          },
+          {
+            "program_code": "7480104",
+            "program_name": "Hệ thống thông tin",
+            "subject_groups": [],
+            "score": 29,
+            "note": "ACT"
+          },
+          {
+            "program_code": "7480104_TT",
+            "program_name": "Hệ thống thông tin (tiên tiến)",
+            "subject_groups": [],
+            "score": 1344,
+            "note": "SAT"
+          },
+          {
+            "program_code": "7480104_TT",
+            "program_name": "Hệ thống thông tin (tiên tiến)",
+            "subject_groups": [],
+            "score": 29,
+            "note": "ACT"
+          },
+          {
+            "program_code": "7480106",
+            "program_name": "Kỹ thuật máy tính",
+            "subject_groups": [],
+            "score": 1344,
+            "note": "SAT"
+          },
+          {
+            "program_code": "7480106",
+            "program_name": "Kỹ thuật máy tính",
+            "subject_groups": [],
+            "score": 29,
+            "note": "ACT"
+          },
+          {
+            "program_code": "7480107",
+            "program_name": "Trí tuệ nhân tạo",
+            "subject_groups": [],
+            "score": 1440,
+            "note": "SAT"
+          },
+          {
+            "program_code": "7480107",
+            "program_name": "Trí tuệ nhân tạo",
+            "subject_groups": [],
+            "score": 32,
+            "note": "ACT"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [],
+            "score": 1344,
+            "note": "SAT"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [],
+            "score": 29,
+            "note": "ACT"
+          },
+          {
+            "program_code": "7480201_VN",
+            "program_name": "Công nghệ thông tin Việt Nhật",
+            "subject_groups": [],
+            "score": 30,
+            "note": "ACT"
+          },
+          {
+            "program_code": "7480201_VN",
+            "program_name": "Công nghệ thông tin Việt Nhật",
+            "subject_groups": [],
+            "score": 1360,
+            "note": "SAT"
+          },
+          {
+            "program_code": "7480202",
+            "program_name": "An toàn thông tin",
+            "subject_groups": [],
+            "score": 1344,
+            "note": "SAT"
+          },
+          {
+            "program_code": "7480202",
+            "program_name": "An toàn thông tin",
+            "subject_groups": [],
+            "score": 29,
+            "note": "ACT"
+          },
+          {
+            "program_code": "752020A1",
+            "program_name": "Thiết kế Vi mạch",
+            "subject_groups": [],
+            "score": 1344,
+            "note": "SAT"
+          },
+          {
+            "program_code": "752020A1",
+            "program_name": "Thiết kế Vi mạch",
+            "subject_groups": [],
+            "score": 29,
+            "note": "ACT"
+          }
+        ]
+      }
+    ]
+  }
+}

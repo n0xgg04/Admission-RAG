@@ -39,7 +39,7 @@ export async function loadCatalog(): Promise<CatalogCache> {
     return cache;
   }
 
-  const dataDir = path.resolve(process.cwd(), "..", "data");
+  const dataDir = path.resolve(process.cwd(), "data");
   const schoolsPath = path.join(dataDir, "truong.json");
   const cutoffsPath = path.join(dataDir, "diem_chuan_THPT.json");
 

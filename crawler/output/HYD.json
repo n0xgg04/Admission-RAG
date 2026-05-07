@@ -1,0 +1,271 @@
+{
+  "university": {
+    "code": "HYD",
+    "name": "Học viện Y Dược Học Cổ truyền Việt Nam",
+    "short_name": "VUTM",
+    "location": [
+      "Hà Nội"
+    ],
+    "address": "Số 2 – Trần Phú - Hà Đông - Hà Nội.",
+    "website": "www.vutm.edu.vn",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2025,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/hoc-vien-y-duoc-hoc-co-truyen-viet-nam-HYD.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2025/0703/thong-tin-tuyen-sinh-hoc-vien-y-duoc-hoc-co-truyen-viet-nam-2025.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH HỌC VIỆN Y DƯỢC HỌC CỔ TRUYỀN VIỆT NAM 2025 Thông tin tuyển sinh Học viện Y Dược Học Cổ truyền Việt Nam (VUTM) năm 2025 Học viện xét tuyển thẳng theo quy chế của Bộ Giáo dục và đào tạo và sử dụng kết quả kì thi tốt nghiệp THPT năm 2025 để xét tuyển. Phương thức 1: Sử dụng kết quả kì thi tốt nghiệp THPT năm 2025 để xét tuyển (Mã phương thức 100) Phương thức 2: Xét tuyễn thẳng (Phương thức 301)",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 QUY CHẾ - Điểm xét tuyển là tổng điểm các bài thi/môn thi theo thang điểm 10 đối với từng bài thi/môn thi của tổ hợp xét tuyển, cộng với điểm cộng, điểm ưu tiên đối tượng, khu vực theo quy định hiện hành và được làm tròn đến hai chữ số thập phân. - Điểm trúng tuyển xét theo từng ngành (Danh sách thí sinh trúng tuyển được xếp theo thứ tự điểm xét tuyển từ cao xuống thấp đến khi đủ chỉ tiêu). - Trong xét tuyển đợt 1: Đối với mỗi ngành, tất cả thí sinh được xét chọn bình đẳng dựa trên điểm xét ",
+      "eligibility": "đối tượng, khu vực theo quy định hiện hành và được làm tròn đến hai chữ số thập phân. - Điểm trúng tuyển xét theo từng ngành (",
+      "rules": "QUY CHẾ - Điểm xét tuyển là tổng điểm các bài thi/môn thi theo thang điểm 10 đối với từng bài thi/môn thi của tổ hợp xét tuyển, cộng với điểm cộng, điểm ưu tiên",
+      "programs": [
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "A02",
+            "AH4",
+            "B00",
+            "B03",
+            "D08",
+            "D31",
+            "D32",
+            "D33",
+            "D34",
+            "D35",
+            "X14"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720115",
+          "program_name": "Y học cổ truyền",
+          "subject_groups": [
+            "A02",
+            "AH4",
+            "B00",
+            "B03",
+            "D08",
+            "D31",
+            "D32",
+            "D33",
+            "D34",
+            "D35",
+            "X14"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [
+            "A00",
+            "AH2",
+            "B00",
+            "C02",
+            "D07",
+            "D21",
+            "D22",
+            "D23",
+            "D24",
+            "D25",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        }
+      ]
+    },
+    {
+      "method_id": "2-utxt-xt-thang",
+      "method_name": "2 ƯTXT, XT THẲNG",
+      "description": "2.1 ĐỐI TƯỢNG Đối tượng, danh mục hồ sơ đăng ký xét tuyển thẳng Anh hùng Lao động, Anh hùng Lực lượng vũ trang nhân dân, Chiến sĩ thi đua toàn quốc đã tốt nghiệp Trung học phổ thông. Thí sinh đoạt giải Nhất, Nhì, Ba trong kỳ thi chọn học sinh giỏi quốc gia hoặc quốc tế môn Sinh học do Bộ Giáo dục và Đào tạo tổ chức hoặc cử tham gia, tốt nghiệp Trung học phổ thông năm 2025, được xét tuyển thẳng vào ngành Y học cổ truyền hoặc Y khoa. Thí sinh đoạt giải Nhất, Nhì, Ba trong kỳ thi chọn học sinh giỏi",
+      "eligibility": "ĐỐI TƯỢNG Đối tượng, danh mục hồ sơ đăng ký xét tuyển thẳng Anh hùng Lao động, Anh hùng Lực lượng vũ trang nhân dân, Chiến sĩ thi đua toàn quốc đã tốt nghiệp Trung học phổ thông. Thí sinh đoạt giải Nhất, Nhì, Ba trong kỳ thi chọn học sinh giỏi quốc gia hoặc quốc tế môn Sinh học do Bộ Giáo dục và Đào tạo tổ chức hoặc cử tham gia, tốt nghiệp Trung học phổ thông năm 2025, được xét tuyển thẳng vào ngành Y học cổ truyền hoặc Y khoa. Thí sinh đoạt giải Nhất, Nhì, Ba trong kỳ thi chọn học sinh giỏi quốc gia hoặc quốc tế môn Hóa học do Bộ Giáo dục và Đào tạo tổ chức hoặc cử tham gia, tốt nghiệp Trung học phổ thông năm 2025, được xét tuyển thẳng vào ngành Dược học. Thời gian đoạt giải không quá 03 năm tính đến thời điểm xét tuyển thẳng. Hồ sơ đăng ký xét tuyển thẳng gồm: Phiếu đăng ký xét tuyển thẳng (Phụ lục IV – Công văn số 2457/BGDĐT-GDĐH ngày 19/5/2025 của Bộ Giáo dục và Đào tạo) và bản sao công chứng Giấy chứng nhận đoạt giải học sinh giỏi. Thí sinh đoạt giải Nhất, Nhì, Ba trong kỳ thi khoa học, kỹ thuật cấp quốc gia hoặc quốc tế do Bộ Giáo dục và Đào tạo tổ chức hoặc cử tham gia, tốt nghiệp Trung học phổ thông năm 2025. Giám đốc và Hội đồng Khoa học và Đào tạo của Học viện sẽ xem xét cụ thể kết quả dự án hoặc đề tài mà thí sinh đoạt giải để xét tuyển thẳng theo đúng ngành hoặc ngành gần của môn mà thí sinh đã đoạt giải. Hồ sơ đăng ký xét tuyển thẳng gồm: Phiếu đăng ký xét tuyển thẳng (Phụ lục IV – Công văn số 2457/BGDĐT-GDĐH ngày 19/5/2025 của Bộ Giáo dục và Đào tạo), báo cáo tóm tắt đề tài được giải Khoa học kỹ thuật và bản sao công chứng Giấy chứng nhận đoạt giải Khoa học kỹ thuật. Đối với thí sinh là người nước ngoài có nguyện vọng học tại Học viện: Thí sinh phải đạt chuẩn năng lực ngôn ngữ theo yêu cầu của chương trình, ngành đào tạo phù hợp với quy định của Bộ Giáo dục và Đào tạo. Giám đốc Học viện sẽ căn cứ kết quả học tập THPT (bảng điểm), kết quả kiểm tra kiến thức và tiếng Việt theo quy định để xem xét, quyết định. Đối tượng được xét tuyển thẳng vào Học viện Y – Dược học cổ truyền Việt Nam theo quy định tại điểm b, điểm c, khoản 4, điều 8 của",
+      "rules": "Quy chế tuyển sinh đại học, tuyển sinh cao đẳng ngành Giáo dục Mầm non (ban hành kèm theo Thông tư số 08/2022/TT-BGDĐT ngày 06/6/2022 của Bộ Giáo dục và Đào tạo) phải có điểm trung bình các bài thi tốt nghiệp THPT đạt từ 6,00 điểm trở lên và điểm trong học bạ của các môn học tương ứng với bài thi/môn thi thuộc tổ hợp xét tuyển theo từng ngành đạt từ 7,00 điểm trở lên ở cả 3 năm học cấp THPT. Hồ sơ đăng ký xét tuyển thẳng gồm: Phiếu đăng kí xét tuyển thẳng (Phục lục V - Công văn số: 2457 /BGDĐT-GDĐH ngày 19/5/2025 của Bộ Giáo dục và Đào tạo), Bản sao hợp lệ Học bạ cấp THPТ.",
+      "programs": [
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "B00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720115",
+          "program_name": "Y học cổ truyền",
+          "subject_groups": [
+            "B00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [
+            "A00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "A02",
+            "AH4",
+            "B00",
+            "B03",
+            "D08",
+            "D31",
+            "D32",
+            "D33",
+            "D34",
+            "D35",
+            "X14"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "B00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720115",
+          "program_name": "Y học cổ truyền",
+          "subject_groups": [
+            "A02",
+            "AH4",
+            "B00",
+            "B03",
+            "D08",
+            "D31",
+            "D32",
+            "D33",
+            "D34",
+            "D35",
+            "X14"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720115",
+          "program_name": "Y học cổ truyền",
+          "subject_groups": [
+            "B00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [
+            "A00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [
+            "A00",
+            "AH2",
+            "B00",
+            "C02",
+            "D07",
+            "D21",
+            "D22",
+            "D23",
+            "D24",
+            "D25",
+            "X10"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Học viện Y Dược Học Cổ Truyền Việt Nam Tại đây",
+  "tuition_text": "Từ năm học 2025-2026, Học viện thực hiện thu học phí theo lộ trình quy định tại Nghị định 97/2023/NĐ-CP ngày 31/12/2023 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 81/2021/NĐ-CP ngày 27/8/2021 của Chính phủ quy định về cơ chế thu, quản lý học phí đối với cơ sở giáo dục thuộc hệ thống giáo dục quốc dân và chính sách miễn, giảm học phí, hỗ trợ chi phí học tập; giá dịch vụ trong lĩnh vực giáo dục, đào tạo. Cụ thể như sau: - Ngành Bác sĩ Y Khoa áp dụng mức thu học phí là: 3.110.000 đồng/tháng (31.100.000 đồng/năm học) - Ngành Bác sĩ Y học cổ truyền áp dụng mức thu học phí là: 3.110.000 đồng/tháng (31.100.000 đồng/ năm học) - Ngành Dược sĩ áp dụng mức thu học phí là: 2.760.000 đồng/tháng (27.600.000 đồng/năm học) Lộ trình tăng học phí hàng năm theo quy định chung và theo quyết định loại hình tự chủ của cấp có thẩm quyền đối với Học viện. Mỗi học kì, Học viện dành tối thiểu 8% nguồn thu từ học phí để cấp học bổng khuyến khích học tập cho sinh viên",
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-y-duoc-hoc-co-truyen-viet-nam-HYD.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "A02",
+              "D08",
+              "X14"
+            ],
+            "score": 24.25,
+            "note": null
+          },
+          {
+            "program_code": "7720115",
+            "program_name": "Y học cổ truyền",
+            "subject_groups": [
+              "B00",
+              "B03",
+              "A02",
+              "D08",
+              "X14"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học",
+            "subject_groups": [
+              "A00",
+              "B00",
+              "D07",
+              "C02",
+              "X10"
+            ],
+            "score": 21.35,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

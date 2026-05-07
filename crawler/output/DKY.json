@@ -1,0 +1,802 @@
+{
+  "university": {
+    "code": "DKY",
+    "name": "Đại học Kỹ thuật Y tế Hải Dương",
+    "short_name": "HMTU",
+    "location": [
+      "Hải Dương"
+    ],
+    "address": "Số 1 Vũ Hựu, P. Thanh Bình, TP.Hải Dương, tỉnh Hải Dương",
+    "website": "http://www.hmtu.edu.vn",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-ky-thuat-y-te-hai-duong-DKY.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0223/thong-tin-tuyen-sinh-dai-hoc-ky-thuat-y-te-hai-duong-2026.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC KỸ THUẬT Y TẾ HẢI DƯƠNG 2026 Thông tin tuyển sinh trường Đại học Kỹ thuật Y tế Hải Dương (HMTU) năm 2026 Năm 2026, trường tuyển sinh dựa trên 4 phương thức xét tuyển như sau: Phương thức 1: Xét tuyển thẳng Theo quy chế Bộ GD&ĐT và diện dự bị đại học dân tộc. Phương thức 2: Xét điểm thi tốt nghiệp THPT 2026 Theo tổ hợp B00, A00, D07, B08/D08; có quy đổi điểm và cộng ưu tiên. Phương thức 3: Xét học bạ THPT Căn cứ kết quả học tập 3 năm THPT; ngành Y khoa yêu cầu cao hơn (học lực Giỏi, IELTS ≥ 6.5). Phương thức 4: Xét kết quả thi Đánh giá năng lực Kết quả ĐGNL ĐHQG Hà Nội, ĐHQG TP.HCM và ĐGTD ĐH Bách khoa Hà Nội. Xem thời gian và hồ sơ đăng ký xét tuyển HMTU năm 2026 TẠI ĐÂY Khám phá thêm Toán học khoá học sức khỏe",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 ĐIỀU KIỆN XÉT TUYỂN Đối với thí sinh đăng ký sử dụng kết quả kỳ thi tốt nghiệp THPT: - Tốt nghiệp THPT hoặc tương đương. - Tham gia kỳ thi tốt nghiệp trung học phổ thông năm 2026. - Ngưỡng đảm bảo chất lượng đầu vào: (Trường sẽ công bố sau khi có kết quả xác định ngưỡng đảm bảo chất lượng đầu vào các ngành thuộc lĩnh vực sức khỏe của Bộ Giáo dục và Đào tạo). 1.2 QUY CHẾ Xét tuyển căn cứ vào kết quả điểm thi tốt nghiệp THPT năm 2026. Khối B00: Toán học, Hóa học, Sinh học; Khối A00: Toán học, ",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét tuyển căn cứ vào kết quả điểm thi tốt nghiệp THPT năm 2026. Khối B00: Toán học, Hóa học, Sinh học; Khối A00: Toán học, Hóa học, Vật lí, Khối D07: Toán học, Hóa học, Tiếng Anh; Khối B08/D08: Toán học, Sinh học, Tiếng Anh; - Điểm xét tuyển được tính từ tổng điểm thi 3 môn tốt nghiệp THPT theo tổ hợp các môn xét tuyển cộng điểm ưu tiên, khuyến khích (nếu có). Điểm xét tuyển = (2*Điểm A + Điểm B+ Điểm C)*3/4 +UT+KK - Điểm A: Kết quả điểm môn Toán học - Điểm B: Kết quả điểm môn thứ 2 trong tổ hợp xét tuyển - Điểm C: Kết quả điểm môn thứ 3 trong tổ hợp xét tuyển - UT: Điểm ưu tiên (nếu có). - KK: Điểm cộng khuyến khích (nếu có).",
+      "programs": [
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "B00",
+            "A00",
+            "D07",
+            "B08"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng (Điều dưỡng đa khoa, Điều dưỡng Nha khoa, Điều dưỡng Gây mê hồi sức",
+          "subject_groups": [
+            "B00",
+            "A00",
+            "D07",
+            "B08"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật Xét nghiệm y học",
+          "subject_groups": [
+            "B00",
+            "A00",
+            "D07",
+            "B08"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720602",
+          "program_name": "Kỹ thuật Hình ảnh y học",
+          "subject_groups": [
+            "B00",
+            "A00",
+            "D07",
+            "B08"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720603",
+          "program_name": "Kỹ thuật Phục hồi chức năng (Vật lý trị liệu, Hoạt động trị liệu, Ngôn ngữ trị liệu",
+          "subject_groups": [
+            "B00",
+            "A00",
+            "D07",
+            "B08"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-hoc-ba",
+      "method_name": "2 ĐIỂM HỌC BẠ",
+      "description": "2.1 ĐIỀU KIỆN XÉT TUYỂN - Tốt nghiệp THPT hoặc tương đương. - Ngưỡng đảm bảo chất lượng đầu vào: Đối với ngành Y khoa: +Có chứng chỉ tiếng Anh Quốc tế tương đương IELTS đạt từ 6.5 trở lên; + Kết quả học tập 03 năm được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cấp THPT (hoặc tương đương); + Có điểm Trung bình trong 06 học kỳ của từng môn (Toán học, Hóa học), (Toán học, Vật lí) hoặc (Toán học, Sinh học) từ 8.0 trở lên; +Tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử",
+      "eligibility": null,
+      "rules": "QUY CHẾ - Điểm xét tuyển (ĐXT) được tính từ tổng Trung bình điểm 3 môn trong tổ hợp (Khối B00: Toán học, Hóa học, Sinh học;Khối A00: Toán học, Hóa học, Vật lí; Khối D07: Toán học, Hóa học, Tiếng Anh; Khối B08/D08: Toán học, Sinh học, Tiếng Anh) trong 06 học kỳ lớp 10,11,12 với 18 đầu điểm theo tổ hợp môn xét tuyển và cộng điểm khuyến khích, ưu tiên (nếu có). Điểm xét tuyển = (2*Điểm A + Điểm B+ Điểm C)*3/4+UT+KK - Điểm A: Kết quả điểm Trung bình chung học tập Trung học Phổ thông (06 học kỳ lớp 10, 11, 12 của môn Toán học) - Điểm B: Kết quả điểm Trung bình chung học tập Trung học Phổ thông (06 học kỳ lớp 10, 11, 12 của môn thứ 2 trong tổ hợp xét tuyển) - Điểm C: Kết quả điểm Trung bình chung học tập Trung học Phổ thông (06 học kỳ lớp 10, 11, 12 của môn thứ 3 trong tổ hợp xét tuyển) - UT: Điểm ưu tiên (nếu có). - KK: Điểm cộng khuyến khích (nếu có). - Điểm xét tuyển sẽ được quy đổi tương đương với điểm thi tốt nghiệp THPT năm 2026.",
+      "programs": [
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "B00",
+            "A00",
+            "D07",
+            "B08"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng (Điều dưỡng đa khoa, Điều dưỡng Nha khoa, Điều dưỡng Gây mê hồi sức",
+          "subject_groups": [
+            "B00",
+            "A00",
+            "D07",
+            "B08"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật Xét nghiệm y học",
+          "subject_groups": [
+            "B00",
+            "A00",
+            "D07",
+            "B08"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720602",
+          "program_name": "Kỹ thuật Hình ảnh y học",
+          "subject_groups": [
+            "B00",
+            "A00",
+            "D07",
+            "B08"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720603",
+          "program_name": "Kỹ thuật Phục hồi chức năng (Vật lý trị liệu, Hoạt động trị liệu, Ngôn ngữ trị liệu",
+          "subject_groups": [
+            "B00",
+            "A00",
+            "D07",
+            "B08"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        }
+      ]
+    },
+    {
+      "method_id": "3-iem-gnl-hcm",
+      "method_name": "3 ĐIỂM ĐGNL HCM",
+      "description": "3.1 ĐIỀU KIỆN XÉT TUYỂN - Tốt nghiệp THPT hoặc tương đương. - Có điểm đánh giá năng lực năm 2026 của Đại học Quốc gia Hà Nội, Đại học Quốc gia Thành phố Hồ Chí Minh; Đánh giá tư duy năm 2026 của Đại học Bách khoa Hà Nội. - Ngưỡng đảm bảo chất lượng đầu vào: Đối với ngành Y khoa: + Kết quả học tập 03 năm được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cấp THPT (hoặc tương đương); +Tổng điểm 03 môn thi tốt nghiệp THPT theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán, Ngữ văn và một m",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét tuyển căn cứ vào kết quả thi đánh giá năng lực của Đại học Quốc gia Hà Nội",
+      "programs": [
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng (Điều dưỡng đa khoa, Điều dưỡng Nha khoa, Điều dưỡng Gây mê hồi sức",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật Xét nghiệm y học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720602",
+          "program_name": "Kỹ thuật Hình ảnh y học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720603",
+          "program_name": "Kỹ thuật Phục hồi chức năng (Vật lý trị liệu, Hoạt động trị liệu, Ngôn ngữ trị liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        }
+      ]
+    },
+    {
+      "method_id": "4-iem-anh-gia-tu-duy",
+      "method_name": "4 ĐIỂM ĐÁNH GIÁ TƯ DUY",
+      "description": "4.1 ĐỐI TƯỢNG Xét tuyển căn cứ vào kết quả thi Đánh giá tư duy của Đại học Bách khoa Hà Nội. 4.2 ĐIỀU KIỆN XÉT TUYỂN - Tốt nghiệp THPT hoặc tương đương. - Có điểm đánh giá năng lực năm 2026 của Đại học Quốc gia Hà Nội, Đại học Quốc gia Thành phố Hồ Chí Minh; Đánh giá tư duy năm 2026 của Đại học Bách khoa Hà Nội. - Ngưỡng đảm bảo chất lượng đầu vào: Đối với ngành Y khoa: + Kết quả học tập 03 năm được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cấp THPT (hoặc tương đương); +Tổng điểm 03 mô",
+      "eligibility": "ĐỐI TƯỢNG Xét tuyển căn cứ vào kết quả thi Đánh giá tư duy của Đại học Bách khoa Hà Nội. 4.2",
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng (Điều dưỡng đa khoa, Điều dưỡng Nha khoa, Điều dưỡng Gây mê hồi sức",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật Xét nghiệm y học",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720602",
+          "program_name": "Kỹ thuật Hình ảnh y học",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720603",
+          "program_name": "Kỹ thuật Phục hồi chức năng (Vật lý trị liệu, Hoạt động trị liệu, Ngôn ngữ trị liệu",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        }
+      ]
+    },
+    {
+      "method_id": "5-iem-gnl-hn",
+      "method_name": "5 ĐIỂM ĐGNL HN",
+      "description": "5.1 ĐỐI TƯỢNG Xét tuyển căn cứ vào kết quả thi đánh giá năng lực của Đại học Quốc gia Hà Nội 5.2 ĐIỀU KIỆN XÉT TUYỂN - Tốt nghiệp THPT hoặc tương đương. - Có điểm đánh giá năng lực năm 2026 của Đại học Quốc gia Hà Nội, Đại học Quốc gia Thành phố Hồ Chí Minh; Đánh giá tư duy năm 2026 của Đại học Bách khoa Hà Nội. - Ngưỡng đảm bảo chất lượng đầu vào: Đối với ngành Y khoa: + Kết quả học tập 03 năm được đánh giá mức tốt (học lực xếp loại từ giỏi trở lên) cấp THPT (hoặc tương đương); +Tổng điểm 03 mô",
+      "eligibility": "ĐỐI TƯỢNG Xét tuyển căn cứ vào kết quả thi đánh giá năng lực của Đại học Quốc gia Hà Nội 5.2",
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng (Điều dưỡng đa khoa, Điều dưỡng Nha khoa, Điều dưỡng Gây mê hồi sức",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật Xét nghiệm y học",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720602",
+          "program_name": "Kỹ thuật Hình ảnh y học",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720603",
+          "program_name": "Kỹ thuật Phục hồi chức năng (Vật lý trị liệu, Hoạt động trị liệu, Ngôn ngữ trị liệu",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        }
+      ]
+    },
+    {
+      "method_id": "6-utxt-xt-thang",
+      "method_name": "6 ƯTXT, XT THẲNG",
+      "description": "6.1 ĐIỀU KIỆN XÉT TUYỂN Điều kiện tuyển thẳng và điều kiện ưu tiên xét tuyển vào các ngành học: STT Ngành Tiêu chí 1. Y khoa Thí sinh đoạt từ giải ba trở lên môn Toán học, Vật lí, Hóa học, Sinh học trong kỳ thi chọn học sinh giỏi Quốc gia; 2. Điều dưỡng 3. Kỹ thuật Xét nghiệm y học 4. Kỹ thuật Hình ảnh y học 5. Kỹ thuật Phục hồi chức năng - Thí sinh tham dự cuộc thi Khoa học kỹ thuật phù hợp với Khối ngành sức khỏe hoặc môn học có trong tổ hợp xét tuyển: Hội đồng tuyển sinh của trường sẽ xem xét",
+      "eligibility": null,
+      "rules": null,
+      "programs": []
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "B00",
+            "A00",
+            "D07",
+            "B08"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng (Điều dưỡng đa khoa, Điều dưỡng Nha khoa, Điều dưỡng Gây mê hồi sức",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng (Điều dưỡng đa khoa, Điều dưỡng Nha khoa, Điều dưỡng Gây mê hồi sức",
+          "subject_groups": [
+            "B00",
+            "A00",
+            "D07",
+            "B08"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng (Điều dưỡng đa khoa, Điều dưỡng Nha khoa, Điều dưỡng Gây mê hồi sức",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng (Điều dưỡng đa khoa, Điều dưỡng Nha khoa, Điều dưỡng Gây mê hồi sức",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật Xét nghiệm y học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật Xét nghiệm y học",
+          "subject_groups": [
+            "B00",
+            "A00",
+            "D07",
+            "B08"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật Xét nghiệm y học",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720601",
+          "program_name": "Kỹ thuật Xét nghiệm y học",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720602",
+          "program_name": "Kỹ thuật Hình ảnh y học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720602",
+          "program_name": "Kỹ thuật Hình ảnh y học",
+          "subject_groups": [
+            "B00",
+            "A00",
+            "D07",
+            "B08"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720602",
+          "program_name": "Kỹ thuật Hình ảnh y học",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720602",
+          "program_name": "Kỹ thuật Hình ảnh y học",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720603",
+          "program_name": "Kỹ thuật Phục hồi chức năng (Vật lý trị liệu, Hoạt động trị liệu, Ngôn ngữ trị liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7720603",
+          "program_name": "Kỹ thuật Phục hồi chức năng (Vật lý trị liệu, Hoạt động trị liệu, Ngôn ngữ trị liệu",
+          "subject_groups": [
+            "B00",
+            "A00",
+            "D07",
+            "B08"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7720603",
+          "program_name": "Kỹ thuật Phục hồi chức năng (Vật lý trị liệu, Hoạt động trị liệu, Ngôn ngữ trị liệu",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7720603",
+          "program_name": "Kỹ thuật Phục hồi chức năng (Vật lý trị liệu, Hoạt động trị liệu, Ngôn ngữ trị liệu",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn của trường Đại học Kỹ thuật Y tế Hải Dương các năm Tại đây.",
+  "tuition_text": null,
+  "timeline_text": "Tổ chức tuyển sinh Thí sinh khi đăng ký xét tuyển trên Hệ thống nghiệp vụ của Bộ Giáo dục và Đào tạo (https://thisinh.thitotnghiepthpt.edu.vn) cần cung cấp đầy đủ thông tin trên Hệ thống đặc biệt là thông tin Học bạ THPT, kết quả học tập các môn học của ba năm THPT, kết quả các kỳ thi Đánh giá năng lực ..., thông tin đối tượng ưu tiên, khu vực ưu tiên (nếu có) để Trường làm căn cứ tiến hành xét tuyển. Trường hợp thí sinh không cung cấp đầy đủ thông tin theo yêu cầu sẽ không đủ điều kiện xét tuyển. Tất cả các thí sinh xét tuyển vào Trường đều phải đăng ký xét tuyển và nộp lệ phí trên Hệ thống nghiệp vụ https://thisinh.thitotnghiepthpt.edu.vn từ ngày 02 tháng 7 đến 14 tháng 7 năm 2026.",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-ky-thuat-y-te-hai-duong-DKY.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "D07",
+              "B08"
+            ],
+            "score": 23.8,
+            "note": null
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "D07",
+              "B08"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật Xét nghiệm y học",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "D07",
+              "B08"
+            ],
+            "score": 22.6,
+            "note": null
+          },
+          {
+            "program_code": "7720602",
+            "program_name": "Kỹ thuật hình ảnh y học",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "D07",
+              "B08"
+            ],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "7720603",
+            "program_name": "Kỹ thuật Phục hồi chức năng",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "D07",
+              "B08"
+            ],
+            "score": 23,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "D07",
+              "B08"
+            ],
+            "score": 26.8,
+            "note": null
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "D07",
+              "B08"
+            ],
+            "score": 23.75,
+            "note": null
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật Xét nghiệm y học",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "D07",
+              "B08"
+            ],
+            "score": 24.75,
+            "note": null
+          },
+          {
+            "program_code": "7720602",
+            "program_name": "Kỹ thuật hình ảnh y học",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "D07",
+              "B08"
+            ],
+            "score": 24.69,
+            "note": null
+          },
+          {
+            "program_code": "7720603",
+            "program_name": "Kỹ thuật Phục hồi chức năng",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "D07",
+              "B08"
+            ],
+            "score": 25,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 85.55,
+            "note": null
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 76,
+            "note": null
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật Xét nghiệm y học",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 81.6,
+            "note": null
+          },
+          {
+            "program_code": "7720602",
+            "program_name": "Kỹ thuật hình ảnh y học",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 81.25,
+            "note": null
+          },
+          {
+            "program_code": "7720603",
+            "program_name": "Kỹ thuật Phục hồi chức năng",
+            "subject_groups": [
+              "K00"
+            ],
+            "score": 83,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [],
+            "score": 822,
+            "note": null
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [],
+            "score": 706,
+            "note": null
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật Xét nghiệm y học",
+            "subject_groups": [],
+            "score": 773,
+            "note": null
+          },
+          {
+            "program_code": "7720602",
+            "program_name": "Kỹ thuật hình ảnh y học",
+            "subject_groups": [],
+            "score": 769,
+            "note": null
+          },
+          {
+            "program_code": "7720603",
+            "program_name": "Kỹ thuật Phục hồi chức năng",
+            "subject_groups": [],
+            "score": 790,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-anh-gia-tu-duy",
+        "method_name": "Điểm chuẩn theo phương thức Điểm Đánh giá Tư duy năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 55.96,
+            "note": null
+          },
+          {
+            "program_code": "7720301",
+            "program_name": "Điều dưỡng",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 50,
+            "note": null
+          },
+          {
+            "program_code": "7720601",
+            "program_name": "Kỹ thuật Xét nghiệm y học",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 53.2,
+            "note": null
+          },
+          {
+            "program_code": "7720602",
+            "program_name": "Kỹ thuật hình ảnh y học",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 53,
+            "note": null
+          },
+          {
+            "program_code": "7720603",
+            "program_name": "Kỹ thuật Phục hồi chức năng",
+            "subject_groups": [
+              "Q00"
+            ],
+            "score": 54,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

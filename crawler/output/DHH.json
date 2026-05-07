@@ -1,0 +1,313 @@
+{
+  "university": {
+    "code": "DHH",
+    "name": "Trường Đại Học Hà Hoa Tiên",
+    "short_name": null,
+    "location": [
+      "Hà Nam"
+    ],
+    "address": null,
+    "website": null,
+    "type": null,
+    "description": null
+  },
+  "admission_year": null,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-ha-hoa-tien-DHH.html",
+  "pdf_url": null,
+  "admission_overview": "LỚP MỚI - DÀNH CHO 2K9 ÔN THI ĐGNL & ĐGTD • Kỳ thi Đánh giá năng lực ĐHQG Hà Nội 2027 - Xem ngay • Kỳ thi Đánh giá năng lực ĐHQG TP.HCM 2027 - Xem ngay • Kỳ thi Đánh giá năng lực Quân đội 2027 - Xem ngay • Kỳ thi Đánh giá tư duy Bách khoa HN 2027 - Xem ngay XEM THÊM các lớp dành cho kỳ thi khác (ĐGNL Bộ Công An, ĐGNL Sư phạm, TN THPT,....)",
+  "admission_methods": [
+    {
+      "method_id": "phuong-thuc",
+      "method_name": "Phương thức xét tuyển",
+      "description": "STT Mã ngành Tên ngành Chỉ tiêu Phương thức xét tuyển Tổ hợp",
+      "eligibility": null,
+      "rules": null,
+      "programs": []
+    }
+  ],
+  "cutoff_scores_text": null,
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-ha-hoa-tien-DHH.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2013",
+        "year": 2013,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn Ngữ Anh",
+            "subject_groups": [
+              "D1"
+            ],
+            "score": 13.5,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A",
+              "A1"
+            ],
+            "score": 13,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "D1",
+              "2",
+              "3",
+              "4"
+            ],
+            "score": 13.5,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài Chính ngân hàng",
+            "subject_groups": [
+              "A",
+              "A1"
+            ],
+            "score": 13,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài Chính ngân hàng",
+            "subject_groups": [
+              "D1",
+              "2",
+              "3",
+              "4"
+            ],
+            "score": 13.5,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A",
+              "A1"
+            ],
+            "score": 13,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "D1",
+              "2",
+              "3",
+              "4"
+            ],
+            "score": 13.5,
+            "note": null
+          },
+          {
+            "program_code": "7480104",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A",
+              "A1"
+            ],
+            "score": 13,
+            "note": null
+          },
+          {
+            "program_code": "7480104",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "D1"
+            ],
+            "score": 13.5,
+            "note": null
+          },
+          {
+            "program_code": "7510103",
+            "program_name": "Công nghệ kỹ thuật xây dựng",
+            "subject_groups": [
+              "A",
+              "A1"
+            ],
+            "score": 13,
+            "note": null
+          },
+          {
+            "program_code": "7510202",
+            "program_name": "Công nghệ chế tạo máy",
+            "subject_groups": [
+              "A",
+              "A1"
+            ],
+            "score": 13,
+            "note": null
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ kỹ thuật điện, điện tử",
+            "subject_groups": [
+              "A",
+              "A1"
+            ],
+            "score": 13,
+            "note": null
+          },
+          {
+            "program_code": "7510303",
+            "program_name": "Công nghệ kt điều khiển và tự động hóa",
+            "subject_groups": [
+              "A",
+              "A1"
+            ],
+            "score": 13,
+            "note": null
+          },
+          {
+            "program_code": "C220201",
+            "program_name": "Ngôn Ngữ Anh",
+            "subject_groups": [
+              "D1"
+            ],
+            "score": 11,
+            "note": "Cao đẳng"
+          },
+          {
+            "program_code": "C340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A",
+              "A1"
+            ],
+            "score": 10,
+            "note": "Cao đẳng"
+          },
+          {
+            "program_code": "C340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "D1",
+              "2",
+              "3",
+              "4"
+            ],
+            "score": 11,
+            "note": "Cao đẳng"
+          },
+          {
+            "program_code": "C340201",
+            "program_name": "Tài Chính ngân hàng",
+            "subject_groups": [
+              "A",
+              "A1"
+            ],
+            "score": 10,
+            "note": "Cao đẳng"
+          },
+          {
+            "program_code": "C340201",
+            "program_name": "Tài Chính ngân hàng",
+            "subject_groups": [
+              "D1",
+              "2",
+              "3",
+              "4"
+            ],
+            "score": 11,
+            "note": "Cao đẳng"
+          },
+          {
+            "program_code": "C340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A",
+              "A1"
+            ],
+            "score": 10,
+            "note": "Cao đẳng"
+          },
+          {
+            "program_code": "C340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "D1",
+              "2",
+              "3",
+              "4"
+            ],
+            "score": 11,
+            "note": "Cao đẳng"
+          },
+          {
+            "program_code": "C480202",
+            "program_name": "Tin học ứng dụng",
+            "subject_groups": [
+              "A",
+              "A1"
+            ],
+            "score": 10,
+            "note": "Cao đẳng"
+          },
+          {
+            "program_code": "C480202",
+            "program_name": "Tin học ứng dụng",
+            "subject_groups": [
+              "D1"
+            ],
+            "score": 11,
+            "note": "Cao đẳng"
+          },
+          {
+            "program_code": "C510103",
+            "program_name": "Công nghệ kỹ thuật xây dựng",
+            "subject_groups": [
+              "A",
+              "A1"
+            ],
+            "score": 10,
+            "note": "Cao đẳng"
+          },
+          {
+            "program_code": "C510202",
+            "program_name": "Công nghệ chế tạo máy",
+            "subject_groups": [
+              "A",
+              "A1"
+            ],
+            "score": 10,
+            "note": "Cao đẳng"
+          },
+          {
+            "program_code": "C510301",
+            "program_name": "Công nghệ kỹ thuật điện, điện tử",
+            "subject_groups": [
+              "A",
+              "A1"
+            ],
+            "score": 10,
+            "note": "Cao đẳng"
+          },
+          {
+            "program_code": "C510303",
+            "program_name": "Công nghệ kt điều khiển và tự động hóa",
+            "subject_groups": [
+              "A",
+              "A1"
+            ],
+            "score": 10,
+            "note": "Cao đẳng"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,573 @@
+{
+  "university": {
+    "code": "LPH",
+    "name": "Trường Đại học Luật Hà Nội",
+    "short_name": "HLU",
+    "location": [],
+    "address": "Trụ sở chính của Trường: số 87 đường Nguyễn Chí Thanh, Phường Láng Hạ, Quận Đống Đa, Thành phố Hà Nội.Phân hiệu của Trường: Tổ dân phố 8, Phường Tân An, Thành phố Buôn Ma Thuột, Tỉnh Đắk Lắk.",
+    "website": "https://hlu.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2025,
+  "total_quota": 2650,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-luat-ha-noi-LPH.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2025/0612/thong-tin-tuyen-sinh-2025-truong-dh-luat-ha-noi.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC LUẬT HÀ NỘI 2025 Thông tin tuyển sinh Đại học Luật Hà Nội (HLU) năm 2025 Năm 2025, Trường Đại học Luật Hà Nội dự kiến tuyển sinh 2.650 chỉ tiêu qua 3 phương thức xét tuyển như sau: Phương thức 1: Xét tuyển thẳng Phương thức 2: Xét tuyển dựa trên kết quả học tập của bậc THPT đối với thí sinh tốt nghiệp THPT năm 2025 Phương thức 3: Xét tuyển dựa trên kết quả Kỳ thi tốt nghiệp THPT năm 2025 Xem thời gian và hồ sơ đăng ký xét tuyển HLU năm 2025 TẠI ĐÂY Khám phá thêm khoa học Tài nguyên giáo dục Giáo dục",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 ĐỐI TƯỢNG Đối tượng, điều kiện tuyển sinh thực hiện theo quy chế tuyển sinh đại học hiện hành của Bộ Giáo dục và Đào tạo. 1.2 QUY CHẾ - Thí sinh đủ điều kiện về đối tượng tuyển sinh theo Quy chế tuyến sinh của Bộ Giáo dục và Đào tạo được tham gia xét tuyển. - Điểm xét tuyển theo thang điểm 30, bằng tổng điểm 3 môn trong tổ hợp xét tuyển và điểm cộng (nếu có), điểm Ưu tiên (nếu có). - Điểm ưu tiên được xác định theo quy định tại Điều 7, Văn bản hợp nhất số 02/VBHN-BGDĐT ngày 02 tháng 4 năm 20",
+      "eligibility": "ĐỐI TƯỢNG Đối tượng,",
+      "rules": "quy chế tuyển sinh đại học hiện hành của Bộ Giáo dục và Đào tạo. 1.2 QUY CHẾ - Thí sinh đủ điều kiện về",
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "A01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7380107",
+          "program_name": "Luật Kinh tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C00",
+            "D01",
+            "D02",
+            "D03",
+            "D04",
+            "D05",
+            "D06"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7380109",
+          "program_name": "Luật Thương mại quốc tế",
+          "subject_groups": [
+            "A01",
+            "D01"
+          ],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "5"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-hoc-ba",
+      "method_name": "2 ĐIỂM HỌC BẠ",
+      "description": "2.1 ĐỐI TƯỢNG Đối tượng, điều kiện tuyển sinh thực hiện theo quy chế tuyển sinh đại học hiện hành của Bộ Giáo dục và Đào tạo. 2.2 QUY CHẾ - Cách thức xét tuyển: Xét từ cao xuống thấp đến hết chỉ tiêu dựa trên kết quả học tập 3 môn thuộc các tổ họp xét tuyến theo ngành của cả năm lớp 10, cả năm lớp 11 và cả năm lớp 12. - Điểm xét tuyển theo thang điểm 30. - Công thức tính điểm xét tuyển như sau: + ĐXT = (ĐTB Môn 1 + ĐTB Môn 2 + ĐTB Môn 3) + ĐC (nếu có) + ĐƯT (nếu có) (Trong đó, ĐXT: Điểm xét tuyể",
+      "eligibility": "ĐỐI TƯỢNG Đối tượng,",
+      "rules": "quy chế tuyển sinh đại học hiện hành của Bộ Giáo dục và Đào tạo. 2.2 QUY CHẾ - Cách thức xét tuyển: Xét từ cao xuống thấp đến hết chỉ tiêu dựa trên kết quả học tập 3 môn thuộc các tổ họp xét tuyến theo ngành của cả năm lớp 10, cả năm lớp 11 và cả năm lớp 12. - Điểm xét tuyển theo thang điểm 30. - Công thức tính điểm xét tuyển như sau: + ĐXT = (ĐTB Môn 1 + ĐTB Môn 2 + ĐTB Môn 3) + ĐC (nếu có) + ĐƯT (nếu có) (Trong đó, ĐXT: Điểm xét tuyển; ĐTB: Điểm trung bình; ĐC: Điểm cộng; ĐƯT: Điểmưu tiên). Điểm trung bình (ĐTB) mỗi môn = (ĐTB cả năm lớp 10 + ĐTB cả năm lớp 11 + ĐTB cả năm lớp 12 cùa môn tương ứng)/3. + ĐƯT, ĐC được xác định theo hướng dẫn dưới đây: Điểm ưu tiên được xác định theo quy định tại Điều 7, Văn bản họp nhất số 02/VBHN-BGDĐT ngày 02 tháng 4 năm 2025 của Bộ trưởng Bộ Giáo dục và Đào tạo về Quy chế tuyển sinh đại học, tuyển sinh cao đẳng ngành Giáo dục mầm non và theo Quy chế tuyến sinh; Điểm cộng được xác định quy định tại mục 5. Điểm cộng tối đa 10% thang điểm xét và được cộng trước khi cộng điểm ưu tiên. Thí sinh có thể đăng ký để được cộng điểm vào điểm xét tuyển (Trường sẽ có thông báo cụ thể về thời điểm và cách thức đăng ký), điểm cộng được xác định như sau: - Thí sinh các trường THPT chuyên/năng khiếu Quốc gia, trường THPT chuyên/năng khiếu cấp Tỉnh/Thành phô trực thuộc Trung ương, học sinh của các trường THPT trọng điểm quốc gia chất lượng cao sẽ được cộng thêm 1 điểm khuyến khích vào tổng điểm xét tuyển; - Thí sinh thuộc một trong các trường hợp sau thì được hưởng một lần cộng điểm khuyến khích cao nhất để tính vào điểm xét tuyển: + Thí sinh được triệu tập tham dự kỳ thi chọn đội tuyến quốc gia dự thi Olympic quốc tế, thí sinh trong đội tuyển quốc gia dự Cuộc thi khoa học, kĩ thuật quốc tế được cộng 1 điểm; + Thí sinh đạt giải Nhất, Nhì, Ba (Huy chương Vàng, Bạc, Đồng) tại Cuộc thi Sáng chế và Phát minh quốc tế hoặc các cuộc thi khoa học, kỹ thuật quốc tế do Bộ Giáo dục và Đào tạo cử tham gia/công nhận được cộng điểm khuyến khích theo cấp đạt giải như sau: giải Nhất được cộng 1,5 điểm, giải Nhì được cộng 1,25 điểm, giải Ba được cộng 1 điểm + Thí sinh đạt giải Nhất, Nhì, Ba trong kỳ thi chọn học sinh giỏi quốc gia các môn học trong chương trình THPT theo quy định của Bộ Giáo dục và Đào tạo và thí sinh đoạt giải Nhất, Nhì, Ba trong cuộc thi khoa học kỹ thuật, cuộc thi học sinh, sinh viên với ý tưởng khởi nghiệp cấp quốc gia được cộng Điểm khuyến khích theo cấp đạt giải như sau: giải Nhất được cộng 1,5 Điểm, giải Nhì được cộng 1,25 điểm, giải Ba được cộng 1 điểm; + Thí sinh đạt giải Nhất, Nhì, Ba (Huy chương Vàng, Bạc, Đồng), được Bộ Văn hóa, Thể thao và Du lịch hoặc cơ quan có thẩm quyền xác nhận, tại các giải quốc tế chính thức, bao gồm: Giải vô địch thế giới, Cúp thế giới, Thế vận hội Olympic, Đại hội thế thao châu Á (ASIAD), Giải vô địch châu Á, Cúp châu Á, Giải vô địch Đông Nam Á, Đại hội thể thao Đông Nam Á (SEA Games), Cúp Đông Nam Á được cộng điểm khuyến khích theo cấp đạt giải như sau: giải Nhất được cộng 1,5 điểm, giải Nhì được cộng 1,25 điểm, giải Ba được cộng 1 điểm; + Thí sinh đạt Nhất, Nhì, Ba (Huy chương Vàng, Bạc, Đồng), được Bộ Văn hóa, Thể thao và Du lịch hoặc cơ quan có thấm quyền xác nhận, tại các cuộc thi về nghệ thuật quốc tế/quốc gia về ca, múa, nhạc, mỹ thuật, cuộc thi sắc đẹp được cộng Điểm khuyến khích theo cấp đạt giải như sau: giải Nhất được cộng 1,5 điểm, giải Nhì được cộng 1,25 điểm, giải Ba được cộng 1 điểm; + Thí sinh đạt giải Nhất, Nhì, Ba trong Kỳ thi Học sinh giỏi cấp tỉnh trở lên, Kỳ thi Olympic bậc THPT do Đại học Quốc gia Hà Nội tồ chức, Kỳ thi chọn học sinh giỏi các Trường THPT chuyên khu vực duyên hải và đồng bằng Bắc Bộ các môn các môn học trong chương trình THPT theo quy định của Bộ Giáo dục và Đào tạo, thí sinh đoạt giải Nhất, Nhì, Ba trong cuộc thi khoa học kỹ thuật, cuộc thi học sinh, sinh viên với ý tưởng khởi nghiệp cấp tỉnh được cộng điểm vào tông điểm xét tuyến với mức: giải Nhất được cộng 1 điểm, giải Nhì được cộng 0,75 điểm, giải Ba được cộng 0,5 điểm. c. Quy đổi chứng chi ngoại ngữ: Nếu thí sinh có chứng chỉ ngoại ngữ quốc tế có giá trị sử dụng tính đến thời điểm xét tuyển được Bộ Giáo dục và Đào tạo công nhận với số điểm tối thiểu sẽ được quy đổi điểm xét tuyển cho ngoại ngữ tương ứng. Cụ thể như sau: - Thí sinh có chứng chi ngoại ngữ tiếng Anh: IELTS Academic 6,5 điểm, TOEFL ITP 587 điểm, TOEFL IBT 95 điểm trở lên được quy đổi tương ứng 10 điểm môn Tiếng Anh; IELTS Academic 6,0 điểm, TOEFL ITP 563 điểm, TOEFL IBT 85 điểm trở lên được quy đổi tương ứng 9,5 điểm môn Tiếng Anh; IELTS Academic 5,5 điểm, TOEFL ITP 537 điểm, TOEFL IBT 75 điểm trở lên được quy đối tương ứng 9,0 điểm môn Tiếng Anh. - Thí sinh có chứng chỉ ngoại ngữ tiếng Nga, tiếng Pháp, tiếng Đức, tiếng Trung, tiếng Nhật được quy đổi điểm ngoại ngữ dùng để xét tuyển tương ứng như sau: cấp độ C2 được quy đổi tương ứng 10 điểm; cấp độ C1 được quy đổi tương ứng 9,5 điểm; cấp độ B2 được quy đối tương ứng 9 Điểm. Bảng tham chiếu quy đổi tương đương cấp độ của các chứng chỉ ngoại ngữ như sau:",
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "A01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7380107",
+          "program_name": "Luật kinh tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C00",
+            "D01",
+            "D02",
+            "D03",
+            "D04",
+            "D05",
+            "D06"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7380109",
+          "program_name": "Luật thương mại quốc tế",
+          "subject_groups": [
+            "A01",
+            "D01"
+          ],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "5"
+        }
+      ]
+    },
+    {
+      "method_id": "3-utxt-xt-thang",
+      "method_name": "3 ƯTXT, XT THẲNG",
+      "description": "3.1 ĐỐI TƯỢNG Đối tượng, điều kiện tuyển sinh thực hiện theo quy chế tuyển sinh đại học hiện hành của Bộ Giáo dục và Đào tạo. 3.2 QUY CHẾ - Phương thức 1: Xét tuyển thẳng Xét tuyển thẳng thực hiện theo quy chế tuyển sinh đại học hiện hành của Bộ Giáo dục và Đào tạo ban hành quy chế tuyển sinh đại học, tuyển sinh cao đẳng ngành giáo dục mầm non và theo Quy chế tuyển sinh, Thông tin tuyển sinh của Trường. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ƯTXT, XT THẲNG STT Mã ngành Tên ngành Tổ hợp Ghi chú",
+      "eligibility": "ĐỐI TƯỢNG Đối tượng,",
+      "rules": "quy chế tuyển sinh đại học hiện hành của Bộ Giáo dục và Đào tạo. 3.2 QUY CHẾ - Phương thức 1: Xét tuyển thẳng Xét tuyển thẳng thực hiện theo quy chế tuyển sinh đại học hiện hành của Bộ Giáo dục và Đào tạo ban hành quy chế tuyển sinh đại học, tuyển sinh cao đẳng ngành giáo dục mầm non và theo Quy chế tuyển sinh, Thông tin tuyển sinh của Trường.",
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7380107",
+          "program_name": "Luật Kinh tế",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7380109",
+          "program_name": "Luật Thương mại quốc tế",
+          "subject_groups": [],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "5"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "A01",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7380101",
+          "program_name": "Ưu Tiên",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7380101",
+          "program_name": "ĐT THPTHọc Bạ",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C00",
+            "D01",
+            "D02",
+            "D03",
+            "D04",
+            "D05",
+            "D06"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7380107",
+          "program_name": "Luật Kinh tế",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7380107",
+          "program_name": "Luật Kinh tế",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C00",
+            "D01",
+            "D02",
+            "D03",
+            "D04",
+            "D05",
+            "D06"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7380109",
+          "program_name": "Luật Thương mại quốc tế",
+          "subject_groups": [],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "5"
+        },
+        {
+          "program_code": "7380109",
+          "program_name": "Luật Thương mại quốc tế",
+          "subject_groups": [
+            "A01",
+            "D01"
+          ],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "5"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem thêm điểm chuẩn của trường Đại học Luật Hà Nội các năm Tại đây.",
+  "tuition_text": "- Đối với sinh viên học các chương trình đại trà: năm học 2024-2025 mức thu học phí là 2.538.000 đ/tháng/sinh viên (1.410.000đ x 1.8 lần ), tương đương với: 725.000 đ/ tín chỉ. Thu 5 tháng/học kỳ, 40 tháng/khoá học, 140 tín chỉ/ khóa học). - Đối với sinh viên Chương trình đào tạo chất lượng cao: năm học 2024-2025 mức thu học phí là 5.076.000 đ/tháng (2.538.000đ x 2 lần) tương đương: 725.000 đ/tín chỉ với các môn học thực tập chuyên môn, khoá luận tốt nghiệp, giáo dục quốc phòng an ninh; 1.600.000 đ/tín chỉ với các môn học khác . Thu 5 tháng/học kỳ, 40 tháng/ khóa học, 140 tín chỉ/khóa học. - Trường Đại học Luật Hà Nội sẽ thông báo khi có lộ trình tăng học phí.",
+  "timeline_text": "Theo kế hoạch của Bộ Giáo dục và Đào tạo và của Trường. Đăng ký nguyện vọng xét tuyển: theo kế hoạch và hướng dẫn của Bộ Giáo dục và Đào tạo. Đăng ký cộng điểm và quy đổi chứng chỉ ngoại ngữ vào điểm xét tuyển: Trường sẽ có thông báo và hướng dẫn cụ thể đối với các thí sinh có nguyện vọng, dự kiến thời gian đăng ký từ 30/6/2025 đến 15/07/2025. Thời gian xét tuyển lọc ảo và công bố kết quả: theo kế hoạch của Bộ Giáo dục và Đào tạo. Lệ phí xét tuyển Lệ phí xét cộng điểm, quy đổi chứng chỉ ngoại ngữ: 50.000 đ/1 hồ sơ; Lệ phí đăng ký nguyện vọng xét tuyển: theo quy định của Bộ Giáo dục và Đào tạo.",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-luat-ha-noi-LPH.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 23.2,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 23.49,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 25.54,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 24.44,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 27.39,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "D01",
+              "D02",
+              "D03",
+              "D04",
+              "D05",
+              "D06"
+            ],
+            "score": 24.15,
+            "note": null
+          },
+          {
+            "program_code": "7380101PH",
+            "program_name": "Luật (Đào tạo tại Phân hiệu Đắk Lắk)",
+            "subject_groups": [
+              "D01",
+              "D02",
+              "D03",
+              "D04",
+              "D05",
+              "D06"
+            ],
+            "score": 19.75,
+            "note": null
+          },
+          {
+            "program_code": "7380101PH",
+            "program_name": "Luật (Đào tạo tại Phân hiệu Đắk Lắk)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 21.14,
+            "note": null
+          },
+          {
+            "program_code": "7380101PH",
+            "program_name": "Luật (Đào tạo tại Phân hiệu Đắk Lắk)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 20.04,
+            "note": null
+          },
+          {
+            "program_code": "7380101PH",
+            "program_name": "Luật (Đào tạo tại Phân hiệu Đắk Lắk)",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 22.99,
+            "note": null
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Luật Kinh tế",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 25.84,
+            "note": null
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Luật Kinh tế",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 28.79,
+            "note": null
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Luật Kinh tế",
+            "subject_groups": [
+              "D01",
+              "D02",
+              "D03",
+              "D04",
+              "D05",
+              "D06"
+            ],
+            "score": 25.55,
+            "note": null
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Luật Kinh tế",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 26.94,
+            "note": null
+          },
+          {
+            "program_code": "7380109",
+            "program_name": "Luật Thương mại quốc tế",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 24.15,
+            "note": null
+          },
+          {
+            "program_code": "7380109",
+            "program_name": "Luật Thương mại quốc tế",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 24.44,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 26.7,
+            "note": null
+          },
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 26.99,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 30,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "D01",
+              "D02",
+              "D03",
+              "D04",
+              "D05",
+              "D06"
+            ],
+            "score": 27.56,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 28.95,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 27.85,
+            "note": null
+          },
+          {
+            "program_code": "7380101PH",
+            "program_name": "Luật (Đào tạo tại Phân hiệu Đắk Lắk)",
+            "subject_groups": [
+              "D01",
+              "D02",
+              "D03",
+              "D04",
+              "D05",
+              "D06"
+            ],
+            "score": 23.25,
+            "note": null
+          },
+          {
+            "program_code": "7380101PH",
+            "program_name": "Luật (Đào tạo tại Phân hiệu Đắk Lắk)",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 24.64,
+            "note": null
+          },
+          {
+            "program_code": "7380101PH",
+            "program_name": "Luật (Đào tạo tại Phân hiệu Đắk Lắk)",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 23.54,
+            "note": null
+          },
+          {
+            "program_code": "7380101PH",
+            "program_name": "Luật (Đào tạo tại Phân hiệu Đắk Lắk)",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 26.49,
+            "note": null
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Luật Kinh tế",
+            "subject_groups": [
+              "C00"
+            ],
+            "score": 30,
+            "note": null
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Luật Kinh tế",
+            "subject_groups": [
+              "D01",
+              "D02",
+              "D03",
+              "D04",
+              "D05",
+              "D06"
+            ],
+            "score": 28.15,
+            "note": null
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Luật Kinh tế",
+            "subject_groups": [
+              "A00"
+            ],
+            "score": 29.54,
+            "note": null
+          },
+          {
+            "program_code": "7380107",
+            "program_name": "Luật Kinh tế",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 28.44,
+            "note": null
+          },
+          {
+            "program_code": "7380109",
+            "program_name": "Luật Thương mại quốc tế",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 27.56,
+            "note": null
+          },
+          {
+            "program_code": "7380109",
+            "program_name": "Luật Thương mại quốc tế",
+            "subject_groups": [
+              "A01"
+            ],
+            "score": 27.85,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

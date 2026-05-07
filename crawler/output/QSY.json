@@ -1,0 +1,304 @@
+{
+  "university": {
+    "code": "QSY",
+    "name": "Trường Đại học Khoa học sức khỏe - Đại học Quốc Gia TPHCM",
+    "short_name": "UHS",
+    "location": [
+      "HCM - Hồ Chí Minh"
+    ],
+    "address": "Khu phố 6, phường Linh Trung, quận Thủ Đức, TP.HCM",
+    "website": "https://www.uhsvnu.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-khoa-hoc-suc-khoe-tphcm-QSY.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0422/thong-tin-tuyen-sinh-dai-hoc-khoa-hoc-suc-khoe-dhqghcm.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC KHOA HỌC SỨC KHỎE TPHCM 2026 Thông tin tuyển sinh Đại học Khoa học sức khỏe TPHCM (UHS) năm 2026 Năm 2026, trường Đại học Khoa học Sức khỏe - ĐHQG TPHCM sử dụng 1 phương thức xét tuyển cho 6 ngành đào tạo đó là phương thức xét tuyển tổng hợp với tiêu chí tuyển sinh được những thí sinh có tài năng toàn diện.",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-xet-tuyen-ket-hop",
+      "method_name": "1 ĐIỂM XÉT TUYỂN KẾT HỢP",
+      "description": "1.1 QUY CHẾ Công thức tính điểm xét tuyển: Điểm xét tuyển = Điểm thi đánh giá năng lực (ĐGNL) × a + Điểm thi tốt nghiệp trung học phổ thông (THPT) × b + Điểm học bạ trung học phổ thông (HB) × c + Điểm cộng (nếu có) + Điểm ưu tiên đối tượng, khu vực (nếu có). Trong đó: - Các hệ số a, b, c dự kiến lần lượt là: tối thiểu 40%, tối đa 35%, tối đa 25%; - Điểm THPT và điểm HB được tính theo tổ hợp môn xét tuyển, cụ thể: + Ngành Y khoa, ngành Răng - Hàm - Mặt, ngành Y học cổ truyền, ngành Đ",
+      "eligibility": "đối tượng, khu vực (nếu có). Trong đó: - Các hệ số a, b, c dự kiến lần lượt là: tối thiểu 40%, tối đa 35%, tối đa 25%; - Điểm THPT và điểm HB được tính theo tổ hợp môn xét tuyển, cụ thể: + Ngành Y khoa, ngành Răng - Hàm - Mặt, ngành Y học cổ truyền, ngành Điều dưỡng xét tuyển theo tổ hợp môn B00 (Toán, Hóa, Sinh) và A02 (Toán, Lý, Sinh). + Ngành Dược học xét tuyển theo tổ hợp môn B00 (Toán, Hóa, Sinh) và A00 (Toán, Lý, Hóa). - Điểm của các tiêu chí thành phần được làm tròn 0,1 theo thang điểm 100; - Điểm cộng được áp dụng với thí sinh có chứng chỉ ngoại ngữ [IELTS ≥ 6.0, TOEFL iBT ≥ 79, TOEFL ITP ≥ 550, TOEIC (Nghe, đọc ≥ 671, Nói, viết ≥ 271), VSTEP Bậc 4]; và/hoặc có kết quả kỳ thi SAT từ 1280 điểm trở lên; và/hoặc thí sinh giỏi từ 149 trường trung học phổ thông thuộc",
+      "rules": "QUY CHẾ Công thức tính điểm xét tuyển: Điểm xét tuyển = Điểm thi đánh giá năng lực (ĐGNL) × a + Điểm thi tốt nghiệp trung học phổ thông (THPT) × b + Điểm học bạ trung học phổ thông (HB) × c + Điểm cộng (nếu có) + Điểm ưu tiên",
+      "programs": [
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "B00",
+            "A02"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720115",
+          "program_name": "Y học cổ truyền",
+          "subject_groups": [
+            "B00",
+            "A02"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [
+            "B00",
+            "A00"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng",
+          "subject_groups": [
+            "B00",
+            "A02"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7720501",
+          "program_name": "Răng - Hàm - Mặt",
+          "subject_groups": [
+            "B00",
+            "A02"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "B00",
+            "A02"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7720115",
+          "program_name": "Y học cổ truyền",
+          "subject_groups": [
+            "B00",
+            "A02"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [
+            "B00",
+            "A00"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7720301",
+          "program_name": "Điều dưỡng",
+          "subject_groups": [
+            "B00",
+            "A02"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7720501",
+          "program_name": "Răng - Hàm - Mặt",
+          "subject_groups": [
+            "B00",
+            "A02"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Trường Đại học Khoa học sức khỏe - Đại học Quốc Gia TPHCM các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-khoa-hoc-suc-khoe-tphcm-QSY.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "Dược học",
+            "program_name": "7720201",
+            "subject_groups": [
+              "B00",
+              "A00"
+            ],
+            "score": 21.5,
+            "note": "Thang điểm 30"
+          },
+          {
+            "program_code": "Điều dưỡng",
+            "program_name": "7720301",
+            "subject_groups": [
+              "B00",
+              "A02"
+            ],
+            "score": 18,
+            "note": "Thang điểm 30"
+          },
+          {
+            "program_code": "Răng - Hàm - Mặt",
+            "program_name": "7720501",
+            "subject_groups": [
+              "B00",
+              "A02"
+            ],
+            "score": 25,
+            "note": "Thang điểm 30"
+          },
+          {
+            "program_code": "Y học cổ truyền",
+            "program_name": "7720115",
+            "subject_groups": [
+              "B00",
+              "A02"
+            ],
+            "score": 20.1,
+            "note": "Thang điểm 30"
+          },
+          {
+            "program_code": "Y khoa",
+            "program_name": "7720101",
+            "subject_groups": [
+              "B00",
+              "A02"
+            ],
+            "score": 25.6,
+            "note": "Thang điểm 30"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "Dược học",
+            "program_name": "7720201",
+            "subject_groups": [],
+            "score": 709,
+            "note": null
+          },
+          {
+            "program_code": "Điều dưỡng",
+            "program_name": "7720301",
+            "subject_groups": [],
+            "score": 559,
+            "note": null
+          },
+          {
+            "program_code": "Răng - Hàm - Mặt",
+            "program_name": "7720501",
+            "subject_groups": [],
+            "score": 867,
+            "note": null
+          },
+          {
+            "program_code": "Y học cổ truyền",
+            "program_name": "7720115",
+            "subject_groups": [],
+            "score": 652,
+            "note": null
+          },
+          {
+            "program_code": "Y khoa",
+            "program_name": "7720101",
+            "subject_groups": [],
+            "score": 896,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-utxt-xt-thang",
+        "method_name": "Điểm chuẩn theo phương thức ƯTXT, XT thẳng năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "Dược học",
+            "program_name": "7720201",
+            "subject_groups": [
+              "B00",
+              "A00"
+            ],
+            "score": 79.4,
+            "note": "Thang điểm 90, ƯTXT theo quy định của Bộ và ĐHQGTPHCM"
+          },
+          {
+            "program_code": "Điều dưỡng",
+            "program_name": "7720301",
+            "subject_groups": [
+              "B00",
+              "A02"
+            ],
+            "score": 74.46,
+            "note": "Thang điểm 90, ƯTXT theo quy định của Bộ và ĐHQGTPHCM"
+          },
+          {
+            "program_code": "Răng - Hàm - Mặt",
+            "program_name": "7720501",
+            "subject_groups": [
+              "B00",
+              "A02"
+            ],
+            "score": 84.6,
+            "note": "Thang điểm 90, ƯTXT theo quy định của Bộ và ĐHQGTPHCM"
+          },
+          {
+            "program_code": "Y học cổ truyền",
+            "program_name": "7720115",
+            "subject_groups": [
+              "B00",
+              "A02"
+            ],
+            "score": 77.4,
+            "note": "Thang điểm 90, ƯTXT theo quy định của Bộ và ĐHQGTPHCM"
+          },
+          {
+            "program_code": "Y khoa",
+            "program_name": "7720101",
+            "subject_groups": [
+              "B00",
+              "A02"
+            ],
+            "score": 85.5,
+            "note": "Thang điểm 90, ƯTXT theo quy định của Bộ và ĐHQGTPHCM"
+          }
+        ]
+      }
+    ]
+  }
+}

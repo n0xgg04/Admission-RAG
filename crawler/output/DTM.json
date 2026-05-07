@@ -1,0 +1,3331 @@
+{
+  "university": {
+    "code": "DTM",
+    "name": "Đại học Tài nguyên và Môi trường TPHCM",
+    "short_name": "HCMUNRE",
+    "location": [
+      "HCM - Hồ Chí Minh"
+    ],
+    "address": "236B Lê Văn Sĩ, Phường 1, Quận Tân Bình, Tp. Hồ Chí Minh",
+    "website": "www.hcmunre.edu.vn",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-tai-nguyen-va-moi-truong-tphcm-DTM.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0408/thong-tin-tuyen-sinh-truong-dai-hoc-tai-nguyen-va-moi-truong-tphcm-2026_1.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC TÀI NGUYÊN VÀ MÔI TRƯỜNG TPHCM 2026 Thông tin tuyển sinh trường Đại học Tài nguyên và Môi trường TPHCM (HCMUNRE) năm 2026 Năm 2026, trường dự kiến tuyển sinh dựa trên 04 phương thức xét tuyển như sau: - Phương thức 1: Xét tuyển căn cứ vào kết quả thi THPT - Phương thức 2: Xét tuyển căn cứ vào kết quả học tập ở bậc học THPT (học bạ) - Phương thức 3: Xét tuyển căn cứ vào kết quả kì thi Đánh giá năng lực của Đại học Quốc Gia TP. Hồ Chí Minh - Phương thức 4: Xét tuyển thẳng và ưu tiên xét tuyển thẳng",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 ĐỐI TƯỢNG - Thí sinh là công dân Việt Nam hoặc người nước ngoài (đáp ứng chuẩn năng lực ngôn ngữ theo quy định) tốt nghiệp THPT hoặc tương đương - Có kết quả các môn thi kỳ thi tốt nghiệp THPT năm 2026 phù hợp tổ hợp môn xét tuyển theo ngành đào tạo. 1.2 QUY CHẾ - Điểm xét tuyển là tổng điểm 3 môn theo tổ hợp môn phù hợp với ngành đào tạo cộng với điểm ưu tiên khu vực và đối tượng (theo Quy chế tuyển sinh hiện hành). Điểm xét tuyển được làm tròn đến hai chữ số thập phân và tính theo công thứ",
+      "eligibility": "ĐỐI TƯỢNG - Thí sinh là công dân Việt Nam hoặc người nước ngoài (đáp ứng chuẩn năng lực ngôn ngữ theo quy định) tốt nghiệp THPT hoặc tương đương - Có kết quả các môn thi kỳ thi tốt nghiệp THPT năm 2026 phù hợp tổ hợp môn xét tuyển theo ngành đào tạo. 1.2",
+      "rules": "QUY CHẾ - Điểm xét tuyển là tổng điểm 3 môn theo tổ hợp môn phù hợp với ngành đào tạo cộng với điểm ưu tiên khu vực và",
+      "programs": [
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340116",
+          "program_name": "Bất động sản",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7440201",
+          "program_name": "Địa chất học",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7440221",
+          "program_name": "Biến đổi khí hậu",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7440222",
+          "program_name": "Khí tượng và khí hậu học",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7440224",
+          "program_name": "Thuỷ văn học",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7480104",
+          "program_name": "Hệ thống thông tin",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7510401",
+          "program_name": "Công nghệ kỹ thuật hóa học",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7510402",
+          "program_name": "Công nghệ vật liệu",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7510406",
+          "program_name": "Công nghệ kỹ thuật môi trường",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "D01",
+            "X01",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistics và quản lý chuỗi cung ứng",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7520503",
+          "program_name": "Kỹ thuật trắc địa - bản đồ",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7580106",
+          "program_name": "Quản lý đô thị và công trình",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7580213",
+          "program_name": "Kỹ thuật cấp thoát nước",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "D01",
+            "X01",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7850101",
+          "program_name": "Quản lý tài nguyên và môi trường",
+          "subject_groups": [
+            "B03",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7850102",
+          "program_name": "Kinh tế tài nguyên thiên nhiên",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D04",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7850103",
+          "program_name": "Quản lý đất đai",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7850197",
+          "program_name": "Quản lý tài nguyên và môi trường biển đảo",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7850198",
+          "program_name": "Quản lý tài nguyên nước",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-gnl-hcm",
+      "method_name": "2 ĐIỂM ĐGNL HCM",
+      "description": "2.1 QUY CHẾ Điểm xét tuyển: là tổng điểm bài thi đánh giá năng lực năm 2026 của Đại học Quốc gia TP. Hồ Chí Minh (theo thang điểm 1.200). DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐGNL HCM STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7340101 Quản trị kinh doanh 2 7340116 Bất động sản 3 7440201 Địa chất học 4 7440221 Biến đổi khí hậu 5 7440222 Khí tượng và Khí hậu học 6 7440224 Thủy văn học 7 7480104 Hệ thống thông tin 8 7480201 Công nghệ thông tin 9 7510401 Công nghệ kỹ thuật hóa học 10 7510402 C",
+      "eligibility": null,
+      "rules": "QUY CHẾ Điểm xét tuyển: là tổng điểm bài thi đánh giá năng lực năm 2026 của Đại học Quốc gia TP. Hồ Chí Minh (theo thang điểm 1.200).",
+      "programs": [
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340116",
+          "program_name": "Bất động sản",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7440201",
+          "program_name": "Địa chất học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7440221",
+          "program_name": "Biến đổi khí hậu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7440222",
+          "program_name": "Khí tượng và Khí hậu học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7440224",
+          "program_name": "Thủy văn học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7480104",
+          "program_name": "Hệ thống thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7510401",
+          "program_name": "Công nghệ kỹ thuật hóa học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7510402",
+          "program_name": "Công nghệ vật liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7510406",
+          "program_name": "Công nghệ kỹ thuật môi trường",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistic và quản lý chuỗi cung ứng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7520503",
+          "program_name": "Kỹ thuật trắc địa - bản đồ",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7580106",
+          "program_name": "Quản lý đô thị và công trình",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7580213",
+          "program_name": "Kỹ thuật cấp thoát nước",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7850101",
+          "program_name": "Quản lý tài nguyên và môi trường",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7850102",
+          "program_name": "Kinh tế tài nguyên thiên nhiên",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7850103",
+          "program_name": "Quản lý đất đai",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7850197",
+          "program_name": "Quản lý tài nguyên và môi trường biển đảo",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7850198",
+          "program_name": "Quản lý tài nguyên nước",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "20"
+        }
+      ]
+    },
+    {
+      "method_id": "3-iem-hoc-ba",
+      "method_name": "3 ĐIỂM HỌC BẠ",
+      "description": "3.1 ĐIỀU KIỆN XÉT TUYỂN - Hạnh kiểm năm học lớp 10, lớp 11 và lớp 12 xếp loại Khá trở lên; - Tốt nghiệp THPT từ năm 2017 đến năm 2026 nếu xét tuyển theo tổ hợp 03 môn hoặc tốt nghiệp THPT từ năm 2025 đến năm 2026 nếu xét tuyển theo trung bình kết quả học tập 03 năm; 3.2 QUY CHẾ a) Xét tuyển theo tổ hợp 3 môn học Điểm xét tuyển: là tổng điểm 3 môn theo tổ hợp môn phù hợp với ngành đào tạo cộng với điểm ưu tiên khu vực và đối tượng (theo Quy chế tuyển sinh hiện hành). Điểm xét tuyển được tính theo",
+      "eligibility": "đối tượng (theo",
+      "rules": "QUY CHẾ a) Xét tuyển theo tổ hợp 3 môn học Điểm xét tuyển: là tổng điểm 3 môn theo tổ hợp môn phù hợp với ngành đào tạo cộng với điểm ưu tiên khu vực và",
+      "programs": [
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340116",
+          "program_name": "Bất động sản",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7440201",
+          "program_name": "Địa chất học",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7440221",
+          "program_name": "Biến đổi khí hậu",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7440222",
+          "program_name": "Khí tượng và Khí hậu học",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7440224",
+          "program_name": "Thủy văn học",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7480104",
+          "program_name": "Hệ thống thông tin",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7510401",
+          "program_name": "Công nghệ kỹ thuật hóa học",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7510402",
+          "program_name": "Công nghệ vật liệu",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7510406",
+          "program_name": "Công nghệ kỹ thuật môi trường",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "D01",
+            "X01",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistic và quản lý chuỗi cung ứng",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7520503",
+          "program_name": "Kỹ thuật trắc địa - bản đồ",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7580106",
+          "program_name": "Quản lý đô thị và công trình",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7580213",
+          "program_name": "Kỹ thuật cấp thoát nước",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "D01",
+            "X01",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7850101",
+          "program_name": "Quản lý tài nguyên và môi trường",
+          "subject_groups": [
+            "B03",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7850102",
+          "program_name": "Kinh tế tài nguyên thiên nhiên",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D04",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7850103",
+          "program_name": "Quản lý đất đai",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7850197",
+          "program_name": "Quản lý tài nguyên và môi trường biển đảo",
+          "subject_groups": [
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "B03",
+            "D01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7850198",
+          "program_name": "Quản lý tài nguyên nước",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        }
+      ]
+    },
+    {
+      "method_id": "4-utxt-xt-thang",
+      "method_name": "4 ƯTXT, XT THẲNG",
+      "description": "4.1 QUY CHẾ - Tốt nghiệp THPT hoặc tương đương; - Đáp ứng tiêu chí theo quy định xét tuyển thẳng, ưu tiên xét tuyển thí sinh theo quy chế tuyển sinh đại học, cao đẳng chính quy năm 2026 của Nhà trường. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ƯTXT, XT THẲNG STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7340101 Quản trị kinh doanh 2 7340116 Bất động sản 3 7440201 Địa chất học 4 7440221 Biến đổi khí hậu 5 7440222 Khí tượng và Khí hậu học 6 7440224 Thủy văn học 7 7480104 Hệ thống thông tin 8 7480201 Công",
+      "eligibility": null,
+      "rules": "QUY CHẾ - Tốt nghiệp THPT hoặc tương đương; - Đáp ứng tiêu chí theo quy định xét tuyển thẳng, ưu tiên xét tuyển thí sinh theo quy chế tuyển sinh đại học, cao đẳng chính quy năm 2026 của Nhà trường.",
+      "programs": [
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340116",
+          "program_name": "Bất động sản",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7440201",
+          "program_name": "Địa chất học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7440221",
+          "program_name": "Biến đổi khí hậu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7440222",
+          "program_name": "Khí tượng và Khí hậu học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7440224",
+          "program_name": "Thủy văn học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7480104",
+          "program_name": "Hệ thống thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7510401",
+          "program_name": "Công nghệ kỹ thuật hóa học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7510402",
+          "program_name": "Công nghệ vật liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7510406",
+          "program_name": "Công nghệ kỹ thuật môi trường",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistic và quản lý chuỗi cung ứng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7520503",
+          "program_name": "Kỹ thuật trắc địa - bản đồ",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7580106",
+          "program_name": "Quản lý đô thị và công trình",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7580213",
+          "program_name": "Kỹ thuật cấp thoát nước",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7850101",
+          "program_name": "Quản lý tài nguyên và môi trường",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7850102",
+          "program_name": "Kinh tế tài nguyên thiên nhiên",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7850103",
+          "program_name": "Quản lý đất đai",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7850197",
+          "program_name": "Quản lý tài nguyên và môi trường biển đảo",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7850198",
+          "program_name": "Quản lý tài nguyên nước",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "20"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340116",
+          "program_name": "Bất động sản",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340116",
+          "program_name": "Bất động sản",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7440201",
+          "program_name": "Địa chất học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7440201",
+          "program_name": "Địa chất học",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7440221",
+          "program_name": "Biến đổi khí hậu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7440221",
+          "program_name": "Biến đổi khí hậu",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7440222",
+          "program_name": "Khí tượng và Khí hậu học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7440222",
+          "program_name": "Khí tượng và Khí hậu học",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7440224",
+          "program_name": "Thủy văn học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7440224",
+          "program_name": "Thủy văn học",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7480104",
+          "program_name": "Hệ thống thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7480104",
+          "program_name": "Hệ thống thông tin",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7510401",
+          "program_name": "Công nghệ kỹ thuật hóa học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7510401",
+          "program_name": "Công nghệ kỹ thuật hóa học",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7510402",
+          "program_name": "Công nghệ vật liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7510402",
+          "program_name": "Công nghệ vật liệu",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7510406",
+          "program_name": "Công nghệ kỹ thuật môi trường",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7510406",
+          "program_name": "Công nghệ kỹ thuật môi trường",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "D01",
+            "X01",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistic và quản lý chuỗi cung ứng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7510605",
+          "program_name": "Logistic và quản lý chuỗi cung ứng",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7520503",
+          "program_name": "Kỹ thuật trắc địa - bản đồ",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7520503",
+          "program_name": "Kỹ thuật trắc địa - bản đồ",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7580106",
+          "program_name": "Quản lý đô thị và công trình",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7580106",
+          "program_name": "Quản lý đô thị và công trình",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X02",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7580213",
+          "program_name": "Kỹ thuật cấp thoát nước",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7580213",
+          "program_name": "Kỹ thuật cấp thoát nước",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "D01",
+            "X01",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7850101",
+          "program_name": "Quản lý tài nguyên và môi trường",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7850101",
+          "program_name": "Quản lý tài nguyên và môi trường",
+          "subject_groups": [
+            "B03",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7850102",
+          "program_name": "Kinh tế tài nguyên thiên nhiên",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7850102",
+          "program_name": "Kinh tế tài nguyên thiên nhiên",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "D04",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7850103",
+          "program_name": "Quản lý đất đai",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7850103",
+          "program_name": "Quản lý đất đai",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7850197",
+          "program_name": "Quản lý tài nguyên và môi trường biển đảo",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7850197",
+          "program_name": "Quản lý tài nguyên và môi trường biển đảo",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7850197",
+          "program_name": "Quản lý tài nguyên và môi trường biển đảo",
+          "subject_groups": [
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "B03",
+            "D01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7850198",
+          "program_name": "Quản lý tài nguyên nước",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7850198",
+          "program_name": "Quản lý tài nguyên nước",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn của trường Đại học Tài nguyên và Môi trường TPHCM các năm Tại đây.",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-tai-nguyen-va-moi-truong-tphcm-DTM.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "B03",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "D04",
+              "X01"
+            ],
+            "score": 17.5,
+            "note": null
+          },
+          {
+            "program_code": "7340116",
+            "program_name": "Bất động sản",
+            "subject_groups": [
+              "B03",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "X01",
+              "X02"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7440201",
+            "program_name": "Địa chất học",
+            "subject_groups": [
+              "B03",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "X01",
+              "X04"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7440211",
+            "program_name": "Biến đổi khí hậu",
+            "subject_groups": [
+              "B03",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "X01",
+              "X02"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7440222",
+            "program_name": "Khí tượng và khí hậu học",
+            "subject_groups": [
+              "B03",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "X01",
+              "X02"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7440224",
+            "program_name": "Thủy văn học",
+            "subject_groups": [
+              "B03",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "X01",
+              "X02"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7480104",
+            "program_name": "Hệ thống thông tin",
+            "subject_groups": [
+              "B03",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "X01",
+              "X02"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "B03",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "X01",
+              "X02"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7510401",
+            "program_name": "Công nghệ kỹ thuật hóa học",
+            "subject_groups": [
+              "B03",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "X02",
+              "X04"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7510402",
+            "program_name": "Công nghệ vật liệu",
+            "subject_groups": [
+              "B03",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "X02",
+              "X04"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7510406",
+            "program_name": "Công nghệ kỹ thuật môi trường",
+            "subject_groups": [
+              "B03",
+              "C01",
+              "C02",
+              "C03",
+              "D01",
+              "X01",
+              "X02",
+              "X04"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7510605",
+            "program_name": "Logictics và quản lý chuỗi cung ứng",
+            "subject_groups": [
+              "B03",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "D04",
+              "X01"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7520503",
+            "program_name": "Kỹ thuật trắc địa – Bản đồ",
+            "subject_groups": [
+              "B03",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "X02",
+              "X04"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7580106",
+            "program_name": "Quản lý đô thị và công trình",
+            "subject_groups": [
+              "B03",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "X02",
+              "X04"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7580213",
+            "program_name": "Kỹ thuật cấp thoát nước",
+            "subject_groups": [
+              "B03",
+              "C01",
+              "C02",
+              "C03",
+              "D01",
+              "X01",
+              "X02",
+              "X04"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lý tài nguyên và môi trường",
+            "subject_groups": [
+              "B03",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "X01",
+              "X02",
+              "X04"
+            ],
+            "score": 15.5,
+            "note": null
+          },
+          {
+            "program_code": "7850102",
+            "program_name": "Kinh tế tài nguyên thiên nhiên",
+            "subject_groups": [
+              "B03",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "D04",
+              "X01"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7850103",
+            "program_name": "Quản lý đất đai",
+            "subject_groups": [
+              "B03",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "X01",
+              "X02"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7850197",
+            "program_name": "Quản lý tài nguyên và môi trường biển đảo",
+            "subject_groups": [
+              "B03",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "D04",
+              "X02"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7850198",
+            "program_name": "Quản lý tài nguyên nước",
+            "subject_groups": [
+              "B03",
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "X01",
+              "X02"
+            ],
+            "score": 15,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "B03",
+              "D01",
+              "D04"
+            ],
+            "score": 21.2,
+            "note": "Kết quả học tập TB 3 học kỳ theo học bạ"
+          },
+          {
+            "program_code": "7340116",
+            "program_name": "Bất động sản",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 18.63,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7340116",
+            "program_name": "Bất động sản",
+            "subject_groups": [
+              "C04"
+            ],
+            "score": 18.63,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7340116",
+            "program_name": "Bất động sản",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7340116",
+            "program_name": "Bất động sản",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 18.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7340116",
+            "program_name": "Bất động sản",
+            "subject_groups": [
+              "X02"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7340116",
+            "program_name": "Bất động sản",
+            "subject_groups": [
+              "B03"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7340116",
+            "program_name": "Bất động sản",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 18.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7340116",
+            "program_name": "Bất động sản",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "73470101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 20.62,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "73470101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 21.6,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "73470101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 21.13,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "73470101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "C04"
+            ],
+            "score": 21.13,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "73470101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 21.6,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "73470101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 20.62,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "73470101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "B03"
+            ],
+            "score": 21.6,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7440201",
+            "program_name": "Địa chất học",
+            "subject_groups": [
+              "C04"
+            ],
+            "score": 18.63,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7440201",
+            "program_name": "Địa chất học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7440201",
+            "program_name": "Địa chất học",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 18.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7440201",
+            "program_name": "Địa chất học",
+            "subject_groups": [
+              "X04"
+            ],
+            "score": 18.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7440201",
+            "program_name": "Địa chất học",
+            "subject_groups": [
+              "B03"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7440201",
+            "program_name": "Địa chất học",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 18.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7440201",
+            "program_name": "Địa chất học",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7440201",
+            "program_name": "Địa chất học",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 18.63,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7440211",
+            "program_name": "Biến đổi khí hậu",
+            "subject_groups": [
+              "X02"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7440211",
+            "program_name": "Biến đổi khí hậu",
+            "subject_groups": [
+              "B03"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7440211",
+            "program_name": "Biến đổi khí hậu",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 18.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7440211",
+            "program_name": "Biến đổi khí hậu",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7440211",
+            "program_name": "Biến đổi khí hậu",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 18.63,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7440211",
+            "program_name": "Biến đổi khí hậu",
+            "subject_groups": [
+              "C04"
+            ],
+            "score": 18.63,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7440211",
+            "program_name": "Biến đổi khí hậu",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7440211",
+            "program_name": "Biến đổi khí hậu",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 18.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7440222",
+            "program_name": "Khí tượng và khí hậu học",
+            "subject_groups": [
+              "B03"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7440222",
+            "program_name": "Khí tượng và khí hậu học",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 18.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7440222",
+            "program_name": "Khí tượng và khí hậu học",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7440222",
+            "program_name": "Khí tượng và khí hậu học",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 18.63,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7440222",
+            "program_name": "Khí tượng và khí hậu học",
+            "subject_groups": [
+              "C04"
+            ],
+            "score": 18.63,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7440222",
+            "program_name": "Khí tượng và khí hậu học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7440222",
+            "program_name": "Khí tượng và khí hậu học",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 18.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7440222",
+            "program_name": "Khí tượng và khí hậu học",
+            "subject_groups": [
+              "X02"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7440224",
+            "program_name": "Thủy văn học",
+            "subject_groups": [
+              "B03"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7440224",
+            "program_name": "Thủy văn học",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 18.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7440224",
+            "program_name": "Thủy văn học",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7440224",
+            "program_name": "Thủy văn học",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 18.63,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7440224",
+            "program_name": "Thủy văn học",
+            "subject_groups": [
+              "C04"
+            ],
+            "score": 18.63,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7440224",
+            "program_name": "Thủy văn học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7440224",
+            "program_name": "Thủy văn học",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 18.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7440224",
+            "program_name": "Thủy văn học",
+            "subject_groups": [
+              "X02"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7480104",
+            "program_name": "Hệ thống thông tin",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 18.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7480104",
+            "program_name": "Hệ thống thông tin",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7480104",
+            "program_name": "Hệ thống thông tin",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 18.63,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7480104",
+            "program_name": "Hệ thống thông tin",
+            "subject_groups": [
+              "C04"
+            ],
+            "score": 18.63,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7480104",
+            "program_name": "Hệ thống thông tin",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7480104",
+            "program_name": "Hệ thống thông tin",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 18.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7480104",
+            "program_name": "Hệ thống thông tin",
+            "subject_groups": [
+              "X02"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7480104",
+            "program_name": "Hệ thống thông tin",
+            "subject_groups": [
+              "B03"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 19.63,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "C04"
+            ],
+            "score": 19.63,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 20.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 19.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "X02"
+            ],
+            "score": 20.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "B03",
+              "D01",
+              "X02",
+              "X01"
+            ],
+            "score": 19.7,
+            "note": "Kết quả học tập TB 3 học kỳ theo học bạ"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "B03"
+            ],
+            "score": 20.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 19.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 20.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7510401",
+            "program_name": "Công nghệ kỹ thuật hóa học",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7510401",
+            "program_name": "Công nghệ kỹ thuật hóa học",
+            "subject_groups": [
+              "X02"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7510401",
+            "program_name": "Công nghệ kỹ thuật hóa học",
+            "subject_groups": [
+              "X04"
+            ],
+            "score": 18.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7510401",
+            "program_name": "Công nghệ kỹ thuật hóa học",
+            "subject_groups": [
+              "B03"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7510401",
+            "program_name": "Công nghệ kỹ thuật hóa học",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 18.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7510401",
+            "program_name": "Công nghệ kỹ thuật hóa học",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7510401",
+            "program_name": "Công nghệ kỹ thuật hóa học",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 18.63,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7510401",
+            "program_name": "Công nghệ kỹ thuật hóa học",
+            "subject_groups": [
+              "C04"
+            ],
+            "score": 18.63,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7510402",
+            "program_name": "Công nghệ vật liệu",
+            "subject_groups": [
+              "X02"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7510402",
+            "program_name": "Công nghệ vật liệu",
+            "subject_groups": [
+              "X04"
+            ],
+            "score": 18.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7510402",
+            "program_name": "Công nghệ vật liệu",
+            "subject_groups": [
+              "B03"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7510402",
+            "program_name": "Công nghệ vật liệu",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 18.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7510402",
+            "program_name": "Công nghệ vật liệu",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7510402",
+            "program_name": "Công nghệ vật liệu",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 18.63,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7510402",
+            "program_name": "Công nghệ vật liệu",
+            "subject_groups": [
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "B03",
+              "D01",
+              "X02",
+              "X03",
+              "X04"
+            ],
+            "score": 18.7,
+            "note": "Kết quả học tập TB 3 học kỳ theo học bạ"
+          },
+          {
+            "program_code": "7510402",
+            "program_name": "Công nghệ vật liệu",
+            "subject_groups": [
+              "C04"
+            ],
+            "score": 18.63,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7510402",
+            "program_name": "Công nghệ vật liệu",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7510406",
+            "program_name": "Công nghệ kỹ thuật môi trường",
+            "subject_groups": [
+              "X04"
+            ],
+            "score": 18.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7510406",
+            "program_name": "Công nghệ kỹ thuật môi trường",
+            "subject_groups": [
+              "B03"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7510406",
+            "program_name": "Công nghệ kỹ thuật môi trường",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 18.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7510406",
+            "program_name": "Công nghệ kỹ thuật môi trường",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7510406",
+            "program_name": "Công nghệ kỹ thuật môi trường",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 18.63,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7510406",
+            "program_name": "Công nghệ kỹ thuật môi trường",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7510406",
+            "program_name": "Công nghệ kỹ thuật môi trường",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 18.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7510406",
+            "program_name": "Công nghệ kỹ thuật môi trường",
+            "subject_groups": [
+              "X02"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7510605",
+            "program_name": "Logictics và quản lý chuỗi cung ứng",
+            "subject_groups": [
+              "B03"
+            ],
+            "score": 24.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7510605",
+            "program_name": "Logictics và quản lý chuỗi cung ứng",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 23.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7510605",
+            "program_name": "Logictics và quản lý chuỗi cung ứng",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 24.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7510605",
+            "program_name": "Logictics và quản lý chuỗi cung ứng",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 23.63,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7510605",
+            "program_name": "Logictics và quản lý chuỗi cung ứng",
+            "subject_groups": [
+              "C01",
+              "C02",
+              "C03",
+              "C04",
+              "B03",
+              "D01",
+              "D04",
+              "X01"
+            ],
+            "score": 23.7,
+            "note": "Kết quả học tập TB 3 học kỳ theo học bạ"
+          },
+          {
+            "program_code": "7510605",
+            "program_name": "Logictics và quản lý chuỗi cung ứng",
+            "subject_groups": [
+              "C04"
+            ],
+            "score": 23.63,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7510605",
+            "program_name": "Logictics và quản lý chuỗi cung ứng",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 24.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7510605",
+            "program_name": "Logictics và quản lý chuỗi cung ứng",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 23.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7520503",
+            "program_name": "Kỹ thuật trắc địa – Bản đồ",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7520503",
+            "program_name": "Kỹ thuật trắc địa – Bản đồ",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 18.63,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7520503",
+            "program_name": "Kỹ thuật trắc địa – Bản đồ",
+            "subject_groups": [
+              "C04"
+            ],
+            "score": 18.63,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7520503",
+            "program_name": "Kỹ thuật trắc địa – Bản đồ",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 18.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7520503",
+            "program_name": "Kỹ thuật trắc địa – Bản đồ",
+            "subject_groups": [
+              "X02"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7520503",
+            "program_name": "Kỹ thuật trắc địa – Bản đồ",
+            "subject_groups": [
+              "X04"
+            ],
+            "score": 18.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7520503",
+            "program_name": "Kỹ thuật trắc địa – Bản đồ",
+            "subject_groups": [
+              "B03"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7520503",
+            "program_name": "Kỹ thuật trắc địa – Bản đồ",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 18.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7580106",
+            "program_name": "Quản lý đô thị và công trình",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 18.63,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7580106",
+            "program_name": "Quản lý đô thị và công trình",
+            "subject_groups": [
+              "C04"
+            ],
+            "score": 18.63,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7580106",
+            "program_name": "Quản lý đô thị và công trình",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 18.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7580106",
+            "program_name": "Quản lý đô thị và công trình",
+            "subject_groups": [
+              "X02"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7580106",
+            "program_name": "Quản lý đô thị và công trình",
+            "subject_groups": [
+              "X04"
+            ],
+            "score": 18.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7580106",
+            "program_name": "Quản lý đô thị và công trình",
+            "subject_groups": [
+              "B03"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7580106",
+            "program_name": "Quản lý đô thị và công trình",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 18.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7580106",
+            "program_name": "Quản lý đô thị và công trình",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7580213",
+            "program_name": "Kỹ thuật cấp thoát nước",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7580213",
+            "program_name": "Kỹ thuật cấp thoát nước",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 18.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7580213",
+            "program_name": "Kỹ thuật cấp thoát nước",
+            "subject_groups": [
+              "X02"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7580213",
+            "program_name": "Kỹ thuật cấp thoát nước",
+            "subject_groups": [
+              "X04"
+            ],
+            "score": 18.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7580213",
+            "program_name": "Kỹ thuật cấp thoát nước",
+            "subject_groups": [
+              "B03"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7580213",
+            "program_name": "Kỹ thuật cấp thoát nước",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 18.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7580213",
+            "program_name": "Kỹ thuật cấp thoát nước",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7580213",
+            "program_name": "Kỹ thuật cấp thoát nước",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 18.63,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lý tài nguyên và môi trường",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 18.62,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lý tài nguyên và môi trường",
+            "subject_groups": [
+              "X02"
+            ],
+            "score": 19.6,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lý tài nguyên và môi trường",
+            "subject_groups": [
+              "X04"
+            ],
+            "score": 18.62,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lý tài nguyên và môi trường",
+            "subject_groups": [
+              "B03"
+            ],
+            "score": 19.6,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lý tài nguyên và môi trường",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 19.6,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lý tài nguyên và môi trường",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 19.13,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lý tài nguyên và môi trường",
+            "subject_groups": [
+              "C04"
+            ],
+            "score": 19.13,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lý tài nguyên và môi trường",
+            "subject_groups": [
+              "C02",
+              "C03",
+              "C04",
+              "B03",
+              "D01",
+              "X02",
+              "X03",
+              "X04",
+              "X01"
+            ],
+            "score": 19.2,
+            "note": "Kết quả học tập TB 3 học kỳ theo học bạ"
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lý tài nguyên và môi trường",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 19.6,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7850102",
+            "program_name": "Kinh tế tài nguyên thiên nhiên",
+            "subject_groups": [
+              "B03"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7850102",
+            "program_name": "Kinh tế tài nguyên thiên nhiên",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 18.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7850102",
+            "program_name": "Kinh tế tài nguyên thiên nhiên",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7850102",
+            "program_name": "Kinh tế tài nguyên thiên nhiên",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 18.63,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7850102",
+            "program_name": "Kinh tế tài nguyên thiên nhiên",
+            "subject_groups": [
+              "C04"
+            ],
+            "score": 18.63,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7850102",
+            "program_name": "Kinh tế tài nguyên thiên nhiên",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7850102",
+            "program_name": "Kinh tế tài nguyên thiên nhiên",
+            "subject_groups": [
+              "X04"
+            ],
+            "score": 18.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7850103",
+            "program_name": "Quản lý đất đai",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 18.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7850103",
+            "program_name": "Quản lý đất đai",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7850103",
+            "program_name": "Quản lý đất đai",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 18.63,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7850103",
+            "program_name": "Quản lý đất đai",
+            "subject_groups": [
+              "C04"
+            ],
+            "score": 18.63,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7850103",
+            "program_name": "Quản lý đất đai",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7850103",
+            "program_name": "Quản lý đất đai",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 18.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7850103",
+            "program_name": "Quản lý đất đai",
+            "subject_groups": [
+              "X04"
+            ],
+            "score": 18.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7850103",
+            "program_name": "Quản lý đất đai",
+            "subject_groups": [
+              "B03"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7850197",
+            "program_name": "Quản lý tài nguyên và môi trường biển đảo",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7850197",
+            "program_name": "Quản lý tài nguyên và môi trường biển đảo",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 18.63,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7850197",
+            "program_name": "Quản lý tài nguyên và môi trường biển đảo",
+            "subject_groups": [
+              "C04"
+            ],
+            "score": 18.63,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7850197",
+            "program_name": "Quản lý tài nguyên và môi trường biển đảo",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7850197",
+            "program_name": "Quản lý tài nguyên và môi trường biển đảo",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 18.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7850197",
+            "program_name": "Quản lý tài nguyên và môi trường biển đảo",
+            "subject_groups": [
+              "X04"
+            ],
+            "score": 18.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7850197",
+            "program_name": "Quản lý tài nguyên và môi trường biển đảo",
+            "subject_groups": [
+              "B03"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7850197",
+            "program_name": "Quản lý tài nguyên và môi trường biển đảo",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 18.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7850198",
+            "program_name": "Quản lý tài nguyên nước",
+            "subject_groups": [
+              "C03"
+            ],
+            "score": 18.63,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7850198",
+            "program_name": "Quản lý tài nguyên nước",
+            "subject_groups": [
+              "C04"
+            ],
+            "score": 18.63,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7850198",
+            "program_name": "Quản lý tài nguyên nước",
+            "subject_groups": [
+              "D01"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7850198",
+            "program_name": "Quản lý tài nguyên nước",
+            "subject_groups": [
+              "X01"
+            ],
+            "score": 18.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7850198",
+            "program_name": "Quản lý tài nguyên nước",
+            "subject_groups": [
+              "X04"
+            ],
+            "score": 18.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7850198",
+            "program_name": "Quản lý tài nguyên nước",
+            "subject_groups": [
+              "B03"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7850198",
+            "program_name": "Quản lý tài nguyên nước",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 18.12,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          },
+          {
+            "program_code": "7850198",
+            "program_name": "Quản lý tài nguyên nước",
+            "subject_groups": [
+              "C02"
+            ],
+            "score": 19.1,
+            "note": "Kết quả học tập các môn học ở bậc THPT"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 583,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [],
+            "score": 504,
+            "note": null
+          },
+          {
+            "program_code": "7510406",
+            "program_name": "Công nghệ kỹ thuật môi trường",
+            "subject_groups": [],
+            "score": 458,
+            "note": null
+          },
+          {
+            "program_code": "7510605",
+            "program_name": "Logictics và quản lý chuỗi cung ứng",
+            "subject_groups": [],
+            "score": 756,
+            "note": null
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lý tài nguyên và môi trường",
+            "subject_groups": [],
+            "score": 483,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,646 @@
+{
+  "university": {
+    "code": "VTT",
+    "name": "Đại học Võ Trường Toản",
+    "short_name": "VTTU",
+    "location": [
+      "Hậu Giang"
+    ],
+    "address": "Quốc lộ 1A, Tân Phú Thạnh, Châu Thành A, Hậu Giang",
+    "website": "https://vttu.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2025,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-vo-truong-toan-VTT.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2025/0725/thong-tin-tuyen-sinh-truong-dai-hoc-vo-truong-toan-2025.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC VÕ TRƯỜNG TOẢN 2025 Thông tin tuyển sinh trường Đại học Võ Trường Toản (VTTU) năm 2025 Năm 2025, trường Đại học Võ Trường Toản tuyển sinh dựa trên 5 phương thức xét tuyển như sau: Phương thức 1: Xét điểm thi tốt nghiệp THPT 2025 Phương thức 2: Xét kết quả học tập cấp THPT Phương thức 3: Xét kết hợp kết quả thi tốt nghiệp THPT với kết quả học tập THPT Phương thức 4: Xét kết hợp kết quả thi tốt nghiệp THPT với chứng chỉ ngoại ngữ Phương thức 5: Thí sinh tốt nghiệp THPT nước ngoài VTTU có sử dụng kết quả miễn thi bài thi môn Ngoại ngữ để xét tuyển và thí sinh được miễn thi bài thi Ngoại ngữ được tính 10 điểm cho bài thi này để xét tuyển. Trường hợp thí sinh không đăng ký sử dụng quyền được miễn thi bài thi Ngoại ngữ nhưng thí sinh có một trong các Chứng chỉ ngoại ngữ hợp lệ và đạt mức điểm tối thiểu theo bảng dưới đây sẽ được quy đổi điểm sang môn Tiếng Anh trong các tổ hợp xét tuyển năm 2025, cụ thể như sau: Khám phá thêm Tài nguyên giáo dục giáo dục khoa học",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 QUY CHẾ Phương thức 1: Xét điểm thi tốt nghiệp THPT 2025 DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM THI THPT STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7340101 Quản trị kinh doanh A00 2 7340201 Tài chính - Ngân hàng A00 3 7340301 Kế toán A00 4 7380101 Luật A00 5 7480201 Công nghệ thông tin A00 6 7510205 Công nghệ kỹ thuật ô tô A00 7 7720101 Y khoa B00 8 7720101LT Y khoa B00 9 7720201 Dược học B00 10 7720501 Răng - Hàm - Mặt B00 Xem thêm",
+      "eligibility": null,
+      "rules": "QUY CHẾ Phương thức 1: Xét điểm thi tốt nghiệp THPT 2025",
+      "programs": [
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [
+            "A00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7510205",
+          "program_name": "Công nghệ kỹ thuật ô tô",
+          "subject_groups": [
+            "A00"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "B00"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [
+            "B00"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7720501",
+          "program_name": "Răng - Hàm - Mặt",
+          "subject_groups": [
+            "B00"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-hoc-ba",
+      "method_name": "2 ĐIỂM HỌC BẠ",
+      "description": "2.1 QUY CHẾ Phương thức 2: Xét kết quả học tập cấp THPT DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM HỌC BẠ STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7340101 Quản trị kinh doanh A00 2 7340201 Tài chính - Ngân hàng A00 3 7340301 Kế toán A00 4 7380101 Luật A00 5 7480201 Công nghệ thông tin A00 6 7510205 Công nghệ kỹ thuật ô tô A00 7 7720101 Y khoa B00 8 7720201 Dược học B00 9 7720501 Răng - Hàm - Mặt B00 Xem thêm",
+      "eligibility": null,
+      "rules": "QUY CHẾ Phương thức 2: Xét kết quả học tập cấp THPT",
+      "programs": [
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [
+            "A00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7510205",
+          "program_name": "Công nghệ kỹ thuật ô tô",
+          "subject_groups": [
+            "A00"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "B00"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [
+            "B00"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7720501",
+          "program_name": "Răng - Hàm - Mặt",
+          "subject_groups": [
+            "B00"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        }
+      ]
+    },
+    {
+      "method_id": "3-iem-xet-tuyen-ket-hop",
+      "method_name": "3 ĐIỂM XÉT TUYỂN KẾT HỢP",
+      "description": "3.1 QUY CHẾ Phương thức 3: Xét kết hợp kết quả thi tốt nghiệp THPT với kết quả học tập THPT Phương thức 4: Xét kết hợp kết quả thi tốt nghiệp THPT với chứng chỉ ngoại ngữ",
+      "eligibility": null,
+      "rules": "QUY CHẾ Phương thức 3: Xét kết hợp kết quả thi tốt nghiệp THPT với kết quả học tập THPT Phương thức 4: Xét kết hợp kết quả thi tốt nghiệp THPT với chứng chỉ ngoại ngữ",
+      "programs": []
+    },
+    {
+      "method_id": "4-thi-sinh-tot-nghiep-thpt-nuoc-ngoai",
+      "method_name": "4 THÍ SINH TỐT NGHIỆP THPT NƯỚC NGOÀI",
+      "description": "4.1 QUY CHẾ Phương thức 5: Thí sinh tốt nghiệp THPT nước ngoài",
+      "eligibility": null,
+      "rules": "QUY CHẾ Phương thức 5: Thí sinh tốt nghiệp THPT nước ngoài",
+      "programs": []
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7340101",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [
+            "A00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7380101",
+          "program_name": "ĐT THPTHọc Bạ",
+          "subject_groups": [
+            "A00"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7510205",
+          "program_name": "Công nghệ kỹ thuật ô tô",
+          "subject_groups": [
+            "A00"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7720101",
+          "program_name": "Y khoa",
+          "subject_groups": [
+            "B00"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7720201",
+          "program_name": "Dược học",
+          "subject_groups": [
+            "B00"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7720501",
+          "program_name": "Răng - Hàm - Mặt",
+          "subject_groups": [
+            "B00"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn của trường Đại học Võ Trường Toản các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-vo-truong-toan-VTT.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2024",
+        "year": 2024,
+        "entries": [
+          {
+            "program_code": "7310205",
+            "program_name": "Quản lý Nhà nước",
+            "subject_groups": [
+              "A01",
+              "C00",
+              "D01",
+              "C20"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340120",
+            "program_name": "Kinh doanh quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340122",
+            "program_name": "Thương mại điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính – Ngân hàng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "C03"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "B00",
+              "A02",
+              "B03",
+              "D08"
+            ],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "C02",
+              "D07"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7720501",
+            "program_name": "Răng – Hàm – Mặt",
+            "subject_groups": [
+              "B00",
+              "A02",
+              "B03",
+              "D08"
+            ],
+            "score": 22.5,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2024",
+        "year": 2024,
+        "entries": [
+          {
+            "program_code": "7310205",
+            "program_name": "Quản lý nhà nước",
+            "subject_groups": [
+              "A01",
+              "C00",
+              "D01",
+              "C20"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7340120",
+            "program_name": "Kinh doanh quốc tế",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7340122",
+            "program_name": "Thương mại điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính – Ngân hàng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "C03"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "B00",
+              "A02",
+              "B03",
+              "D08"
+            ],
+            "score": 8,
+            "note": "Học lực L12 xếp loại từ giỏi trở lên hoặc điểm xét TN THPT từ 8,0 trở lên"
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "C02",
+              "D07"
+            ],
+            "score": 8,
+            "note": "Học lực L12 xếp loại từ giỏi trở lên hoặc điểm xét TN THPT từ 8,0 trở lên"
+          },
+          {
+            "program_code": "7720501",
+            "program_name": "Răng – Hàm – Mặt",
+            "subject_groups": [
+              "B00",
+              "A02",
+              "B03",
+              "D08"
+            ],
+            "score": 8,
+            "note": "Học lực L12 xếp loại từ giỏi trở lên hoặc điểm xét TN THPT từ 8,0 trở lên"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-xet-tuyen-ket-hop",
+        "method_name": "Điểm chuẩn theo phương thức Điểm xét tuyển kết hợp năm 2024",
+        "year": 2024,
+        "entries": [
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "B00",
+              "A02",
+              "B03",
+              "D08"
+            ],
+            "score": 22.5,
+            "note": "Kết hợp điểm thi TN THPT với học bạ"
+          },
+          {
+            "program_code": "7720101",
+            "program_name": "Y khoa",
+            "subject_groups": [
+              "D08"
+            ],
+            "score": 22.5,
+            "note": "Kết hợp điểm thi TN THPT với chứng chỉ ngoại ngữ"
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học",
+            "subject_groups": [
+              "B00",
+              "A00",
+              "C02",
+              "D07"
+            ],
+            "score": 21,
+            "note": "Kết hợp điểm thi TN THPT với học bạ"
+          },
+          {
+            "program_code": "7720201",
+            "program_name": "Dược học",
+            "subject_groups": [
+              "D07"
+            ],
+            "score": 21,
+            "note": "Kết hợp điểm thi TN THPT với chứng chỉ ngoại ngữ"
+          },
+          {
+            "program_code": "7720501",
+            "program_name": "Răng – Hàm – Mặt",
+            "subject_groups": [
+              "B00",
+              "A02",
+              "B03",
+              "D08"
+            ],
+            "score": 22.5,
+            "note": "Kết hợp điểm thi TN THPT với học bạ"
+          },
+          {
+            "program_code": "7720501",
+            "program_name": "Răng – Hàm – Mặt",
+            "subject_groups": [
+              "D08"
+            ],
+            "score": 22.5,
+            "note": "Kết hợp điểm thi TN THPT với chứng chỉ ngoại ngữ"
+          }
+        ]
+      }
+    ]
+  }
+}

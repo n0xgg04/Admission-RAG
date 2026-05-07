@@ -1,0 +1,803 @@
+{
+  "university": {
+    "code": "HTN",
+    "name": "Học Viện Thanh thiếu niên Việt Nam",
+    "short_name": "VYA",
+    "location": [
+      "Hà Nội"
+    ],
+    "address": "58 Nguyễn Chí Thanh; Số 3 Phố Chùa Láng, Đống Đa, Hà Nội",
+    "website": "https://vya.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/hoc-vien-thanh-thieu-nien-viet-nam-HTN.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0402/thong-bao-tuyen-sinh-hoc-vien-thanh-thieu-nien-viet-nam-nam-2026.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH HỌC VIỆN THANH THIẾU NIÊN VIỆT NAM 2026 Thông tin tuyển sinh Học viện Thanh thiếu niên Việt Nam (VYA) năm 2026 Năm 2026 Học viện Thanh thiếu niên Việt Nam tuyển sinh đại học chính quy theo 04 phương thức sau đây: Phương thức 1: Xét tuyển thẳng (theo Điều 8 quy chế tuyển sinh của Bộ Giáo dục và Đào tạo) – Mã 301 Phương thức 2: Xét tuyển dựa trên kết quả học tập của bậc THPT – Mã 200 Phương thức 3: Xét tuyển dựa trên kết quả kỳ thi tốt nghiệp THPT năm 2026 – Mã 100 Phương thức 4:Sử dụng phương thức khác - Mã 500 (áp dụng cho đối tượng dự bị đại học) Trên đây là thông tin về phương thức tuyển sinh của Học viện Thanh thiếu niên Việt Nam 2026. Đề án tuyển sinh 2026 của Học viện sẽ được cập nhật trong thời gian tới, các em có thể tham khảo đề án 2025 đăng tải bên dưới.",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 ĐỐI TƯỢNG - Thí sinh tốt nghiệp THPT năm 2026 (không xét tuyển đối với thí sinh tốt nghiệp THPT trước năm 2026). 1.2 ĐIỀU KIỆN XÉT TUYỂN - Thí sinh đạt kết quả rèn luyện từ loại Khá trở lên và có tổng điểm trung bình chung kết quả học tập 03 môn thuộc tổ hợp ĐKXT của năm lớp 10, 11, 12 đạt ngưỡng cụ thể của từng ngành. Học viện sẽ thông báo trong Thông báo tuyển sinh tại thời điểm tổ chức xét tuyển theo quy định của Bộ GD&ĐT. 1.3 QUY CHẾ - Điểm trung bình chung học tập cả năm lớp 10, 11, 12 ",
+      "eligibility": "ĐỐI TƯỢNG - Thí sinh tốt nghiệp THPT năm 2026 (không xét tuyển đối với thí sinh tốt nghiệp THPT trước năm 2026). 1.2",
+      "rules": "QUY CHẾ - Điểm trung bình chung học tập cả năm lớp 10, 11, 12 của môn Toán và Ngữ văn, hoặc Toán, hoặc Ngữ văn của các tổ hợp ĐKXT phải >= 6.0 điểm (Bằng chữ: sáu phẩy không) và điểm trung bình chung kết quả học tập 03 môn thuộc tổ hợp ĐKXT của cả năm lớp 10, 11, 12 phải >= 18.0 điểm. - Điểm xét tuyển theo thang điểm 30, bằng tổng điểm 3 môn trong tổ hợp xét tuyển và điểm cộng, ưu tiên, điểm khuyến khích (nếu có). Phương thức tuyển sinh dựa trên kết quả học tập THPT các môn phải bao gồm môn Toán hoặc môn Ngữ văn, với trọng số tính điểm của môn này tối thiểu bằng 1/3 tổng điểm xét tuyển. Quy định về cách tính điểm xét tuyển phương thức xét kết quả học tập THPT (thang điểm 30) như sau: Điểm xét tuyển = (ĐTB Môn 1 + ĐTB Môn 2 + ĐTB Môn 3) + Điểm cộng (nếu có) + Điểm ưu tiên (nếu có) Trong đó: ĐTB: Điểm trung bình; ĐTB môn = (Điểm cả năm lớp 10 + Điểm cả năm lớp 11 + Điểm cả năm lớp 12)/3.",
+      "programs": [
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế",
+          "subject_groups": [
+            "D01",
+            "A00",
+            "X21",
+            "D10",
+            "A04"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310202",
+          "program_name": "Xây dựng Đảng và Chính quyền nhà nước",
+          "subject_groups": [
+            "C00",
+            "X74",
+            "D01",
+            "X21",
+            "D10"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7310205",
+          "program_name": "Quản lý Nhà nước",
+          "subject_groups": [
+            "C00",
+            "X74",
+            "D01",
+            "X21",
+            "D10"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7310401",
+          "program_name": "Tâm lý học",
+          "subject_groups": [
+            "C00",
+            "X74",
+            "D01",
+            "X21",
+            "D10"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7320108",
+          "program_name": "Quan hệ công chúng",
+          "subject_groups": [
+            "C00",
+            "X74",
+            "D01",
+            "X21",
+            "D10"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "D01",
+            "A00",
+            "X21",
+            "D10",
+            "A04"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7760101",
+          "program_name": "Công tác xã hội",
+          "subject_groups": [
+            "C00",
+            "X74",
+            "D01",
+            "X21",
+            "D10"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7760102",
+          "program_name": "Công tác Thanh thiếu niên",
+          "subject_groups": [
+            "C00",
+            "X74",
+            "D01",
+            "X21",
+            "D10"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-hoc-ba",
+      "method_name": "2 ĐIỂM HỌC BẠ",
+      "description": "2.1 QUY CHẾ Xét tuyển dựa trên kết quả học tập của bậc THPT – Mã 200 - Cách thức xét tuyển: Xét từ cao xuống thấp đến hết chỉ tiêu dựa trên kết quả học tập 3 môn thuộc các tổ hợp xét tuyển theo ngành của cả năm lớp 12. - Điểm xét tuyển theo thang điểm 30. - Công thức tính điểm xét tuyển như sau: ĐXT = (ĐTB Môn 1 + ĐTB Môn 2 + ĐTB Môn 3) (Trong đó, ĐXT: Điểm xét tuyển; ĐTB: Điểm trung bình). - Tổng điểm trung bình cả năm lớp 12 của 03 môn trong tổ hợp xét tuyển đạt từ 20 điểm trở lên (không bao g",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét tuyển dựa trên kết quả học tập của bậc THPT – Mã 200 - Cách thức xét tuyển: Xét từ cao xuống thấp đến hết chỉ tiêu dựa trên kết quả học tập 3 môn thuộc các tổ hợp xét tuyển theo ngành của cả năm lớp 12. - Điểm xét tuyển theo thang điểm 30. - Công thức tính điểm xét tuyển như sau: ĐXT = (ĐTB Môn 1 + ĐTB Môn 2 + ĐTB Môn 3) (Trong đó, ĐXT: Điểm xét tuyển; ĐTB: Điểm trung bình). - Tổng điểm trung bình cả năm lớp 12 của 03 môn trong tổ hợp xét tuyển đạt từ 20 điểm trở lên (không bao gồm điểm ưu tiên, chi tiết điểm sàn xét tuyển từng ngành theo phương thức kết quả học tập THPT sẽ được Học viện công khai trong thông báo điểm sàn xét tuyển).",
+      "programs": [
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310202",
+          "program_name": "Xây dựng Đảng và Chính quyền nhà nước",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7310205",
+          "program_name": "Quản lý Nhà nước",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7310401",
+          "program_name": "Tâm lý học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7320108",
+          "program_name": "Quan hệ công chúng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7760101",
+          "program_name": "Công tác xã hội",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7760102",
+          "program_name": "Công tác Thanh thiếu niên",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        }
+      ]
+    },
+    {
+      "method_id": "3-utxt-xt-thang",
+      "method_name": "3 ƯTXT, XT THẲNG",
+      "description": "3.1 QUY CHẾ Xét tuyển thẳng (theo Điều 8 quy chế tuyển sinh của Bộ Giáo dục và Đào tạo) – Mã 301 DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ƯTXT, XT THẲNG STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7310101 Kinh tế 2 7310202 Xây dựng Đảng và Chính quyền nhà nước 3 7310205 Quản lý Nhà nước 4 7310401 Tâm lý học 5 7320108 Quan hệ công chúng 6 7380101 Luật 7 7480201 Công nghệ thông tin 8 7760101 Công tác xã hội 9 7760102 Công tác Thanh thiếu niên Xem thêm",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét tuyển thẳng (theo Điều 8 quy chế tuyển sinh của Bộ Giáo dục và Đào tạo) – Mã 301",
+      "programs": [
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310202",
+          "program_name": "Xây dựng Đảng và Chính quyền nhà nước",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7310205",
+          "program_name": "Quản lý Nhà nước",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7310401",
+          "program_name": "Tâm lý học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7320108",
+          "program_name": "Quan hệ công chúng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7760101",
+          "program_name": "Công tác xã hội",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7760102",
+          "program_name": "Công tác Thanh thiếu niên",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        }
+      ]
+    },
+    {
+      "method_id": "4-phuong-thuc-khac",
+      "method_name": "4 PHƯƠNG THỨC KHÁC",
+      "description": "4.1 ĐỐI TƯỢNG Dự bị đại học 4.2 ĐIỀU KIỆN XÉT TUYỂN – Thí sinh đã tốt nghiệp THPT, hoàn thành chương trình dự bị đại học và có tổng điểm trung bình chung kết quả học tập 03 môn thuộc tổ hợp ĐKXT của năm lớp 10, 11, 12 đạt ngưỡng đầu vào do Học viện công bố trong thông báo tuyển sinh. – Có văn bản của trường nơi học sinh học dự bị đại học và hồ sơ của học sinh gửi về Học viện để xét tuyển. 4.3 QUY CHẾ – Điểm xét tuyển (ĐXT) theo thang 30 và làm tròn đến hai chữ số thập phân. – Học viện xét theo đ",
+      "eligibility": "ĐỐI TƯỢNG Dự bị đại học 4.2",
+      "rules": "QUY CHẾ – Điểm xét tuyển (ĐXT) theo thang 30 và làm tròn đến hai chữ số thập phân. – Học viện xét theo điểm từ cao xuống thấp cho đến hết chỉ tiêu. – Học viện đảm bảo nguyên tắc xét tuyển của thí sinh theo quy chế tuyển sinh của Bộ GD&ĐT và của Học viện. – Học viện không sử dụng điểm thi được bảo lưu từ các kỳ thi tốt nghiệp THPT, kỳ thi THPT quốc gia các năm trước để tuyển sinh, không cộng điểm ưu tiên cho thí sinh có chứng chỉ nghề.",
+      "programs": []
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310101",
+          "program_name": "Kinh tế",
+          "subject_groups": [
+            "D01",
+            "A00",
+            "X21",
+            "D10",
+            "A04"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7310202",
+          "program_name": "Xây dựng Đảng và Chính quyền nhà nước",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7310202",
+          "program_name": "Xây dựng Đảng và Chính quyền nhà nước",
+          "subject_groups": [
+            "C00",
+            "X74",
+            "D01",
+            "X21",
+            "D10"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7310205",
+          "program_name": "Quản lý Nhà nước",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7310205",
+          "program_name": "Quản lý Nhà nước",
+          "subject_groups": [
+            "C00",
+            "X74",
+            "D01",
+            "X21",
+            "D10"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7310401",
+          "program_name": "Tâm lý học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7310401",
+          "program_name": "Tâm lý học",
+          "subject_groups": [
+            "C00",
+            "X74",
+            "D01",
+            "X21",
+            "D10"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7320108",
+          "program_name": "Quan hệ công chúng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7320108",
+          "program_name": "Quan hệ công chúng",
+          "subject_groups": [
+            "C00",
+            "X74",
+            "D01",
+            "X21",
+            "D10"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7380101",
+          "program_name": "Học BạƯu Tiên",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7380101",
+          "program_name": "ĐT THPT",
+          "subject_groups": [
+            "D01",
+            "C00",
+            "X74",
+            "A00",
+            "D10"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "D01",
+            "A00",
+            "X21",
+            "D10",
+            "A04"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7760101",
+          "program_name": "Công tác xã hội",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7760101",
+          "program_name": "Công tác xã hội",
+          "subject_groups": [
+            "C00",
+            "X74",
+            "D01",
+            "X21",
+            "D10"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7760102",
+          "program_name": "Công tác Thanh thiếu niên",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7760102",
+          "program_name": "Công tác Thanh thiếu niên",
+          "subject_groups": [
+            "C00",
+            "X74",
+            "D01",
+            "X21",
+            "D10"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn của Học viện Thanh thiếu niên Việt Nam các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-thanh-thieu-nien-viet-nam-HTN.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế",
+            "subject_groups": [
+              "D01",
+              "A00",
+              "X21",
+              "D10"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và Chính quyền Nhà nước",
+            "subject_groups": [
+              "C00",
+              "X74",
+              "D01",
+              "A09"
+            ],
+            "score": 24,
+            "note": null
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và Chính quyền Nhà nước - Đào tạo tại TPHCM",
+            "subject_groups": [
+              "C00",
+              "X74",
+              "D01",
+              "A09"
+            ],
+            "score": 19.5,
+            "note": null
+          },
+          {
+            "program_code": "7310205",
+            "program_name": "Quản lý Nhà nước",
+            "subject_groups": [
+              "C00",
+              "D01",
+              "A09"
+            ],
+            "score": 24.1,
+            "note": null
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [
+              "C00",
+              "X74",
+              "C20",
+              "A09",
+              "D01",
+              "X21"
+            ],
+            "score": 25.3,
+            "note": null
+          },
+          {
+            "program_code": "7320108",
+            "program_name": "Quan hệ Công chúng",
+            "subject_groups": [
+              "C00",
+              "X74",
+              "D01",
+              "C20",
+              "D15"
+            ],
+            "score": 25.8,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "C00",
+              "X74",
+              "A00",
+              "D01",
+              "C20",
+              "X21"
+            ],
+            "score": 24.8,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật - Đào tạo tại TPHCM",
+            "subject_groups": [
+              "C00",
+              "X74",
+              "A00",
+              "D01",
+              "C20",
+              "X21"
+            ],
+            "score": 17.5,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "D01",
+              "A00",
+              "X21",
+              "D10"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác Xã hội",
+            "subject_groups": [
+              "C00",
+              "X74",
+              "D01",
+              "C20",
+              "A09",
+              "X21"
+            ],
+            "score": 24.5,
+            "note": null
+          },
+          {
+            "program_code": "7760102",
+            "program_name": "Công tác Thanh thiếu niên - Đào tạo tại TPHCM",
+            "subject_groups": [
+              "C00",
+              "X74",
+              "D01",
+              "X21",
+              "C20",
+              "X70"
+            ],
+            "score": 18.5,
+            "note": null
+          },
+          {
+            "program_code": "7760102",
+            "program_name": "Công tác Thanh thiếu niên",
+            "subject_groups": [
+              "C00",
+              "X74",
+              "D01",
+              "X21",
+              "C20",
+              "X70"
+            ],
+            "score": 23.8,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7310101",
+            "program_name": "Kinh tế",
+            "subject_groups": [
+              "D01",
+              "A00",
+              "X21",
+              "D10"
+            ],
+            "score": 24.8,
+            "note": null
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và Chính quyền Nhà nước",
+            "subject_groups": [
+              "C00",
+              "X74",
+              "D01",
+              "C20",
+              "A09",
+              "X21"
+            ],
+            "score": 26.5,
+            "note": null
+          },
+          {
+            "program_code": "7310202",
+            "program_name": "Xây dựng Đảng và Chính quyền Nhà nước - Đào tạo tại TPHCM",
+            "subject_groups": [
+              "C00",
+              "X74",
+              "D01",
+              "C20",
+              "A09",
+              "X21"
+            ],
+            "score": 23.6,
+            "note": null
+          },
+          {
+            "program_code": "7310205",
+            "program_name": "Quản lý Nhà nước",
+            "subject_groups": [
+              "C00",
+              "X74",
+              "D01",
+              "C20",
+              "A09",
+              "X21"
+            ],
+            "score": 26.6,
+            "note": null
+          },
+          {
+            "program_code": "7310401",
+            "program_name": "Tâm lý học",
+            "subject_groups": [
+              "C00",
+              "X74",
+              "C20",
+              "A09",
+              "D01",
+              "X21"
+            ],
+            "score": 27.2,
+            "note": null
+          },
+          {
+            "program_code": "7320108",
+            "program_name": "Quan hệ Công chúng",
+            "subject_groups": [
+              "C00",
+              "X74",
+              "D01",
+              "C20",
+              "D15"
+            ],
+            "score": 27.4,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật",
+            "subject_groups": [
+              "C00",
+              "X74",
+              "A00",
+              "D01",
+              "C20",
+              "X21"
+            ],
+            "score": 26.9,
+            "note": null
+          },
+          {
+            "program_code": "7380101",
+            "program_name": "Luật - Đào tạo tại TPHCM",
+            "subject_groups": [
+              "C00",
+              "X74",
+              "A00",
+              "D01",
+              "C20",
+              "X21"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "D01",
+              "A00",
+              "X21",
+              "D10"
+            ],
+            "score": 24,
+            "note": null
+          },
+          {
+            "program_code": "7760101",
+            "program_name": "Công tác Xã hội",
+            "subject_groups": [
+              "C00",
+              "X74",
+              "D01",
+              "C20",
+              "A09",
+              "X21"
+            ],
+            "score": 26.8,
+            "note": null
+          },
+          {
+            "program_code": "7760102",
+            "program_name": "Công tác Thanh thiếu niên",
+            "subject_groups": [
+              "C00",
+              "X74",
+              "D01",
+              "X21",
+              "C20",
+              "X70"
+            ],
+            "score": 26.4,
+            "note": null
+          },
+          {
+            "program_code": "7760102",
+            "program_name": "Công tác Thanh thiếu niên - Đào tạo tại TPHCM",
+            "subject_groups": [
+              "C00",
+              "X74",
+              "D01",
+              "X21",
+              "C20",
+              "X70"
+            ],
+            "score": 22.8,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

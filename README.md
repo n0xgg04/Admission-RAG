@@ -1,78 +1,162 @@
-# admission-rag-chatbot
+# Admission RAG Chatbot
 
-A localhost-first RAG chatbot for university admission consulting.
+A Retrieval-Augmented Generation (RAG) chatbot system for admission inquiries, built with a modular architecture comprising a data crawler, a NestJS backend, and a Next.js frontend.
 
-This project helps students and parents:
-- chat for admission Q&A,
-- look up school information,
-- browse cutoff scores in a table view.
+## Overview
 
-The system prioritizes correctness from internal data over generic model responses.
+This project provides an intelligent chatbot capable of answering admission-related questions by retrieving relevant information from a vector database (Qdrant) and generating contextual responses using Large Language Models (LLM) via LangChain.
 
-## Repository Structure
+## Project Structure
 
-- `backend/` FastAPI API for ingest, retrieval, and chat generation
-- `frontend/` Next.js web app for end users
-- `data/` cleaned admission datasets used by the project
-- `docs/` project notes and requirements
+The repository is organized into three main modules:
 
-## Tech Stack
-
-- Frontend: Next.js + Tailwind CSS
-- Backend: FastAPI (Python)
-- Vector store: Chroma (persisted on disk)
-- LLM provider: OpenRouter
-
-## Quick Start
-
-### 1) Start backend
-
-See full instructions in `backend/README.md`.
-
-Typical flow:
-
-```bash
-cd backend
-python -m venv .venv
-# activate virtual environment
-pip install -r requirements.txt
-cp .env.example .env
+```
+admission-rag-chatbot/
+├── crawler/        # Data acquisition module
+├── backend-new/    # API & RAG engine
+└── frontend/       # User interface
 ```
 
-Set `OPENROUTER_API_KEY` in `.env`, then run:
+### 1. Crawler (`crawler/`)
+
+Responsible for collecting and processing raw admission data from various sources.
+
+- **Technology:** Node.js, TypeScript, Playwright
+- **Function:** Automated web scraping and data extraction
+- **Entry Point:** `src/index.ts`
 
 ```bash
-make dev
+cd crawler
+npm install
+npm run crawl
 ```
 
-Backend runs at `http://localhost:8000`.
+### 2. Backend (`backend-new/`)
 
-### 2) Start frontend
+The core API and RAG processing engine.
 
-See full instructions in `frontend/README.md`.
+- **Framework:** [NestJS](https://nestjs.com/)
+- **Database:** PostgreSQL (via Prisma ORM)
+- **Vector Store:** [Qdrant](https://qdrant.tech/)
+- **LLM Integration:** LangChain with OpenAI
+- **API Documentation:** Swagger/OpenAPI
 
+**Key Dependencies:**
+- `@nestjs/core`, `@nestjs/common` - NestJS framework
+- `@prisma/client` - Database ORM
+- `@qdrant/js-client-rest` - Vector database client
+- `langchain`, `@langchain/openai` - LLM orchestration
+- `class-validator`, `class-transformer` - DTO validation
+
+**Development:**
+```bash
+cd backend-new
+npm install
+npx prisma generate
+npm run start:dev
+```
+
+The API will be available at `http://localhost:3000` (default). Swagger docs are typically at `/api`.
+
+### 3. Frontend (`frontend/`)
+
+The user-facing chat interface.
+
+- **Framework:** [Next.js](https://nextjs.org/) 14 (App Router)
+- **UI Library:** React 18, TailwindCSS
+- **Markdown Rendering:** `react-markdown`, `remark-gfm`
+
+**Development:**
 ```bash
 cd frontend
 npm install
-cp .env.example .env.local
 npm run dev
 ```
 
-Frontend runs at `http://localhost:3000`.
+The application will be available at `http://localhost:3001` (or as configured).
 
-## Main API Endpoints
+## Prerequisites
 
-- `GET /api/v1/health`
-- `POST /api/v1/ingest`
-- `POST /api/v1/search`
-- `POST /api/v1/chat`
+- **Node.js:** >= 18.x
+- **Package Manager:** npm
+- **External Services:**
+  - PostgreSQL database
+  - Qdrant vector database instance
+  - OpenAI API key
 
-## Data Notes
+## Environment Setup
 
-- Cleaned data is stored in `data/`.
-- Dataset scope is admission season 2025.
-- If information is missing, chatbot is expected to say so clearly instead of guessing.
+Each module requires its own environment configuration. Create `.env` files based on the provided examples:
+
+### Backend (`backend-new/.env`)
+```env
+DATABASE_URL="postgresql://user:password@localhost:5432/admission_db"
+QDRANT_URL="http://localhost:6333"
+QDRANT_API_KEY="your-qdrant-api-key"
+OPENAI_API_KEY="sk-your-openai-key"
+```
+
+### Frontend (`frontend/.env.local`)
+```env
+NEXT_PUBLIC_API_URL="http://localhost:3000"
+```
+
+## Quick Start
+
+1. **Install dependencies for all modules:**
+```bash
+# In each directory: crawler/, backend-new/, frontend/
+npm install
+```
+
+2. **Set up the database:**
+```bash
+cd backend-new
+npx prisma migrate dev
+npx prisma generate
+```
+
+3. **Run data crawler (if needed):**
+```bash
+cd crawler
+npm run crawl
+```
+
+4. **Start the backend:**
+```bash
+cd backend-new
+npm run start:dev
+```
+
+5. **Start the frontend:**
+```bash
+cd frontend
+npm run dev
+```
+
+## Architecture
+
+```mermaid
+graph LR
+    A[User] -->|Queries| B[Frontend Next.js]
+    B -->|HTTP| C[Backend NestJS]
+    C -->|Retrieve| D[Qdrant Vector DB]
+    C -->|Generate| E[OpenAI LLM]
+    C -->|Persist| F[PostgreSQL]
+    G[Crawler] -->|Ingest| D
+```
+
+## Tech Stack Summary
+
+| Layer        | Technology                              |
+|--------------|-----------------------------------------|
+| Frontend     | Next.js, React, TailwindCSS             |
+| Backend      | NestJS, Prisma, Swagger                 |
+| AI/ML        | LangChain, OpenAI, Qdrant               |
+| Crawler      | Playwright, TypeScript                  |
+| Database     | PostgreSQL                              |
+| Vector Store | Qdrant                                  |
 
 ## License
 
-This repository is for educational/demo purposes.
+MIT

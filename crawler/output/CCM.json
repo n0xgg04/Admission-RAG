@@ -1,0 +1,1397 @@
+{
+  "university": {
+    "code": "CCM",
+    "name": "Đại học Công nghiệp và Thương Mại Hà Nội",
+    "short_name": "HTU",
+    "location": [
+      "Hà Nội"
+    ],
+    "address": "Lệ chi, Gia lâm, TP. Hà Nội",
+    "website": "http://www.hict.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-cong-nghiep-va-thuong-mai-ha-noi-CCM.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0406/thong-tin-tuyen-sinh-dai-hoc-cong-nghiep-va-thuong-mai-2026.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP VÀ THƯƠNG MẠI HÀ NỘI 2026 Thông tin tuyển sinh Đại học Công nghiệp và Thương mại Hà Nội năm 2026 Năm 2026 Nhà trường tuyển sinh 11 ngành đào tạo theo 03 phương thức xét tuyển. Cụ thể: Phương thức 1: Xét tuyển theo kết quả học tập THPT (xét học bạ THPT) Phương thức 2: Xét tuyển theo kết quả điểm thi tốt nghiệp THPT năm 2026 Phương thức 3: Xét tuyển điểm thi đánh giá năng lực Phương thức 4: Xét tuyển thẳng Khám phá thêm Khoa học giáo dục Điểm đến du lịch",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-hoc-ba",
+      "method_name": "1 ĐIỂM HỌC BẠ",
+      "description": "1.1 ĐỐI TƯỢNG Thí sinh tốt nghiệp THPT. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM HỌC BẠ STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7210403 Công nghệ may A00; A01; B00; C01; C03; C04; C14; D01; D07; X03; X23 2 7210404 Công nghệ sợi dệt A00; A01; B00; C01; C03; C04; C14; D01; D07; X03; X23 3 7340101 Marketing A00; A01; B00; C01; C03; C04; C14; D01; D07; X03; X23 4 7340115 Thương mại điện tử A00; A01; B00; C01; C03; C04; C14; D01; D07; X03; X23 5 7340122 Kế toán A00; A01; B00; C01; C03; C04; C14;",
+      "eligibility": "ĐỐI TƯỢNG Thí sinh tốt nghiệp THPT.",
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7210403",
+          "program_name": "Công nghệ may",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "C01",
+            "C03",
+            "C04",
+            "C14",
+            "D01",
+            "D07",
+            "X03",
+            "X23"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7210404",
+          "program_name": "Công nghệ sợi dệt",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "C01",
+            "C03",
+            "C04",
+            "C14",
+            "D01",
+            "D07",
+            "X03",
+            "X23"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Marketing",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "C01",
+            "C03",
+            "C04",
+            "C14",
+            "D01",
+            "D07",
+            "X03",
+            "X23"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "C01",
+            "C03",
+            "C04",
+            "C14",
+            "D01",
+            "D07",
+            "X03",
+            "X23"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "C01",
+            "C03",
+            "C04",
+            "C14",
+            "D01",
+            "D07",
+            "X03",
+            "X23"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "C01",
+            "C03",
+            "C04",
+            "C14",
+            "D01",
+            "D07",
+            "X03",
+            "X23"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7510201",
+          "program_name": "Quản lý công nghiệp",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "C01",
+            "C03",
+            "C04",
+            "C14",
+            "D01",
+            "D07",
+            "X03",
+            "X23"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7510301",
+          "program_name": "Công nghệ kỹ thuật cơ khí",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "C01",
+            "C03",
+            "C04",
+            "C14",
+            "D01",
+            "D07",
+            "X03",
+            "X23"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7540202",
+          "program_name": "Thiết kế thời trang",
+          "subject_groups": [
+            "D01",
+            "V01",
+            "V05",
+            "H00",
+            "H06",
+            "H08",
+            "H09"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7540209",
+          "program_name": "Thiết kế đồ họa",
+          "subject_groups": [
+            "D01",
+            "V01",
+            "V05",
+            "H00",
+            "H06",
+            "H08",
+            "H09"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-thi-thpt",
+      "method_name": "2 ĐIỂM THI THPT",
+      "description": "2.1 ĐỐI TƯỢNG Thí sinh tốt nghiệp THPT DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM THI THPT STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7210403 Công nghệ may A00; A01; B00; C01; C03; C04; C14; D01; D07; X03; X23 2 7210404 Công nghệ sợi dệt A00; A01; B00; C01; C03; C04; C14; D01; D07; X03; X23 3 7340101 Marketing A00; A01; B00; C01; C03; C04; C14; D01; D07; X03; X23 4 7340115 Thương mại điện tử A00; A01; B00; C01; C03; C04; C14; D01; D07; X03; X23 5 7340122 Kế toán A00; A01; B00; C01; C03; C04; C14",
+      "eligibility": "ĐỐI TƯỢNG Thí sinh tốt nghiệp THPT",
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7210403",
+          "program_name": "Công nghệ may",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "C01",
+            "C03",
+            "C04",
+            "C14",
+            "D01",
+            "D07",
+            "X03",
+            "X23"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7210404",
+          "program_name": "Công nghệ sợi dệt",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "C01",
+            "C03",
+            "C04",
+            "C14",
+            "D01",
+            "D07",
+            "X03",
+            "X23"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Marketing",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "C01",
+            "C03",
+            "C04",
+            "C14",
+            "D01",
+            "D07",
+            "X03",
+            "X23"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "C01",
+            "C03",
+            "C04",
+            "C14",
+            "D01",
+            "D07",
+            "X03",
+            "X23"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "C01",
+            "C03",
+            "C04",
+            "C14",
+            "D01",
+            "D07",
+            "X03",
+            "X23"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "C01",
+            "C03",
+            "C04",
+            "C14",
+            "D01",
+            "D07",
+            "X03",
+            "X23"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7510201",
+          "program_name": "Quản lý công nghiệp",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "C01",
+            "C03",
+            "C04",
+            "C14",
+            "D01",
+            "D07",
+            "X03",
+            "X23"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7510301",
+          "program_name": "Công nghệ kỹ thuật cơ khí",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "C01",
+            "C03",
+            "C04",
+            "C14",
+            "D01",
+            "D07",
+            "X03",
+            "X23"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7540202",
+          "program_name": "Thiết kế thời trang",
+          "subject_groups": [
+            "D01",
+            "V01",
+            "V05",
+            "H00",
+            "H06",
+            "H08",
+            "H09"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7540209",
+          "program_name": "Thiết kế đồ họa",
+          "subject_groups": [
+            "D01",
+            "V01",
+            "V05",
+            "H00",
+            "H06",
+            "H08",
+            "H09"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        }
+      ]
+    },
+    {
+      "method_id": "3-iem-gnl-hn",
+      "method_name": "3 ĐIỂM ĐGNL HN",
+      "description": "3.1 ĐỐI TƯỢNG Thí sinh tốt nghiệp THPT DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐGNL HN STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7210403 Công nghệ may A00; A01; B00; C01; C03; C04; C14; D01; D07; X03; X23 2 7210404 Công nghệ sợi dệt A00; A01; B00; C01; C03; C04; C14; D01; D07; X03; X23 3 7340101 Marketing A00; A01; B00; C01; C03; C04; C14; D01; D07; X03; X23 4 7340115 Thương mại điện tử A00; A01; B00; C01; C03; C04; C14; D01; D07; X03; X23 5 7340122 Kế toán A00; A01; B00; C01; C03; C04; C14;",
+      "eligibility": "ĐỐI TƯỢNG Thí sinh tốt nghiệp THPT",
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7210403",
+          "program_name": "Công nghệ may",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "C01",
+            "C03",
+            "C04",
+            "C14",
+            "D01",
+            "D07",
+            "X03",
+            "X23"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7210404",
+          "program_name": "Công nghệ sợi dệt",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "C01",
+            "C03",
+            "C04",
+            "C14",
+            "D01",
+            "D07",
+            "X03",
+            "X23"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Marketing",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "C01",
+            "C03",
+            "C04",
+            "C14",
+            "D01",
+            "D07",
+            "X03",
+            "X23"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "C01",
+            "C03",
+            "C04",
+            "C14",
+            "D01",
+            "D07",
+            "X03",
+            "X23"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "C01",
+            "C03",
+            "C04",
+            "C14",
+            "D01",
+            "D07",
+            "X03",
+            "X23"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "C01",
+            "C03",
+            "C04",
+            "C14",
+            "D01",
+            "D07",
+            "X03",
+            "X23"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7510201",
+          "program_name": "Quản lý công nghiệp",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "C01",
+            "C03",
+            "C04",
+            "C14",
+            "D01",
+            "D07",
+            "X03",
+            "X23"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7510301",
+          "program_name": "Công nghệ kỹ thuật cơ khí",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "C01",
+            "C03",
+            "C04",
+            "C14",
+            "D01",
+            "D07",
+            "X03",
+            "X23"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7540202",
+          "program_name": "Thiết kế thời trang",
+          "subject_groups": [
+            "D01",
+            "V01",
+            "V05",
+            "H00",
+            "H06",
+            "H08",
+            "H09"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7540209",
+          "program_name": "Thiết kế đồ họa",
+          "subject_groups": [
+            "D01",
+            "V01",
+            "V05",
+            "H00",
+            "H06",
+            "H08",
+            "H09"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        }
+      ]
+    },
+    {
+      "method_id": "4-utxt-xt-thang",
+      "method_name": "4 ƯTXT, XT THẲNG",
+      "description": "4.1 QUY CHẾ Theo quy chế của Bộ Giáo dục và Đào tạo DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ƯTXT, XT THẲNG STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7210403 Công nghệ may 2 7210404 Công nghệ sợi dệt 3 7340101 Marketing 4 7340115 Thương mại điện tử 5 7340122 Kế toán 6 7340301 Quản trị kinh doanh 7 7510201 Quản lý công nghiệp 8 7510301 Công nghệ kỹ thuật cơ khí 9 7510601 Công nghệ kỹ thuật điện; điện tử 10 7540202 Thiết kế thời trang 11 7540209 Thiết kế đồ họa Xem thêm",
+      "eligibility": null,
+      "rules": "QUY CHẾ Theo quy chế của Bộ Giáo dục và Đào tạo",
+      "programs": [
+        {
+          "program_code": "7210403",
+          "program_name": "Công nghệ may",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7210404",
+          "program_name": "Công nghệ sợi dệt",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Marketing",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7510201",
+          "program_name": "Quản lý công nghiệp",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7510301",
+          "program_name": "Công nghệ kỹ thuật cơ khí",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7540202",
+          "program_name": "Thiết kế thời trang",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7540209",
+          "program_name": "Thiết kế đồ họa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7210403",
+          "program_name": "Công nghệ may",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7210403",
+          "program_name": "Công nghệ may",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "C01",
+            "C03",
+            "C04",
+            "C14",
+            "D01",
+            "D07",
+            "X03",
+            "X23"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7210404",
+          "program_name": "Công nghệ sợi dệt",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7210404",
+          "program_name": "Công nghệ sợi dệt",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "C01",
+            "C03",
+            "C04",
+            "C14",
+            "D01",
+            "D07",
+            "X03",
+            "X23"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Marketing",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340101",
+          "program_name": "Marketing",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "C01",
+            "C03",
+            "C04",
+            "C14",
+            "D01",
+            "D07",
+            "X03",
+            "X23"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340115",
+          "program_name": "Thương mại điện tử",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "C01",
+            "C03",
+            "C04",
+            "C14",
+            "D01",
+            "D07",
+            "X03",
+            "X23"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340122",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "C01",
+            "C03",
+            "C04",
+            "C14",
+            "D01",
+            "D07",
+            "X03",
+            "X23"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Quản trị kinh doanh",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "C01",
+            "C03",
+            "C04",
+            "C14",
+            "D01",
+            "D07",
+            "X03",
+            "X23"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7510201",
+          "program_name": "Quản lý công nghiệp",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7510201",
+          "program_name": "Quản lý công nghiệp",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "C01",
+            "C03",
+            "C04",
+            "C14",
+            "D01",
+            "D07",
+            "X03",
+            "X23"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7510301",
+          "program_name": "Công nghệ kỹ thuật cơ khí",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7510301",
+          "program_name": "Công nghệ kỹ thuật cơ khí",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "C01",
+            "C03",
+            "C04",
+            "C14",
+            "D01",
+            "D07",
+            "X03",
+            "X23"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7510601",
+          "program_name": "Ưu Tiên",
+          "subject_groups": [
+            "Công nghệ kỹ thuật điện",
+            "điện tử"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7510601",
+          "program_name": "ĐT THPTHọc BạĐGNL HN",
+          "subject_groups": [
+            "Công nghệ kỹ thuật điện",
+            "điện tử"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7540202",
+          "program_name": "Thiết kế thời trang",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7540202",
+          "program_name": "Thiết kế thời trang",
+          "subject_groups": [
+            "D01",
+            "V01",
+            "V05",
+            "H00",
+            "H06",
+            "H08",
+            "H09"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7540209",
+          "program_name": "Thiết kế đồ họa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7540209",
+          "program_name": "Thiết kế đồ họa",
+          "subject_groups": [
+            "D01",
+            "V01",
+            "V05",
+            "H00",
+            "H06",
+            "H08",
+            "H09"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn của trường Đại học Công nghiệp Dệt may Hà Nội các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-cong-nghiep-va-thuong-mai-ha-noi-CCM.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7210403",
+            "program_name": "Thiết kế đồ họa",
+            "subject_groups": [
+              "D01",
+              "V01",
+              "V05",
+              "H00",
+              "H06",
+              "H08",
+              "H09"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7210404",
+            "program_name": "Thiết kế thời trang",
+            "subject_groups": [
+              "D01",
+              "V01",
+              "V05",
+              "H00",
+              "H06",
+              "H08",
+              "H09"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "C01",
+              "C03",
+              "C04",
+              "C14",
+              "X03",
+              "X04",
+              "X23",
+              "X24"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7340115",
+            "program_name": "Marketing",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "C01",
+              "C03",
+              "C04",
+              "C14",
+              "X03",
+              "X04",
+              "X23",
+              "X24"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7340122",
+            "program_name": "Thương mại điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "C01",
+              "C03",
+              "C04",
+              "C14",
+              "X03",
+              "X04",
+              "X23",
+              "X24"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "C01",
+              "C03",
+              "C04",
+              "C14",
+              "X03",
+              "X04",
+              "X23",
+              "X24"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7510201",
+            "program_name": "Công nghệ kỹ thuật cơ khí",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "C01",
+              "C03",
+              "C04",
+              "C14",
+              "X03",
+              "X04",
+              "X23",
+              "X24"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ kỹ thuật điện, điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "C01",
+              "C03",
+              "C04",
+              "C14",
+              "X03",
+              "X04",
+              "X23",
+              "X24"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7510601",
+            "program_name": "Quản lý công nghiệp",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "C01",
+              "C03",
+              "C04",
+              "C14",
+              "X03",
+              "X04",
+              "X23",
+              "X24"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7540202",
+            "program_name": "Công nghệ Sợi Dệt",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "C01",
+              "C03",
+              "C04",
+              "C14",
+              "X03",
+              "X04",
+              "X23",
+              "X24"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7540209",
+            "program_name": "Công nghệ may",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "C01",
+              "C03",
+              "C04",
+              "C14",
+              "X03",
+              "X04",
+              "X23",
+              "X24"
+            ],
+            "score": 17,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7210403",
+            "program_name": "Thiết kế đồ họa",
+            "subject_groups": [
+              "D01",
+              "V01",
+              "V05",
+              "H00",
+              "H06",
+              "H08",
+              "H09"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "7210404",
+            "program_name": "Thiết kế thời trang",
+            "subject_groups": [
+              "D01",
+              "V01",
+              "V05",
+              "H00",
+              "H06",
+              "H08",
+              "H09"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "C01",
+              "C03",
+              "C04",
+              "C14",
+              "X03",
+              "X04",
+              "X23",
+              "X24"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7340115",
+            "program_name": "Marketing",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "C01",
+              "C03",
+              "C04",
+              "C14",
+              "X03",
+              "X04",
+              "X23",
+              "X24"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7340122",
+            "program_name": "Thương mại điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "C01",
+              "C03",
+              "C04",
+              "C14",
+              "X03",
+              "X04",
+              "X23",
+              "X24"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "C01",
+              "C03",
+              "C04",
+              "C14",
+              "X03",
+              "X04",
+              "X23",
+              "X24"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7510201",
+            "program_name": "Công nghệ kỹ thuật cơ khí",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "C01",
+              "C03",
+              "C04",
+              "C14",
+              "X03",
+              "X04",
+              "X23",
+              "X24"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ kỹ thuật điện, điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "C01",
+              "C03",
+              "C04",
+              "C14",
+              "X03",
+              "X04",
+              "X23",
+              "X24"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7510601",
+            "program_name": "Quản lý công nghiệp",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "C01",
+              "C03",
+              "C04",
+              "C14",
+              "X03",
+              "X04",
+              "X23",
+              "X24"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7540202",
+            "program_name": "Công nghệ Sợi Dệt",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "C01",
+              "C03",
+              "C04",
+              "C14",
+              "X03",
+              "X04",
+              "X23",
+              "X24"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7540209",
+            "program_name": "Công nghệ may",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "D01",
+              "C01",
+              "C03",
+              "C04",
+              "C14",
+              "X03",
+              "X04",
+              "X23",
+              "X24"
+            ],
+            "score": 20,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -10,7 +10,7 @@ const links = [
   { href: "/truy-van", label: "Truy vấn" }
 ];
 
-export function Shell({ children }: { children: React.ReactNode }) {
+export function Shell({ children, fullWidth }: { children: React.ReactNode; fullWidth?: boolean }) {
   const pathname = usePathname();
   return (
     <div className="min-h-screen">
@@ -40,7 +40,7 @@ export function Shell({ children }: { children: React.ReactNode }) {
           </nav>
         </div>
       </header>
-      <main className="mx-auto w-full max-w-6xl px-4 py-6 sm:px-6 sm:py-8">{children}</main>
+      <main className={clsx("mx-auto w-full", fullWidth ? "" : "max-w-6xl px-4 py-6 sm:px-6 sm:py-8")}>{children}</main>
     </div>
   );
 }

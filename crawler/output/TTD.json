@@ -1,0 +1,425 @@
+{
+  "university": {
+    "code": "TTD",
+    "name": "Trường Đại Học Thể Dục Thể Thao Đà Nẵng",
+    "short_name": "DSU",
+    "location": [
+      "Đà Nẵng"
+    ],
+    "address": "44 đường Dũng Sĩ Thanh Khê, Q.Thanh Khê, TP. Đà Nẵng",
+    "website": "https://dsu.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-the-duc-the-thao-da-nang-TTD.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0407/thong-tin-tuyen-sinh-truong-the-duc-the-thao-da-nang-2026.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC THỂ DỤC THỂ THAO ĐÀ NẴNG 2026 Thông tin tuyển sinh Đại Học Thể Dục Thể Thao Đà Nẵng (DSU) 2026 Năm 2026 trường Đại học Thể dục Thể thao Đà Nẵng tuyển sinh theo 04 phương thức sau: Phương thức 1: Xét kết quả thi THPT với các chương trình đào tạo ngành Quản lý Thể thao. Phương thức 2: Xét điểm học bạ với các chương trình đào tạo ngành Quản lý Thể thao. Phương thức 3: Xét tuyển kết hợp điểm thi THPT hoặc điểm học bạ với điểm thi năng khiếu TDTT Phương thức 4: Xét tuyển thẳng theo Quy chế tuyển sinh của Bộ GD&ĐT",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt---2025",
+      "method_name": "1 ĐIỂM THI THPT - 2025",
+      "description": "1.1 ĐỐI TƯỢNG - Thí sinh đã được công nhận tốt nghiệp trung học phổ thông (THPT) của Việt Nam hoặc có bằng tốt nghiệp của nước ngoài được công nhận trình độ tương đương; - Thí sinh đã có bằng tốt nghiệp trung cấp TDTT đã hoàn thành đủ yêu cầu khối lượng kiến thức văn hóa cấp THPT theo quy định của pháp luật. 1.2 QUY CHẾ Xét kết quả điểm thi tốt nghiệp THPT (đối với các chuyên ngành của 4 ngành Quản lý TDTT; chuyên ngành Khoa học vận động, ngành Huấn luyện thể thao) DANH SÁCH NGÀNH ĐÀO TẠO THEO P",
+      "eligibility": "ĐỐI TƯỢNG - Thí sinh đã được công nhận tốt nghiệp trung học phổ thông (THPT) của Việt Nam hoặc có bằng tốt nghiệp của nước ngoài được công nhận trình độ tương đương; - Thí sinh đã có bằng tốt nghiệp trung cấp TDTT đã hoàn thành đủ yêu cầu khối lượng kiến thức văn hóa cấp THPT theo quy định của pháp luật. 1.2",
+      "rules": "QUY CHẾ Xét kết quả điểm thi tốt nghiệp THPT (đối với các chuyên ngành của 4 ngành Quản lý TDTT; chuyên ngành Khoa học vận động, ngành Huấn luyện thể thao)",
+      "programs": [
+        {
+          "program_code": "7810301",
+          "program_name": "Quản lý TDTT",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C03",
+            "C04",
+            "X01",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7810302",
+          "program_name": "Huấn luyện thể thao",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C03",
+            "C04",
+            "X01",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-hoc-ba---2025",
+      "method_name": "2 ĐIỂM HỌC BẠ - 2025",
+      "description": "2.1 ĐỐI TƯỢNG - Thí sinh đã được công nhận tốt nghiệp trung học phổ thông (THPT) của Việt Nam hoặc có bằng tốt nghiệp của nước ngoài được công nhận trình độ tương đương; - Thí sinh đã có bằng tốt nghiệp trung cấp TDTT đã hoàn thành đủ yêu cầu khối lượng kiến thức văn hóa cấp THPT theo quy định của pháp luật. 2.2 QUY CHẾ Xét kết quả điểm học tập THPT (đối với các chuyên ngành của ngành Quản lý TDTT; chuyên ngành Khoa học vận động, ngành Huấn luyện thể thao) DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨ",
+      "eligibility": "ĐỐI TƯỢNG - Thí sinh đã được công nhận tốt nghiệp trung học phổ thông (THPT) của Việt Nam hoặc có bằng tốt nghiệp của nước ngoài được công nhận trình độ tương đương; - Thí sinh đã có bằng tốt nghiệp trung cấp TDTT đã hoàn thành đủ yêu cầu khối lượng kiến thức văn hóa cấp THPT theo quy định của pháp luật. 2.2",
+      "rules": "QUY CHẾ Xét kết quả điểm học tập THPT (đối với các chuyên ngành của ngành Quản lý TDTT; chuyên ngành Khoa học vận động, ngành Huấn luyện thể thao)",
+      "programs": [
+        {
+          "program_code": "7810301",
+          "program_name": "Quản lý TDTT",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C03",
+            "C04",
+            "X01",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7810302",
+          "program_name": "Huấn luyện thể thao",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C03",
+            "C04",
+            "X01",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    },
+    {
+      "method_id": "3-iem-xet-tuyen-ket-hop---2025",
+      "method_name": "3 ĐIỂM XÉT TUYỂN KẾT HỢP - 2025",
+      "description": "3.1 QUY CHẾ Xét tuyển điểm thi tốt nghiệp THPT kết hợp điểm thi năng khiếu TDTT Xét tuyển điểm học tập bậc THPT kết hợp điểm thi năng khiếu TDTT Nội dung thi năng khiếu chung (NK1): Bắt buộc đối với các ngành/chuyên ngành đào tạo (Trừ phương thức 4 và 5) TT Ngành Nội dung thi 1 Giáo dục thể chất 1) Bật xa tại chỗ (cm) 2 Huấn luyện thể thao 2) Chạy 100m (giây) 3 Quản lý TDTT Nội dung thi năng khiếu chuyên ngành (NK2): Thí sinh chọn một trong các chuyên ngành sau (Trừ phương thức 4 và 5) Chuyên ng",
+      "eligibility": "Đối tượng miễn thi năng khiếu: Thí sinh là vận động viên (VĐV) đạt huy chương các giải vô địch quốc gia; thí sinh đạt đẳng cấp kiện tướng, cấp 1, cấp 2 quốc gia, đạt huy chương (hoặc giải nhất, nhì, ba) tại Hội khỏe Phù Đổng toàn quốc, Đại hội TDTT toàn quốc, VĐV đạt huy chương tại các giải thể thao học sinh phổ thông toàn quốc, VĐV đạt huy chương các giải trẻ khu vực và quốc gia, giải trẻ quốc tế. Thí sinh là vận động viên (VĐV) đạt huy chương các giải vô địch quốc gia; thí sinh đạt đằng cấp kiện tướng, cấp 1, cấp 2 quốc gia, đạt huy chương (hoặc giải nhất, nhì, ba) tại Hội khỏe Phù Đồng toàn quốc, Đại hội TDTT toàn quốc, VĐV đạt huy chương tại các giải thể thao học sinh phổ thông toàn quốc, VĐV đạt huy chương các giải trẻ khu vực và quốc gia, giải trẻ quốc tế. 3.2 THỜI GIAN XÉT TUYỂN Thời gian thi năng khiếu: Ngày 17/5 – 18/5/2025 Địa điểm thi năng khiếu: Trường Đại học TDTT Đà Nẵng, số 44 Dũng Sĩ Thanh Khê, phường Thanh Khê Tây, quận Thanh Khê, thành phố Đà Nẵng.",
+      "rules": "QUY CHẾ Xét tuyển điểm thi tốt nghiệp THPT kết hợp điểm thi năng khiếu TDTT Xét tuyển điểm học tập bậc THPT kết hợp điểm thi năng khiếu TDTT Nội dung thi năng khiếu chung (NK1): Bắt buộc đối với các ngành/chuyên ngành đào tạo (Trừ phương thức 4 và 5) TT Ngành Nội dung thi 1 Giáo dục thể chất 1) Bật xa tại chỗ (cm) 2 Huấn luyện thể thao 2) Chạy 100m (giây) 3 Quản lý TDTT Nội dung thi năng khiếu chuyên ngành (NK2): Thí sinh chọn một trong các chuyên ngành sau (Trừ phương thức 4 và 5) Chuyên ngành Nội dung thi Điền kinh Chọn 01 trong các nội dung: Chạy 100m (giây), chạy 800m (giây), đẩy tạ (m), nhảy cao (m), nhảy xa (m) Thể dục 1) Dẻo gập thân (cm) 2) Nằm ngửa gập bụng 30 giây (lần) Thể thao dưới nước (Bơi; lặn, đua thuyền...) 1) Bơi 50m tính thành tích (giây) 2) Dẻo gập thân (cm) Bóng đá 1) Dẫn bóng luồn cọc 20m (giây) 2) Đá bóng xa trong hành lang 10m (m) Cầu lông 1) Di chuyển đánh cầu phải, trái thấp tay 6 góc sân (10 quả) 2) Phông cầu vào ô 0,76cm × 5m18 (10 quả) Bóng rổ 1) Bật với có đà (cm) 2) Dẫn bóng tốc độ 20m (giây) Bóng bàn 1) Kỹ thuật vụt nhanh thuận tay (lần) 2) Kỹ thuật chặn đẩy trái tay (lần) Bóng chuyền 1) Di chuyển chuyền bóng vào tường (lần) 2) Bật với có đà (cm) Cờ vua 1) Giải một bài cờ thế 02 nước chiếu hết trong thời gian 02 phút (điểm) 2) Thực hiện một bài ghi nhớ thế cờ trong 30 giây (điểm) Võ thuật (Karate; Teakwondo; Võ cổ truyền; Boxing…) Chọn 02 trong 04 nội dung sau: 1) Thực hiện bài quyền tay không hoặc binh khí (điểm) 2) Đánh gió 02 phút (điểm) 3) Di chuyển lặp lại chạm đích cự ly thay đổi 5m, 10m, 15m (giây) 4) Lướt đá ngang hoặc đá vòng cầu vào 02 vật chuẩn cao 1,2m với khoảng cách 3m (lần) Quần vợt - Pickleball Chọn nội dung thi của một trong hai môn (Quần vợt hoặc Pickleball): Quần vợt: 1) Đánh bóng xoáy lên bên phải và bên trái (10 quả) 2) Giao bóng vào ô quy định (10 quả) Pickleball: 1) Thực hiện kỹ thuật đánh bóng thuận và trái tay (10 quả) 2) Giao bóng vào ô quy định (10 quả) Golf - Thể thao giải trí - Quản lý Tổ chức sự kiện và Truyền thông thể thao - Khoa học vận động Chọn 02/04 nội dung sau: 1) Chạy luồn cọc 30m (giây) 2) Nhảy dây 01 phút (lần) 3) Nằm sấp chống đẩy tối đa (lần) 4) Dẻo gập thân (cm)",
+      "programs": [
+        {
+          "program_code": "TT",
+          "program_name": "Nội dung thi",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "Ngành"
+        }
+      ]
+    },
+    {
+      "method_id": "4-utxt-xt-thang---2025",
+      "method_name": "4 ƯTXT, XT THẲNG - 2025",
+      "description": "4.1 ĐỐI TƯỢNG - Xét tuyển thẳng, ưu tiên xét tuyển theo quy chế của Bộ Giáo dục và Đào tạo Ưu tiên xét tuyển, miễn thi năng khiếu cho thí sinh đạt huy chương (hoặc giải nhất, nhì, ba) tại các giải, bao gồm: Hội khoẻ Phù đổng toàn quốc, Đại hội TDTT toàn quốc; VĐV đạt huy chương các giải thể thao học sinh toàn quốc; giải vô địch quốc gia, giải trẻ quốc gia và các giải quốc tế DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ƯTXT, XT THẲNG STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7140206 Giáo dục thể chất ",
+      "eligibility": "ĐỐI TƯỢNG - Xét tuyển thẳng, ưu tiên xét tuyển theo",
+      "rules": "quy chế của Bộ Giáo dục và Đào tạo Ưu tiên xét tuyển, miễn thi năng khiếu cho thí sinh đạt huy chương (hoặc giải nhất, nhì, ba) tại các giải, bao gồm: Hội khoẻ Phù đổng toàn quốc, Đại hội TDTT toàn quốc; VĐV đạt huy chương các giải thể thao học sinh toàn quốc; giải vô địch quốc gia, giải trẻ quốc gia và các giải quốc tế",
+      "programs": [
+        {
+          "program_code": "7140206",
+          "program_name": "Giáo dục thể chất",
+          "subject_groups": [
+            "T01",
+            "T02"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7810301",
+          "program_name": "Quản lý TDTT",
+          "subject_groups": [
+            "T01",
+            "T02"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7810302",
+          "program_name": "Huấn luyện thể thao",
+          "subject_groups": [
+            "T01",
+            "T02"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7140206",
+          "program_name": "Giáo dục thể chất",
+          "subject_groups": [
+            "T01",
+            "T02"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7810301",
+          "program_name": "Quản lý TDTT",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C03",
+            "C04",
+            "X01",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7810301",
+          "program_name": "Quản lý TDTT",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C03",
+            "C04",
+            "X01",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7810301",
+          "program_name": "Quản lý TDTT",
+          "subject_groups": [
+            "T01",
+            "T02"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7810301",
+          "program_name": "Quản lý TDTT",
+          "subject_groups": [
+            "T01",
+            "T02",
+            "T02"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7810302",
+          "program_name": "Huấn luyện thể thao",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C03",
+            "C04",
+            "X01",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7810302",
+          "program_name": "Huấn luyện thể thao",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C03",
+            "C04",
+            "X01",
+            "X03",
+            "X04"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7810302",
+          "program_name": "Huấn luyện thể thao",
+          "subject_groups": [
+            "T01",
+            "T02"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7810302",
+          "program_name": "Huấn luyện thể thao",
+          "subject_groups": [
+            "T01",
+            "T02",
+            "T02"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Trường Đại Học Thể Dục Thể Thao Đà Nẵng các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-the-duc-the-thao-da-nang-TTD.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7810301",
+            "program_name": "Quản lý TDTT",
+            "subject_groups": [
+              "B03",
+              "C01",
+              "C03",
+              "C04",
+              "X01",
+              "X04",
+              "X03"
+            ],
+            "score": 21.5,
+            "note": null
+          },
+          {
+            "program_code": "7810302",
+            "program_name": "Huấn luyện thể thao",
+            "subject_groups": [
+              "B03",
+              "C01",
+              "C03",
+              "C04",
+              "X01",
+              "X04",
+              "X03"
+            ],
+            "score": 23.93,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7810301",
+            "program_name": "Quản lý TDTT",
+            "subject_groups": [
+              "B03",
+              "C01",
+              "C03",
+              "C04",
+              "X01",
+              "X04",
+              "X03"
+            ],
+            "score": 22.1,
+            "note": null
+          },
+          {
+            "program_code": "7810302",
+            "program_name": "Huấn luyện thể thao",
+            "subject_groups": [
+              "B03",
+              "C01",
+              "C03",
+              "C04",
+              "X01",
+              "X04",
+              "X03"
+            ],
+            "score": 24.69,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-xet-tuyen-ket-hop",
+        "method_name": "Điểm chuẩn theo phương thức Điểm xét tuyển kết hợp năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7140206",
+            "program_name": "Giáo dục thể chất",
+            "subject_groups": [
+              "T01",
+              "T02"
+            ],
+            "score": 28.6,
+            "note": "Xét điểm học bạ và thi NK"
+          },
+          {
+            "program_code": "7140206",
+            "program_name": "Giáo dục thể chất",
+            "subject_groups": [
+              "T01",
+              "T02"
+            ],
+            "score": 27.63,
+            "note": "Xét điểm thi THPT và thi NK"
+          },
+          {
+            "program_code": "7810301",
+            "program_name": "Quản lý TDTT",
+            "subject_groups": [
+              "T01",
+              "T02"
+            ],
+            "score": 21,
+            "note": "Xét điểm thi THPT và thi NK"
+          },
+          {
+            "program_code": "7810301",
+            "program_name": "Quản lý TDTT",
+            "subject_groups": [
+              "T01",
+              "T02"
+            ],
+            "score": 21.73,
+            "note": "Xét điểm học bạ và thi NK"
+          },
+          {
+            "program_code": "7810302",
+            "program_name": "Huấn luyện thể thao",
+            "subject_groups": [
+              "T01",
+              "T02"
+            ],
+            "score": 22.5,
+            "note": "Xét điểm thi THPT và thi NK"
+          },
+          {
+            "program_code": "7810302",
+            "program_name": "Huấn luyện thể thao",
+            "subject_groups": [
+              "T01",
+              "T02"
+            ],
+            "score": 23.38,
+            "note": "Xét điểm học bạ và thi NK"
+          }
+        ]
+      }
+    ]
+  }
+}

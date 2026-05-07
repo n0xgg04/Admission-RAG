@@ -1,0 +1,898 @@
+{
+  "university": {
+    "code": "DDV",
+    "name": "Viện nghiên cứu và đào tạo Việt Anh - Đại học Đà Nẵng",
+    "short_name": "VNUK",
+    "location": [
+      "Đà Nẵng"
+    ],
+    "address": "158A Lê Lợi, phường Hải Châu 1, quận Hải Châu, thành phố Đà Nẵng",
+    "website": "https://vnuk.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": 610,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/vien-nghien-cuu-va-dao-tao-viet-anh-dai-hoc-da-nang-DDV.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0406/ute-udn-thong-tin-tuyen-sinh-2026.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH VIỆN NGHIÊN CỨU VÀ ĐÀO TẠO VIỆT ANH - ĐẠI HỌC ĐÀ NẴNG 2026 Thông tin tuyển sinh Viện nghiên cứu và đào tạo Việt Anh - Đại học Đà Nẵng (VNUK) năm 2026 Năm 2026, Viện Nghiên cứu và Đào tạo Việt – Anh VNUK xét tuyển 610 chỉ tiêu cho 13 ngành đào tạo theo 05 phương thức xét tuyển: Phương thức 1: Xét kết quả thi tốt nghiệp THPT Phương thức 2: Xét kết quả học tập cấp THPT (học bạ) Phương thức 3: Xét tuyển sử dụng kết quả Kỳ thi đánh giá năng lực Đại học Quốc gia thành phố Hồ Chí Minh Phương thức 4: Xét tuyển sử dụng kết quả Kỳ thi đánh giá năng lực Đại học Quốc gia Hà Nội Phương thức 5: Xét tuyển kết hợp Khám phá thêm Hướng dẫn và thông tin du lịch khoa học Khoa học",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 QUY CHẾ ĐIỂM XÉT TUYỂN = ĐIỂM THI TỐT NGHIỆP THPT + ĐIỂM CỘNG + ĐIỂM ƯU TIÊN Trong đó: Điểm thi tốt nghiệp THPT: tổng điểm 03 môn thi tốt nghiệp THPT thuộc tổ hợp xét tuyển với hệ số tương ứng mỗi môn, quy về thang điểm 30 Điểm cộng: tổng mức điểm cộng bao gồm điểm thưởng, điểm xét thưởng, điểm khuyến khích không quá 10% điểm tối đa của thang điểm xét tuyển. Điểm ưu tiên: gồm điểm ưu tiên khu vực và điểm ưu tiên đối tượng, chỉ được áp dụng sau khi tính điểm cộng và nguyên tắc tính điểm ưu ti",
+      "eligibility": "đối tượng, chỉ được áp dụng sau khi tính điểm cộng và nguyên tắc tính điểm ưu tiên theo",
+      "rules": "QUY CHẾ ĐIỂM XÉT TUYỂN = ĐIỂM THI TỐT NGHIỆP THPT + ĐIỂM CỘNG + ĐIỂM ƯU TIÊN Trong đó: Điểm thi tốt nghiệp THPT: tổng điểm 03 môn thi tốt nghiệp THPT thuộc tổ hợp xét tuyển với hệ số tương ứng mỗi môn, quy về thang điểm 30 Điểm cộng: tổng mức điểm cộng bao gồm điểm thưởng, điểm xét thưởng, điểm khuyến khích không quá 10% điểm tối đa của thang điểm xét tuyển. Điểm ưu tiên: gồm điểm ưu tiên khu vực và điểm ưu tiên",
+      "programs": [
+        {
+          "program_code": "7340120",
+          "program_name": "Kinh doanh Quốc tế",
+          "subject_groups": [
+            "A01",
+            "D01",
+            "D07",
+            "D10",
+            "D09",
+            "X25"
+          ],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "1"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "B03",
+            "B08",
+            "D01",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7420204",
+          "program_name": "Khoa học Y Sinh",
+          "subject_groups": [
+            "B00",
+            "B08",
+            "D07",
+            "A00",
+            "B03",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7480106",
+          "program_name": "Kỹ thuật máy tính",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "X26",
+            "X02",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7510402",
+          "program_name": "Công nghệ vật liệu",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "C01",
+            "D01",
+            "X09"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7810201",
+          "program_name": "Quản trị khách sạn",
+          "subject_groups": [
+            "A01",
+            "D01",
+            "D07",
+            "D09",
+            "D10",
+            "X25"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-hoc-ba",
+      "method_name": "2 ĐIỂM HỌC BẠ",
+      "description": "2.1 QUY CHẾ ĐIỂM XÉT TUYỂN = ĐIỂM KẾT QUẢ HỌC TẬP THPT + ĐIỂM CỘNG + ĐIỂM ƯU TIÊN Trong đó: Điểm kết quả học tập THPT: tổng điểm 3 môn thuộc tổ hợp xét tuyển với hệ số tương ứng mỗi môn, quy về thang điểm 30 Điểm cộng: tổng mức điểm cộng bao gồm điểm thưởng, điểm xét thưởng, điểm khuyến khích không quá 10% điểm tối đa của thang điểm xét tuyển Điểm ưu tiên: gồm điểm ưu tiên khu vực và điểm ưu tiên đối tượng, chỉ được áp dụng sau khi tính điểm cộng và nguyên tắc tính điểm ưu tiên theo Quy chế tuyể",
+      "eligibility": "đối tượng, chỉ được áp dụng sau khi tính điểm cộng và nguyên tắc tính điểm ưu tiên theo",
+      "rules": "QUY CHẾ ĐIỂM XÉT TUYỂN = ĐIỂM KẾT QUẢ HỌC TẬP THPT + ĐIỂM CỘNG + ĐIỂM ƯU TIÊN Trong đó: Điểm kết quả học tập THPT: tổng điểm 3 môn thuộc tổ hợp xét tuyển với hệ số tương ứng mỗi môn, quy về thang điểm 30 Điểm cộng: tổng mức điểm cộng bao gồm điểm thưởng, điểm xét thưởng, điểm khuyến khích không quá 10% điểm tối đa của thang điểm xét tuyển Điểm ưu tiên: gồm điểm ưu tiên khu vực và điểm ưu tiên",
+      "programs": [
+        {
+          "program_code": "7340120",
+          "program_name": "Kinh doanh Quốc tế",
+          "subject_groups": [
+            "A01",
+            "D01",
+            "D07",
+            "D10",
+            "D09",
+            "X25/D84"
+          ],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "1"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "B03",
+            "B08",
+            "D01",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7420204",
+          "program_name": "Khoa học Y Sinh",
+          "subject_groups": [
+            "B00",
+            "B08",
+            "D07",
+            "A00",
+            "B03",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7480106",
+          "program_name": "Kỹ thuật máy tính",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "X26",
+            "X02",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7510402",
+          "program_name": "Công nghệ vật liệu",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "C01",
+            "D01",
+            "X09/A11"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7810201",
+          "program_name": "Quản trị khách sạn",
+          "subject_groups": [
+            "A01",
+            "D01",
+            "D07",
+            "D09",
+            "D10",
+            "X25/D84"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        }
+      ]
+    },
+    {
+      "method_id": "3-iem-gnl-hcm",
+      "method_name": "3 ĐIỂM ĐGNL HCM",
+      "description": "3.1 QUY CHẾ ĐIỂM XÉT TUYỂN = ĐIỂM KỲ THI ĐGNL/40 + ĐIỂM CỘNG + ĐIỂM ƯU TIÊN Trong đó: Điểm kỳ thi ĐGNL: là điểm kỳ thi ĐGNL do Đại học Quốc gia thành phố Hồ Chí Minh tổ chức năm 2026 của thí sinh Điểm cộng: tổng mức điểm cộng bao gồm điểm thưởng, điểm xét thưởng, điểm khuyến khích không quá 10% điểm tối đa của thang điểm xét tuyển Điểm ưu tiên: gồm điểm ưu tiên khu vực và điểm ưu tiên đối tượng, chỉ được áp dụng sau khi tính điểm cộng và nguyên tắc tính điểm ưu tiên theo Quy chế tuyển sinh hiện ",
+      "eligibility": "đối tượng, chỉ được áp dụng sau khi tính điểm cộng và nguyên tắc tính điểm ưu tiên theo",
+      "rules": "QUY CHẾ ĐIỂM XÉT TUYỂN = ĐIỂM KỲ THI ĐGNL/40 + ĐIỂM CỘNG + ĐIỂM ƯU TIÊN Trong đó: Điểm kỳ thi ĐGNL: là điểm kỳ thi ĐGNL do Đại học Quốc gia thành phố Hồ Chí Minh tổ chức năm 2026 của thí sinh Điểm cộng: tổng mức điểm cộng bao gồm điểm thưởng, điểm xét thưởng, điểm khuyến khích không quá 10% điểm tối đa của thang điểm xét tuyển Điểm ưu tiên: gồm điểm ưu tiên khu vực và điểm ưu tiên",
+      "programs": [
+        {
+          "program_code": "7340120",
+          "program_name": "Kinh doanh Quốc tế",
+          "subject_groups": [],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "1"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7420204",
+          "program_name": "Khoa học Y Sinh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7480106",
+          "program_name": "Kỹ thuật máy tính",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7510402",
+          "program_name": "Công nghệ vật liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7810201",
+          "program_name": "Quản trị khách sạn",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        }
+      ]
+    },
+    {
+      "method_id": "4-iem-gnl-hn",
+      "method_name": "4 ĐIỂM ĐGNL HN",
+      "description": "4.1 QUY CHẾ ĐIỂM XÉT TUYỂN = ĐIỂM KỲ THI ĐGNL/5 + ĐIỂM CỘNG + ĐIỂM ƯU TIÊN Trong đó: Điểm kỳ thi ĐGNL: là điểm kỳ thi ĐGNL do Đại học Quốc gia Hà Nội tổ chức năm 2026 của thí sinh Điểm cộng: tổng mức điểm cộng bao gồm điểm thưởng, điểm xét thưởng, điểm khuyến khích không quá 10% điểm tối đa của thang điểm xét tuyển Điểm ưu tiên: gồm điểm ưu tiên khu vực và điểm ưu tiên đối tượng, chỉ được áp dụng sau khi tính điểm cộng và nguyên tắc tính điểm ưu tiên theo Quy chế tuyển sinh hiện hành của Bộ GDĐT",
+      "eligibility": "đối tượng, chỉ được áp dụng sau khi tính điểm cộng và nguyên tắc tính điểm ưu tiên theo",
+      "rules": "QUY CHẾ ĐIỂM XÉT TUYỂN = ĐIỂM KỲ THI ĐGNL/5 + ĐIỂM CỘNG + ĐIỂM ƯU TIÊN Trong đó: Điểm kỳ thi ĐGNL: là điểm kỳ thi ĐGNL do Đại học Quốc gia Hà Nội tổ chức năm 2026 của thí sinh Điểm cộng: tổng mức điểm cộng bao gồm điểm thưởng, điểm xét thưởng, điểm khuyến khích không quá 10% điểm tối đa của thang điểm xét tuyển Điểm ưu tiên: gồm điểm ưu tiên khu vực và điểm ưu tiên",
+      "programs": [
+        {
+          "program_code": "7340120",
+          "program_name": "Kinh doanh Quốc tế",
+          "subject_groups": [],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "1"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7420204",
+          "program_name": "Khoa học Y Sinh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7480106",
+          "program_name": "Kỹ thuật máy tính",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7510402",
+          "program_name": "Công nghệ vật liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7810201",
+          "program_name": "Quản trị khách sạn",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        }
+      ]
+    },
+    {
+      "method_id": "5-iem-xet-tuyen-ket-hop",
+      "method_name": "5 ĐIỂM XÉT TUYỂN KẾT HỢP",
+      "description": "5.1 QUY CHẾ Điểm quy đổi của phương thức là điểm tối đa của các nhóm 1, nhóm 2 và nhóm 3 theo công thức sau: ĐIỂM XÉT TUYỂN = ĐIỂM PHỎNG VẤN + ĐIỂM ĐỐI TƯỢNG*2/3 + ĐIỂM CỘNG + ĐIỂM ƯU TIÊN Trong đó: - Điểm phỏng vấn lấy từ kết quả bài thi phỏng vấn do Viện tổ chức, quy về thang điểm 10. - Điểm đối tượng (Điểm ĐT) lấy từ Chứng chỉ quốc tế (ĐT1) hoặc kết quả học tập THPT (ĐT2) hoặc điểm kỳ thi V-SAT (ĐT3) quy về thang điểm 30, làm tròn đến 02 chữ số thập phân. Trường hợp thí sinh thuộc nhiều đối t",
+      "eligibility": "ĐỐI TƯỢNG*2/3 + ĐIỂM CỘNG + ĐIỂM ƯU TIÊN Trong đó: - Điểm phỏng vấn lấy từ kết quả bài thi phỏng vấn do Viện tổ chức, quy về thang điểm 10. - Điểm đối tượng (Điểm ĐT) lấy từ Chứng chỉ quốc tế (ĐT1) hoặc kết quả học tập THPT (ĐT2) hoặc điểm kỳ thi V-SAT (ĐT3) quy về thang điểm 30, làm tròn đến 02 chữ số thập phân. Trường hợp thí sinh thuộc nhiều đối tượng khác nhau thì lấy điểm cao nhất trong đối tượng xét tuyển - Điểm cộng: mức điểm cộng không vượt quá 10% điểm tối đa của thang điểm xét tuyển, bao gồm: điểm thưởng, điểm xét thưởng và điểm khuyến khích - Điểm ưu tiên: gồm điểm ưu tiên khu vực và điểm ưu tiên đối tượng, chỉ được áp dụng sau khi tính điểm cộng và nguyên tắc tính điểm ưu tiên theo",
+      "rules": "QUY CHẾ Điểm quy đổi của phương thức là điểm tối đa của các nhóm 1, nhóm 2 và nhóm 3 theo công thức sau: ĐIỂM XÉT TUYỂN = ĐIỂM PHỎNG VẤN + ĐIỂM",
+      "programs": [
+        {
+          "program_code": "7340120",
+          "program_name": "Kinh doanh Quốc tế",
+          "subject_groups": [],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "1"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7420204",
+          "program_name": "Khoa học Y Sinh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7480106",
+          "program_name": "Kỹ thuật máy tính",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7510402",
+          "program_name": "Công nghệ vật liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7810201",
+          "program_name": "Quản trị khách sạn",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        }
+      ]
+    },
+    {
+      "method_id": "6-utxt-xt-thang",
+      "method_name": "6 ƯTXT, XT THẲNG",
+      "description": "6.1 ĐỐI TƯỢNG - Thí sinh là Anh hùng lao động, Anh hùng lực lượng vũ trang nhân dân, Chiến sĩ thi đua toàn quốc. - Thí sinh đạt thành tích cao trong các kỳ thi, cuộc thi, giải đấu cấp quốc gia hoặc quốc tế, do Bộ GDĐT, Bộ Văn hóa, Thể thao và Du lịch tổ chức, cử tham gia, được xét tuyển thẳng vào chương trình đào tạo phù hợp với môn thi, nội dung đề tài hoặc nghề dự thi, thi đấu, đạt giải. 6.2 QUY CHẾ + Thí sinh đạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia, quốc tế; thời gian ",
+      "eligibility": "ĐỐI TƯỢNG - Thí sinh là Anh hùng lao động, Anh hùng lực lượng vũ trang nhân dân, Chiến sĩ thi đua toàn quốc. - Thí sinh đạt thành tích cao trong các kỳ thi, cuộc thi, giải đấu cấp quốc gia hoặc quốc tế, do Bộ GDĐT, Bộ Văn hóa, Thể thao và Du lịch tổ chức, cử tham gia, được xét tuyển thẳng vào chương trình đào tạo phù hợp với môn thi, nội dung đề tài hoặc nghề dự thi, thi đấu, đạt giải. 6.2",
+      "rules": "QUY CHẾ + Thí sinh đạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia, quốc tế; thời gian đạt giải không quá 03 năm tính tới thời điểm xét tuyển thẳng. Các môn đạt giải phù hợp với chương trình đạo tạo như sau: + Thí sinh đạt giải nhất, nhì, ba trong kỳ thi khoa học kỹ thuật cấp quốc gia, quốc tế do Bộ GDĐT tổ chức, cử tham gia và đạt ngưỡng đảm bảo chất lượng đầu vào của chương trình đào tạo; thời gian đoạt giải không quá 03 năm tính tới thời điểm xét tuyển thẳng. Các lĩnh vực phù hợp với chương trình đạo tạo như sau: + Thí sinh đạt giải nhất, nhì, ba trong các kỳ thi tay nghề khu vực ASEAN và thi tay nghề quốc tế do Bộ GDĐT cử tham gia; thời gian đạt giải không quá 03 năm tính đến thời điểm xét tuyển thẳng. - Hội đồng tuyển sinh Viện căn cứ kết quả học tập cấp THPT của thí sinh và yêu cầu đầu vào của các chương trình đào tạo xem xét, quyết định nhận vào học những trường hợp quy định dưới đây (trường hợp cần thiết kèm theo điều kiện thí sinh phải học 01 năm bổ sung kiến thức trước khi vào học chính thức), bao gồm: + Thí sinh là người nước ngoài đã đạt chuẩn năng lực ngôn ngữ theo yêu cầu của chương trình, ngành đào tạo phù hợp với quy định của Bộ GDĐT. + Thí sinh là người Việt Nam học tập cấp THPT, trung học nghề ở nước ngoài hoặc học tập chương trình giáo dục nước ngoài bằng tiếng nước ngoài ở Việt Nam đạt trình độ tương đương với trình độ THPT, trung học nghề của Việt Nam và đạt chuẩn năng lực ngôn ngữ theo yêu cầu của chương trình đào tạo phù hợp với quy định của Bộ GDĐT. + Thí sinh là người dân tộc thiểu số rất ít người theo quy định hiện hành của Chính phủ. + Thí sinh là người khuyết tật nặng có giấy xác nhận khuyết tật của cơ quan có thẩm quyền cấp theo quy định; có khả năng theo học một số chương trình đào tạo do cơ sở đào tạo quy định nhưng không có khả năng dự tuyển theo phương thức tuyển sinh bình thường.",
+      "programs": [
+        {
+          "program_code": "7340120",
+          "program_name": "Kinh doanh Quốc tế",
+          "subject_groups": [],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "1"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7420204",
+          "program_name": "Khoa học Y Sinh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7480106",
+          "program_name": "Kỹ thuật máy tính",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7510402",
+          "program_name": "Công nghệ vật liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7810201",
+          "program_name": "Quản trị khách sạn",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7340120",
+          "program_name": "Kinh doanh Quốc tế",
+          "subject_groups": [],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "1"
+        },
+        {
+          "program_code": "7340120",
+          "program_name": "Kinh doanh Quốc tế",
+          "subject_groups": [
+            "A01",
+            "D01",
+            "D07",
+            "D10",
+            "D09",
+            "X25"
+          ],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "1"
+        },
+        {
+          "program_code": "7340120",
+          "program_name": "Kinh doanh Quốc tế",
+          "subject_groups": [
+            "A01",
+            "D01",
+            "D07",
+            "D10",
+            "D09",
+            "X25/D84"
+          ],
+          "program_type": "liên_kết_quốc_tế",
+          "note": "1"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7420201",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [
+            "A00",
+            "B00",
+            "B03",
+            "B08",
+            "D01",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7420204",
+          "program_name": "Khoa học Y Sinh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7420204",
+          "program_name": "Khoa học Y Sinh",
+          "subject_groups": [
+            "B00",
+            "B08",
+            "D07",
+            "A00",
+            "B03",
+            "D01"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7480106",
+          "program_name": "Kỹ thuật máy tính",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7480106",
+          "program_name": "Kỹ thuật máy tính",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "D01",
+            "X26",
+            "X02",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7510402",
+          "program_name": "Công nghệ vật liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7510402",
+          "program_name": "Công nghệ vật liệu",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "C01",
+            "D01",
+            "X09"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7510402",
+          "program_name": "Công nghệ vật liệu",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "B00",
+            "C01",
+            "D01",
+            "X09/A11"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7810201",
+          "program_name": "Quản trị khách sạn",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7810201",
+          "program_name": "Quản trị khách sạn",
+          "subject_groups": [
+            "A01",
+            "D01",
+            "D07",
+            "D09",
+            "D10",
+            "X25"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7810201",
+          "program_name": "Quản trị khách sạn",
+          "subject_groups": [
+            "A01",
+            "D01",
+            "D07",
+            "D09",
+            "D10",
+            "X25/D84"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Viện nghiên cứu và đào tạo Việt Anh - Đại học Đà Nẵng các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/vien-nghien-cuu-va-dao-tao-viet-anh-dai-hoc-da-nang-DDV.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7340120",
+            "program_name": "Kinh doanh quốc tế",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D10",
+              "A07",
+              "D09"
+            ],
+            "score": 15.25,
+            "note": null
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [
+              "B00",
+              "B08",
+              "D07",
+              "A00",
+              "B03",
+              "D01"
+            ],
+            "score": 15.25,
+            "note": null
+          },
+          {
+            "program_code": "7420204",
+            "program_name": "Khoa học y sinh",
+            "subject_groups": [
+              "B00",
+              "B08",
+              "D07",
+              "A00",
+              "B03",
+              "D01"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7480101-CSE",
+            "program_name": "Khoa học máy tính",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X02",
+              "X06"
+            ],
+            "score": 15.5,
+            "note": null
+          },
+          {
+            "program_code": "7480101-SE",
+            "program_name": "Khoa học máy tính -Chuyên ngành công nghệ phần mềm",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X02",
+              "X06"
+            ],
+            "score": 15.5,
+            "note": null
+          },
+          {
+            "program_code": "7480106",
+            "program_name": "Kỹ thuật máy tính",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X02",
+              "X06"
+            ],
+            "score": 15.15,
+            "note": null
+          },
+          {
+            "program_code": "7510402",
+            "program_name": "Công nghệ vật liệu- Chuyên ngành Công nghệ Nano",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "C01",
+              "X09",
+              "D01"
+            ],
+            "score": 15.5,
+            "note": null
+          },
+          {
+            "program_code": "7810201",
+            "program_name": "Quản trị khách sạn",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D10",
+              "A07",
+              "D09"
+            ],
+            "score": 15.5,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7340120",
+            "program_name": "Kinh doanh quốc tế",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D10",
+              "A07",
+              "D09"
+            ],
+            "score": 19.08,
+            "note": null
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [
+              "B00",
+              "B08",
+              "D07",
+              "A00",
+              "B03",
+              "D01"
+            ],
+            "score": 19.08,
+            "note": null
+          },
+          {
+            "program_code": "7420204",
+            "program_name": "Khoa học y sinh",
+            "subject_groups": [
+              "B00",
+              "B08",
+              "D07",
+              "A00",
+              "B03",
+              "D01"
+            ],
+            "score": 21.46,
+            "note": null
+          },
+          {
+            "program_code": "7480101-CSE",
+            "program_name": "Khoa học máy tính",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X02",
+              "X06"
+            ],
+            "score": 19.85,
+            "note": null
+          },
+          {
+            "program_code": "7480101-SE",
+            "program_name": "Khoa học máy tính -Chuyên ngành công nghệ phần mềm",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X02",
+              "X06"
+            ],
+            "score": 19.85,
+            "note": null
+          },
+          {
+            "program_code": "7480106",
+            "program_name": "Kỹ thuật máy tính",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "X26",
+              "X02",
+              "X06"
+            ],
+            "score": 18.85,
+            "note": null
+          },
+          {
+            "program_code": "7510402",
+            "program_name": "Công nghệ vật liệu- Chuyên ngành Công nghệ Nano",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "C01",
+              "X09",
+              "D01"
+            ],
+            "score": 20.12,
+            "note": null
+          },
+          {
+            "program_code": "7810201",
+            "program_name": "Quản trị khách sạn",
+            "subject_groups": [
+              "A01",
+              "D01",
+              "D07",
+              "D10",
+              "A07",
+              "D09"
+            ],
+            "score": 20.12,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-rieng",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi riêng năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7340120",
+            "program_name": "Kinh doanh quốc tế",
+            "subject_groups": [],
+            "score": 20.65,
+            "note": null
+          },
+          {
+            "program_code": "7420201",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [],
+            "score": 20.65,
+            "note": null
+          },
+          {
+            "program_code": "7420204",
+            "program_name": "Khoa học y sinh",
+            "subject_groups": [],
+            "score": 22.82,
+            "note": null
+          },
+          {
+            "program_code": "7480101 – CSE",
+            "program_name": "Khoa học máy tính",
+            "subject_groups": [],
+            "score": 21.92,
+            "note": null
+          },
+          {
+            "program_code": "7480101 – SE",
+            "program_name": "Khoa học máy tính- Chuyên ngành Công nghệ phần mềm",
+            "subject_groups": [],
+            "score": 21.92,
+            "note": null
+          },
+          {
+            "program_code": "7480106",
+            "program_name": "Kỹ thuật máy tính",
+            "subject_groups": [],
+            "score": 21.16,
+            "note": null
+          },
+          {
+            "program_code": "7510402",
+            "program_name": "Công nghệ vật liệu- Chuyên ngành công nghệ Nano",
+            "subject_groups": [],
+            "score": 21.38,
+            "note": null
+          },
+          {
+            "program_code": "7810201",
+            "program_name": "Quản trị khách sạn",
+            "subject_groups": [],
+            "score": 21.38,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

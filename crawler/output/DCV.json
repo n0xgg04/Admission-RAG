@@ -1,0 +1,469 @@
+{
+  "university": {
+    "code": "DCV",
+    "name": "Trường Đại học Công nghiệp Vinh",
+    "short_name": "IUV",
+    "location": [
+      "Nghệ An"
+    ],
+    "address": "Số 26 Nguyễn Thái Học, thành phố Vinh, tỉnh Nghệ An",
+    "website": "http://www.iuv.edu.vn/home",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": 900,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-cong-nghiep-vinh-DCV.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0323/thong-tin-tuyen-sinh-truong-dai-hoc-cong-nghiep-vinh-2026.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP VINH 2026 Thông tin tuyển sinh trường Đại học Công nghiệp Vinh 2026 Năm 2026, trường Đại học Công nghiệp Vinh thông báo tuyển sinh 900 chỉ tiêu gồm 3 mã ngành với 4 phương thức tuyển sinh Phương thức 1: Xét tuyển thẳng theo quy chế của Bộ giáo dục và Đào tạo- Mã phương thức xét tuyển 301 Phương thức 2: Xét tuyển theo kết quả thi tốt nghiệp THPT năm 2026 - Mã phương thức xét tuyển 100. Phương thức 3: Xét tuyển theo kết quả học tập THPT - Mã phương thức xét tuyển 200. Phương thức 4: Xét tuyển kết quả bài thi đánh giá năng lực của Đại học Quốc gia Thành phố Hồ Chí Minh, kết quả bài thi đánh giá năng lực của Đại học Quốc gia Hà nội, kết quả bài thi đánh giá tư duy của Đại học Bách khoa Hà nội- Mã phương thức xét tuyển 402",
+  "admission_methods": [
+    {
+      "method_id": "1-utxt-xt-thang",
+      "method_name": "1 ƯTXT, XT THẲNG",
+      "description": "1.1 QUY CHẾ Xét tuyển thẳng các thí sinh thuộc đối tượng xét tuyển thẳng được quy định tại điều 8 của Quy chế tuyển sinh trình độ đại học, tuyển sinh trình độ cao đẳng ngành giáo dục Mầm non của Bọ Giáo dục và Đào tạo. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ƯTXT, XT THẲNG STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7340301 Kế toán 2 7480201 Công nghệ Thông tin 3 7510301 Công nghệ kỹ thuật Điện, điện tử",
+      "eligibility": "đối tượng xét tuyển thẳng được quy định tại điều 8 của",
+      "rules": "QUY CHẾ Xét tuyển thẳng các thí sinh thuộc",
+      "programs": [
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ Thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7510301",
+          "program_name": "Công nghệ kỹ thuật Điện, điện tử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-thi-thpt",
+      "method_name": "2 ĐIỂM THI THPT",
+      "description": "2.1 QUY CHẾ - Nguyên tắc xét tuyển : Xét tuyển theo từng ngành, xét tuyển từ cao xuống thấp cho đến hết chỉ tiêu. Điểm xét tuyển (ĐXT) = Xét tuyển theo tổng điểm 3 môn theo tổ hợp môn ĐKXT + điểm ưu tiên. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM THI THPT STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7340301 Kế toán C01; C02; X02; X03 2 7480201 Công nghệ Thông tin D01; D07 3 7510301 Công nghệ kỹ thuật Điện, điện tử A00; A01",
+      "eligibility": null,
+      "rules": "QUY CHẾ - Nguyên tắc xét tuyển : Xét tuyển theo từng ngành, xét tuyển từ cao xuống thấp cho đến hết chỉ tiêu. Điểm xét tuyển (ĐXT) = Xét tuyển theo tổng điểm 3 môn theo tổ hợp môn ĐKXT + điểm ưu tiên.",
+      "programs": [
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "C01",
+            "C02",
+            "X02",
+            "X03"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ Thông tin",
+          "subject_groups": [
+            "D01",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7510301",
+          "program_name": "Công nghệ kỹ thuật Điện, điện tử",
+          "subject_groups": [
+            "A00",
+            "A01"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        }
+      ]
+    },
+    {
+      "method_id": "3-iem-hoc-ba",
+      "method_name": "3 ĐIỂM HỌC BẠ",
+      "description": "3.1 QUY CHẾ - Nguyên tắc xét tuyển : Xét tuyển theo từng ngành, xét tuyển từ cao xuống thấp cho đến khi hết chỉ tiêu. Điểm xét tuyển (ĐXT) được tính theo công thức: ĐXT = Tổng điểm tổng kết năm lớp 10,11,12 các môn thuộc tổ hợp xét tuyển + điểm ưu tiên khu vực và đối tượng ( nếu có ). DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM HỌC BẠ STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7340301 Kế toán 2 7480201 Công nghệ Thông tin 3 7510301 Công nghệ kỹ thuật Điện, điện tử",
+      "eligibility": "đối tượng ( nếu có ).",
+      "rules": "QUY CHẾ - Nguyên tắc xét tuyển : Xét tuyển theo từng ngành, xét tuyển từ cao xuống thấp cho đến khi hết chỉ tiêu. Điểm xét tuyển (ĐXT) được tính theo công thức: ĐXT = Tổng điểm tổng kết năm lớp 10,11,12 các môn thuộc tổ hợp xét tuyển + điểm ưu tiên khu vực và",
+      "programs": [
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ Thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7510301",
+          "program_name": "Công nghệ kỹ thuật Điện, điện tử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        }
+      ]
+    },
+    {
+      "method_id": "4-iem-gnl-hcm",
+      "method_name": "4 ĐIỂM ĐGNL HCM",
+      "description": "4.1 QUY CHẾ Xét tuyển kết quả bài thi đánh giá năng lực của Đại học Quốc gia Thành phố Hồ Chí Minh + Với điểm thi ĐGNL của ĐHQG TP Hồ Chí Minh ĐXT = Điểm ĐGNL*30/1200 + điểm ưu tiên (nếu có)",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét tuyển kết quả bài thi đánh giá năng lực của Đại học Quốc gia Thành phố Hồ Chí Minh + Với điểm thi ĐGNL của ĐHQG TP Hồ Chí Minh ĐXT = Điểm ĐGNL*30/1200 + điểm ưu tiên (nếu có)",
+      "programs": []
+    },
+    {
+      "method_id": "5-iem-gnl-hn",
+      "method_name": "5 ĐIỂM ĐGNL HN",
+      "description": "5.1 CHỈ TIÊU Xét tuyển kết quả bài thi đánh giá năng lực của Đại học Quốc gia Hà Nội 5.2 QUY CHẾ Nguyên tắc xét tuyển : Xét tuyển theo từng ngành, xét tuyển từ cao xuống thấp cho đến khi hết chỉ tiêu. Điểm xét tuyển (ĐXT) quy về điểm 30 được tính theo công thức: + Với điểm thi ĐGNL của ĐHQG Hà Nội ĐXT = Điểm ĐGNL*30/150 + điểm ưu tiên (nếu có) DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐGNL HN STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7340301 Kế toán Q00 2 7480201 Công nghệ Thông tin Q00 3 7510",
+      "eligibility": null,
+      "rules": "QUY CHẾ Nguyên tắc xét tuyển : Xét tuyển theo từng ngành, xét tuyển từ cao xuống thấp cho đến khi hết chỉ tiêu. Điểm xét tuyển (ĐXT) quy về điểm 30 được tính theo công thức: + Với điểm thi ĐGNL của ĐHQG Hà Nội ĐXT = Điểm ĐGNL*30/150 + điểm ưu tiên (nếu có)",
+      "programs": [
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ Thông tin",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7510301",
+          "program_name": "Công nghệ kỹ thuật Điện, điện tử",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        }
+      ]
+    },
+    {
+      "method_id": "6-iem-anh-gia-tu-duy",
+      "method_name": "6 ĐIỂM ĐÁNH GIÁ TƯ DUY",
+      "description": "6.1 QUY CHẾ Xét tuyển kết quả bài thi đánh giá tư duy của Đại học Bách Khoa Hà Nội + Với điểm thi ĐGTD của Đại học Bách khoa Hà Nội ĐXT = Điểm ĐGTD*30/100 + điểm ưu tiên (nếu có) DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐÁNH GIÁ TƯ DUY STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7340301 Kế toán K00 2 7480201 Công nghệ Thông tin K00 3 7510301 Công nghệ kỹ thuật Điện, điện tử K00",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét tuyển kết quả bài thi đánh giá tư duy của Đại học Bách Khoa Hà Nội + Với điểm thi ĐGTD của Đại học Bách khoa Hà Nội ĐXT = Điểm ĐGTD*30/100 + điểm ưu tiên (nếu có)",
+      "programs": [
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ Thông tin",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7510301",
+          "program_name": "Công nghệ kỹ thuật Điện, điện tử",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "C01",
+            "C02",
+            "X02",
+            "X03"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ Thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ Thông tin",
+          "subject_groups": [
+            "D01",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ Thông tin",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ Thông tin",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7510301",
+          "program_name": "Công nghệ kỹ thuật Điện, điện tử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7510301",
+          "program_name": "Công nghệ kỹ thuật Điện, điện tử",
+          "subject_groups": [
+            "A00",
+            "A01"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7510301",
+          "program_name": "Công nghệ kỹ thuật Điện, điện tử",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7510301",
+          "program_name": "Công nghệ kỹ thuật Điện, điện tử",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Trường Đại học Công nghiệp Vinh các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-cong-nghiep-vinh-DCV.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07",
+              "X02",
+              "X03"
+            ],
+            "score": 25.5,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07",
+              "X02",
+              "X03"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ kỹ thuật điện điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07",
+              "X02",
+              "X03"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7810201",
+            "program_name": "Quản trị khách sạn",
+            "subject_groups": [
+              "A00",
+              "C00",
+              "C03",
+              "C20",
+              "D01",
+              "D10",
+              "D15",
+              "X01"
+            ],
+            "score": 28.5,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07",
+              "X02",
+              "X03"
+            ],
+            "score": 27.8,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07",
+              "X02",
+              "X03"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ kỹ thuật điện điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "D01",
+              "D07",
+              "X02",
+              "X03"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7810201",
+            "program_name": "Quản trị khách sạn",
+            "subject_groups": [
+              "A00",
+              "C00",
+              "C03",
+              "C20",
+              "D01",
+              "D10",
+              "D15",
+              "X01"
+            ],
+            "score": 29,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

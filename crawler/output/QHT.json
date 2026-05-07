@@ -1,0 +1,3344 @@
+{
+  "university": {
+    "code": "QHT",
+    "name": "Trường Đại học Khoa học Tự nhiên, Đại học Quốc gia Hà Nội",
+    "short_name": "HUS",
+    "location": [],
+    "address": "334 đường Nguyễn Trãi, Quận Thanh Xuân, Hà Nội (Trụ sở chính) + 19 Lê Thánh Tông, Hoàn Kiếm, Hà Nội + 182 Lương Thế Vinh, Quận Thanh Xuân, Hà Nội",
+    "website": "https://hust.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-khoa-hoc-tu-nhien-dai-hoc-quoc-gia-ha-noi-QHT.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0112/thong-tin-tuyen-sinh-du-kien-truong-dh-khtn-dhqghn-2026.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN HÀ NỘI 2026 Thông tin tuyển sinh Đại học Khoa học tự nhiên - Đại học Quốc gia Hà Nội (HUS) 2026 Trường ĐHKHTN sử dụng 6 phương thức xét tuyển để tuyển sinh các chương trình đào tạo (CTĐT). Cụ thể như sau: -Phương thức 1. Xét tuyển thẳng theo quy định của Quy chế tuyển sinh (Điều 8). - Phương thức 2. Xét tuyển kết quả thi tốt nghiệp THPT năm 2026 - Phương thức 3. Xét kết quả thi đánh giá năng lực (ĐGNL) - Phương thức 4. Sử dụng chứng chỉ quốc tế SAT để xét tuyển. - Phương thức 5. Kết hợp kết quả thi tốt nghiệp THPT với chứng chỉ quốc tế để xét tuyển - Phương thức 6. Sử dụng phương thức khác: Trường ĐHKHTN xét tuyển các thí sinh diện hiệp định, diện dự bị đại học, xét tuyển theo Quy chế tuyển sinh, Hướng dẫn tuyển sinh của ĐHQGHN.",
+  "admission_methods": [
+    {
+      "method_id": "1-utxt-xt-thang",
+      "method_name": "1 ƯTXT, XT THẲNG",
+      "description": "1.1 QUY CHẾ Phương thức 2. Xét kết quả thi tốt nghiệp THPT năm 2026 DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ƯTXT, XT THẲNG STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 QHT01 Toán học 2 QHT02 Toán tin 3 QHT03 Vật lý học 4 QHT04 Khoa học vật liệu 5 QHT05 Công nghệ kỹ thuật hạt nhân 6 QHT06 Hóa học 7 QHT07 Công nghệ kỹ thuật hóa học 8 QHT08 Sinh học 9 QHT09 Công nghệ sinh học 10 QHT10 Địa lý tự nhiên 11 QHT12 Quản lý đất đai 12 QHT13 Khoa học môi trường 13 QHT15 Công nghệ kỹ thuật môi trường 14 QHT16 K",
+      "eligibility": null,
+      "rules": "QUY CHẾ Phương thức 2. Xét kết quả thi tốt nghiệp THPT năm 2026",
+      "programs": [
+        {
+          "program_code": "QHT01",
+          "program_name": "Toán học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "QHT02",
+          "program_name": "Toán tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "QHT03",
+          "program_name": "Vật lý học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "QHT04",
+          "program_name": "Khoa học vật liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "QHT05",
+          "program_name": "Công nghệ kỹ thuật hạt nhân",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "QHT06",
+          "program_name": "Hóa học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "QHT07",
+          "program_name": "Công nghệ kỹ thuật hóa học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "QHT08",
+          "program_name": "Sinh học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "QHT09",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "QHT10",
+          "program_name": "Địa lý tự nhiên",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "QHT12",
+          "program_name": "Quản lý đất đai",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "QHT13",
+          "program_name": "Khoa học môi trường",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "QHT15",
+          "program_name": "Công nghệ kỹ thuật môi trường",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "QHT16",
+          "program_name": "Khí tượng và khí hậu học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "QHT17",
+          "program_name": "Hải dương học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "QHT18",
+          "program_name": "Địa chất học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "QHT20",
+          "program_name": "Quản lý tài nguyên và môi trường",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "QHT43",
+          "program_name": "Hóa dược",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "QHT81",
+          "program_name": "Sinh dược học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "QHT82",
+          "program_name": "Môi trường, sức khỏe và an toàn",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "QHT91",
+          "program_name": "Khoa học thông tin địa không gian",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "QHT92",
+          "program_name": "Tài nguyên và môi trường nước",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "QHT93",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "QHT94",
+          "program_name": "Kỹ thuật điện tử và tin học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "24"
+        },
+        {
+          "program_code": "QHT95",
+          "program_name": "Quản lý phát triển đô thị và bất động sản",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "25"
+        },
+        {
+          "program_code": "QHT96",
+          "program_name": "Khoa học và công nghệ thực phẩm",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "26"
+        },
+        {
+          "program_code": "QHT98",
+          "program_name": "Khoa học máy tính và thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "27"
+        },
+        {
+          "program_code": "QHT99",
+          "program_name": "Công nghệ Bán dẫn (thuộc ngành Khoa học vật liệu)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "28"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-thi-thpt",
+      "method_name": "2 ĐIỂM THI THPT",
+      "description": "2.1 QUY CHẾ Phương thức 2. Xét kết quả thi tốt nghiệp THPT năm 2026 DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM THI THPT STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 QHT01 Toán học A00; A01; C01; D07; D08; X26 2 QHT02 Toán tin A00; A01; C01; D07; D08; X26 3 QHT03 Vật lý học A00; A01; A02; B00; C01; C02; D07; X06 4 QHT04 Khoa học vật liệu A00; A01; A02; B00; C01; C02; D07; X06 5 QHT05 Công nghệ kỹ thuật hạt nhân A00; A01; A02; B00; C01; C02; D07; X06 6 QHT06 Hóa học A00; A05; A06; B00; C02; D07 7 QH",
+      "eligibility": null,
+      "rules": "QUY CHẾ Phương thức 2. Xét kết quả thi tốt nghiệp THPT năm 2026",
+      "programs": [
+        {
+          "program_code": "QHT01",
+          "program_name": "Toán học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D07",
+            "D08",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "QHT02",
+          "program_name": "Toán tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D07",
+            "D08",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "QHT03",
+          "program_name": "Vật lý học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "C01",
+            "C02",
+            "D07",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "QHT04",
+          "program_name": "Khoa học vật liệu",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "C01",
+            "C02",
+            "D07",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "QHT05",
+          "program_name": "Công nghệ kỹ thuật hạt nhân",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "C01",
+            "C02",
+            "D07",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "QHT06",
+          "program_name": "Hóa học",
+          "subject_groups": [
+            "A00",
+            "A05",
+            "A06",
+            "B00",
+            "C02",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "QHT07",
+          "program_name": "Công nghệ kỹ thuật hóa học",
+          "subject_groups": [
+            "A00",
+            "A05",
+            "A06",
+            "B00",
+            "C02",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "QHT08",
+          "program_name": "Sinh học",
+          "subject_groups": [
+            "A00",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "QHT09",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [
+            "A00",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "QHT10",
+          "program_name": "Địa lý tự nhiên",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A04",
+            "A06",
+            "A07",
+            "B00",
+            "B02",
+            "C04",
+            "D01",
+            "D10",
+            "D20",
+            "X01",
+            "X21",
+            "X25"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "QHT12",
+          "program_name": "Quản lý đất đai",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A04",
+            "A06",
+            "A07",
+            "B00",
+            "B02",
+            "C04",
+            "D01",
+            "D10",
+            "D20",
+            "X01",
+            "X21",
+            "X25"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "QHT13",
+          "program_name": "Khoa học môi trường",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "QHT15",
+          "program_name": "Công nghệ kỹ thuật môi trường",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "QHT16",
+          "program_name": "Khí tượng và khí hậu học",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C04",
+            "D01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "QHT17",
+          "program_name": "Hải dương học",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C04",
+            "D01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "QHT18",
+          "program_name": "Địa chất học",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "QHT20",
+          "program_name": "Quản lý tài nguyên và môi trường",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "QHT43",
+          "program_name": "Hóa dược",
+          "subject_groups": [
+            "A00",
+            "A05",
+            "A06",
+            "B00",
+            "C02",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "QHT81",
+          "program_name": "Sinh dược học",
+          "subject_groups": [
+            "A00",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "QHT82",
+          "program_name": "Môi trường, sức khỏe và an toàn",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "QHT91",
+          "program_name": "Khoa học thông tin địa không gian",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A04",
+            "A06",
+            "A07",
+            "B00",
+            "B02",
+            "C04",
+            "D01",
+            "D10",
+            "D20",
+            "X01",
+            "X21",
+            "X25"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "QHT92",
+          "program_name": "Tài nguyên và môi trường nước",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C04",
+            "D01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "QHT93",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D07",
+            "D08",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "QHT94",
+          "program_name": "Kỹ thuật điện tử và tin học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "C01",
+            "C02",
+            "D07",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "24"
+        },
+        {
+          "program_code": "QHT95",
+          "program_name": "Quản lý phát triển đô thị và bất động sản",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A04",
+            "A06",
+            "A07",
+            "B00",
+            "B02",
+            "C04",
+            "D01",
+            "D10",
+            "D20",
+            "X01",
+            "X21",
+            "X25"
+          ],
+          "program_type": "chuẩn",
+          "note": "25"
+        },
+        {
+          "program_code": "QHT96",
+          "program_name": "Khoa học và công nghệ thực phẩm",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "26"
+        },
+        {
+          "program_code": "QHT98",
+          "program_name": "Khoa học máy tính và thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D07",
+            "D08",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "27"
+        },
+        {
+          "program_code": "QHT99",
+          "program_name": "Công nghệ Bán dẫn (thuộc ngành Khoa học vật liệu)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "C01",
+            "C02",
+            "D07",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "28"
+        }
+      ]
+    },
+    {
+      "method_id": "3-iem-gnl-hn",
+      "method_name": "3 ĐIỂM ĐGNL HN",
+      "description": "3.1 QUY CHẾ Phương thức 3. Xét kết quả thi đánh giá năng lực (ĐGNL) DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐGNL HN STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 QHT01 Toán học 2 QHT02 Toán tin 3 QHT03 Vật lý học 4 QHT04 Khoa học vật liệu 5 QHT05 Công nghệ kỹ thuật hạt nhân 6 QHT06 Hóa học 7 QHT07 Công nghệ kỹ thuật hóa học 8 QHT08 Sinh học 9 QHT09 Công nghệ sinh học 10 QHT10 Địa lý tự nhiên 11 QHT12 Quản lý đất đai 12 QHT13 Khoa học môi trường 13 QHT15 Công nghệ kỹ thuật môi trường 14 QHT16 Khí",
+      "eligibility": null,
+      "rules": "QUY CHẾ Phương thức 3. Xét kết quả thi đánh giá năng lực (ĐGNL)",
+      "programs": [
+        {
+          "program_code": "QHT01",
+          "program_name": "Toán học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "QHT02",
+          "program_name": "Toán tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "QHT03",
+          "program_name": "Vật lý học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "QHT04",
+          "program_name": "Khoa học vật liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "QHT05",
+          "program_name": "Công nghệ kỹ thuật hạt nhân",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "QHT06",
+          "program_name": "Hóa học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "QHT07",
+          "program_name": "Công nghệ kỹ thuật hóa học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "QHT08",
+          "program_name": "Sinh học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "QHT09",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "QHT10",
+          "program_name": "Địa lý tự nhiên",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "QHT12",
+          "program_name": "Quản lý đất đai",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "QHT13",
+          "program_name": "Khoa học môi trường",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "QHT15",
+          "program_name": "Công nghệ kỹ thuật môi trường",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "QHT16",
+          "program_name": "Khí tượng và khí hậu học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "QHT17",
+          "program_name": "Hải dương học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "QHT18",
+          "program_name": "Địa chất học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "QHT20",
+          "program_name": "Quản lý tài nguyên và môi trường",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "QHT43",
+          "program_name": "Hóa dược",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "QHT81",
+          "program_name": "Sinh dược học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "QHT82",
+          "program_name": "Môi trường, sức khỏe và an toàn",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "QHT91",
+          "program_name": "Khoa học thông tin địa không gian",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "QHT92",
+          "program_name": "Tài nguyên và môi trường nước",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "QHT93",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "QHT94",
+          "program_name": "Kỹ thuật điện tử và tin học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "24"
+        },
+        {
+          "program_code": "QHT95",
+          "program_name": "Quản lý phát triển đô thị và bất động sản",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "25"
+        },
+        {
+          "program_code": "QHT96",
+          "program_name": "Khoa học và công nghệ thực phẩm",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "26"
+        },
+        {
+          "program_code": "QHT98",
+          "program_name": "Khoa học máy tính và thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "27"
+        },
+        {
+          "program_code": "QHT99",
+          "program_name": "Công nghệ Bán dẫn (thuộc ngành Khoa học vật liệu)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "28"
+        }
+      ]
+    },
+    {
+      "method_id": "4-xet-tuyen-chung-chi-quoc-te-sat",
+      "method_name": "4 XÉT TUYỂN CHỨNG CHỈ QUỐC TẾ SAT",
+      "description": "4.1 QUY CHẾ Phương thức 4. Sử dụng chứng chỉ quốc tế SAT để xét tuyển DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC CHỨNG CHỈ QUỐC TẾ STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 QHT01 Toán học 2 QHT02 Toán tin 3 QHT03 Vật lý học 4 QHT04 Khoa học vật liệu 5 QHT05 Công nghệ kỹ thuật hạt nhân 6 QHT06 Hóa học 7 QHT07 Công nghệ kỹ thuật hóa học 8 QHT08 Sinh học 9 QHT09 Công nghệ sinh học 10 QHT10 Địa lý tự nhiên 11 QHT12 Quản lý đất đai 12 QHT13 Khoa học môi trường 13 QHT15 Công nghệ kỹ thuật môi trường 14 QH",
+      "eligibility": null,
+      "rules": "QUY CHẾ Phương thức 4. Sử dụng chứng chỉ quốc tế SAT để xét tuyển",
+      "programs": [
+        {
+          "program_code": "QHT01",
+          "program_name": "Toán học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "QHT02",
+          "program_name": "Toán tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "QHT03",
+          "program_name": "Vật lý học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "QHT04",
+          "program_name": "Khoa học vật liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "QHT05",
+          "program_name": "Công nghệ kỹ thuật hạt nhân",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "QHT06",
+          "program_name": "Hóa học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "QHT07",
+          "program_name": "Công nghệ kỹ thuật hóa học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "QHT08",
+          "program_name": "Sinh học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "QHT09",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "QHT10",
+          "program_name": "Địa lý tự nhiên",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "QHT12",
+          "program_name": "Quản lý đất đai",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "QHT13",
+          "program_name": "Khoa học môi trường",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "QHT15",
+          "program_name": "Công nghệ kỹ thuật môi trường",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "QHT16",
+          "program_name": "Khí tượng và khí hậu học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "QHT17",
+          "program_name": "Hải dương học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "QHT18",
+          "program_name": "Địa chất học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "QHT20",
+          "program_name": "Quản lý tài nguyên và môi trường",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "QHT43",
+          "program_name": "Hóa dược",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "QHT81",
+          "program_name": "Sinh dược học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "QHT82",
+          "program_name": "Môi trường, sức khỏe và an toàn",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "QHT91",
+          "program_name": "Khoa học thông tin địa không gian",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "QHT92",
+          "program_name": "Tài nguyên và môi trường nước",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "QHT93",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "QHT94",
+          "program_name": "Kỹ thuật điện tử và tin học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "24"
+        },
+        {
+          "program_code": "QHT95",
+          "program_name": "Quản lý phát triển đô thị và bất động sản",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "25"
+        },
+        {
+          "program_code": "QHT96",
+          "program_name": "Khoa học và công nghệ thực phẩm",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "26"
+        },
+        {
+          "program_code": "QHT98",
+          "program_name": "Khoa học máy tính và thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "27"
+        },
+        {
+          "program_code": "QHT99",
+          "program_name": "Công nghệ Bán dẫn (thuộc ngành Khoa học vật liệu)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "28"
+        }
+      ]
+    },
+    {
+      "method_id": "5-ket-hop-iem-tot-nghiep-thpt-voi-chung-chi-quoc-te",
+      "method_name": "5 KẾT HỢP ĐIỂM TỐT NGHIỆP THPT VỚI CHỨNG CHỈ QUỐC TẾ",
+      "description": "5.1 QUY CHẾ - Phương thức 5. Kết hợp kết quả thi tốt nghiệp THPT với chứng chỉ quốc tế để xét tuyển DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM XÉT TUYỂN KẾT HỢP STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 QHT01 Toán học 2 QHT02 Toán tin 3 QHT03 Vật lý học 4 QHT04 Khoa học vật liệu 5 QHT05 Công nghệ kỹ thuật hạt nhân 6 QHT06 Hóa học 7 QHT07 Công nghệ kỹ thuật hóa học 8 QHT08 Sinh học 9 QHT09 Công nghệ sinh học 10 QHT10 Địa lý tự nhiên 11 QHT12 Quản lý đất đai 12 QHT13 Khoa học môi trường 13 QHT15 ",
+      "eligibility": null,
+      "rules": "QUY CHẾ - Phương thức 5. Kết hợp kết quả thi tốt nghiệp THPT với chứng chỉ quốc tế để xét tuyển",
+      "programs": [
+        {
+          "program_code": "QHT01",
+          "program_name": "Toán học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "QHT02",
+          "program_name": "Toán tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "QHT03",
+          "program_name": "Vật lý học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "QHT04",
+          "program_name": "Khoa học vật liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "QHT05",
+          "program_name": "Công nghệ kỹ thuật hạt nhân",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "QHT06",
+          "program_name": "Hóa học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "QHT07",
+          "program_name": "Công nghệ kỹ thuật hóa học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "QHT08",
+          "program_name": "Sinh học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "QHT09",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "QHT10",
+          "program_name": "Địa lý tự nhiên",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "QHT12",
+          "program_name": "Quản lý đất đai",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "QHT13",
+          "program_name": "Khoa học môi trường",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "QHT15",
+          "program_name": "Công nghệ kỹ thuật môi trường",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "QHT16",
+          "program_name": "Khí tượng và khí hậu học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "QHT17",
+          "program_name": "Hải dương học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "QHT18",
+          "program_name": "Địa chất học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "QHT20",
+          "program_name": "Quản lý tài nguyên và môi trường",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "QHT43",
+          "program_name": "Hóa dược",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "QHT81",
+          "program_name": "Sinh dược học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "QHT82",
+          "program_name": "Môi trường, sức khỏe và an toàn",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "QHT91",
+          "program_name": "Khoa học thông tin địa không gian",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "QHT92",
+          "program_name": "Tài nguyên và môi trường nước",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "QHT93",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "QHT94",
+          "program_name": "Kỹ thuật điện tử và tin học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "24"
+        },
+        {
+          "program_code": "QHT95",
+          "program_name": "Quản lý phát triển đô thị và bất động sản",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "25"
+        },
+        {
+          "program_code": "QHT96",
+          "program_name": "Khoa học và công nghệ thực phẩm",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "26"
+        },
+        {
+          "program_code": "QHT98",
+          "program_name": "Khoa học máy tính và thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "27"
+        },
+        {
+          "program_code": "QHT99",
+          "program_name": "Công nghệ Bán dẫn (thuộc ngành Khoa học vật liệu)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "28"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "QHT01",
+          "program_name": "Toán học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "QHT01",
+          "program_name": "Toán học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D07",
+            "D08",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "QHT02",
+          "program_name": "Toán tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "QHT02",
+          "program_name": "Toán tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D07",
+            "D08",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "QHT03",
+          "program_name": "Vật lý học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "QHT03",
+          "program_name": "Vật lý học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "C01",
+            "C02",
+            "D07",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "QHT04",
+          "program_name": "Khoa học vật liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "QHT04",
+          "program_name": "Khoa học vật liệu",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "C01",
+            "C02",
+            "D07",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "QHT05",
+          "program_name": "Công nghệ kỹ thuật hạt nhân",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "QHT05",
+          "program_name": "Công nghệ kỹ thuật hạt nhân",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "C01",
+            "C02",
+            "D07",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "QHT06",
+          "program_name": "Hóa học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "QHT06",
+          "program_name": "Hóa học",
+          "subject_groups": [
+            "A00",
+            "A05",
+            "A06",
+            "B00",
+            "C02",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "QHT07",
+          "program_name": "Công nghệ kỹ thuật hóa học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "QHT07",
+          "program_name": "Công nghệ kỹ thuật hóa học",
+          "subject_groups": [
+            "A00",
+            "A05",
+            "A06",
+            "B00",
+            "C02",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "QHT08",
+          "program_name": "Sinh học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "QHT08",
+          "program_name": "Sinh học",
+          "subject_groups": [
+            "A00",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "QHT09",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "QHT09",
+          "program_name": "Công nghệ sinh học",
+          "subject_groups": [
+            "A00",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "QHT10",
+          "program_name": "Địa lý tự nhiên",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "QHT10",
+          "program_name": "Địa lý tự nhiên",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A04",
+            "A06",
+            "A07",
+            "B00",
+            "B02",
+            "C04",
+            "D01",
+            "D10",
+            "D20",
+            "X01",
+            "X21",
+            "X25"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "QHT12",
+          "program_name": "Quản lý đất đai",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "QHT12",
+          "program_name": "Quản lý đất đai",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A04",
+            "A06",
+            "A07",
+            "B00",
+            "B02",
+            "C04",
+            "D01",
+            "D10",
+            "D20",
+            "X01",
+            "X21",
+            "X25"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "QHT13",
+          "program_name": "Khoa học môi trường",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "QHT13",
+          "program_name": "Khoa học môi trường",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "QHT15",
+          "program_name": "Công nghệ kỹ thuật môi trường",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "QHT15",
+          "program_name": "Công nghệ kỹ thuật môi trường",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "QHT16",
+          "program_name": "Khí tượng và khí hậu học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "QHT16",
+          "program_name": "Khí tượng và khí hậu học",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C04",
+            "D01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "QHT17",
+          "program_name": "Hải dương học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "QHT17",
+          "program_name": "Hải dương học",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C04",
+            "D01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "QHT18",
+          "program_name": "Địa chất học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "QHT18",
+          "program_name": "Địa chất học",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "QHT20",
+          "program_name": "Quản lý tài nguyên và môi trường",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "QHT20",
+          "program_name": "Quản lý tài nguyên và môi trường",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "QHT43",
+          "program_name": "Hóa dược",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "QHT43",
+          "program_name": "Hóa dược",
+          "subject_groups": [
+            "A00",
+            "A05",
+            "A06",
+            "B00",
+            "C02",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "QHT81",
+          "program_name": "Sinh dược học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "QHT81",
+          "program_name": "Sinh dược học",
+          "subject_groups": [
+            "A00",
+            "A02",
+            "B00",
+            "B03",
+            "B08",
+            "D07"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "QHT82",
+          "program_name": "Môi trường, sức khỏe và an toàn",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "QHT82",
+          "program_name": "Môi trường, sức khỏe và an toàn",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "QHT91",
+          "program_name": "Khoa học thông tin địa không gian",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "QHT91",
+          "program_name": "Khoa học thông tin địa không gian",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A04",
+            "A06",
+            "A07",
+            "B00",
+            "B02",
+            "C04",
+            "D01",
+            "D10",
+            "D20",
+            "X01",
+            "X21",
+            "X25"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "QHT92",
+          "program_name": "Tài nguyên và môi trường nước",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "QHT92",
+          "program_name": "Tài nguyên và môi trường nước",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C04",
+            "D01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "QHT93",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "QHT93",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D07",
+            "D08",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "QHT94",
+          "program_name": "Kỹ thuật điện tử và tin học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "24"
+        },
+        {
+          "program_code": "QHT94",
+          "program_name": "Kỹ thuật điện tử và tin học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "C01",
+            "C02",
+            "D07",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "24"
+        },
+        {
+          "program_code": "QHT95",
+          "program_name": "Quản lý phát triển đô thị và bất động sản",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "25"
+        },
+        {
+          "program_code": "QHT95",
+          "program_name": "Quản lý phát triển đô thị và bất động sản",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A04",
+            "A06",
+            "A07",
+            "B00",
+            "B02",
+            "C04",
+            "D01",
+            "D10",
+            "D20",
+            "X01",
+            "X21",
+            "X25"
+          ],
+          "program_type": "chuẩn",
+          "note": "25"
+        },
+        {
+          "program_code": "QHT96",
+          "program_name": "Khoa học và công nghệ thực phẩm",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "26"
+        },
+        {
+          "program_code": "QHT96",
+          "program_name": "Khoa học và công nghệ thực phẩm",
+          "subject_groups": [
+            "B03",
+            "C01",
+            "C02",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "26"
+        },
+        {
+          "program_code": "QHT98",
+          "program_name": "Khoa học máy tính và thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "27"
+        },
+        {
+          "program_code": "QHT98",
+          "program_name": "Khoa học máy tính và thông tin",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01",
+            "D07",
+            "D08",
+            "X26"
+          ],
+          "program_type": "chuẩn",
+          "note": "27"
+        },
+        {
+          "program_code": "QHT99",
+          "program_name": "Công nghệ Bán dẫn (thuộc ngành Khoa học vật liệu)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "28"
+        },
+        {
+          "program_code": "QHT99",
+          "program_name": "Công nghệ Bán dẫn (thuộc ngành Khoa học vật liệu)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "B00",
+            "C01",
+            "C02",
+            "D07",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "28"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Trường Đại học Khoa học Tự nhiên, Đại học Quốc gia Hà Nội các năm Tại đây",
+  "tuition_text": "Học phí dự kiến với sinh viên chính quy, lộ trình tăng học phí Các chương trình đào tạo đã kiểm định chất lượng thu theo đề án định mức kinh tế kỹ thuật và lộ trình tăng học phí các năm học tiếp theo không quá 10% so với các năm học trước. Các chương trình đào tạo còn lại sẽ thu theo quy định của Nghị định 238/2025/NĐ- CP của Thủ tướng Chính phủ quy định về cơ chế thu, quản lý học phí đối với cơ sở giáo dục thuộc hệ thống giáo dục quốc dân và chính sách miễn, giảm học phí, hỗ trợ chi phí học tập; giá dịch vụ trong nhóm ngành giáo dục, đào tạo. Dự kiến mức học phí năm học 2026-2027 và lộ trình tăng học phí các năm học tiếp theo như sau: TT Mã ngành xét tuyển Tên ngành xét tuyển Mức học phí dự kiến năm học 2026 - 2027 (nghìn đồng/ tháng) Lộ trình tăng học phí các năm học tiếp theo 1 QHT01 Toán học 2.090 Theo Nghị định 238/2025/NĐ-CP của Thủ tướng Chính phủ 2 QHT02 Toán tin 3.000 Chương trình đào tạo đã kiểm định chất lượng. Thu học phí theo đề án định mức kinh tế kỹ thuật. Lộ trình tăng không quá 10% so với năm học trước. 3 QHT98 Khoa học máy tính và thông tin 4.000 Chương trình đào tạo đã kiểm định chất lượng. Thu học phí theo đề án định mức kinh tế kỹ thuật. Lộ trình tăng không quá 10% so với năm học trước. 4 QHT93 Khoa học dữ liệu 4.000 Chương trình đào tạo đã kiểm định chất lượng. Thu học phí theo đề án định mức kinh tế kỹ thuật. Lộ trình tăng không quá 10% so với năm học trước. 5 QHT03 Vật lý học 3.000 Chương trình đào tạo đã kiểm định chất lượng. Thu học phí theo đề án định mức kinh tế kỹ thuật. Lộ trình tăng không quá 10% so với năm học trước. 6 QHT04 Khoa học vật liệu 3.000 Chương trình đào tạo đã kiểm định chất lượng. Thu học phí theo đề án định mức kinh tế kỹ thuật. Lộ trình tăng không quá 10% so với năm học trước. 7 QHT99 Công nghệ bán dẫn (thuộc ngành Khoa học vật liệu) 4.000 Chương trình đào tạo đã kiểm định chất lượng. Thu học phí theo đề án định mức kinh tế kỹ thuật. Lộ trình tăng không quá 10% so với năm học trước. 8 QHT05 Công nghệ kỹ thuật hạt nhân 3.000 Chương trình đào tạo đã kiểm định chất lượng. Thu học phí theo đề án định mức kinh tế kỹ thuật. Lộ trình tăng không quá 10% so với TT Mã ngành xét tuyển Tên ngành xét tuyển Mức học phí dự kiến năm học 2026 - 2027 (nghìn đồng/ tháng) Lộ trình tăng học phí các năm học tiếp theo năm học trước. 9 QHT94 Kỹ thuật điện tử và tin học 4.000 Chương trình đào tạo đã kiểm định chất lượng. Thu học phí theo đề án định mức kinh tế kỹ thuật. Lộ trình tăng không quá 10% so với năm học trước. 10 QHT06 Hóa học 4.000 Chương trình đào tạo đã kiểm định chất lượng. Thu học phí theo đề án định mức kinh tế kỹ thuật. Lộ trình tăng không quá 10% so với năm học trước. 11 QHT07 Công nghệ kỹ thuật hóa học 4.000 Chương trình đào tạo đã kiểm định chất lượng. Thu học phí theo đề án định mức kinh tế kỹ thuật. Lộ trình tăng không quá 10% so với năm học trước. 12 QHT43 Hóa dược 4.000 Chương trình đào tạo đã kiểm định chất lượng. Thu học phí theo đề án định mức kinh tế kỹ thuật. Lộ trình tăng không quá 10% so với năm học trước. 13 QHT08 Sinh học 4.000 Chương trình đào tạo đã kiểm định chất lượng. Thu học phí theo đề án định mức kinh tế kỹ thuật. Lộ trình tăng không quá 10% so với năm học trước. 14 QHT09 Công nghệ sinh học 4.000 Chương trình đào tạo đã kiểm định chất lượng. Thu học phí theo đề án định mức kinh tế kỹ thuật. Lộ trình tăng không quá 10% so với năm học trước. 15 QHT81 Sinh dược học 1.930 Theo Nghị định 238/2025/NĐ-CP của Thủ tướng Chính phủ 16 QHT10 Địa lý tự nhiên 1.930 Theo Nghị định 238/2025/NĐ-CP của Thủ tướng Chính phủ 17 QHT91 Khoa học thông tin 1.930 Theo Nghị định 238/2025/NĐ-CP của TT Mã ngành xét tuyển Tên ngành xét tuyển Mức học phí dự kiến năm học 2026 - 2027 (nghìn đồng/ tháng) Lộ trình tăng học phí các năm học tiếp theo địa không gian Thủ tướng Chính phủ 18 QHT12 Quản lý đất đai 3.000 Chương trình đào tạo đã kiểm định chất lượng. Thu học phí theo đề án định mức kinh tế kỹ thuật. Lộ trình tăng không quá 10% so với năm học trước. 19 QHT95 Quản lý phát triển đô thị và bất động sản 3.000 Chương trình đào tạo đã kiểm định chất lượng. Thu học phí theo đề án định mức kinh tế kỹ thuật. Lộ trình tăng không quá 10% so với năm học trước. 20 QHT13 Khoa học môi trường 3.000 Chương trình đào tạo đã kiểm định chất lượng. Thu học phí theo đề án định mức kinh tế kỹ thuật. Lộ trình tăng không quá 10% so với năm học trước. 21 QHT15 Công nghệ kỹ thuật môi trường 3.500 Chương trình đào tạo đã kiểm định chất lượng. Thu học phí theo đề án định mức kinh tế kỹ thuật. Lộ trình tăng không quá 10% so với năm học trước. 22 QHT96 Khoa học và công nghệ thực phẩm 4.000 Chương trình đào tạo đã kiểm định chất lượng. Thu học phí theo đề án định mức kinh tế kỹ thuật. Lộ trình tăng không quá 10% so với năm học trước. 23 QHT82 Môi trường, sức khỏe và an toàn 1.910 Theo Nghị định 238/2025/NĐ-CP của Thủ tướng Chính phủ 24 QHT16 Khí tượng và khí hậu học 1.930 Theo Nghị định 238/2025/NĐ-CP của Thủ tướng Chính phủ 25 QHT17 Hải dương học 1.930 Theo Nghị định 238/2025/NĐ-CP của Thủ tướng Chính phủ 26 QHT92 Tài nguyên và môi trường nước 1.930 Theo Nghị định 238/2025/NĐ-CP của Thủ tướng Chính phủ 27 QHT18 Địa chất học 1.930 Theo Nghị định 238/2025/NĐ-CP của Thủ tướng Chính phủ TT Mã ngành xét tuyển Tên ngành xét tuyển Mức học phí dự kiến năm học 2026 - 2027 (nghìn đồng/ tháng) Lộ trình tăng học phí các năm học tiếp theo 28 QHT20 Quản lý tài nguyên và môi trường 3.000 Chương trình đào tạo đã kiểm định chất lượng. Thu học phí theo đề án định mức kinh tế kỹ thuật. Lộ trình tăng không quá 10% so với năm học trước.",
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-khoa-hoc-tu-nhien-dai-hoc-quoc-gia-ha-noi-QHT.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "QHT01",
+            "program_name": "Toán học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D07",
+              "D08",
+              "X26"
+            ],
+            "score": 25.9,
+            "note": null
+          },
+          {
+            "program_code": "QHT02",
+            "program_name": "Toán tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D07",
+              "D08",
+              "X26"
+            ],
+            "score": 25.5,
+            "note": null
+          },
+          {
+            "program_code": "QHT03",
+            "program_name": "Vật lý học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "C01",
+              "C02",
+              "D07",
+              "X02",
+              "X06",
+              "X26"
+            ],
+            "score": 24.65,
+            "note": null
+          },
+          {
+            "program_code": "QHT04",
+            "program_name": "Khoa học vật liệu",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "C01",
+              "C02",
+              "D07",
+              "X02",
+              "X06",
+              "X26"
+            ],
+            "score": 24.2,
+            "note": null
+          },
+          {
+            "program_code": "QHT05",
+            "program_name": "Công nghệ kỹ thuật hạt nhân",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "C01",
+              "C02",
+              "D07",
+              "X02",
+              "X06",
+              "X26"
+            ],
+            "score": 23.5,
+            "note": null
+          },
+          {
+            "program_code": "QHT06",
+            "program_name": "Hoá học",
+            "subject_groups": [
+              "A00",
+              "A05",
+              "A06",
+              "B00",
+              "C02",
+              "D07",
+              "X09",
+              "X10",
+              "X11",
+              "X12"
+            ],
+            "score": 23.9,
+            "note": null
+          },
+          {
+            "program_code": "QHT07",
+            "program_name": "Công nghệ kỹ thuật hoá học",
+            "subject_groups": [
+              "A00",
+              "A05",
+              "A06",
+              "B00",
+              "C02",
+              "D07",
+              "X09",
+              "X10",
+              "X11",
+              "X12"
+            ],
+            "score": 23.45,
+            "note": null
+          },
+          {
+            "program_code": "QHT08",
+            "program_name": "Sinh học",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "B00",
+              "B01",
+              "B02",
+              "B03",
+              "B08",
+              "D07",
+              "D08",
+              "X13",
+              "X14",
+              "X15",
+              "X16"
+            ],
+            "score": 20.05,
+            "note": null
+          },
+          {
+            "program_code": "QHT09",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "B00",
+              "B01",
+              "B02",
+              "B03",
+              "B08",
+              "D07",
+              "D08",
+              "X13",
+              "X14",
+              "X15",
+              "X16"
+            ],
+            "score": 22.05,
+            "note": null
+          },
+          {
+            "program_code": "QHT10",
+            "program_name": "Địa lý tự nhiên",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A04",
+              "A06",
+              "A07",
+              "B00",
+              "B02",
+              "C04",
+              "D01",
+              "D10",
+              "D20",
+              "X01",
+              "X21",
+              "X25"
+            ],
+            "score": 23.95,
+            "note": null
+          },
+          {
+            "program_code": "QHT12",
+            "program_name": "Quản lý đất đai",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A04",
+              "A06",
+              "A07",
+              "B00",
+              "B02",
+              "C04",
+              "D01",
+              "D10",
+              "D20",
+              "X01",
+              "X21",
+              "X25"
+            ],
+            "score": 22.27,
+            "note": null
+          },
+          {
+            "program_code": "QHT13",
+            "program_name": "Khoa học môi trường",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "B03",
+              "C01",
+              "C02",
+              "D01",
+              "D07",
+              "D08",
+              "X09",
+              "X10",
+              "X11",
+              "X12",
+              "X13",
+              "X14",
+              "X15",
+              "X16"
+            ],
+            "score": 21.25,
+            "note": null
+          },
+          {
+            "program_code": "QHT15",
+            "program_name": "Công nghệ kỹ thuật môi trường",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "B03",
+              "C01",
+              "C02",
+              "D01",
+              "D07",
+              "D08",
+              "X09",
+              "X10",
+              "X11",
+              "X12",
+              "X13",
+              "X14",
+              "X15",
+              "X16"
+            ],
+            "score": 21.55,
+            "note": null
+          },
+          {
+            "program_code": "QHT16",
+            "program_name": "Khí tượng và khí hậu học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "A04",
+              "A06",
+              "B00",
+              "B02",
+              "B03",
+              "B08",
+              "C01",
+              "C02",
+              "C04",
+              "D01",
+              "D07",
+              "D10",
+              "X26"
+            ],
+            "score": 22.8,
+            "note": null
+          },
+          {
+            "program_code": "QHT17",
+            "program_name": "Hải dương học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "A04",
+              "A06",
+              "B00",
+              "B02",
+              "B03",
+              "B08",
+              "C01",
+              "C02",
+              "C04",
+              "D01",
+              "D07",
+              "D10",
+              "X26"
+            ],
+            "score": 21.5,
+            "note": null
+          },
+          {
+            "program_code": "QHT18",
+            "program_name": "Địa chất học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A04",
+              "A06",
+              "A07",
+              "B00",
+              "B03",
+              "C01",
+              "C02",
+              "C04",
+              "D01",
+              "D07",
+              "D08",
+              "D09",
+              "D10",
+              "X01",
+              "X05",
+              "X09",
+              "X21",
+              "X25"
+            ],
+            "score": 22.05,
+            "note": null
+          },
+          {
+            "program_code": "QHT20",
+            "program_name": "Quản lý tài nguyên và môi trường",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A04",
+              "A06",
+              "A07",
+              "B00",
+              "B03",
+              "C01",
+              "C02",
+              "C04",
+              "D01",
+              "D07",
+              "D08",
+              "D09",
+              "D10",
+              "X01",
+              "X05",
+              "X09",
+              "X21",
+              "X25"
+            ],
+            "score": 22.2,
+            "note": null
+          },
+          {
+            "program_code": "QHT43",
+            "program_name": "Hoá dược",
+            "subject_groups": [
+              "A00",
+              "A05",
+              "A06",
+              "B00",
+              "C02",
+              "D07",
+              "X09",
+              "X10",
+              "X11",
+              "X12"
+            ],
+            "score": 23.7,
+            "note": null
+          },
+          {
+            "program_code": "QHT81",
+            "program_name": "Sinh dược học",
+            "subject_groups": [
+              "A00",
+              "A02",
+              "B00",
+              "B01",
+              "B02",
+              "B03",
+              "B08",
+              "D07",
+              "D08",
+              "X13",
+              "X14",
+              "X15",
+              "X16"
+            ],
+            "score": 20.1,
+            "note": null
+          },
+          {
+            "program_code": "QHT82",
+            "program_name": "Môi trường, sức khỏe và an toàn",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "B03",
+              "C01",
+              "C02",
+              "D01",
+              "D07",
+              "D08",
+              "X09",
+              "X10",
+              "X11",
+              "X12",
+              "X13",
+              "X14",
+              "X15",
+              "X16"
+            ],
+            "score": 21.2,
+            "note": null
+          },
+          {
+            "program_code": "QHT91",
+            "program_name": "Khoa học thông tin địa không gian",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A04",
+              "A06",
+              "A07",
+              "B00",
+              "B02",
+              "C04",
+              "D01",
+              "D10",
+              "D20",
+              "X01",
+              "X21",
+              "X25"
+            ],
+            "score": 23.5,
+            "note": null
+          },
+          {
+            "program_code": "QHT92",
+            "program_name": "Tài nguyên và môi trường nước",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "A04",
+              "A06",
+              "B00",
+              "B02",
+              "B03",
+              "B08",
+              "C01",
+              "C02",
+              "C04",
+              "D01",
+              "D07",
+              "D10",
+              "X26"
+            ],
+            "score": 21.1,
+            "note": null
+          },
+          {
+            "program_code": "QHT93",
+            "program_name": "Khoa học dữ liệu",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D07",
+              "D08",
+              "X26"
+            ],
+            "score": 26,
+            "note": null
+          },
+          {
+            "program_code": "QHT94",
+            "program_name": "Kỹ thuật điện tử và tin học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "C01",
+              "C02",
+              "D07",
+              "X02",
+              "X06",
+              "X26"
+            ],
+            "score": 24.57,
+            "note": null
+          },
+          {
+            "program_code": "QHT95",
+            "program_name": "Quản lý phát triển đô thị và bất động sản",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A04",
+              "A06",
+              "A07",
+              "B00",
+              "B02",
+              "C04",
+              "D01",
+              "D10",
+              "D20",
+              "X01",
+              "X21",
+              "X25"
+            ],
+            "score": 22.9,
+            "note": null
+          },
+          {
+            "program_code": "QHT96",
+            "program_name": "Khoa học và công nghệ thực phẩm",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "B03",
+              "C01",
+              "C02",
+              "D01",
+              "D07",
+              "D08",
+              "X09",
+              "X10",
+              "X11",
+              "X12",
+              "X13",
+              "X14",
+              "X15",
+              "X16"
+            ],
+            "score": 22.8,
+            "note": null
+          },
+          {
+            "program_code": "QHT98",
+            "program_name": "Khoa học máy tính và thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D07",
+              "D08",
+              "X26"
+            ],
+            "score": 25.35,
+            "note": null
+          },
+          {
+            "program_code": "QHT99",
+            "program_name": "Công nghệ Bán dẫn",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "B00",
+              "C01",
+              "C02",
+              "D07",
+              "X02",
+              "X06",
+              "X26"
+            ],
+            "score": 25.55,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "QHT01",
+            "program_name": "Toán học",
+            "subject_groups": [],
+            "score": 25.9,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "QHT02",
+            "program_name": "Toán tin",
+            "subject_groups": [],
+            "score": 25.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "QHT03",
+            "program_name": "Vật lý học",
+            "subject_groups": [],
+            "score": 24.65,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "QHT04",
+            "program_name": "Khoa học vật liệu",
+            "subject_groups": [],
+            "score": 24.2,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "QHT05",
+            "program_name": "Công nghệ kỹ thuật hạt nhân",
+            "subject_groups": [],
+            "score": 23.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "QHT06",
+            "program_name": "Hoá học",
+            "subject_groups": [],
+            "score": 23.9,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "QHT07",
+            "program_name": "Công nghệ kỹ thuật hoá học",
+            "subject_groups": [],
+            "score": 23.45,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "QHT08",
+            "program_name": "Sinh học",
+            "subject_groups": [],
+            "score": 20.05,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "QHT09",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [],
+            "score": 22.05,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "QHT10",
+            "program_name": "Địa lý tự nhiên",
+            "subject_groups": [],
+            "score": 23.95,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "QHT12",
+            "program_name": "Quản lý đất đai",
+            "subject_groups": [],
+            "score": 22.27,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "QHT13",
+            "program_name": "Khoa học môi trường",
+            "subject_groups": [],
+            "score": 21.25,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "QHT15",
+            "program_name": "Công nghệ kỹ thuật môi trường",
+            "subject_groups": [],
+            "score": 21.55,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "QHT16",
+            "program_name": "Khí tượng và khí hậu học",
+            "subject_groups": [],
+            "score": 22.8,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "QHT17",
+            "program_name": "Hải dương học",
+            "subject_groups": [],
+            "score": 21.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "QHT18",
+            "program_name": "Địa chất học",
+            "subject_groups": [],
+            "score": 22.05,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "QHT20",
+            "program_name": "Quản lý tài nguyên và môi trường",
+            "subject_groups": [],
+            "score": 22.2,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "QHT43",
+            "program_name": "Hoá dược",
+            "subject_groups": [],
+            "score": 23.7,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "QHT81",
+            "program_name": "Sinh dược học",
+            "subject_groups": [],
+            "score": 20.1,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "QHT82",
+            "program_name": "Môi trường, sức khỏe và an toàn",
+            "subject_groups": [],
+            "score": 21.2,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "QHT91",
+            "program_name": "Khoa học thông tin địa không gian",
+            "subject_groups": [],
+            "score": 23.5,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "QHT92",
+            "program_name": "Tài nguyên và môi trường nước",
+            "subject_groups": [],
+            "score": 21.1,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "QHT93",
+            "program_name": "Khoa học dữ liệu",
+            "subject_groups": [],
+            "score": 26,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "QHT94",
+            "program_name": "Kỹ thuật điện tử và tin học",
+            "subject_groups": [],
+            "score": 24.57,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "QHT95",
+            "program_name": "Quản lý phát triển đô thị và bất động sản",
+            "subject_groups": [],
+            "score": 22.9,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "QHT96",
+            "program_name": "Khoa học và công nghệ thực phẩm",
+            "subject_groups": [],
+            "score": 22.8,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "QHT98",
+            "program_name": "Khoa học máy tính và thông tin",
+            "subject_groups": [],
+            "score": 25.35,
+            "note": "Điểm đã được quy đổi"
+          },
+          {
+            "program_code": "QHT99",
+            "program_name": "Công nghệ Bán dẫn",
+            "subject_groups": [],
+            "score": 25.55,
+            "note": "Điểm đã được quy đổi"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-xet-tuyen-ket-hop",
+        "method_name": "Điểm chuẩn theo phương thức Điểm xét tuyển kết hợp năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "QHT01",
+            "program_name": "Toán học",
+            "subject_groups": [],
+            "score": 25.9,
+            "note": "Kết hợp kết quả thi tốt nghiệp THPT với CCQT để xét tuyển"
+          },
+          {
+            "program_code": "QHT02",
+            "program_name": "Toán tin",
+            "subject_groups": [],
+            "score": 25.5,
+            "note": "Kết hợp kết quả thi tốt nghiệp THPT với CCQT để xét tuyển"
+          },
+          {
+            "program_code": "QHT03",
+            "program_name": "Vật lý học",
+            "subject_groups": [],
+            "score": 24.65,
+            "note": "Kết hợp kết quả thi tốt nghiệp THPT với CCQT để xét tuyển"
+          },
+          {
+            "program_code": "QHT04",
+            "program_name": "Khoa học vật liệu",
+            "subject_groups": [],
+            "score": 24.2,
+            "note": "Kết hợp kết quả thi tốt nghiệp THPT với CCQT để xét tuyển"
+          },
+          {
+            "program_code": "QHT05",
+            "program_name": "Công nghệ kỹ thuật hạt nhân",
+            "subject_groups": [],
+            "score": 23.5,
+            "note": "Kết hợp kết quả thi tốt nghiệp THPT với CCQT để xét tuyển"
+          },
+          {
+            "program_code": "QHT06",
+            "program_name": "Hoá học",
+            "subject_groups": [],
+            "score": 23.9,
+            "note": "Kết hợp kết quả thi tốt nghiệp THPT với CCQT để xét tuyển"
+          },
+          {
+            "program_code": "QHT07",
+            "program_name": "Công nghệ kỹ thuật hoá học",
+            "subject_groups": [],
+            "score": 23.45,
+            "note": "Kết hợp kết quả thi tốt nghiệp THPT với CCQT để xét tuyển"
+          },
+          {
+            "program_code": "QHT08",
+            "program_name": "Sinh học",
+            "subject_groups": [],
+            "score": 20.05,
+            "note": "Kết hợp kết quả thi tốt nghiệp THPT với CCQT để xét tuyển"
+          },
+          {
+            "program_code": "QHT09",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [],
+            "score": 22.05,
+            "note": "Kết hợp kết quả thi tốt nghiệp THPT với CCQT để xét tuyển"
+          },
+          {
+            "program_code": "QHT10",
+            "program_name": "Địa lý tự nhiên",
+            "subject_groups": [],
+            "score": 23.95,
+            "note": "Kết hợp kết quả thi tốt nghiệp THPT với CCQT để xét tuyển"
+          },
+          {
+            "program_code": "QHT12",
+            "program_name": "Quản lý đất đai",
+            "subject_groups": [],
+            "score": 22.27,
+            "note": "Kết hợp kết quả thi tốt nghiệp THPT với CCQT để xét tuyển"
+          },
+          {
+            "program_code": "QHT13",
+            "program_name": "Khoa học môi trường",
+            "subject_groups": [],
+            "score": 21.25,
+            "note": "Kết hợp kết quả thi tốt nghiệp THPT với CCQT để xét tuyển"
+          },
+          {
+            "program_code": "QHT15",
+            "program_name": "Công nghệ kỹ thuật môi trường",
+            "subject_groups": [],
+            "score": 21.55,
+            "note": "Kết hợp kết quả thi tốt nghiệp THPT với CCQT để xét tuyển"
+          },
+          {
+            "program_code": "QHT16",
+            "program_name": "Khí tượng và khí hậu học",
+            "subject_groups": [],
+            "score": 22.8,
+            "note": "Kết hợp kết quả thi tốt nghiệp THPT với CCQT để xét tuyển"
+          },
+          {
+            "program_code": "QHT17",
+            "program_name": "Hải dương học",
+            "subject_groups": [],
+            "score": 21.5,
+            "note": "Kết hợp kết quả thi tốt nghiệp THPT với CCQT để xét tuyển"
+          },
+          {
+            "program_code": "QHT18",
+            "program_name": "Địa chất học",
+            "subject_groups": [],
+            "score": 22.05,
+            "note": "Kết hợp kết quả thi tốt nghiệp THPT với CCQT để xét tuyển"
+          },
+          {
+            "program_code": "QHT20",
+            "program_name": "Quản lý tài nguyên và môi trường",
+            "subject_groups": [],
+            "score": 22.2,
+            "note": "Kết hợp kết quả thi tốt nghiệp THPT với CCQT để xét tuyển"
+          },
+          {
+            "program_code": "QHT43",
+            "program_name": "Hoá dược",
+            "subject_groups": [],
+            "score": 23.7,
+            "note": "Kết hợp kết quả thi tốt nghiệp THPT với CCQT để xét tuyển"
+          },
+          {
+            "program_code": "QHT81",
+            "program_name": "Sinh dược học",
+            "subject_groups": [],
+            "score": 20.1,
+            "note": "Kết hợp kết quả thi tốt nghiệp THPT với CCQT để xét tuyển"
+          },
+          {
+            "program_code": "QHT82",
+            "program_name": "Môi trường, sức khỏe và an toàn",
+            "subject_groups": [],
+            "score": 21.2,
+            "note": "Kết hợp kết quả thi tốt nghiệp THPT với CCQT để xét tuyển"
+          },
+          {
+            "program_code": "QHT91",
+            "program_name": "Khoa học thông tin địa không gian",
+            "subject_groups": [],
+            "score": 23.5,
+            "note": "Kết hợp kết quả thi tốt nghiệp THPT với CCQT để xét tuyển"
+          },
+          {
+            "program_code": "QHT92",
+            "program_name": "Tài nguyên và môi trường nước",
+            "subject_groups": [],
+            "score": 21.1,
+            "note": "Kết hợp kết quả thi tốt nghiệp THPT với CCQT để xét tuyển"
+          },
+          {
+            "program_code": "QHT93",
+            "program_name": "Khoa học dữ liệu",
+            "subject_groups": [],
+            "score": 26,
+            "note": "Kết hợp kết quả thi tốt nghiệp THPT với CCQT để xét tuyển"
+          },
+          {
+            "program_code": "QHT94",
+            "program_name": "Kỹ thuật điện tử và tin học",
+            "subject_groups": [],
+            "score": 24.57,
+            "note": "Kết hợp kết quả thi tốt nghiệp THPT với CCQT để xét tuyển"
+          },
+          {
+            "program_code": "QHT95",
+            "program_name": "Quản lý phát triển đô thị và bất động sản",
+            "subject_groups": [],
+            "score": 22.9,
+            "note": "Kết hợp kết quả thi tốt nghiệp THPT với CCQT để xét tuyển"
+          },
+          {
+            "program_code": "QHT96",
+            "program_name": "Khoa học và công nghệ thực phẩm",
+            "subject_groups": [],
+            "score": 22.8,
+            "note": "Kết hợp kết quả thi tốt nghiệp THPT với CCQT để xét tuyển"
+          },
+          {
+            "program_code": "QHT98",
+            "program_name": "Khoa học máy tính và thông tin",
+            "subject_groups": [],
+            "score": 25.35,
+            "note": "Kết hợp kết quả thi tốt nghiệp THPT với CCQT để xét tuyển"
+          },
+          {
+            "program_code": "QHT99",
+            "program_name": "Công nghệ Bán dẫn",
+            "subject_groups": [],
+            "score": 25.55,
+            "note": "Kết hợp kết quả thi tốt nghiệp THPT với CCQT để xét tuyển"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-chung-chi-quoc-te",
+        "method_name": "Điểm chuẩn theo phương thức Chứng chỉ quốc tế năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "QHT01",
+            "program_name": "Toán học",
+            "subject_groups": [],
+            "score": 25.9,
+            "note": "Sử dụng chứng chỉ quốc tế SAT để xét tuyển"
+          },
+          {
+            "program_code": "QHT02",
+            "program_name": "Toán tin",
+            "subject_groups": [],
+            "score": 25.5,
+            "note": "Sử dụng chứng chỉ quốc tế SAT để xét tuyển"
+          },
+          {
+            "program_code": "QHT03",
+            "program_name": "Vật lý học",
+            "subject_groups": [],
+            "score": 24.65,
+            "note": "Sử dụng chứng chỉ quốc tế SAT để xét tuyển"
+          },
+          {
+            "program_code": "QHT04",
+            "program_name": "Khoa học vật liệu",
+            "subject_groups": [],
+            "score": 24.2,
+            "note": "Sử dụng chứng chỉ quốc tế SAT để xét tuyển"
+          },
+          {
+            "program_code": "QHT05",
+            "program_name": "Công nghệ kỹ thuật hạt nhân",
+            "subject_groups": [],
+            "score": 23.5,
+            "note": "Sử dụng chứng chỉ quốc tế SAT để xét tuyển"
+          },
+          {
+            "program_code": "QHT06",
+            "program_name": "Hoá học",
+            "subject_groups": [],
+            "score": 23.9,
+            "note": "Sử dụng chứng chỉ quốc tế SAT để xét tuyển"
+          },
+          {
+            "program_code": "QHT07",
+            "program_name": "Công nghệ kỹ thuật hoá học",
+            "subject_groups": [],
+            "score": 23.45,
+            "note": "Sử dụng chứng chỉ quốc tế SAT để xét tuyển"
+          },
+          {
+            "program_code": "QHT08",
+            "program_name": "Sinh học",
+            "subject_groups": [],
+            "score": 20.05,
+            "note": "Sử dụng chứng chỉ quốc tế SAT để xét tuyển"
+          },
+          {
+            "program_code": "QHT09",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [],
+            "score": 22.05,
+            "note": "Sử dụng chứng chỉ quốc tế SAT để xét tuyển"
+          },
+          {
+            "program_code": "QHT10",
+            "program_name": "Địa lý tự nhiên",
+            "subject_groups": [],
+            "score": 23.95,
+            "note": "Sử dụng chứng chỉ quốc tế SAT để xét tuyển"
+          },
+          {
+            "program_code": "QHT12",
+            "program_name": "Quản lý đất đai",
+            "subject_groups": [],
+            "score": 22.27,
+            "note": "Sử dụng chứng chỉ quốc tế SAT để xét tuyển"
+          },
+          {
+            "program_code": "QHT13",
+            "program_name": "Khoa học môi trường",
+            "subject_groups": [],
+            "score": 21.25,
+            "note": "Sử dụng chứng chỉ quốc tế SAT để xét tuyển"
+          },
+          {
+            "program_code": "QHT15",
+            "program_name": "Công nghệ kỹ thuật môi trường",
+            "subject_groups": [],
+            "score": 21.55,
+            "note": "Sử dụng chứng chỉ quốc tế SAT để xét tuyển"
+          },
+          {
+            "program_code": "QHT16",
+            "program_name": "Khí tượng và khí hậu học",
+            "subject_groups": [],
+            "score": 22.8,
+            "note": "Sử dụng chứng chỉ quốc tế SAT để xét tuyển"
+          },
+          {
+            "program_code": "QHT17",
+            "program_name": "Hải dương học",
+            "subject_groups": [],
+            "score": 21.5,
+            "note": "Sử dụng chứng chỉ quốc tế SAT để xét tuyển"
+          },
+          {
+            "program_code": "QHT18",
+            "program_name": "Địa chất học",
+            "subject_groups": [],
+            "score": 22.05,
+            "note": "Sử dụng chứng chỉ quốc tế SAT để xét tuyển"
+          },
+          {
+            "program_code": "QHT20",
+            "program_name": "Quản lý tài nguyên và môi trường",
+            "subject_groups": [],
+            "score": 22.2,
+            "note": "Sử dụng chứng chỉ quốc tế SAT để xét tuyển"
+          },
+          {
+            "program_code": "QHT43",
+            "program_name": "Hoá dược",
+            "subject_groups": [],
+            "score": 23.7,
+            "note": "Sử dụng chứng chỉ quốc tế SAT để xét tuyển"
+          },
+          {
+            "program_code": "QHT81",
+            "program_name": "Sinh dược học",
+            "subject_groups": [],
+            "score": 20.1,
+            "note": "Sử dụng chứng chỉ quốc tế SAT để xét tuyển"
+          },
+          {
+            "program_code": "QHT82",
+            "program_name": "Môi trường, sức khỏe và an toàn",
+            "subject_groups": [],
+            "score": 21.2,
+            "note": "Sử dụng chứng chỉ quốc tế SAT để xét tuyển"
+          },
+          {
+            "program_code": "QHT91",
+            "program_name": "Khoa học thông tin địa không gian",
+            "subject_groups": [],
+            "score": 23.5,
+            "note": "Sử dụng chứng chỉ quốc tế SAT để xét tuyển"
+          },
+          {
+            "program_code": "QHT92",
+            "program_name": "Tài nguyên và môi trường nước",
+            "subject_groups": [],
+            "score": 21.1,
+            "note": "Sử dụng chứng chỉ quốc tế SAT để xét tuyển"
+          },
+          {
+            "program_code": "QHT93",
+            "program_name": "Khoa học dữ liệu",
+            "subject_groups": [],
+            "score": 26,
+            "note": "Sử dụng chứng chỉ quốc tế SAT để xét tuyển"
+          },
+          {
+            "program_code": "QHT94",
+            "program_name": "Kỹ thuật điện tử và tin học",
+            "subject_groups": [],
+            "score": 24.57,
+            "note": "Sử dụng chứng chỉ quốc tế SAT để xét tuyển"
+          },
+          {
+            "program_code": "QHT95",
+            "program_name": "Quản lý phát triển đô thị và bất động sản",
+            "subject_groups": [],
+            "score": 22.9,
+            "note": "Sử dụng chứng chỉ quốc tế SAT để xét tuyển"
+          },
+          {
+            "program_code": "QHT96",
+            "program_name": "Khoa học và công nghệ thực phẩm",
+            "subject_groups": [],
+            "score": 22.8,
+            "note": "Sử dụng chứng chỉ quốc tế SAT để xét tuyển"
+          },
+          {
+            "program_code": "QHT98",
+            "program_name": "Khoa học máy tính và thông tin",
+            "subject_groups": [],
+            "score": 25.35,
+            "note": "Sử dụng chứng chỉ quốc tế SAT để xét tuyển"
+          },
+          {
+            "program_code": "QHT99",
+            "program_name": "Công nghệ Bán dẫn",
+            "subject_groups": [],
+            "score": 25.55,
+            "note": "Sử dụng chứng chỉ quốc tế SAT để xét tuyển"
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-rieng",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi riêng năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "QHT01",
+            "program_name": "Toán học",
+            "subject_groups": [],
+            "score": 25.9,
+            "note": "Sử dụng phương thức khác"
+          },
+          {
+            "program_code": "QHT02",
+            "program_name": "Toán tin",
+            "subject_groups": [],
+            "score": 25.5,
+            "note": "Sử dụng phương thức khác"
+          },
+          {
+            "program_code": "QHT03",
+            "program_name": "Vật lý học",
+            "subject_groups": [],
+            "score": 24.65,
+            "note": "Sử dụng phương thức khác"
+          },
+          {
+            "program_code": "QHT04",
+            "program_name": "Khoa học vật liệu",
+            "subject_groups": [],
+            "score": 24.2,
+            "note": "Sử dụng phương thức khác"
+          },
+          {
+            "program_code": "QHT05",
+            "program_name": "Công nghệ kỹ thuật hạt nhân",
+            "subject_groups": [],
+            "score": 23.5,
+            "note": "Sử dụng phương thức khác"
+          },
+          {
+            "program_code": "QHT06",
+            "program_name": "Hoá học",
+            "subject_groups": [],
+            "score": 23.9,
+            "note": "Sử dụng phương thức khác"
+          },
+          {
+            "program_code": "QHT07",
+            "program_name": "Công nghệ kỹ thuật hoá học",
+            "subject_groups": [],
+            "score": 23.45,
+            "note": "Sử dụng phương thức khác"
+          },
+          {
+            "program_code": "QHT08",
+            "program_name": "Sinh học",
+            "subject_groups": [],
+            "score": 20.05,
+            "note": "Sử dụng phương thức khác"
+          },
+          {
+            "program_code": "QHT09",
+            "program_name": "Công nghệ sinh học",
+            "subject_groups": [],
+            "score": 22.05,
+            "note": "Sử dụng phương thức khác"
+          },
+          {
+            "program_code": "QHT10",
+            "program_name": "Địa lý tự nhiên",
+            "subject_groups": [],
+            "score": 23.95,
+            "note": "Sử dụng phương thức khác"
+          },
+          {
+            "program_code": "QHT12",
+            "program_name": "Quản lý đất đai",
+            "subject_groups": [],
+            "score": 22.27,
+            "note": "Sử dụng phương thức khác"
+          },
+          {
+            "program_code": "QHT13",
+            "program_name": "Khoa học môi trường",
+            "subject_groups": [],
+            "score": 21.25,
+            "note": "Sử dụng phương thức khác"
+          },
+          {
+            "program_code": "QHT15",
+            "program_name": "Công nghệ kỹ thuật môi trường",
+            "subject_groups": [],
+            "score": 21.55,
+            "note": "Sử dụng phương thức khác"
+          },
+          {
+            "program_code": "QHT16",
+            "program_name": "Khí tượng và khí hậu học",
+            "subject_groups": [],
+            "score": 22.8,
+            "note": "Sử dụng phương thức khác"
+          },
+          {
+            "program_code": "QHT17",
+            "program_name": "Hải dương học",
+            "subject_groups": [],
+            "score": 21.5,
+            "note": "Sử dụng phương thức khác"
+          },
+          {
+            "program_code": "QHT18",
+            "program_name": "Địa chất học",
+            "subject_groups": [],
+            "score": 22.05,
+            "note": "Sử dụng phương thức khác"
+          },
+          {
+            "program_code": "QHT20",
+            "program_name": "Quản lý tài nguyên và môi trường",
+            "subject_groups": [],
+            "score": 22.2,
+            "note": "Sử dụng phương thức khác"
+          },
+          {
+            "program_code": "QHT43",
+            "program_name": "Hoá dược",
+            "subject_groups": [],
+            "score": 23.7,
+            "note": "Sử dụng phương thức khác"
+          },
+          {
+            "program_code": "QHT81",
+            "program_name": "Sinh dược học",
+            "subject_groups": [],
+            "score": 20.1,
+            "note": "Sử dụng phương thức khác"
+          },
+          {
+            "program_code": "QHT82",
+            "program_name": "Môi trường, sức khỏe và an toàn",
+            "subject_groups": [],
+            "score": 21.2,
+            "note": "Sử dụng phương thức khác"
+          },
+          {
+            "program_code": "QHT91",
+            "program_name": "Khoa học thông tin địa không gian",
+            "subject_groups": [],
+            "score": 23.5,
+            "note": "Sử dụng phương thức khác"
+          },
+          {
+            "program_code": "QHT92",
+            "program_name": "Tài nguyên và môi trường nước",
+            "subject_groups": [],
+            "score": 21.1,
+            "note": "Sử dụng phương thức khác"
+          },
+          {
+            "program_code": "QHT93",
+            "program_name": "Khoa học dữ liệu",
+            "subject_groups": [],
+            "score": 26,
+            "note": "Sử dụng phương thức khác"
+          },
+          {
+            "program_code": "QHT94",
+            "program_name": "Kỹ thuật điện tử và tin học",
+            "subject_groups": [],
+            "score": 24.57,
+            "note": "Sử dụng phương thức khác"
+          },
+          {
+            "program_code": "QHT95",
+            "program_name": "Quản lý phát triển đô thị và bất động sản",
+            "subject_groups": [],
+            "score": 22.9,
+            "note": "Sử dụng phương thức khác"
+          },
+          {
+            "program_code": "QHT96",
+            "program_name": "Khoa học và công nghệ thực phẩm",
+            "subject_groups": [],
+            "score": 22.8,
+            "note": "Sử dụng phương thức khác"
+          },
+          {
+            "program_code": "QHT98",
+            "program_name": "Khoa học máy tính và thông tin",
+            "subject_groups": [],
+            "score": 25.35,
+            "note": "Sử dụng phương thức khác"
+          },
+          {
+            "program_code": "QHT99",
+            "program_name": "Công nghệ Bán dẫn",
+            "subject_groups": [],
+            "score": 25.55,
+            "note": "Sử dụng phương thức khác"
+          }
+        ]
+      }
+    ]
+  }
+}

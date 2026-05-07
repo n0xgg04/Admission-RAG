@@ -1,0 +1,352 @@
+{
+  "university": {
+    "code": "SKD",
+    "name": "Trường Đại Học Sân Khấu Điện Ảnh Hà Nội",
+    "short_name": "SKDA",
+    "location": [
+      "Hà Nội"
+    ],
+    "address": "Khu Văn hóa nghệ thuật, Phường Mai Dịch, Quận Cầu Giấy, Thành phố Hà Nội",
+    "website": "https://skda.edu.vn/",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2025,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-san-khau-dien-anh-ha-noi-SKD.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2025/0725/thong-tin-tuyen-sinh-truong-dai-hoc-san-khau-dien-anh-ha-noi-2025.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC SÂN KHẤU ĐIỆN ẢNH HÀ NỘI 2025 Thông tin tuyển sinh Đại Học Sân Khấu Điện Ảnh Hà Nội (SKDA) năm 2025 Năm 2025, Trường Đại học Sân khấu Điện ảnh Hà Nội tuyển sinh theo phương thức kết hợp kết quả học tập cấp THPT với điểm thi năng khiếu để xét tuyển, tuyển sinh đào tạo 11 ngành cụ thể như sau: Xem thời gian và hồ sơ đăng ký xét tuyển SKDAHCM năm 2025 TẠI ĐÂY Khám phá thêm khoá học Khoa học Truyền hình & Video",
+  "admission_methods": [
+    {
+      "method_id": "1-ket-hop-hoc-ba-voi-thi-nang-khieu",
+      "method_name": "1 KẾT HỢP HỌC BẠ VỚI THI NĂNG KHIẾU",
+      "description": "1.1 QUY CHẾ Điểm xét tuyển là điểm năng khiếu tính hệ số 2 cộng với điểm học bạ THPT môn ngữ văn hoặc toán. Điều kiện tối thiểu ở hai môn này là từ 5 trở lên. Riêng thí sinh dự thi ngành diễn viên kịch, điện ảnh - truyền hình cần có chiều cao tối thiểu 1,55m với nữ và 1,65m với nam, không nói ngọng, nói lắp và không có khuyết tật hình thể. 1.2 THỜI GIAN XÉT TUYỂN Trường nhận hồ sơ dự thi từ ngày 19/5 đến hết ngày 6/6. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM THI RIÊNG STT Mã ngành Tên ngành",
+      "eligibility": null,
+      "rules": "QUY CHẾ Điểm xét tuyển là điểm năng khiếu tính hệ số 2 cộng với điểm học bạ THPT môn ngữ văn hoặc toán. Điều kiện tối thiểu ở hai môn này là từ 5 trở lên. Riêng thí sinh dự thi ngành diễn viên kịch, điện ảnh - truyền hình cần có chiều cao tối thiểu 1,55m với nữ và 1,65m với nam, không nói ngọng, nói lắp và không có khuyết tật hình thể. 1.2 THỜI GIAN XÉT TUYỂN Trường nhận hồ sơ dự thi từ ngày 19/5 đến hết ngày 6/6.",
+      "programs": [
+        {
+          "program_code": "7210234",
+          "program_name": "Diễn viên kịch, điện ảnh – truyền hình",
+          "subject_groups": [
+            "S00"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7210243",
+          "program_name": "Biên đạo múa",
+          "subject_groups": [
+            "S00"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7210244",
+          "program_name": "Huấn luyện múa",
+          "subject_groups": [
+            "S00"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7210234",
+          "program_name": "Diễn viên kịch, điện ảnh – truyền hình",
+          "subject_groups": [
+            "S00"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7210243",
+          "program_name": "Biên đạo múa",
+          "subject_groups": [
+            "S00"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7210244",
+          "program_name": "Huấn luyện múa",
+          "subject_groups": [
+            "S00"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn Trường Đại Học Sân Khấu Điện Ảnh Hà Nội các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": "THỜI GIAN THU HỒ SƠ TUYỂN SINH ĐẠI HỌC CHÍNH QUY NĂM 2025 TỪ 19/5/2025 – 06/6/2025 (NGHỈ THỨ BẢY, CHỦ NHẬT VÀ NGÀY LỄ) SÁNG: 08 giờ 30 – 11 giờ 30 CHIỀU: 14 giờ 00 – 17 giờ 00 ĐỐI VỚI THÍ SINH NỘP HỒ SƠ QUA ĐƯỜNG BƯU ĐIỆN Hồ sơ dự thi gửi về theo địa chỉ: Ban Thư ký tuyển sinh (Phòng 101.A2) Trường Đại học Sân khấu - Điện ảnh Hà Nội, Khu Văn hóa nghệ thuật, phường Mai Dịch, Cầu Giấy, Hà Nội. ĐT: 024.3834.1522. Lệ phí thi: Nộp theo hình thức chuyển khoản tới Số Tài khoản: 106871685015 – tại ngân hàng công thương Việt Nam (Vietinbank) chi nhánh Tây Hà Nội. Chủ tài khoản: Trịnh Thị Huyền Trang – ĐT: 0349.542.168. Zalo: 0349.542.168 Nội dung chuyển khoản cần ghi rõ: Họ tên, ngày sinh, ngành/chuyên ngành dự thi Ví dụ: Nguyen Van Anh – 05072004 – DVKDATH Đối với thí sinh dự thi các ngành/chuyên ngành thi 1 vòng Tổng số tiền nộp gồm: Lệ phí đăng ký dự thi: 300.000đ Lệ phí thi: 700.000đ Hồ sơ dự thi: 40.000đ Tổng cộng: 1.040.000đ Nếu thí sinh đã mua hồ sơ tại trường thì chỉ cần nộp 1.000.000đ Đối với thí sinh dự thi các ngành/chuyên ngành thi 2 vòng Tổng số tiền nộp gồm: Lệ phí đăng ký dự thi: 300.000đ Lệ phí dự thi sơ tuyển: 400.000đ Hồ sơ dự thi: 40.000đ Tổng cộng: 740.000đ Nếu thí sinh đã mua hồ sơ tại trường thì chỉ cần nộp 700.000đ + Lưu ý: Mỗi thí sinh chỉ được chọn dự thi một ngành/chuyên ngành tại trường. Thí sinh không được để tiền lệ phí thi trong túi hồ sơ khi gửi. Sau khi chuyển khoản, thí sinh phải chụp lại giao dịch chuyển khoản thành công hoặc biên lai chuyển tiền tại ngân hàng.",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-san-khau-dien-anh-ha-noi-SKD.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-rieng",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi riêng năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7210226B",
+            "program_name": "Diễn viên chèo",
+            "subject_groups": [
+              "S00"
+            ],
+            "score": 17.2,
+            "note": null
+          },
+          {
+            "program_code": "7210226C",
+            "program_name": "Diễn viên rối",
+            "subject_groups": [
+              "S00"
+            ],
+            "score": 20.7,
+            "note": null
+          },
+          {
+            "program_code": "7210226E",
+            "program_name": "Nhạc công kịch hát dân tộc",
+            "subject_groups": [
+              "S00"
+            ],
+            "score": 17.6,
+            "note": null
+          },
+          {
+            "program_code": "7210227A",
+            "program_name": "Đạo diễn âm thanh, ánh sáng sân khấu",
+            "subject_groups": [
+              "S00"
+            ],
+            "score": 17.8,
+            "note": null
+          },
+          {
+            "program_code": "7210227B",
+            "program_name": "Đạo diễn sự kiện lễ hội",
+            "subject_groups": [
+              "S00"
+            ],
+            "score": 19.8,
+            "note": null
+          },
+          {
+            "program_code": "7210233A",
+            "program_name": "Biên kịch điện ảnh",
+            "subject_groups": [
+              "S00"
+            ],
+            "score": 18.5,
+            "note": null
+          },
+          {
+            "program_code": "7210233B",
+            "program_name": "Biên tập truyền hình",
+            "subject_groups": [
+              "S00"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7210234",
+            "program_name": "Diễn viên kịch, điện ảnh – truyền hình",
+            "subject_groups": [
+              "S00"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7210234A",
+            "program_name": "Diễn viên nhạc kịch",
+            "subject_groups": [
+              "S00"
+            ],
+            "score": 20.1,
+            "note": null
+          },
+          {
+            "program_code": "7210235A",
+            "program_name": "Đạo diễn điện ảnh",
+            "subject_groups": [
+              "S00"
+            ],
+            "score": 18.8,
+            "note": null
+          },
+          {
+            "program_code": "7210235B",
+            "program_name": "Đạo diễn truyền hình",
+            "subject_groups": [
+              "S00"
+            ],
+            "score": 16.7,
+            "note": null
+          },
+          {
+            "program_code": "7210235C",
+            "program_name": "Đạo diễn, sản xuất nội dung số",
+            "subject_groups": [
+              "S00"
+            ],
+            "score": 17.4,
+            "note": null
+          },
+          {
+            "program_code": "7210236A",
+            "program_name": "Quay phim điện ảnh",
+            "subject_groups": [
+              "S00"
+            ],
+            "score": 19.4,
+            "note": null
+          },
+          {
+            "program_code": "7210236B",
+            "program_name": "Quay phim truyền hình",
+            "subject_groups": [
+              "S00"
+            ],
+            "score": 18.3,
+            "note": null
+          },
+          {
+            "program_code": "7210243",
+            "program_name": "Biên đạo múa",
+            "subject_groups": [
+              "S00"
+            ],
+            "score": 18.3,
+            "note": null
+          },
+          {
+            "program_code": "7210243A",
+            "program_name": "Biên đạo múa đại chúng",
+            "subject_groups": [
+              "S00"
+            ],
+            "score": 18.3,
+            "note": null
+          },
+          {
+            "program_code": "7210244",
+            "program_name": "Huấn luyện múa",
+            "subject_groups": [
+              "S00"
+            ],
+            "score": 17.9,
+            "note": null
+          },
+          {
+            "program_code": "7210301A",
+            "program_name": "Nhiếp ảnh nghệ thuật",
+            "subject_groups": [
+              "S00"
+            ],
+            "score": 17.6,
+            "note": null
+          },
+          {
+            "program_code": "7210301B",
+            "program_name": "Nhiếp ảnh báo chí",
+            "subject_groups": [
+              "S00"
+            ],
+            "score": 16.3,
+            "note": null
+          },
+          {
+            "program_code": "7210301C",
+            "program_name": "Nhiếp ảnh truyền thông đa phương tiện",
+            "subject_groups": [
+              "S00"
+            ],
+            "score": 19.1,
+            "note": null
+          },
+          {
+            "program_code": "7210302A",
+            "program_name": "Công nghệ dựng phim",
+            "subject_groups": [
+              "S00"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7210302B",
+            "program_name": "Âm thanh điện ảnh – truyền hình",
+            "subject_groups": [
+              "S00"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7210406A",
+            "program_name": "Thiết kế mỹ thuật sân khấu",
+            "subject_groups": [
+              "S00"
+            ],
+            "score": 18.9,
+            "note": null
+          },
+          {
+            "program_code": "7210406C",
+            "program_name": "Thiết kế mỹ thuật hoạt hình",
+            "subject_groups": [
+              "S00"
+            ],
+            "score": 22.4,
+            "note": null
+          },
+          {
+            "program_code": "7210406D",
+            "program_name": "Thiết kế trang phục nghệ thuật",
+            "subject_groups": [
+              "S00"
+            ],
+            "score": 19.2,
+            "note": null
+          },
+          {
+            "program_code": "7210406E",
+            "program_name": "Thiết kế đồ hoạ kỹ xảo",
+            "subject_groups": [
+              "S00"
+            ],
+            "score": 19.1,
+            "note": null
+          },
+          {
+            "program_code": "7210406F",
+            "program_name": "Nghệ thuật hóa trang",
+            "subject_groups": [
+              "S00"
+            ],
+            "score": 21.8,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

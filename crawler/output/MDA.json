@@ -1,0 +1,6405 @@
+{
+  "university": {
+    "code": "MDA",
+    "name": "Đại học Mỏ - Địa chất",
+    "short_name": "HUMG",
+    "location": [
+      "Hà Nội"
+    ],
+    "address": "Số 18​ Phố Viên - Phường Đức Thắng - Q. Bắ​c Từ Liêm - Hà Nội​",
+    "website": "http://www.humg.edu.vn",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-mo-dia-chat-MDA.html",
+  "pdf_url": "https://images.tuyensinh247.com/user_data/2025/0313/De_an_tuyen_sinh_DH_Mo_-_Dia_chat_2025_(Du_thao).pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC MỎ ĐỊA CHẤT 2026 Thông tin tuyển sinh Đại Học Mỏ Địa Chất (HUMG) năm 2026 Năm 2026, Đại Học Mỏ Địa Chất (HUMG) tuyển sinh qua 5 phương thức xét tuyển như sau Phương thức 1: Dựa vào kết quả thi THPT Tiêu chí tiếng Anh: Thí sinh có chứng chỉ tiếng Anh VSTEP hoặc chứng chỉ tiếng Anh quốc tế (đăng ký xác thực trên hệ thống) có thể quy đổi thành điểm môn tiếng Anh khi xét tuyển theo điểm thi tốt nghiệp THPT. Tiêu chí tiếng Trung Quốc: Thí sinh có chứng chỉ tiếng Trung Quốc HSK (đăng ký xác thực trên hệ thống) có thể quy đổi thành điểm môn Tiếng Trung Quốc khi xét tuyển theo điểm thi tốt nghiệp THPT. Phương thức 2: Dựa vào chứng chỉ quốc tế, hồ sơ năng lực học tập Có điểm trung bình chung học tập từng năm học lớp 10,11,12 đạt 7.0 trở lên và: Được chọn tham dự kỳ thi HSG Quốc gia do Bộ GD&ĐT tổ chức hoặc đoạt giải Nhất, Nhì, Ba hoặc Khuyến khích trong kỳ thi chọn HSG cấp tỉnh/thành phố do Sở GD&ĐT tổ chức (hoặc tương đương do các Đại học quốc gia, Đại học vùng tổ chức) các môn Toán, Lý, Hóa, Sinh, Tin, Ngoại ngữ, Tổ hợp trong thời gian học THPT; Có ít nhất 1 trong các chứng chỉ Quốc tế sau: SAT, ACT...; Được chọn tham dự cuộc thi Đường lên đỉnh Olympia do Đài Truyền hình Việt Nam tổ chức từ vòng thi tháng trở lên. Học sinh hệ chuyên (gồm chuyên Toán, Lý, Hóa, Sinh, Tin học, Ngoại ngữ) của các trường THPT và THPT chuyên trên toàn quốc, các lớp chuyên, hệ chuyên thuộc các Trường đại học, Đại học quốc gia, Đại học vùng. Phương thức 3: Xét tuyển thẳng HSG theo kết quả học THPT, HSG cấp quốc gia, quốc tế Thí sinh tốt nghiệp THPT năm 2026, đạt thành tích cao trong kỳ thi học sinh giỏi (HSG), cuộc thi Khoa học kỹ thuật (KHKT) do Bộ Giáo dục và Đào tạo tổ chức. Phương thức 4: Sử dụng kết quả đánh giá tư duy của ĐH BKHN, ĐHQG. Phương thức 5: Xét tuyển dựa vào kết quả học tập tại THPT Kết quả học tập trong 6 học kỳ (Lớp 10, 11, và lớp 12) từ 18 điểm trở lên, Điểm thi tốt nghiệp THPT môn Toán đạt từ 5 trở lên và Hạnh kiểm đạt lại Khá trở lên Khám phá thêm Hướng dẫn và thông tin du lịch Hướng dẫn Thành phố & Địa phương Điểm đến du lịch",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 QUY CHẾ Tiêu chí tiếng Anh: Thí sinh có chứng chỉ tiếng Anh VSTEP hoặc chứng chỉ tiếng Anh quốc tế (đăng ký xác thực trên hệ thống) có thể quy đổi thành điểm môn tiếng Anh khi xét tuyển theo điểm thi tốt nghiệp THPT. Tiêu chí tiếng Trung Quốc: Thí sinh có chứng chỉ tiếng Trung Quốc HSK (đăng ký xác thực trên hệ thống) có thể quy đổi thành điểm môn Tiếng Trung Quốc khi xét tuyển theo điểm thi tốt nghiệp THPT. Ngưỡng điểm sàn chung: Tổng điểm 03 môn thi tốt nghiệp THPT (kỳ thi trung học nghề đ",
+      "eligibility": "đối tượng trung học nghề) các năm theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán, Ngữ văn và một môn thi khác) đạt tối thiểu 15,00 điểm theo thang điểm 30.",
+      "rules": "QUY CHẾ Tiêu chí tiếng Anh: Thí sinh có chứng chỉ tiếng Anh VSTEP hoặc chứng chỉ tiếng Anh quốc tế (đăng ký xác thực trên hệ thống) có thể quy đổi thành điểm môn tiếng Anh khi xét tuyển theo điểm thi tốt nghiệp THPT. Tiêu chí tiếng Trung Quốc: Thí sinh có chứng chỉ tiếng Trung Quốc HSK (đăng ký xác thực trên hệ thống) có thể quy đổi thành điểm môn Tiếng Trung Quốc khi xét tuyển theo điểm thi tốt nghiệp THPT. Ngưỡng điểm sàn chung: Tổng điểm 03 môn thi tốt nghiệp THPT (kỳ thi trung học nghề đối với",
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "D01",
+            "D09",
+            "D10",
+            "A01",
+            "D07",
+            "B08",
+            "X27",
+            "D84"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7220204",
+          "program_name": "Ngôn ngữ Trung Quốc",
+          "subject_groups": [
+            "D01",
+            "D04",
+            "C01",
+            "C03",
+            "C04",
+            "C14",
+            "B03",
+            "C02"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [
+            "D01",
+            "C01",
+            "C04",
+            "X01",
+            "X02",
+            "C03",
+            "D04",
+            "C02"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "D01",
+            "C01",
+            "C04",
+            "X01",
+            "X02",
+            "C03",
+            "D04",
+            "C02"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7440201",
+          "program_name": "Địa chất học",
+          "subject_groups": [
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X02",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7440229",
+          "program_name": "Quản lý và phân tích dữ liệu khoa học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "A10",
+            "C01",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [
+            "A01",
+            "D01",
+            "B08",
+            "X25",
+            "X26",
+            "D10",
+            "D07",
+            "D09"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A01",
+            "D01",
+            "B08",
+            "X25",
+            "X26",
+            "D10",
+            "D07",
+            "D09"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7480206",
+          "program_name": "Địa tin học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "X06",
+            "C01"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7510301",
+          "program_name": "Công nghệ kỹ thuật điện, điện tử",
+          "subject_groups": [
+            "A00",
+            "C01",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7510401",
+          "program_name": "Công nghệ kỹ thuật hóa học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "A10",
+            "C01",
+            "X06)"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7510402",
+          "program_name": "Công nghệ vật liệu",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "X05",
+            "C01",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7510601",
+          "program_name": "Quản lý công nghiệp",
+          "subject_groups": [
+            "D01",
+            "C01",
+            "C04",
+            "C02",
+            "X01",
+            "C03",
+            "D04",
+            "X02)"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7520103",
+          "program_name": "Kỹ thuật cơ khí",
+          "subject_groups": [
+            "A00",
+            "C01",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7520107",
+          "program_name": "Kỹ thuật Robot",
+          "subject_groups": [
+            "A00",
+            "C01",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7520114",
+          "program_name": "Kỹ thuật cơ điện tử",
+          "subject_groups": [
+            "A00",
+            "C01",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7520116",
+          "program_name": "Kỹ thuật cơ khí động lực",
+          "subject_groups": [
+            "A00",
+            "C01",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7520121",
+          "program_name": "Kỹ thuật không gian",
+          "subject_groups": [
+            "D01",
+            "C04",
+            "C01",
+            "C02",
+            "C03",
+            "B03",
+            "C14"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7520130",
+          "program_name": "Kỹ thuật ô tô",
+          "subject_groups": [
+            "A00",
+            "C01",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "Kỹ thuật điện",
+          "subject_groups": [
+            "A00",
+            "C01",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [
+            "A00",
+            "C01",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7520301",
+          "program_name": "Kỹ thuật hoá học",
+          "subject_groups": [
+            "A00",
+            "C02",
+            "A06",
+            "A05",
+            "D07",
+            "B00",
+            "X10",
+            "A11"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7520309",
+          "program_name": "Kỹ thuật vật liệu",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X06",
+            "X07",
+            "A02",
+            "C01",
+            "A04",
+            "A10"
+          ],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7520320",
+          "program_name": "Kỹ thuật môi trường",
+          "subject_groups": [
+            "C01",
+            "C02",
+            "B03",
+            "C03",
+            "C04",
+            "D01",
+            "X02",
+            "X03"
+          ],
+          "program_type": "chuẩn",
+          "note": "24"
+        },
+        {
+          "program_code": "7520501",
+          "program_name": "Kỹ thuật địa chất",
+          "subject_groups": [
+            "C04",
+            "C01",
+            "D01",
+            "C02",
+            "C03",
+            "X02",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "25"
+        },
+        {
+          "program_code": "7520502",
+          "program_name": "Kỹ thuật địa vật lý",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "A10",
+            "C01",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "26"
+        },
+        {
+          "program_code": "7520503",
+          "program_name": "Kỹ thuật trắc địa - bản đồ",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A04",
+            "A03",
+            "A10",
+            "C01"
+          ],
+          "program_type": "chuẩn",
+          "note": "27"
+        },
+        {
+          "program_code": "7520505",
+          "program_name": "Đá quý Đá mỹ nghệ",
+          "subject_groups": [
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "X01",
+            "D01",
+            "X02",
+            "X03"
+          ],
+          "program_type": "chuẩn",
+          "note": "28"
+        },
+        {
+          "program_code": "7520601",
+          "program_name": "Kỹ thuật mỏ",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "X05",
+            "C01",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "29"
+        },
+        {
+          "program_code": "7520604",
+          "program_name": "Kỹ thuật dầu khí",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "A10",
+            "C01",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "30"
+        },
+        {
+          "program_code": "7520605",
+          "program_name": "Kỹ thuật khí thiên nhiên",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "A10",
+            "C01",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "31"
+        },
+        {
+          "program_code": "7520606",
+          "program_name": "Công nghệ số trong thăm dò và khai thác tài nguyên thiên nhiên",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "A10",
+            "C01",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "32"
+        },
+        {
+          "program_code": "7520607",
+          "program_name": "Kỹ thuật tuyển khoáng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "X05",
+            "C01",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "33"
+        },
+        {
+          "program_code": "7580106",
+          "program_name": "Quản lý đô thị và công trình",
+          "subject_groups": [
+            "C01",
+            "C04",
+            "D01",
+            "C02",
+            "X02",
+            "X01",
+            "C03"
+          ],
+          "program_type": "chuẩn",
+          "note": "34"
+        },
+        {
+          "program_code": "7580109",
+          "program_name": "Quản lý phát triển đô thị và bất động sản",
+          "subject_groups": [
+            "D01",
+            "C04",
+            "C01",
+            "C02",
+            "C03",
+            "B03",
+            "C14"
+          ],
+          "program_type": "chuẩn",
+          "note": "35"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Kỹ thuật xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "X05",
+            "C01",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "36"
+        },
+        {
+          "program_code": "7580204",
+          "program_name": "Xây dựng công trình ngầm thành phố và Hệ thống tàu điện ngầm",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "X05",
+            "C01",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "37"
+        },
+        {
+          "program_code": "7580205",
+          "program_name": "Kỹ thuật xây dựng công trình giao thông",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "X05",
+            "C01",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "38"
+        },
+        {
+          "program_code": "7580211",
+          "program_name": "Địa kỹ thuật xây dựng",
+          "subject_groups": [
+            "C04",
+            "C02",
+            "D01",
+            "C01",
+            "X02",
+            "X01",
+            "C14)"
+          ],
+          "program_type": "chuẩn",
+          "note": "39"
+        },
+        {
+          "program_code": "7580212",
+          "program_name": "Kỹ thuật tài nguyên nước",
+          "subject_groups": [
+            "C04",
+            "C01",
+            "C02",
+            "D01",
+            "C03",
+            "X02)"
+          ],
+          "program_type": "chuẩn",
+          "note": "40"
+        },
+        {
+          "program_code": "7580302",
+          "program_name": "Quản lý xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "X05",
+            "C01",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "41"
+        },
+        {
+          "program_code": "7720203",
+          "program_name": "Hóa dược",
+          "subject_groups": [
+            "A00",
+            "D07",
+            "X10",
+            "X11",
+            "B00",
+            "C02",
+            "A06",
+            "A11"
+          ],
+          "program_type": "chuẩn",
+          "note": "42"
+        },
+        {
+          "program_code": "7810105",
+          "program_name": "Du lịch địa chất",
+          "subject_groups": [
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X02",
+            "X01)"
+          ],
+          "program_type": "chuẩn",
+          "note": "43"
+        },
+        {
+          "program_code": "7850101",
+          "program_name": "Quản lý tài nguyên và môi trường",
+          "subject_groups": [
+            "C01",
+            "C02",
+            "B03",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "44"
+        },
+        {
+          "program_code": "7850103",
+          "program_name": "Quản lý đất đai",
+          "subject_groups": [
+            "D01",
+            "C04",
+            "C01",
+            "X01",
+            "C03",
+            "B03",
+            "C02",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "45"
+        },
+        {
+          "program_code": "7850196",
+          "program_name": "Quản lý tài nguyên khoáng sản",
+          "subject_groups": [
+            "C04",
+            "D01",
+            "C02",
+            "X02",
+            "X01",
+            "C03"
+          ],
+          "program_type": "chuẩn",
+          "note": "46"
+        },
+        {
+          "program_code": "7850202",
+          "program_name": "An toàn, Vệ sinh lao động",
+          "subject_groups": [
+            "(A00",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "X05",
+            "C01",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "47"
+        }
+      ]
+    },
+    {
+      "method_id": "2-chung-chi-quoc-te",
+      "method_name": "2 CHỨNG CHỈ QUỐC TẾ",
+      "description": "2.1 QUY CHẾ Có điểm trung bình chung học tập từng năm học lớp 10,11,12 đạt 7.0 trở lên và: Được chọn tham dự kỳ thi HSG Quốc gia do Bộ GD&ĐT tổ chức hoặc đoạt giải Nhất, Nhì, Ba hoặc Khuyến khích trong kỳ thi chọn HSG cấp tỉnh/thành phố do Sở GD&ĐT tổ chức (hoặc tương đương do các Đại học quốc gia, Đại học vùng tổ chức) các môn Toán, Lý, Hóa, Sinh, Tin, Ngoại ngữ, Tổ hợp trong thời gian học THPT; Có ít nhất 1 trong các chứng chỉ Quốc tế sau: SAT, ACT...; Được chọn tham dự cuộc thi Đường lên đỉnh",
+      "eligibility": null,
+      "rules": "QUY CHẾ Có điểm trung bình chung học tập từng năm học lớp 10,11,12 đạt 7.0 trở lên và: Được chọn tham dự kỳ thi HSG Quốc gia do Bộ GD&ĐT tổ chức hoặc đoạt giải Nhất, Nhì, Ba hoặc Khuyến khích trong kỳ thi chọn HSG cấp tỉnh/thành phố do Sở GD&ĐT tổ chức (hoặc tương đương do các Đại học quốc gia, Đại học vùng tổ chức) các môn Toán, Lý, Hóa, Sinh, Tin, Ngoại ngữ, Tổ hợp trong thời gian học THPT; Có ít nhất 1 trong các chứng chỉ Quốc tế sau: SAT, ACT...; Được chọn tham dự cuộc thi Đường lên đỉnh Olympia do Đài Truyền hình Việt Nam tổ chức từ vòng thi tháng trở lên. Học sinh hệ chuyên (gồm chuyên Toán, Lý, Hóa, Sinh, Tin học, Ngoại ngữ) của các trường THPT và THPT chuyên trên toàn quốc, các lớp chuyên, hệ chuyên thuộc các Trường đại học, Đại học quốc gia, Đại học vùng.",
+      "programs": [
+        {
+          "program_code": "7440229",
+          "program_name": "Quản lý và phân tích dữ liệu khoa học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7510301",
+          "program_name": "Công nghệ kỹ thuật điện, điện tử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7510401",
+          "program_name": "Công nghệ kỹ thuật hóa học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7520103",
+          "program_name": "Kỹ thuật cơ khí",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7520107",
+          "program_name": "Kỹ thuật Robot",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7520114",
+          "program_name": "Kỹ thuật cơ điện tử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7520116",
+          "program_name": "Kỹ thuật cơ khí động lực",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7520130",
+          "program_name": "Kỹ thuật ô tô",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "Kỹ thuật điện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7520301",
+          "program_name": "Kỹ thuật hoá học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7520502",
+          "program_name": "Kỹ thuật địa vật lý",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7520604",
+          "program_name": "Kỹ thuật dầu khí",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7520605",
+          "program_name": "Kỹ thuật khí thiên nhiên",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7520606",
+          "program_name": "Công nghệ số trong thăm dò và khai thác tài nguyên thiên nhiên",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        }
+      ]
+    },
+    {
+      "method_id": "3-utxt-xt-thang",
+      "method_name": "3 ƯTXT, XT THẲNG",
+      "description": "3.1 QUY CHẾ Thí sinh tốt nghiệp THPT năm 2026, đạt thành tích cao trong kỳ thi học sinh giỏi (HSG), cuộc thi Khoa học kỹ thuật (KHKT) do Bộ Giáo dục và Đào tạo tổ chức. Thời gian đạt giải không được quá 03 năm tính tới thời điểm xét tuyển thẳng. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ƯTXT, XT THẲNG STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7220201 Ngôn ngữ Anh 2 7220204 Ngôn ngữ Trung Quốc 3 7340201 Tài chính - Ngân hàng 4 7340301 Kế toán 5 7440201 Địa chất học 6 7440229 Quản lý và phân tích dữ ",
+      "eligibility": null,
+      "rules": "QUY CHẾ Thí sinh tốt nghiệp THPT năm 2026, đạt thành tích cao trong kỳ thi học sinh giỏi (HSG), cuộc thi Khoa học kỹ thuật (KHKT) do Bộ Giáo dục và Đào tạo tổ chức. Thời gian đạt giải không được quá 03 năm tính tới thời điểm xét tuyển thẳng.",
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7220204",
+          "program_name": "Ngôn ngữ Trung Quốc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7440201",
+          "program_name": "Địa chất học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7440229",
+          "program_name": "Quản lý và phân tích dữ liệu khoa học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7480206",
+          "program_name": "Địa tin học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7510301",
+          "program_name": "Công nghệ kỹ thuật điện, điện tử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7510401",
+          "program_name": "Công nghệ kỹ thuật hóa học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7510402",
+          "program_name": "Công nghệ vật liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7510601",
+          "program_name": "Quản lý công nghiệp",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7520103",
+          "program_name": "Kỹ thuật cơ khí",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7520107",
+          "program_name": "Kỹ thuật Robot",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7520114",
+          "program_name": "Kỹ thuật cơ điện tử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7520116",
+          "program_name": "Kỹ thuật cơ khí động lực",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7520121",
+          "program_name": "Kỹ thuật không gian",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7520130",
+          "program_name": "Kỹ thuật ô tô",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "Kỹ thuật điện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7520301",
+          "program_name": "Kỹ thuật hoá học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7520309",
+          "program_name": "Kỹ thuật vật liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7520320",
+          "program_name": "Kỹ thuật môi trường",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "24"
+        },
+        {
+          "program_code": "7520501",
+          "program_name": "Kỹ thuật địa chất",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "25"
+        },
+        {
+          "program_code": "7520502",
+          "program_name": "Kỹ thuật địa vật lý",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "26"
+        },
+        {
+          "program_code": "7520503",
+          "program_name": "Kỹ thuật trắc địa - bản đồ",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "27"
+        },
+        {
+          "program_code": "7520505",
+          "program_name": "Đá quý Đá mỹ nghệ",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "28"
+        },
+        {
+          "program_code": "7520601",
+          "program_name": "Kỹ thuật mỏ",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "29"
+        },
+        {
+          "program_code": "7520604",
+          "program_name": "Kỹ thuật dầu khí",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "30"
+        },
+        {
+          "program_code": "7520605",
+          "program_name": "Kỹ thuật khí thiên nhiên",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "31"
+        },
+        {
+          "program_code": "7520606",
+          "program_name": "Công nghệ số trong thăm dò và khai thác tài nguyên thiên nhiên",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "32"
+        },
+        {
+          "program_code": "7520607",
+          "program_name": "Kỹ thuật tuyển khoáng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "33"
+        },
+        {
+          "program_code": "7580106",
+          "program_name": "Quản lý đô thị và công trình",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "34"
+        },
+        {
+          "program_code": "7580109",
+          "program_name": "Quản lý phát triển đô thị và bất động sản",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "35"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Kỹ thuật xây dựng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "36"
+        },
+        {
+          "program_code": "7580204",
+          "program_name": "Xây dựng công trình ngầm thành phố và Hệ thống tàu điện ngầm",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "37"
+        },
+        {
+          "program_code": "7580205",
+          "program_name": "Kỹ thuật xây dựng công trình giao thông",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "38"
+        },
+        {
+          "program_code": "7580211",
+          "program_name": "Địa kỹ thuật xây dựng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "39"
+        },
+        {
+          "program_code": "7580212",
+          "program_name": "Kỹ thuật tài nguyên nước",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "40"
+        },
+        {
+          "program_code": "7580302",
+          "program_name": "Quản lý xây dựng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "41"
+        },
+        {
+          "program_code": "7720203",
+          "program_name": "Hóa dược",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "42"
+        },
+        {
+          "program_code": "7810105",
+          "program_name": "Du lịch địa chất",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "43"
+        },
+        {
+          "program_code": "7850101",
+          "program_name": "Quản lý tài nguyên và môi trường",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "44"
+        },
+        {
+          "program_code": "7850103",
+          "program_name": "Quản lý đất đai",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "45"
+        },
+        {
+          "program_code": "7850196",
+          "program_name": "Quản lý tài nguyên khoáng sản",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "46"
+        },
+        {
+          "program_code": "7850202",
+          "program_name": "An toàn, Vệ sinh lao động",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "47"
+        }
+      ]
+    },
+    {
+      "method_id": "4-iem-anh-gia-tu-duy",
+      "method_name": "4 ĐIỂM ĐÁNH GIÁ TƯ DUY",
+      "description": "4.1 QUY CHẾ Sử dụng kết quả đánh giá tư duy của ĐH BKHN DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐÁNH GIÁ TƯ DUY STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7220201 Ngôn ngữ Anh K00 2 7220204 Ngôn ngữ Trung Quốc K00 3 7340201 Tài chính - Ngân hàng K00 4 7340301 Kế toán K00 5 7440201 Địa chất học K00 6 7440229 Quản lý và phân tích dữ liệu khoa học K00 7 7460108 Khoa học dữ liệu K00 8 7480201 Công nghệ thông tin K00 9 7480206 Địa tin học K00 10 7510301 Công nghệ kỹ thuật điện, điện tử K00 11 7510",
+      "eligibility": null,
+      "rules": "QUY CHẾ Sử dụng kết quả đánh giá tư duy của ĐH BKHN",
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7220204",
+          "program_name": "Ngôn ngữ Trung Quốc",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7440201",
+          "program_name": "Địa chất học",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7440229",
+          "program_name": "Quản lý và phân tích dữ liệu khoa học",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7480206",
+          "program_name": "Địa tin học",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7510301",
+          "program_name": "Công nghệ kỹ thuật điện, điện tử",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7510401",
+          "program_name": "Công nghệ kỹ thuật hóa học",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7510402",
+          "program_name": "Công nghệ vật liệu",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7510601",
+          "program_name": "Quản lý công nghiệp",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7520103",
+          "program_name": "Kỹ thuật cơ khí",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7520107",
+          "program_name": "Kỹ thuật Robot",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7520114",
+          "program_name": "Kỹ thuật cơ điện tử",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7520116",
+          "program_name": "Kỹ thuật cơ khí động lực",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7520121",
+          "program_name": "Kỹ thuật không gian",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7520130",
+          "program_name": "Kỹ thuật ô tô",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "Kỹ thuật điện",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7520301",
+          "program_name": "Kỹ thuật hoá học",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7520309",
+          "program_name": "Kỹ thuật vật liệu",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7520320",
+          "program_name": "Kỹ thuật môi trường",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "24"
+        },
+        {
+          "program_code": "7520501",
+          "program_name": "Kỹ thuật địa chất",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "25"
+        },
+        {
+          "program_code": "7520502",
+          "program_name": "Kỹ thuật địa vật lý",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "26"
+        },
+        {
+          "program_code": "7520503",
+          "program_name": "Kỹ thuật trắc địa - bản đồ",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "27"
+        },
+        {
+          "program_code": "7520505",
+          "program_name": "Đá quý Đá mỹ nghệ",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "28"
+        },
+        {
+          "program_code": "7520601",
+          "program_name": "Kỹ thuật mỏ",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "29"
+        },
+        {
+          "program_code": "7520604",
+          "program_name": "Kỹ thuật dầu khí",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "30"
+        },
+        {
+          "program_code": "7520605",
+          "program_name": "Kỹ thuật khí thiên nhiên",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "31"
+        },
+        {
+          "program_code": "7520606",
+          "program_name": "Công nghệ số trong thăm dò và khai thác tài nguyên thiên nhiên",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "32"
+        },
+        {
+          "program_code": "7520607",
+          "program_name": "Kỹ thuật tuyển khoáng",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "33"
+        },
+        {
+          "program_code": "7580106",
+          "program_name": "Quản lý đô thị và công trình",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "34"
+        },
+        {
+          "program_code": "7580109",
+          "program_name": "Quản lý phát triển đô thị và bất động sản",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "35"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Kỹ thuật xây dựng",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "36"
+        },
+        {
+          "program_code": "7580204",
+          "program_name": "Xây dựng công trình ngầm thành phố và Hệ thống tàu điện ngầm",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "37"
+        },
+        {
+          "program_code": "7580205",
+          "program_name": "Kỹ thuật xây dựng công trình giao thông",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "38"
+        },
+        {
+          "program_code": "7580211",
+          "program_name": "Địa kỹ thuật xây dựng",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "39"
+        },
+        {
+          "program_code": "7580212",
+          "program_name": "Kỹ thuật tài nguyên nước",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "40"
+        },
+        {
+          "program_code": "7580302",
+          "program_name": "Quản lý xây dựng",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "41"
+        },
+        {
+          "program_code": "7720203",
+          "program_name": "Hóa dược",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "42"
+        },
+        {
+          "program_code": "7810105",
+          "program_name": "Du lịch địa chất",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "43"
+        },
+        {
+          "program_code": "7850101",
+          "program_name": "Quản lý tài nguyên và môi trường",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "44"
+        },
+        {
+          "program_code": "7850103",
+          "program_name": "Quản lý đất đai",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "45"
+        },
+        {
+          "program_code": "7850196",
+          "program_name": "Quản lý tài nguyên khoáng sản",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "46"
+        },
+        {
+          "program_code": "7850202",
+          "program_name": "An toàn, Vệ sinh lao động",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "47"
+        }
+      ]
+    },
+    {
+      "method_id": "5-iem-gnl-hn",
+      "method_name": "5 ĐIỂM ĐGNL HN",
+      "description": "5.1 QUY CHẾ Sử dụng kết quả đánh giá tư duy của ĐHQG. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐGNL HN STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7220201 Ngôn ngữ Anh Q00 2 7220204 Ngôn ngữ Trung Quốc Q00 3 7340201 Tài chính - Ngân hàng Q00 4 7340301 Kế toán Q00 5 7440201 Địa chất học Q00 6 7440229 Quản lý và phân tích dữ liệu khoa học Q00 7 7460108 Khoa học dữ liệu Q00 8 7480201 Công nghệ thông tin Q00 9 7480206 Địa tin học Q00 10 7510301 Công nghệ kỹ thuật điện, điện tử Q00 11 7510401 Công n",
+      "eligibility": null,
+      "rules": "QUY CHẾ Sử dụng kết quả đánh giá tư duy của ĐHQG.",
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7220204",
+          "program_name": "Ngôn ngữ Trung Quốc",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7440201",
+          "program_name": "Địa chất học",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7440229",
+          "program_name": "Quản lý và phân tích dữ liệu khoa học",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7480206",
+          "program_name": "Địa tin học",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7510301",
+          "program_name": "Công nghệ kỹ thuật điện, điện tử",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7510401",
+          "program_name": "Công nghệ kỹ thuật hóa học",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7510402",
+          "program_name": "Công nghệ vật liệu",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7510601",
+          "program_name": "Quản lý công nghiệp",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7520103",
+          "program_name": "Kỹ thuật cơ khí",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7520107",
+          "program_name": "Kỹ thuật Robot",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7520114",
+          "program_name": "Kỹ thuật cơ điện tử",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7520116",
+          "program_name": "Kỹ thuật cơ khí động lực",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7520121",
+          "program_name": "Kỹ thuật không gian",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7520130",
+          "program_name": "Kỹ thuật ô tô",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "Kỹ thuật điện",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7520301",
+          "program_name": "Kỹ thuật hoá học",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7520309",
+          "program_name": "Kỹ thuật vật liệu",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7520320",
+          "program_name": "Kỹ thuật môi trường",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "24"
+        },
+        {
+          "program_code": "7520501",
+          "program_name": "Kỹ thuật địa chất",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "25"
+        },
+        {
+          "program_code": "7520502",
+          "program_name": "Kỹ thuật địa vật lý",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "26"
+        },
+        {
+          "program_code": "7520503",
+          "program_name": "Kỹ thuật trắc địa - bản đồ",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "27"
+        },
+        {
+          "program_code": "7520505",
+          "program_name": "Đá quý Đá mỹ nghệ",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "28"
+        },
+        {
+          "program_code": "7520601",
+          "program_name": "Kỹ thuật mỏ",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "29"
+        },
+        {
+          "program_code": "7520604",
+          "program_name": "Kỹ thuật dầu khí",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "30"
+        },
+        {
+          "program_code": "7520605",
+          "program_name": "Kỹ thuật khí thiên nhiên",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "31"
+        },
+        {
+          "program_code": "7520606",
+          "program_name": "Công nghệ số trong thăm dò và khai thác tài nguyên thiên nhiên",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "32"
+        },
+        {
+          "program_code": "7520607",
+          "program_name": "Kỹ thuật tuyển khoáng",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "33"
+        },
+        {
+          "program_code": "7580106",
+          "program_name": "Quản lý đô thị và công trình",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "34"
+        },
+        {
+          "program_code": "7580109",
+          "program_name": "Quản lý phát triển đô thị và bất động sản",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "35"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Kỹ thuật xây dựng",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "36"
+        },
+        {
+          "program_code": "7580204",
+          "program_name": "Xây dựng công trình ngầm thành phố và Hệ thống tàu điện ngầm",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "37"
+        },
+        {
+          "program_code": "7580205",
+          "program_name": "Kỹ thuật xây dựng công trình giao thông",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "38"
+        },
+        {
+          "program_code": "7580211",
+          "program_name": "Địa kỹ thuật xây dựng",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "39"
+        },
+        {
+          "program_code": "7580212",
+          "program_name": "Kỹ thuật tài nguyên nước",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "40"
+        },
+        {
+          "program_code": "7580302",
+          "program_name": "Quản lý xây dựng",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "41"
+        },
+        {
+          "program_code": "7720203",
+          "program_name": "Hóa dược",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "42"
+        },
+        {
+          "program_code": "7810105",
+          "program_name": "Du lịch địa chất",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "43"
+        },
+        {
+          "program_code": "7850101",
+          "program_name": "Quản lý tài nguyên và môi trường",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "44"
+        },
+        {
+          "program_code": "7850103",
+          "program_name": "Quản lý đất đai",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "45"
+        },
+        {
+          "program_code": "7850196",
+          "program_name": "Quản lý tài nguyên khoáng sản",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "46"
+        },
+        {
+          "program_code": "7850202",
+          "program_name": "An toàn, Vệ sinh lao động",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "47"
+        }
+      ]
+    },
+    {
+      "method_id": "6-iem-hoc-ba",
+      "method_name": "6 ĐIỂM HỌC BẠ",
+      "description": "6.1 QUY CHẾ Điểm trung bình chung kết quả học tập cả năm các lớp 10, 11, 12 của tối thiểu 03 môn học theo thang điểm 30 từ 18 điểm trở lên và Hạnh kiểm đạt lại Khá trở lên. Tổng điểm 03 môn thi tốt nghiệp THPT (kỳ thi trung học nghề đối với đối tượng trung học nghề) các năm theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán, Ngữ văn và một môn thi khác) đạt tối thiểu 15,00 điểm theo thang điểm 30 DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM HỌC BẠ STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7220",
+      "eligibility": "đối tượng trung học nghề) các năm theo tổ hợp xét tuyển (hoặc sử dụng điểm thi môn Toán, Ngữ văn và một môn thi khác) đạt tối thiểu 15,00 điểm theo thang điểm 30",
+      "rules": "QUY CHẾ Điểm trung bình chung kết quả học tập cả năm các lớp 10, 11, 12 của tối thiểu 03 môn học theo thang điểm 30 từ 18 điểm trở lên và Hạnh kiểm đạt lại Khá trở lên. Tổng điểm 03 môn thi tốt nghiệp THPT (kỳ thi trung học nghề đối với",
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7220204",
+          "program_name": "Ngôn ngữ Trung Quốc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7440201",
+          "program_name": "Địa chất học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7440229",
+          "program_name": "Quản lý và phân tích dữ liệu khoa học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7480206",
+          "program_name": "Địa tin học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7510401",
+          "program_name": "Công nghệ kỹ thuật hóa học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7510402",
+          "program_name": "Công nghệ vật liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7510601",
+          "program_name": "Quản lý công nghiệp",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7520103",
+          "program_name": "Kỹ thuật cơ khí",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7520116",
+          "program_name": "Kỹ thuật cơ khí động lực",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7520121",
+          "program_name": "Kỹ thuật không gian",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "Kỹ thuật điện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7520301",
+          "program_name": "Kỹ thuật hoá học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7520309",
+          "program_name": "Kỹ thuật vật liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7520320",
+          "program_name": "Kỹ thuật môi trường",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7520501",
+          "program_name": "Kỹ thuật địa chất",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7520502",
+          "program_name": "Kỹ thuật địa vật lý",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7520503",
+          "program_name": "Kỹ thuật trắc địa - bản đồ",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7520505",
+          "program_name": "Đá quý Đá mỹ nghệ",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7520601",
+          "program_name": "Kỹ thuật mỏ",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "24"
+        },
+        {
+          "program_code": "7520604",
+          "program_name": "Kỹ thuật dầu khí",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "25"
+        },
+        {
+          "program_code": "7520605",
+          "program_name": "Kỹ thuật khí thiên nhiên",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "26"
+        },
+        {
+          "program_code": "7520606",
+          "program_name": "Công nghệ số trong thăm dò và khai thác tài nguyên thiên nhiên",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "27"
+        },
+        {
+          "program_code": "7520607",
+          "program_name": "Kỹ thuật tuyển khoáng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "28"
+        },
+        {
+          "program_code": "7580106",
+          "program_name": "Quản lý đô thị và công trình",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "29"
+        },
+        {
+          "program_code": "7580109",
+          "program_name": "Quản lý phát triển đô thị và bất động sản",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "30"
+        },
+        {
+          "program_code": "7580204",
+          "program_name": "Xây dựng công trình ngầm thành phố và Hệ thống tàu điện ngầm",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "31"
+        },
+        {
+          "program_code": "7580211",
+          "program_name": "Địa kỹ thuật xây dựng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "32"
+        },
+        {
+          "program_code": "7580212",
+          "program_name": "Kỹ thuật tài nguyên nước",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "33"
+        },
+        {
+          "program_code": "7720203",
+          "program_name": "Hóa dược",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "34"
+        },
+        {
+          "program_code": "7810105",
+          "program_name": "Du lịch địa chất",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "35"
+        },
+        {
+          "program_code": "7850101",
+          "program_name": "Quản lý tài nguyên và môi trường",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "36"
+        },
+        {
+          "program_code": "7850103",
+          "program_name": "Quản lý đất đai",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "37"
+        },
+        {
+          "program_code": "7850196",
+          "program_name": "Quản lý tài nguyên khoáng sản",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "38"
+        },
+        {
+          "program_code": "7850202",
+          "program_name": "An toàn, Vệ sinh lao động",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "39"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "D01",
+            "D09",
+            "D10",
+            "A01",
+            "D07",
+            "B08",
+            "X27",
+            "D84"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7220201",
+          "program_name": "Ngôn ngữ Anh",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7220204",
+          "program_name": "Ngôn ngữ Trung Quốc",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7220204",
+          "program_name": "Ngôn ngữ Trung Quốc",
+          "subject_groups": [
+            "D01",
+            "D04",
+            "C01",
+            "C03",
+            "C04",
+            "C14",
+            "B03",
+            "C02"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7220204",
+          "program_name": "Ngôn ngữ Trung Quốc",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7220204",
+          "program_name": "Ngôn ngữ Trung Quốc",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [
+            "D01",
+            "C01",
+            "C04",
+            "X01",
+            "X02",
+            "C03",
+            "D04",
+            "C02"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340201",
+          "program_name": "Tài chính - Ngân hàng",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "3"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "D01",
+            "C01",
+            "C04",
+            "X01",
+            "X02",
+            "C03",
+            "D04",
+            "C02"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7340301",
+          "program_name": "Kế toán",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "4"
+        },
+        {
+          "program_code": "7440201",
+          "program_name": "Địa chất học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7440201",
+          "program_name": "Địa chất học",
+          "subject_groups": [
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X02",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7440201",
+          "program_name": "Địa chất học",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7440201",
+          "program_name": "Địa chất học",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "5"
+        },
+        {
+          "program_code": "7440229",
+          "program_name": "Quản lý và phân tích dữ liệu khoa học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7440229",
+          "program_name": "Quản lý và phân tích dữ liệu khoa học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "A10",
+            "C01",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7440229",
+          "program_name": "Quản lý và phân tích dữ liệu khoa học",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7440229",
+          "program_name": "Quản lý và phân tích dữ liệu khoa học",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "6"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [
+            "A01",
+            "D01",
+            "B08",
+            "X25",
+            "X26",
+            "D10",
+            "D07",
+            "D09"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7460108",
+          "program_name": "Khoa học dữ liệu",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "7"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "A01",
+            "D01",
+            "B08",
+            "X25",
+            "X26",
+            "D10",
+            "D07",
+            "D09"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7480201",
+          "program_name": "Công nghệ thông tin",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "8"
+        },
+        {
+          "program_code": "7480206",
+          "program_name": "Địa tin học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7480206",
+          "program_name": "Địa tin học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "X06",
+            "C01"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7480206",
+          "program_name": "Địa tin học",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7480206",
+          "program_name": "Địa tin học",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "9"
+        },
+        {
+          "program_code": "7510301",
+          "program_name": "Công nghệ kỹ thuật điện, điện tử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7510301",
+          "program_name": "Công nghệ kỹ thuật điện, điện tử",
+          "subject_groups": [
+            "A00",
+            "C01",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7510301",
+          "program_name": "Công nghệ kỹ thuật điện, điện tử",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7510301",
+          "program_name": "Công nghệ kỹ thuật điện, điện tử",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7510401",
+          "program_name": "Công nghệ kỹ thuật hóa học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7510401",
+          "program_name": "Công nghệ kỹ thuật hóa học",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "A10",
+            "C01",
+            "X06)"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7510401",
+          "program_name": "Công nghệ kỹ thuật hóa học",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7510401",
+          "program_name": "Công nghệ kỹ thuật hóa học",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7510402",
+          "program_name": "Công nghệ vật liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7510402",
+          "program_name": "Công nghệ vật liệu",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "X05",
+            "C01",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7510402",
+          "program_name": "Công nghệ vật liệu",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7510402",
+          "program_name": "Công nghệ vật liệu",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7510601",
+          "program_name": "Quản lý công nghiệp",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7510601",
+          "program_name": "Quản lý công nghiệp",
+          "subject_groups": [
+            "D01",
+            "C01",
+            "C04",
+            "C02",
+            "X01",
+            "C03",
+            "D04",
+            "X02)"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7510601",
+          "program_name": "Quản lý công nghiệp",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7510601",
+          "program_name": "Quản lý công nghiệp",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "13"
+        },
+        {
+          "program_code": "7520103",
+          "program_name": "Kỹ thuật cơ khí",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7520103",
+          "program_name": "Kỹ thuật cơ khí",
+          "subject_groups": [
+            "A00",
+            "C01",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7520103",
+          "program_name": "Kỹ thuật cơ khí",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7520103",
+          "program_name": "Kỹ thuật cơ khí",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "14"
+        },
+        {
+          "program_code": "7520107",
+          "program_name": "Kỹ thuật Robot",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7520107",
+          "program_name": "Kỹ thuật Robot",
+          "subject_groups": [
+            "A00",
+            "C01",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7520107",
+          "program_name": "Kỹ thuật Robot",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7520107",
+          "program_name": "Kỹ thuật Robot",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "15"
+        },
+        {
+          "program_code": "7520114",
+          "program_name": "Kỹ thuật cơ điện tử",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7520114",
+          "program_name": "Kỹ thuật cơ điện tử",
+          "subject_groups": [
+            "A00",
+            "C01",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7520114",
+          "program_name": "Kỹ thuật cơ điện tử",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7520114",
+          "program_name": "Kỹ thuật cơ điện tử",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "16"
+        },
+        {
+          "program_code": "7520116",
+          "program_name": "Kỹ thuật cơ khí động lực",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7520116",
+          "program_name": "Kỹ thuật cơ khí động lực",
+          "subject_groups": [
+            "A00",
+            "C01",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7520116",
+          "program_name": "Kỹ thuật cơ khí động lực",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7520116",
+          "program_name": "Kỹ thuật cơ khí động lực",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "17"
+        },
+        {
+          "program_code": "7520121",
+          "program_name": "Kỹ thuật không gian",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7520121",
+          "program_name": "Kỹ thuật không gian",
+          "subject_groups": [
+            "D01",
+            "C04",
+            "C01",
+            "C02",
+            "C03",
+            "B03",
+            "C14"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7520121",
+          "program_name": "Kỹ thuật không gian",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7520121",
+          "program_name": "Kỹ thuật không gian",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "18"
+        },
+        {
+          "program_code": "7520130",
+          "program_name": "Kỹ thuật ô tô",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7520130",
+          "program_name": "Kỹ thuật ô tô",
+          "subject_groups": [
+            "A00",
+            "C01",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7520130",
+          "program_name": "Kỹ thuật ô tô",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7520130",
+          "program_name": "Kỹ thuật ô tô",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "19"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "Kỹ thuật điện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "Kỹ thuật điện",
+          "subject_groups": [
+            "A00",
+            "C01",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "Kỹ thuật điện",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7520201",
+          "program_name": "Kỹ thuật điện",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "20"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [
+            "A00",
+            "C01",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7520216",
+          "program_name": "Kỹ thuật điều khiển và tự động hóa",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "21"
+        },
+        {
+          "program_code": "7520301",
+          "program_name": "Kỹ thuật hoá học",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7520301",
+          "program_name": "Kỹ thuật hoá học",
+          "subject_groups": [
+            "A00",
+            "C02",
+            "A06",
+            "A05",
+            "D07",
+            "B00",
+            "X10",
+            "A11"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7520301",
+          "program_name": "Kỹ thuật hoá học",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7520301",
+          "program_name": "Kỹ thuật hoá học",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "22"
+        },
+        {
+          "program_code": "7520309",
+          "program_name": "Kỹ thuật vật liệu",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7520309",
+          "program_name": "Kỹ thuật vật liệu",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "X06",
+            "X07",
+            "A02",
+            "C01",
+            "A04",
+            "A10"
+          ],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7520309",
+          "program_name": "Kỹ thuật vật liệu",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7520309",
+          "program_name": "Kỹ thuật vật liệu",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "23"
+        },
+        {
+          "program_code": "7520320",
+          "program_name": "Kỹ thuật môi trường",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "24"
+        },
+        {
+          "program_code": "7520320",
+          "program_name": "Kỹ thuật môi trường",
+          "subject_groups": [
+            "C01",
+            "C02",
+            "B03",
+            "C03",
+            "C04",
+            "D01",
+            "X02",
+            "X03"
+          ],
+          "program_type": "chuẩn",
+          "note": "24"
+        },
+        {
+          "program_code": "7520320",
+          "program_name": "Kỹ thuật môi trường",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "24"
+        },
+        {
+          "program_code": "7520320",
+          "program_name": "Kỹ thuật môi trường",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "24"
+        },
+        {
+          "program_code": "7520501",
+          "program_name": "Kỹ thuật địa chất",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "25"
+        },
+        {
+          "program_code": "7520501",
+          "program_name": "Kỹ thuật địa chất",
+          "subject_groups": [
+            "C04",
+            "C01",
+            "D01",
+            "C02",
+            "C03",
+            "X02",
+            "X01"
+          ],
+          "program_type": "chuẩn",
+          "note": "25"
+        },
+        {
+          "program_code": "7520501",
+          "program_name": "Kỹ thuật địa chất",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "25"
+        },
+        {
+          "program_code": "7520501",
+          "program_name": "Kỹ thuật địa chất",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "25"
+        },
+        {
+          "program_code": "7520502",
+          "program_name": "Kỹ thuật địa vật lý",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "26"
+        },
+        {
+          "program_code": "7520502",
+          "program_name": "Kỹ thuật địa vật lý",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "A10",
+            "C01",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "26"
+        },
+        {
+          "program_code": "7520502",
+          "program_name": "Kỹ thuật địa vật lý",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "26"
+        },
+        {
+          "program_code": "7520502",
+          "program_name": "Kỹ thuật địa vật lý",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "26"
+        },
+        {
+          "program_code": "7520503",
+          "program_name": "Kỹ thuật trắc địa - bản đồ",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "27"
+        },
+        {
+          "program_code": "7520503",
+          "program_name": "Kỹ thuật trắc địa - bản đồ",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A04",
+            "A03",
+            "A10",
+            "C01"
+          ],
+          "program_type": "chuẩn",
+          "note": "27"
+        },
+        {
+          "program_code": "7520503",
+          "program_name": "Kỹ thuật trắc địa - bản đồ",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "27"
+        },
+        {
+          "program_code": "7520503",
+          "program_name": "Kỹ thuật trắc địa - bản đồ",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "27"
+        },
+        {
+          "program_code": "7520505",
+          "program_name": "Đá quý Đá mỹ nghệ",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "28"
+        },
+        {
+          "program_code": "7520505",
+          "program_name": "Đá quý Đá mỹ nghệ",
+          "subject_groups": [
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "X01",
+            "D01",
+            "X02",
+            "X03"
+          ],
+          "program_type": "chuẩn",
+          "note": "28"
+        },
+        {
+          "program_code": "7520505",
+          "program_name": "Đá quý Đá mỹ nghệ",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "28"
+        },
+        {
+          "program_code": "7520505",
+          "program_name": "Đá quý Đá mỹ nghệ",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "28"
+        },
+        {
+          "program_code": "7520601",
+          "program_name": "Kỹ thuật mỏ",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "29"
+        },
+        {
+          "program_code": "7520601",
+          "program_name": "Kỹ thuật mỏ",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "X05",
+            "C01",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "29"
+        },
+        {
+          "program_code": "7520601",
+          "program_name": "Kỹ thuật mỏ",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "29"
+        },
+        {
+          "program_code": "7520601",
+          "program_name": "Kỹ thuật mỏ",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "29"
+        },
+        {
+          "program_code": "7520604",
+          "program_name": "Kỹ thuật dầu khí",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "30"
+        },
+        {
+          "program_code": "7520604",
+          "program_name": "Kỹ thuật dầu khí",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "A10",
+            "C01",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "30"
+        },
+        {
+          "program_code": "7520604",
+          "program_name": "Kỹ thuật dầu khí",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "30"
+        },
+        {
+          "program_code": "7520604",
+          "program_name": "Kỹ thuật dầu khí",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "30"
+        },
+        {
+          "program_code": "7520605",
+          "program_name": "Kỹ thuật khí thiên nhiên",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "31"
+        },
+        {
+          "program_code": "7520605",
+          "program_name": "Kỹ thuật khí thiên nhiên",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "A10",
+            "C01",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "31"
+        },
+        {
+          "program_code": "7520605",
+          "program_name": "Kỹ thuật khí thiên nhiên",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "31"
+        },
+        {
+          "program_code": "7520605",
+          "program_name": "Kỹ thuật khí thiên nhiên",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "31"
+        },
+        {
+          "program_code": "7520606",
+          "program_name": "Công nghệ số trong thăm dò và khai thác tài nguyên thiên nhiên",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "32"
+        },
+        {
+          "program_code": "7520606",
+          "program_name": "Công nghệ số trong thăm dò và khai thác tài nguyên thiên nhiên",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "A10",
+            "C01",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "32"
+        },
+        {
+          "program_code": "7520606",
+          "program_name": "Công nghệ số trong thăm dò và khai thác tài nguyên thiên nhiên",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "32"
+        },
+        {
+          "program_code": "7520606",
+          "program_name": "Công nghệ số trong thăm dò và khai thác tài nguyên thiên nhiên",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "32"
+        },
+        {
+          "program_code": "7520607",
+          "program_name": "Kỹ thuật tuyển khoáng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "33"
+        },
+        {
+          "program_code": "7520607",
+          "program_name": "Kỹ thuật tuyển khoáng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "X05",
+            "C01",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "33"
+        },
+        {
+          "program_code": "7520607",
+          "program_name": "Kỹ thuật tuyển khoáng",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "33"
+        },
+        {
+          "program_code": "7520607",
+          "program_name": "Kỹ thuật tuyển khoáng",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "33"
+        },
+        {
+          "program_code": "7580106",
+          "program_name": "Quản lý đô thị và công trình",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "34"
+        },
+        {
+          "program_code": "7580106",
+          "program_name": "Quản lý đô thị và công trình",
+          "subject_groups": [
+            "C01",
+            "C04",
+            "D01",
+            "C02",
+            "X02",
+            "X01",
+            "C03"
+          ],
+          "program_type": "chuẩn",
+          "note": "34"
+        },
+        {
+          "program_code": "7580106",
+          "program_name": "Quản lý đô thị và công trình",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "34"
+        },
+        {
+          "program_code": "7580106",
+          "program_name": "Quản lý đô thị và công trình",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "34"
+        },
+        {
+          "program_code": "7580109",
+          "program_name": "Quản lý phát triển đô thị và bất động sản",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "35"
+        },
+        {
+          "program_code": "7580109",
+          "program_name": "Quản lý phát triển đô thị và bất động sản",
+          "subject_groups": [
+            "D01",
+            "C04",
+            "C01",
+            "C02",
+            "C03",
+            "B03",
+            "C14"
+          ],
+          "program_type": "chuẩn",
+          "note": "35"
+        },
+        {
+          "program_code": "7580109",
+          "program_name": "Quản lý phát triển đô thị và bất động sản",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "35"
+        },
+        {
+          "program_code": "7580109",
+          "program_name": "Quản lý phát triển đô thị và bất động sản",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "35"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Kỹ thuật xây dựng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "36"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Kỹ thuật xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "X05",
+            "C01",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "36"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Kỹ thuật xây dựng",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "36"
+        },
+        {
+          "program_code": "7580201",
+          "program_name": "Kỹ thuật xây dựng",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "36"
+        },
+        {
+          "program_code": "7580204",
+          "program_name": "Xây dựng công trình ngầm thành phố và Hệ thống tàu điện ngầm",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "37"
+        },
+        {
+          "program_code": "7580204",
+          "program_name": "Xây dựng công trình ngầm thành phố và Hệ thống tàu điện ngầm",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "X05",
+            "C01",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "37"
+        },
+        {
+          "program_code": "7580204",
+          "program_name": "Xây dựng công trình ngầm thành phố và Hệ thống tàu điện ngầm",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "37"
+        },
+        {
+          "program_code": "7580204",
+          "program_name": "Xây dựng công trình ngầm thành phố và Hệ thống tàu điện ngầm",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "37"
+        },
+        {
+          "program_code": "7580205",
+          "program_name": "Kỹ thuật xây dựng công trình giao thông",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "38"
+        },
+        {
+          "program_code": "7580205",
+          "program_name": "Kỹ thuật xây dựng công trình giao thông",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "X05",
+            "C01",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "38"
+        },
+        {
+          "program_code": "7580205",
+          "program_name": "Kỹ thuật xây dựng công trình giao thông",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "38"
+        },
+        {
+          "program_code": "7580205",
+          "program_name": "Kỹ thuật xây dựng công trình giao thông",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "38"
+        },
+        {
+          "program_code": "7580211",
+          "program_name": "Địa kỹ thuật xây dựng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "39"
+        },
+        {
+          "program_code": "7580211",
+          "program_name": "Địa kỹ thuật xây dựng",
+          "subject_groups": [
+            "C04",
+            "C02",
+            "D01",
+            "C01",
+            "X02",
+            "X01",
+            "C14)"
+          ],
+          "program_type": "chuẩn",
+          "note": "39"
+        },
+        {
+          "program_code": "7580211",
+          "program_name": "Địa kỹ thuật xây dựng",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "39"
+        },
+        {
+          "program_code": "7580211",
+          "program_name": "Địa kỹ thuật xây dựng",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "39"
+        },
+        {
+          "program_code": "7580212",
+          "program_name": "Kỹ thuật tài nguyên nước",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "40"
+        },
+        {
+          "program_code": "7580212",
+          "program_name": "Kỹ thuật tài nguyên nước",
+          "subject_groups": [
+            "C04",
+            "C01",
+            "C02",
+            "D01",
+            "C03",
+            "X02)"
+          ],
+          "program_type": "chuẩn",
+          "note": "40"
+        },
+        {
+          "program_code": "7580212",
+          "program_name": "Kỹ thuật tài nguyên nước",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "40"
+        },
+        {
+          "program_code": "7580212",
+          "program_name": "Kỹ thuật tài nguyên nước",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "40"
+        },
+        {
+          "program_code": "7580302",
+          "program_name": "Quản lý xây dựng",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "41"
+        },
+        {
+          "program_code": "7580302",
+          "program_name": "Quản lý xây dựng",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "X05",
+            "C01",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "41"
+        },
+        {
+          "program_code": "7580302",
+          "program_name": "Quản lý xây dựng",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "41"
+        },
+        {
+          "program_code": "7580302",
+          "program_name": "Quản lý xây dựng",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "41"
+        },
+        {
+          "program_code": "7720203",
+          "program_name": "Hóa dược",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "42"
+        },
+        {
+          "program_code": "7720203",
+          "program_name": "Hóa dược",
+          "subject_groups": [
+            "A00",
+            "D07",
+            "X10",
+            "X11",
+            "B00",
+            "C02",
+            "A06",
+            "A11"
+          ],
+          "program_type": "chuẩn",
+          "note": "42"
+        },
+        {
+          "program_code": "7720203",
+          "program_name": "Hóa dược",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "42"
+        },
+        {
+          "program_code": "7720203",
+          "program_name": "Hóa dược",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "42"
+        },
+        {
+          "program_code": "7810105",
+          "program_name": "Du lịch địa chất",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "43"
+        },
+        {
+          "program_code": "7810105",
+          "program_name": "Du lịch địa chất",
+          "subject_groups": [
+            "C01",
+            "C02",
+            "C03",
+            "C04",
+            "D01",
+            "X02",
+            "X01)"
+          ],
+          "program_type": "chuẩn",
+          "note": "43"
+        },
+        {
+          "program_code": "7810105",
+          "program_name": "Du lịch địa chất",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "43"
+        },
+        {
+          "program_code": "7810105",
+          "program_name": "Du lịch địa chất",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "43"
+        },
+        {
+          "program_code": "7850101",
+          "program_name": "Quản lý tài nguyên và môi trường",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "44"
+        },
+        {
+          "program_code": "7850101",
+          "program_name": "Quản lý tài nguyên và môi trường",
+          "subject_groups": [
+            "C01",
+            "C02",
+            "B03",
+            "C03",
+            "C04",
+            "D01",
+            "X01",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "44"
+        },
+        {
+          "program_code": "7850101",
+          "program_name": "Quản lý tài nguyên và môi trường",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "44"
+        },
+        {
+          "program_code": "7850101",
+          "program_name": "Quản lý tài nguyên và môi trường",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "44"
+        },
+        {
+          "program_code": "7850103",
+          "program_name": "Quản lý đất đai",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "45"
+        },
+        {
+          "program_code": "7850103",
+          "program_name": "Quản lý đất đai",
+          "subject_groups": [
+            "D01",
+            "C04",
+            "C01",
+            "X01",
+            "C03",
+            "B03",
+            "C02",
+            "X02"
+          ],
+          "program_type": "chuẩn",
+          "note": "45"
+        },
+        {
+          "program_code": "7850103",
+          "program_name": "Quản lý đất đai",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "45"
+        },
+        {
+          "program_code": "7850103",
+          "program_name": "Quản lý đất đai",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "45"
+        },
+        {
+          "program_code": "7850196",
+          "program_name": "Quản lý tài nguyên khoáng sản",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "46"
+        },
+        {
+          "program_code": "7850196",
+          "program_name": "Quản lý tài nguyên khoáng sản",
+          "subject_groups": [
+            "C04",
+            "D01",
+            "C02",
+            "X02",
+            "X01",
+            "C03"
+          ],
+          "program_type": "chuẩn",
+          "note": "46"
+        },
+        {
+          "program_code": "7850196",
+          "program_name": "Quản lý tài nguyên khoáng sản",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "46"
+        },
+        {
+          "program_code": "7850196",
+          "program_name": "Quản lý tài nguyên khoáng sản",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "46"
+        },
+        {
+          "program_code": "7850202",
+          "program_name": "An toàn, Vệ sinh lao động",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "47"
+        },
+        {
+          "program_code": "7850202",
+          "program_name": "An toàn, Vệ sinh lao động",
+          "subject_groups": [
+            "(A00",
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "X05",
+            "C01",
+            "X06"
+          ],
+          "program_type": "chuẩn",
+          "note": "47"
+        },
+        {
+          "program_code": "7850202",
+          "program_name": "An toàn, Vệ sinh lao động",
+          "subject_groups": [
+            "K00"
+          ],
+          "program_type": "chuẩn",
+          "note": "47"
+        },
+        {
+          "program_code": "7850202",
+          "program_name": "An toàn, Vệ sinh lao động",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "47"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn của trường Đại học Mỏ - Địa chất các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-mo-dia-chat-MDA.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01",
+              "D09",
+              "D10",
+              "D14",
+              "D15",
+              "D66",
+              "D78",
+              "D96"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "D01",
+              "D04",
+              "D09",
+              "D14",
+              "D66",
+              "D78"
+            ],
+            "score": 25.5,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01",
+              "D07",
+              "D09",
+              "D10",
+              "D84"
+            ],
+            "score": 23,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "D07",
+              "D09",
+              "D10",
+              "D84"
+            ],
+            "score": 23,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "D07",
+              "D09",
+              "D10",
+              "D84"
+            ],
+            "score": 22.75,
+            "note": null
+          },
+          {
+            "program_code": "7440201",
+            "program_name": "Địa chất học",
+            "subject_groups": [
+              "A00",
+              "A04",
+              "A06",
+              "C01",
+              "C04",
+              "D01",
+              "D07",
+              "D10"
+            ],
+            "score": 15.5,
+            "note": null
+          },
+          {
+            "program_code": "7440229",
+            "program_name": "Quản lý và phân tích dữ liệu khoa học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A04",
+              "A06",
+              "B00",
+              "B02",
+              "B08",
+              "D07"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7460108",
+            "program_name": "Khoa học dữ liệu",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06",
+              "X10",
+              "X26",
+              "X27"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06",
+              "X10",
+              "X26",
+              "X27"
+            ],
+            "score": 21.5,
+            "note": null
+          },
+          {
+            "program_code": "7480206",
+            "program_name": "Địa tin học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "D10"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ kỹ thuật điện, điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X06"
+            ],
+            "score": 24,
+            "note": null
+          },
+          {
+            "program_code": "7510401",
+            "program_name": "Công nghệ kỹ thuật hóa học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "A05",
+              "A06",
+              "B00",
+              "C02",
+              "D07"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7510601",
+            "program_name": "Quản lý công nghiệp",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01",
+              "D07",
+              "D09",
+              "D10",
+              "D84"
+            ],
+            "score": 20.5,
+            "note": null
+          },
+          {
+            "program_code": "7520103",
+            "program_name": "Kỹ thuật cơ khí",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X06"
+            ],
+            "score": 22.5,
+            "note": null
+          },
+          {
+            "program_code": "7520107",
+            "program_name": "Kỹ thuật Robot",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X06"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7520114",
+            "program_name": "Kỹ thuật cơ điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X06"
+            ],
+            "score": 23.5,
+            "note": null
+          },
+          {
+            "program_code": "7520116",
+            "program_name": "Kỹ thuật cơ khí động lực",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X06"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7520121",
+            "program_name": "Kỹ thuật không gian",
+            "subject_groups": [
+              "A01",
+              "A04",
+              "A09",
+              "B02",
+              "C04",
+              "D01",
+              "D10",
+              "D84"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7520130",
+            "program_name": "Kỹ thuật ô tô",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X06"
+            ],
+            "score": 23,
+            "note": null
+          },
+          {
+            "program_code": "7520201",
+            "program_name": "Kỹ thuật điện",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X06"
+            ],
+            "score": 21.5,
+            "note": null
+          },
+          {
+            "program_code": "7520216",
+            "program_name": "Kỹ thuật điều khiển và tự động hoá",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X06"
+            ],
+            "score": 25.25,
+            "note": null
+          },
+          {
+            "program_code": "7520301",
+            "program_name": "Kỹ thuật hoá học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "A05",
+              "A06",
+              "B00",
+              "C02",
+              "D07"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7520309",
+            "program_name": "Kỹ thuật vật liệu",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "A03",
+              "A04",
+              "A10",
+              "C01",
+              "D01"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7520320",
+            "program_name": "Kỹ thuật môi trường",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A04",
+              "A09",
+              "B00",
+              "C01",
+              "C04",
+              "D01"
+            ],
+            "score": 15.5,
+            "note": null
+          },
+          {
+            "program_code": "7520501",
+            "program_name": "Kỹ thuật địa chất",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "C04",
+              "D01",
+              "D07",
+              "D10"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7520502",
+            "program_name": "Kỹ thuật địa vật lý",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A04",
+              "A06",
+              "B00",
+              "B02",
+              "B08",
+              "D07"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7520503",
+            "program_name": "Kỹ thuật trắc địa - bản đồ",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01",
+              "D10"
+            ],
+            "score": 15.25,
+            "note": null
+          },
+          {
+            "program_code": "7520505",
+            "program_name": "Đá quý Đá mỹ nghệ",
+            "subject_groups": [
+              "A00",
+              "A04",
+              "C01",
+              "C02",
+              "C04",
+              "D01",
+              "D10",
+              "D15"
+            ],
+            "score": 15.5,
+            "note": null
+          },
+          {
+            "program_code": "7520601",
+            "program_name": "Kỹ thuật mỏ",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B03",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "D10"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7520604",
+            "program_name": "Kỹ thuật dầu khí",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B02",
+              "B08",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7520605",
+            "program_name": "Kỹ thuật khí thiên nhiên",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B02",
+              "B08",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7520606",
+            "program_name": "Công nghệ số trong thăm dò và khai thác tài nguyên thiên nhiên",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A04",
+              "A06",
+              "B00",
+              "B02",
+              "B08",
+              "D07"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7520607",
+            "program_name": "Kỹ thuật tuyển khoáng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B03",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "D10"
+            ],
+            "score": 17,
+            "note": null
+          },
+          {
+            "program_code": "7580106",
+            "program_name": "Quản lý đô thị và công trình",
+            "subject_groups": [
+              "A00",
+              "A07",
+              "C01",
+              "C02",
+              "C04",
+              "D01",
+              "D07",
+              "D10"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7580109",
+            "program_name": "Quản lý phát triển đô thị và bất động sản",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "D10"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7580201",
+            "program_name": "Kỹ thuật xây dựng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A10",
+              "B04",
+              "C01",
+              "C02",
+              "C04",
+              "D01"
+            ],
+            "score": 19.5,
+            "note": null
+          },
+          {
+            "program_code": "7580204",
+            "program_name": "Xây dựng công trình ngầm thành phố và Hệ thống tàu điện ngầm",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A10",
+              "B04",
+              "C01",
+              "C02",
+              "C04",
+              "D01"
+            ],
+            "score": 16,
+            "note": null
+          },
+          {
+            "program_code": "7580205",
+            "program_name": "Kỹ thuật xây dựng công trình giao thông",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C04",
+              "D01"
+            ],
+            "score": 18.5,
+            "note": null
+          },
+          {
+            "program_code": "7580211",
+            "program_name": "Địa kỹ thuật xây dựng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C02",
+              "C04",
+              "D01",
+              "D07",
+              "D10"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7580212",
+            "program_name": "Kỹ thuật tài nguyên nước",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A04",
+              "C01",
+              "C02",
+              "C04",
+              "D01",
+              "D07"
+            ],
+            "score": 15,
+            "note": null
+          },
+          {
+            "program_code": "7580302",
+            "program_name": "Quản lý xây dựng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A10",
+              "B04",
+              "C01",
+              "C02",
+              "C04",
+              "D01"
+            ],
+            "score": 21,
+            "note": null
+          },
+          {
+            "program_code": "7720203",
+            "program_name": "Hoá dược",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A06",
+              "A11",
+              "B00",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 19,
+            "note": null
+          },
+          {
+            "program_code": "7810105",
+            "program_name": "Du lịch địa chất",
+            "subject_groups": [
+              "A04",
+              "A06",
+              "A07",
+              "C03",
+              "C04",
+              "D01",
+              "D07",
+              "D10"
+            ],
+            "score": 20,
+            "note": null
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lý tài nguyên và môi trường",
+            "subject_groups": [
+              "A00",
+              "A07",
+              "A09",
+              "B00",
+              "C04",
+              "C14",
+              "D01",
+              "D10"
+            ],
+            "score": 18.5,
+            "note": null
+          },
+          {
+            "program_code": "7850103",
+            "program_name": "Quản lý đất đai",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A09",
+              "C04",
+              "D01",
+              "D10"
+            ],
+            "score": 18.5,
+            "note": null
+          },
+          {
+            "program_code": "7850196",
+            "program_name": "Quản lý tài nguyên khoáng sản",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A04",
+              "A06",
+              "B00",
+              "C04",
+              "D01",
+              "D10"
+            ],
+            "score": 15.5,
+            "note": null
+          },
+          {
+            "program_code": "7850202",
+            "program_name": "An toàn, Vệ sinh lao động",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B03",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "D10"
+            ],
+            "score": 17,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [
+              "D01",
+              "D09",
+              "D10",
+              "D14",
+              "D15",
+              "D66",
+              "D78",
+              "D96"
+            ],
+            "score": 23.6,
+            "note": null
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "D01",
+              "D04",
+              "D09",
+              "D14",
+              "D66",
+              "D78"
+            ],
+            "score": 26.4,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01",
+              "D07",
+              "D09",
+              "D10",
+              "D84"
+            ],
+            "score": 24.4,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "D07",
+              "D09",
+              "D10",
+              "D84"
+            ],
+            "score": 24.4,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "D07",
+              "D09",
+              "D10",
+              "D84"
+            ],
+            "score": 24.2,
+            "note": null
+          },
+          {
+            "program_code": "7440201",
+            "program_name": "Địa chất học",
+            "subject_groups": [
+              "A00",
+              "A04",
+              "A06",
+              "C01",
+              "C04",
+              "D01",
+              "D07",
+              "D10"
+            ],
+            "score": 18.4,
+            "note": null
+          },
+          {
+            "program_code": "7440229",
+            "program_name": "Quản lý và phân tích dữ liệu khoa học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A04",
+              "A06",
+              "B00",
+              "B02",
+              "B08",
+              "D07"
+            ],
+            "score": 18.8,
+            "note": null
+          },
+          {
+            "program_code": "7460108",
+            "program_name": "Khoa học dữ liệu",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06",
+              "X10",
+              "X26",
+              "X27"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "D01",
+              "D07",
+              "X06",
+              "X10",
+              "X26",
+              "X27"
+            ],
+            "score": 23.2,
+            "note": null
+          },
+          {
+            "program_code": "7480206",
+            "program_name": "Địa tin học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "D10"
+            ],
+            "score": 18.8,
+            "note": null
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ kỹ thuật điện, điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X06"
+            ],
+            "score": 25.2,
+            "note": null
+          },
+          {
+            "program_code": "7510401",
+            "program_name": "Công nghệ kỹ thuật hóa học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "A05",
+              "A06",
+              "B00",
+              "C02",
+              "D07"
+            ],
+            "score": 21.2,
+            "note": null
+          },
+          {
+            "program_code": "7510601",
+            "program_name": "Quản lý công nghiệp",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01",
+              "D07",
+              "D09",
+              "D10",
+              "D84"
+            ],
+            "score": 22.4,
+            "note": null
+          },
+          {
+            "program_code": "7520103",
+            "program_name": "Kỹ thuật cơ khí",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X06"
+            ],
+            "score": 24,
+            "note": null
+          },
+          {
+            "program_code": "7520107",
+            "program_name": "Kỹ thuật Robot",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X06"
+            ],
+            "score": 22.8,
+            "note": null
+          },
+          {
+            "program_code": "7520114",
+            "program_name": "Kỹ thuật cơ điện tử",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X06"
+            ],
+            "score": 24.8,
+            "note": null
+          },
+          {
+            "program_code": "7520116",
+            "program_name": "Kỹ thuật cơ khí động lực",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X06"
+            ],
+            "score": 21.2,
+            "note": null
+          },
+          {
+            "program_code": "7520121",
+            "program_name": "Kỹ thuật không gian",
+            "subject_groups": [
+              "A01",
+              "A04",
+              "A09",
+              "B02",
+              "C04",
+              "D01",
+              "D10",
+              "D84"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7520130",
+            "program_name": "Kỹ thuật ô tô",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X06"
+            ],
+            "score": 24.4,
+            "note": null
+          },
+          {
+            "program_code": "7520201",
+            "program_name": "Kỹ thuật điện",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X06"
+            ],
+            "score": 23.2,
+            "note": null
+          },
+          {
+            "program_code": "7520216",
+            "program_name": "Kỹ thuật điều khiển và tự động hoá",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "D01",
+              "X06"
+            ],
+            "score": 26.2,
+            "note": null
+          },
+          {
+            "program_code": "7520301",
+            "program_name": "Kỹ thuật hoá học",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "A05",
+              "A06",
+              "B00",
+              "C02",
+              "D07"
+            ],
+            "score": 21.2,
+            "note": null
+          },
+          {
+            "program_code": "7520309",
+            "program_name": "Kỹ thuật vật liệu",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "A03",
+              "A04",
+              "A10",
+              "C01",
+              "D01"
+            ],
+            "score": 18.8,
+            "note": null
+          },
+          {
+            "program_code": "7520320",
+            "program_name": "Kỹ thuật môi trường",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A04",
+              "A09",
+              "B00",
+              "C01",
+              "C04",
+              "D01"
+            ],
+            "score": 18.4,
+            "note": null
+          },
+          {
+            "program_code": "7520501",
+            "program_name": "Kỹ thuật địa chất",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C02",
+              "C04",
+              "D01",
+              "D07",
+              "D10"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7520502",
+            "program_name": "Kỹ thuật địa vật lý",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A04",
+              "A06",
+              "B00",
+              "B02",
+              "B08",
+              "D07"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7520503",
+            "program_name": "Kỹ thuật trắc địa - bản đồ",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C04",
+              "D01",
+              "D10"
+            ],
+            "score": 18.2,
+            "note": null
+          },
+          {
+            "program_code": "7520505",
+            "program_name": "Đá quý Đá mỹ nghệ",
+            "subject_groups": [
+              "A00",
+              "A04",
+              "C01",
+              "C02",
+              "C04",
+              "D01",
+              "D10",
+              "D15"
+            ],
+            "score": 18.4,
+            "note": null
+          },
+          {
+            "program_code": "7520601",
+            "program_name": "Kỹ thuật mỏ",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B03",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "D10"
+            ],
+            "score": 19.6,
+            "note": null
+          },
+          {
+            "program_code": "7520604",
+            "program_name": "Kỹ thuật dầu khí",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B02",
+              "B08",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 19.6,
+            "note": null
+          },
+          {
+            "program_code": "7520605",
+            "program_name": "Kỹ thuật khí thiên nhiên",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B00",
+              "B02",
+              "B08",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 18.8,
+            "note": null
+          },
+          {
+            "program_code": "7520606",
+            "program_name": "Công nghệ số trong thăm dò và khai thác tài nguyên thiên nhiên",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A04",
+              "A06",
+              "B00",
+              "B02",
+              "B08",
+              "D07"
+            ],
+            "score": 18.8,
+            "note": null
+          },
+          {
+            "program_code": "7520607",
+            "program_name": "Kỹ thuật tuyển khoáng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B03",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "D10"
+            ],
+            "score": 19.6,
+            "note": null
+          },
+          {
+            "program_code": "7580106",
+            "program_name": "Quản lý đô thị và công trình",
+            "subject_groups": [
+              "A00",
+              "A07",
+              "C01",
+              "C02",
+              "C04",
+              "D01",
+              "D07",
+              "D10"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7580109",
+            "program_name": "Quản lý phát triển đô thị và bất động sản",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "D10"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "7580201",
+            "program_name": "Kỹ thuật xây dựng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A10",
+              "B04",
+              "C01",
+              "C02",
+              "C04",
+              "D01"
+            ],
+            "score": 21.6,
+            "note": null
+          },
+          {
+            "program_code": "7580204",
+            "program_name": "Xây dựng công trình ngầm thành phố và Hệ thống tàu điện ngầm",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A10",
+              "B04",
+              "C01",
+              "C02",
+              "C04",
+              "D01"
+            ],
+            "score": 18.8,
+            "note": null
+          },
+          {
+            "program_code": "7580205",
+            "program_name": "Kỹ thuật xây dựng công trình giao thông",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01",
+              "C04",
+              "D01"
+            ],
+            "score": 20.8,
+            "note": null
+          },
+          {
+            "program_code": "7580211",
+            "program_name": "Địa kỹ thuật xây dựng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A02",
+              "C02",
+              "C04",
+              "D01",
+              "D07",
+              "D10"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7580212",
+            "program_name": "Kỹ thuật tài nguyên nước",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A04",
+              "C01",
+              "C02",
+              "C04",
+              "D01",
+              "D07"
+            ],
+            "score": 18,
+            "note": null
+          },
+          {
+            "program_code": "7580302",
+            "program_name": "Quản lý xây dựng",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A10",
+              "B04",
+              "C01",
+              "C02",
+              "C04",
+              "D01"
+            ],
+            "score": 22.8,
+            "note": null
+          },
+          {
+            "program_code": "7720203",
+            "program_name": "Hoá dược",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A06",
+              "A11",
+              "B00",
+              "C02",
+              "D01",
+              "D07"
+            ],
+            "score": 21.2,
+            "note": null
+          },
+          {
+            "program_code": "7810105",
+            "program_name": "Du lịch địa chất",
+            "subject_groups": [
+              "A04",
+              "A06",
+              "A07",
+              "C03",
+              "C04",
+              "D01",
+              "D07",
+              "D10"
+            ],
+            "score": 22,
+            "note": null
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lý tài nguyên và môi trường",
+            "subject_groups": [
+              "A00",
+              "A07",
+              "A09",
+              "B00",
+              "C04",
+              "C14",
+              "D01",
+              "D10"
+            ],
+            "score": 20.8,
+            "note": null
+          },
+          {
+            "program_code": "7850103",
+            "program_name": "Quản lý đất đai",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A09",
+              "C04",
+              "D01",
+              "D10"
+            ],
+            "score": 20.8,
+            "note": null
+          },
+          {
+            "program_code": "7850196",
+            "program_name": "Quản lý tài nguyên khoáng sản",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "A04",
+              "A06",
+              "B00",
+              "C04",
+              "D01",
+              "D10"
+            ],
+            "score": 18.4,
+            "note": null
+          },
+          {
+            "program_code": "7850202",
+            "program_name": "An toàn, Vệ sinh lao động",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "B03",
+              "C02",
+              "C03",
+              "C04",
+              "D01",
+              "D10"
+            ],
+            "score": 19.6,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [],
+            "score": 70.61,
+            "note": null
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [],
+            "score": 90.36,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 75.53,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [],
+            "score": 75.53,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [],
+            "score": 74.3,
+            "note": null
+          },
+          {
+            "program_code": "7440201",
+            "program_name": "Địa chất học",
+            "subject_groups": [],
+            "score": 41,
+            "note": null
+          },
+          {
+            "program_code": "7440229",
+            "program_name": "Quản lý và phân tích dữ liệu khoa học",
+            "subject_groups": [],
+            "score": 43.43,
+            "note": null
+          },
+          {
+            "program_code": "7460108",
+            "program_name": "Khoa học dữ liệu",
+            "subject_groups": [],
+            "score": 62.33,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [],
+            "score": 68.31,
+            "note": null
+          },
+          {
+            "program_code": "7480206",
+            "program_name": "Địa tin học",
+            "subject_groups": [],
+            "score": 43.43,
+            "note": null
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ kỹ thuật điện, điện tử",
+            "subject_groups": [],
+            "score": 80.78,
+            "note": null
+          },
+          {
+            "program_code": "7510401",
+            "program_name": "Công nghệ kỹ thuật hóa học",
+            "subject_groups": [],
+            "score": 58.01,
+            "note": null
+          },
+          {
+            "program_code": "7510601",
+            "program_name": "Quản lý công nghiệp",
+            "subject_groups": [],
+            "score": 64.33,
+            "note": null
+          },
+          {
+            "program_code": "7520103",
+            "program_name": "Kỹ thuật cơ khí",
+            "subject_groups": [],
+            "score": 73.07,
+            "note": null
+          },
+          {
+            "program_code": "7520107",
+            "program_name": "Kỹ thuật Robot",
+            "subject_groups": [],
+            "score": 66.32,
+            "note": null
+          },
+          {
+            "program_code": "7520114",
+            "program_name": "Kỹ thuật cơ điện tử",
+            "subject_groups": [],
+            "score": 78,
+            "note": null
+          },
+          {
+            "program_code": "7520116",
+            "program_name": "Kỹ thuật cơ khí động lực",
+            "subject_groups": [],
+            "score": 58.01,
+            "note": null
+          },
+          {
+            "program_code": "7520121",
+            "program_name": "Kỹ thuật không gian",
+            "subject_groups": [],
+            "score": 39,
+            "note": null
+          },
+          {
+            "program_code": "7520130",
+            "program_name": "Kỹ thuật ô tô",
+            "subject_groups": [],
+            "score": 75.53,
+            "note": null
+          },
+          {
+            "program_code": "7520201",
+            "program_name": "Kỹ thuật điện",
+            "subject_groups": [],
+            "score": 68.31,
+            "note": null
+          },
+          {
+            "program_code": "7520216",
+            "program_name": "Kỹ thuật điều khiển và tự động hoá",
+            "subject_groups": [],
+            "score": 88.54,
+            "note": null
+          },
+          {
+            "program_code": "7520301",
+            "program_name": "Kỹ thuật hoá học",
+            "subject_groups": [],
+            "score": 58.01,
+            "note": null
+          },
+          {
+            "program_code": "7520309",
+            "program_name": "Kỹ thuật vật liệu",
+            "subject_groups": [],
+            "score": 43.43,
+            "note": null
+          },
+          {
+            "program_code": "7520320",
+            "program_name": "Kỹ thuật môi trường",
+            "subject_groups": [],
+            "score": 41,
+            "note": null
+          },
+          {
+            "program_code": "7520501",
+            "program_name": "Kỹ thuật địa chất",
+            "subject_groups": [],
+            "score": 39,
+            "note": null
+          },
+          {
+            "program_code": "7520502",
+            "program_name": "Kỹ thuật địa vật lý",
+            "subject_groups": [],
+            "score": 39,
+            "note": null
+          },
+          {
+            "program_code": "7520503",
+            "program_name": "Kỹ thuật trắc địa - bản đồ",
+            "subject_groups": [],
+            "score": 39.85,
+            "note": null
+          },
+          {
+            "program_code": "7520505",
+            "program_name": "Đá quý Đá mỹ nghệ",
+            "subject_groups": [],
+            "score": 41,
+            "note": null
+          },
+          {
+            "program_code": "7520601",
+            "program_name": "Kỹ thuật mỏ",
+            "subject_groups": [],
+            "score": 48.3,
+            "note": null
+          },
+          {
+            "program_code": "7520604",
+            "program_name": "Kỹ thuật dầu khí",
+            "subject_groups": [],
+            "score": 48.3,
+            "note": null
+          },
+          {
+            "program_code": "7520605",
+            "program_name": "Kỹ thuật khí thiên nhiên",
+            "subject_groups": [],
+            "score": 43.43,
+            "note": null
+          },
+          {
+            "program_code": "7520606",
+            "program_name": "Công nghệ số trong thăm dò và khai thác tài nguyên thiên nhiên",
+            "subject_groups": [],
+            "score": 43.43,
+            "note": null
+          },
+          {
+            "program_code": "7520607",
+            "program_name": "Kỹ thuật tuyển khoáng",
+            "subject_groups": [],
+            "score": 48.3,
+            "note": null
+          },
+          {
+            "program_code": "7580106",
+            "program_name": "Quản lý đô thị và công trình",
+            "subject_groups": [],
+            "score": 39,
+            "note": null
+          },
+          {
+            "program_code": "7580109",
+            "program_name": "Quản lý phát triển đô thị và bất động sản",
+            "subject_groups": [],
+            "score": 62.33,
+            "note": null
+          },
+          {
+            "program_code": "7580201",
+            "program_name": "Kỹ thuật xây dựng",
+            "subject_groups": [],
+            "score": 60.34,
+            "note": null
+          },
+          {
+            "program_code": "7580204",
+            "program_name": "Xây dựng công trình ngầm thành phố và Hệ thống tàu điện ngầm",
+            "subject_groups": [],
+            "score": 43.43,
+            "note": null
+          },
+          {
+            "program_code": "7580205",
+            "program_name": "Kỹ thuật xây dựng công trình giao thông",
+            "subject_groups": [],
+            "score": 55.58,
+            "note": null
+          },
+          {
+            "program_code": "7580211",
+            "program_name": "Địa kỹ thuật xây dựng",
+            "subject_groups": [],
+            "score": 39,
+            "note": null
+          },
+          {
+            "program_code": "7580212",
+            "program_name": "Kỹ thuật tài nguyên nước",
+            "subject_groups": [],
+            "score": 39,
+            "note": null
+          },
+          {
+            "program_code": "7580302",
+            "program_name": "Quản lý xây dựng",
+            "subject_groups": [],
+            "score": 66.32,
+            "note": null
+          },
+          {
+            "program_code": "7720203",
+            "program_name": "Hoá dược",
+            "subject_groups": [],
+            "score": 58.01,
+            "note": null
+          },
+          {
+            "program_code": "7810105",
+            "program_name": "Du lịch địa chất",
+            "subject_groups": [],
+            "score": 62.33,
+            "note": null
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lý tài nguyên và môi trường",
+            "subject_groups": [],
+            "score": 55.58,
+            "note": null
+          },
+          {
+            "program_code": "7850103",
+            "program_name": "Quản lý đất đai",
+            "subject_groups": [],
+            "score": 55.58,
+            "note": null
+          },
+          {
+            "program_code": "7850196",
+            "program_name": "Quản lý tài nguyên khoáng sản",
+            "subject_groups": [],
+            "score": 41,
+            "note": null
+          },
+          {
+            "program_code": "7850202",
+            "program_name": "An toàn, Vệ sinh lao động",
+            "subject_groups": [],
+            "score": 48.3,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-anh-gia-tu-duy",
+        "method_name": "Điểm chuẩn theo phương thức Điểm Đánh giá Tư duy năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220201",
+            "program_name": "Ngôn ngữ Anh",
+            "subject_groups": [],
+            "score": 53.81,
+            "note": null
+          },
+          {
+            "program_code": "7220204",
+            "program_name": "Ngôn ngữ Trung Quốc",
+            "subject_groups": [],
+            "score": 66.06,
+            "note": null
+          },
+          {
+            "program_code": "7340101",
+            "program_name": "Quản trị kinh doanh",
+            "subject_groups": [],
+            "score": 56.62,
+            "note": null
+          },
+          {
+            "program_code": "7340201",
+            "program_name": "Tài chính - Ngân hàng",
+            "subject_groups": [],
+            "score": 56.62,
+            "note": null
+          },
+          {
+            "program_code": "7340301",
+            "program_name": "Kế toán",
+            "subject_groups": [],
+            "score": 55.82,
+            "note": null
+          },
+          {
+            "program_code": "7440201",
+            "program_name": "Địa chất học",
+            "subject_groups": [],
+            "score": 38.16,
+            "note": null
+          },
+          {
+            "program_code": "7440229",
+            "program_name": "Quản lý và phân tích dữ liệu khoa học",
+            "subject_groups": [],
+            "score": 39.33,
+            "note": null
+          },
+          {
+            "program_code": "7460108",
+            "program_name": "Khoa học dữ liệu",
+            "subject_groups": [],
+            "score": 48.82,
+            "note": null
+          },
+          {
+            "program_code": "7480201",
+            "program_name": "Công nghệ thông tin",
+            "subject_groups": [],
+            "score": 52.56,
+            "note": null
+          },
+          {
+            "program_code": "7480206",
+            "program_name": "Địa tin học",
+            "subject_groups": [],
+            "score": 39.33,
+            "note": null
+          },
+          {
+            "program_code": "7510301",
+            "program_name": "Công nghệ kỹ thuật điện, điện tử",
+            "subject_groups": [],
+            "score": 59.86,
+            "note": null
+          },
+          {
+            "program_code": "7510401",
+            "program_name": "Công nghệ kỹ thuật hóa học",
+            "subject_groups": [],
+            "score": 46.36,
+            "note": null
+          },
+          {
+            "program_code": "7510601",
+            "program_name": "Quản lý công nghiệp",
+            "subject_groups": [],
+            "score": 50.69,
+            "note": null
+          },
+          {
+            "program_code": "7520103",
+            "program_name": "Kỹ thuật cơ khí",
+            "subject_groups": [],
+            "score": 55.06,
+            "note": null
+          },
+          {
+            "program_code": "7520107",
+            "program_name": "Kỹ thuật Robot",
+            "subject_groups": [],
+            "score": 51.31,
+            "note": null
+          },
+          {
+            "program_code": "7520114",
+            "program_name": "Kỹ thuật cơ điện tử",
+            "subject_groups": [],
+            "score": 58.22,
+            "note": null
+          },
+          {
+            "program_code": "7520116",
+            "program_name": "Kỹ thuật cơ khí động lực",
+            "subject_groups": [],
+            "score": 46.36,
+            "note": null
+          },
+          {
+            "program_code": "7520121",
+            "program_name": "Kỹ thuật không gian",
+            "subject_groups": [],
+            "score": 37,
+            "note": null
+          },
+          {
+            "program_code": "7520130",
+            "program_name": "Kỹ thuật ô tô",
+            "subject_groups": [],
+            "score": 56.62,
+            "note": null
+          },
+          {
+            "program_code": "7520201",
+            "program_name": "Kỹ thuật điện",
+            "subject_groups": [],
+            "score": 52.56,
+            "note": null
+          },
+          {
+            "program_code": "7520216",
+            "program_name": "Kỹ thuật điều khiển và tự động hoá",
+            "subject_groups": [],
+            "score": 65.03,
+            "note": null
+          },
+          {
+            "program_code": "7520301",
+            "program_name": "Kỹ thuật hoá học",
+            "subject_groups": [],
+            "score": 46.36,
+            "note": null
+          },
+          {
+            "program_code": "7520309",
+            "program_name": "Kỹ thuật vật liệu",
+            "subject_groups": [],
+            "score": 39.33,
+            "note": null
+          },
+          {
+            "program_code": "7520320",
+            "program_name": "Kỹ thuật môi trường",
+            "subject_groups": [],
+            "score": 38.16,
+            "note": null
+          },
+          {
+            "program_code": "7520501",
+            "program_name": "Kỹ thuật địa chất",
+            "subject_groups": [],
+            "score": 37,
+            "note": null
+          },
+          {
+            "program_code": "7520502",
+            "program_name": "Kỹ thuật địa vật lý",
+            "subject_groups": [],
+            "score": 37,
+            "note": null
+          },
+          {
+            "program_code": "7520503",
+            "program_name": "Kỹ thuật trắc địa - bản đồ",
+            "subject_groups": [],
+            "score": 37.58,
+            "note": null
+          },
+          {
+            "program_code": "7520505",
+            "program_name": "Đá quý Đá mỹ nghệ",
+            "subject_groups": [],
+            "score": 38.16,
+            "note": null
+          },
+          {
+            "program_code": "7520601",
+            "program_name": "Kỹ thuật mỏ",
+            "subject_groups": [],
+            "score": 41.68,
+            "note": null
+          },
+          {
+            "program_code": "7520604",
+            "program_name": "Kỹ thuật dầu khí",
+            "subject_groups": [],
+            "score": 41.68,
+            "note": null
+          },
+          {
+            "program_code": "7520605",
+            "program_name": "Kỹ thuật khí thiên nhiên",
+            "subject_groups": [],
+            "score": 39.33,
+            "note": null
+          },
+          {
+            "program_code": "7520606",
+            "program_name": "Công nghệ số trong thăm dò và khai thác tài nguyên thiên nhiên",
+            "subject_groups": [],
+            "score": 39.33,
+            "note": null
+          },
+          {
+            "program_code": "7520607",
+            "program_name": "Kỹ thuật tuyển khoáng",
+            "subject_groups": [],
+            "score": 41.68,
+            "note": null
+          },
+          {
+            "program_code": "7580106",
+            "program_name": "Quản lý đô thị và công trình",
+            "subject_groups": [],
+            "score": 37,
+            "note": null
+          },
+          {
+            "program_code": "7580109",
+            "program_name": "Quản lý phát triển đô thị và bất động sản",
+            "subject_groups": [],
+            "score": 48.82,
+            "note": null
+          },
+          {
+            "program_code": "7580201",
+            "program_name": "Kỹ thuật xây dựng",
+            "subject_groups": [],
+            "score": 47.57,
+            "note": null
+          },
+          {
+            "program_code": "7580204",
+            "program_name": "Xây dựng công trình ngầm thành phố và Hệ thống tàu điện ngầm",
+            "subject_groups": [],
+            "score": 39.33,
+            "note": null
+          },
+          {
+            "program_code": "7580205",
+            "program_name": "Kỹ thuật xây dựng công trình giao thông",
+            "subject_groups": [],
+            "score": 45.19,
+            "note": null
+          },
+          {
+            "program_code": "7580211",
+            "program_name": "Địa kỹ thuật xây dựng",
+            "subject_groups": [],
+            "score": 37,
+            "note": null
+          },
+          {
+            "program_code": "7580212",
+            "program_name": "Kỹ thuật tài nguyên nước",
+            "subject_groups": [],
+            "score": 37,
+            "note": null
+          },
+          {
+            "program_code": "7580302",
+            "program_name": "Quản lý xây dựng",
+            "subject_groups": [],
+            "score": 51.31,
+            "note": null
+          },
+          {
+            "program_code": "7720203",
+            "program_name": "Hoá dược",
+            "subject_groups": [],
+            "score": 46.36,
+            "note": null
+          },
+          {
+            "program_code": "7810105",
+            "program_name": "Du lịch địa chất",
+            "subject_groups": [],
+            "score": 48.82,
+            "note": null
+          },
+          {
+            "program_code": "7850101",
+            "program_name": "Quản lý tài nguyên và môi trường",
+            "subject_groups": [],
+            "score": 45.19,
+            "note": null
+          },
+          {
+            "program_code": "7850103",
+            "program_name": "Quản lý đất đai",
+            "subject_groups": [],
+            "score": 45.19,
+            "note": null
+          },
+          {
+            "program_code": "7850196",
+            "program_name": "Quản lý tài nguyên khoáng sản",
+            "subject_groups": [],
+            "score": 38.16,
+            "note": null
+          },
+          {
+            "program_code": "7850202",
+            "program_name": "An toàn, Vệ sinh lao động",
+            "subject_groups": [],
+            "score": 41.68,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

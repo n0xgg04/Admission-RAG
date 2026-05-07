@@ -1,0 +1,714 @@
+{
+  "university": {
+    "code": "VHS",
+    "name": "Đại học Văn hóa TPHCM",
+    "short_name": "HCMUC",
+    "location": [
+      "Hồ Chí Minh"
+    ],
+    "address": "51 Quốc Hương, phường Thảo Điền, Quận 2, TP. Hồ Chí Minh",
+    "website": "www.hcmuc.edu.vn;",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": 300,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/dai-hoc-van-hoa-tphcm-VHS.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0310/thong-tin-tuyen-sinh-dai-hoc-van-hoa-ho-chi-minh-2026.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH TRƯỜNG ĐẠI HỌC VĂN HÓA TPHCM 2026 Thông tin tuyển sinh Đại học Văn hóa TPHCM (HCMUC) năm 2026 Năm 2026, Đại học Văn hoá TP.HCM thông báo tuyển sinh 1300 chỉ tiêu theo 3 phương thức, cụ thể: Phương thức 1: Xét tuyển từ kết quả kỳ thi tốt nghiệp cấp THPT các môn: Ngữ văn, Lịch sử, Địa lý, Toán, tiếng Anh, tiếng Trung, Tin học, Giáo dục kinh tế và pháp luật. Phương thức 2: Xét tuyển từ kết quả học tập cấp THPT, các môn: Ngữ văn, Lịch sử, Địa lý, Toán, tiếng Anh, tiếng Trung, Tin học, Giáo dục kinh tế và pháp luật. Phương thức 3: Kết hợp xét tuyển các môn: Từ kết quả kỳ thi tốt nghiệp THPT hoặc kết quả học tập cấp THPT và thi tuyển Năng khiếu nghệ thuật tại Trường. Phương thức 4: Xét tuyển thẳng. Đối tượng, điều kiện dự tuyển - Đối tượng dự tuyển được xác định tại thời điểm xét tuyển (trước khi công bố kết quả xét tuyển chính thức), bao gồm: + Người đã được công nhận tốt nghiệp THPT của Việt Nam hoặc có bằng tốt nghiệp của nước ngoài được công nhận trình độ tương đương được dự tuyển vào tất cả các ngành, chuyên ngành đào tạo; + Người đã có bằng tốt nghiệp trung cấp ngành nghề thuộc cùng nhóm ngành dự tuyển và đã hoàn thành đủ yêu cầu khối lượng kiến thức văn hóa cấp THPT theo quy định của pháp luật. - Đối tượng dự tuyển phải đáp ứng các điều kiện sau: + Đạt ngưỡng đảm bảo chất lượng đầu vào theo quy định tại mục 3, phần II; + Có đủ sức khỏe để học tập theo quy định hiện hành; + Có đủ thông tin cá nhân, hồ sơ dự tuyển theo quy định. - Thí sinh đăng ký xét tuyển chuyên ngành Tổ chức, dàn dựng chương trình văn hóa nghệ thuật thuộc ngành Quản lý văn hóa, có phương thức và xét tuyển R01, R02, R03 phải tham dự kỳ thi năng khiếu nghệ thuật do Trường tổ chức. - Đối với thí sinh khuyết tật bị suy giảm khả năng học tập, Trường tạo những điều kiện thuận lợi để thí sinh có nguyện vọng và năng lực được đăng ký dự tuyển và theo học ngành, chuyên ngành phù hợp với sức khỏe của thí sinh. Xem thời gian và hồ sơ đăng ký xét tuyển HCMUC năm 2026 TẠI ĐÂY Khám phá thêm Khoa học khoa học giáo dục",
+  "admission_methods": [
+    {
+      "method_id": "1-iem-thi-thpt",
+      "method_name": "1 ĐIỂM THI THPT",
+      "description": "1.1 ĐIỀU KIỆN XÉT TUYỂN Tổng điểm các bài thi/môn thi theo thang điểm 10 đối với từng bài thi/môn thi của từng tổ hợp xét tuyển và cộng với điểm ưu tiên đối tượng, khu vực theo quy định và được làm tròn đến hai chữ số thập phân. Ngưỡng điểm nhận hồ sơ xét tuyển: Từ mức điểm sàn trở lên theo quy định của Bộ Giáo dục và Đào tạo. Trường sẽ thông báo ngưỡng đảm bảo chất lượng đầu vào trên trang thông tin điện tử trước thời gian kết thúc đăng ký dự tuyển ít nhất 10 ngày. Ngoài những điều kiện nêu trê",
+      "eligibility": "đối tượng, khu vực theo quy định và được làm tròn đến hai chữ số thập phân. Ngưỡng điểm nhận hồ sơ xét tuyển: Từ mức điểm sàn trở lên theo quy định của Bộ Giáo dục và Đào tạo. Trường sẽ thông báo ngưỡng đảm bảo chất lượng đầu vào trên trang thông tin điện tử trước thời gian kết thúc đăng ký dự tuyển ít nhất 10 ngày. Ngoài những",
+      "rules": "QUY CHẾ Xét tuyển từ kết quả kỳ thi tốt nghiệp cấp THPT các môn: Ngữ văn, Lịch sử, Địa lý, Toán, tiếng Anh, tiếng Trung, Tin học, Giáo dục kinh tế và pháp luật. Kết hợp xét tuyển kết quả kỳ thi tốt nghiệp THPT và thi tuyển Năng khiếu nghệ thuật tại Trường. Kết quả thi năng khiếu nghệ thuật được dùng để xét tuyển cùng với tổ hợp các môn văn hóa theo các phương thức xét tuyển của Trường (Thí sinh đăng ký dự thi năng khiếu nghệ thuật, đồng thời cần phải thực hiện thủ tục đăng ký xét tuyển trong 4 tổ hợp: R01, R02, R03, R04). 1.3 THỜI GIAN XÉT TUYỂN Thời gian nộp hồ sơ đăng ký dự thi: Từ ngày 01/05/2026 đến hết ngày 30/05/2026 (hoặc theo Quy định của Bộ Giáo dục và Đào tạo). - Hồ sơ đăng ký dự thi gồm có: · + 01 Phiếu đăng ký dự thi - Phiếu số 1 (theo mẫu của Trường); · + 01 Đơn đăng ký dự thi - Phiếu số 2 (theo mẫu của Trường); · + 01 bản photo chứng minh nhân dân/căn cước công dân; · + Ảnh 4 x 6cm (ghi rõ tên, ngày sinh, chuyên ngành đăng ký dự thi sau ảnh); · + Phong bì thư có dán tem và ghi đầy đủ họ và tên, địa chỉ người nhận. Lệ phí thi năng khiếu nghệ thuật: 200.000 đồng/hồ sơ (quy định tại Thông tư liên tịch số 40/2015/TTLT-BTC-BGDĐT). Nội dung nộp lệ phí: Thí sinh ghi rõ nội dung “đóng lệ phí thi tuyển chuyên ngành Tổ chức, dàn dựng chương trình văn hóa nghệ thuật”. Thời gian thi: Từ ngày 15/06/2026 đến ngày 16/06/2026 (Ngày 17/06/2026: dự phòng). Địa điểm thi: Cơ sở 1, Trường Đại học Văn hóa Thành phố Hồ Chí Minh, số 51 đường Quốc Hương, phường An Khánh, Thành phố Hồ Chí Minh. Môn thi: Năng khiếu nghệ thuật. Yêu cầu đối với thí sinh: Trang phục khi dự thi phải lịch sự, phù hợp với tiết mục biểu diễn. Nếu có người trợ diễn thì thí sinh phải đăng ký với Ban coi thi vào ngày tập trung làm thủ tục dự thi.",
+      "programs": [
+        {
+          "program_code": "7220112",
+          "program_name": "Văn hóa các dân tộc thiểu số Việt Nam",
+          "subject_groups": [
+            "A06",
+            "A07",
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "D04",
+            "D10",
+            "D14",
+            "D15",
+            "X01",
+            "X17",
+            "X21",
+            "X22",
+            "X25",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7320201",
+          "program_name": "Thông tin - Thư viện",
+          "subject_groups": [
+            "A07",
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "D10",
+            "D14",
+            "D15",
+            "X01",
+            "X17",
+            "X21",
+            "X22",
+            "X25",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7320402",
+          "program_name": "Kinh doanh xuất bản phẩm",
+          "subject_groups": [
+            "A07",
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "D10",
+            "D14",
+            "D15",
+            "X01",
+            "X17",
+            "X21",
+            "X22",
+            "X25",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7810101",
+          "program_name": "Du lịch",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "D04",
+            "D10",
+            "D14",
+            "D15",
+            "X01",
+            "X17",
+            "X21",
+            "X22",
+            "X25",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-hoc-ba",
+      "method_name": "2 ĐIỂM HỌC BẠ",
+      "description": "2.1 ĐIỀU KIỆN XÉT TUYỂN Để được ĐKXT thì với mỗi môn trong tổ hợp xét tuyển, điểm trung bình của mỗi năm học phải lớn hơn hoặc bằng 5,0 điểm (thang điểm 10). Đối với môn kết hợp thi năng khiếu, thí sinh phải có điểm các môn thi năng khiếu nghệ thuật lớn hơn hoặc bằng 5,0 điểm (thang điểm 10). 2.2 QUY CHẾ Xét tuyển từ kết quả học tập cấp THPT, các môn: Ngữ văn, Lịch sử, Địa lý, Toán, tiếng Anh, tiếng Trung, Tin học, Giáo dục kinh tế và pháp luật. Kết hợp xét kết quả học tập cấp THPT và thi tuyển ",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét tuyển từ kết quả học tập cấp THPT, các môn: Ngữ văn, Lịch sử, Địa lý, Toán, tiếng Anh, tiếng Trung, Tin học, Giáo dục kinh tế và pháp luật. Kết hợp xét kết quả học tập cấp THPT và thi tuyển Năng khiếu nghệ thuật tại Trường cho môn năng khiếu. Kết quả thi năng khiếu nghệ thuật được dùng để xét tuyển cùng với tổ hợp các môn văn hóa theo các phương thức xét tuyển của Trường (Thí sinh đăng ký dự thi năng khiếu nghệ thuật, đồng thời cần phải thực hiện thủ tục đăng ký xét tuyển trong 4 tổ hợp: R01, R02, R03, R04). 2.3 THỜI GIAN XÉT TUYỂN Thời gian nộp hồ sơ đăng ký dự thi: Từ ngày 01/05/2026 đến hết ngày 30/05/2026 (hoặc theo Quy định của Bộ Giáo dục và Đào tạo). - Hồ sơ đăng ký dự thi gồm có: · + 01 Phiếu đăng ký dự thi - Phiếu số 1 (theo mẫu của Trường); · + 01 Đơn đăng ký dự thi - Phiếu số 2 (theo mẫu của Trường); · + 01 bản photo chứng minh nhân dân/căn cước công dân; · + Ảnh 4 x 6cm (ghi rõ tên, ngày sinh, chuyên ngành đăng ký dự thi sau ảnh); · + Phong bì thư có dán tem và ghi đầy đủ họ và tên, địa chỉ người nhận. Lệ phí thi năng khiếu nghệ thuật: 200.000 đồng/hồ sơ (quy định tại Thông tư liên tịch số 40/2015/TTLT-BTC-BGDĐT). Nội dung nộp lệ phí: Thí sinh ghi rõ nội dung “đóng lệ phí thi tuyển chuyên ngành Tổ chức, dàn dựng chương trình văn hóa nghệ thuật”. Thời gian thi: Từ ngày 15/06/2026 đến ngày 16/06/2026 (Ngày 17/06/2026: dự phòng). Địa điểm thi: Cơ sở 1, Trường Đại học Văn hóa Thành phố Hồ Chí Minh, số 51 đường Quốc Hương, phường An Khánh, Thành phố Hồ Chí Minh. Môn thi: Năng khiếu nghệ thuật. Yêu cầu đối với thí sinh: Trang phục khi dự thi phải lịch sự, phù hợp với tiết mục biểu diễn. Nếu có người trợ diễn thì thí sinh phải đăng ký với Ban coi thi vào ngày tập trung làm thủ tục dự thi.",
+      "programs": [
+        {
+          "program_code": "7220112",
+          "program_name": "Văn hóa các dân tộc thiểu số Việt Nam",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7320201",
+          "program_name": "Thông tin - Thư viện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7320402",
+          "program_name": "Kinh doanh xuất bản phẩm",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7810101",
+          "program_name": "Du lịch",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        }
+      ]
+    },
+    {
+      "method_id": "3-utxt-xt-thang",
+      "method_name": "3 ƯTXT, XT THẲNG",
+      "description": "3.1 ĐỐI TƯỢNG - Anh hùng lao động, Anh hùng lực lượng vũ trang nhân dân, Chiến sĩ thi đua toàn quốc. - Thành tích học tập/giải thưởng: Thí sinh đoạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia, quốc tế hoặc thi khoa học, kỹ thuật cấp quốc gia, quốc tế. Thí sinh đoạt giải chính thức trong các cuộc thi nghệ thuật quốc tế về ca, múa, nhạc, mỹ thuật được Bộ Văn hóa, Thể thao và Du lịch công nhận. Giải nhất, nhì, ba tại các kỳ thi tay nghề khu vực ASEAN và thế giới. - Xét tuyển thẳng ",
+      "eligibility": "ĐỐI TƯỢNG - Anh hùng lao động, Anh hùng lực lượng vũ trang nhân dân, Chiến sĩ thi đua toàn quốc. - Thành tích học tập/giải thưởng: Thí sinh đoạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia, quốc tế hoặc thi khoa học, kỹ thuật cấp quốc gia, quốc tế. Thí sinh đoạt giải chính thức trong các cuộc thi nghệ thuật quốc tế về ca, múa, nhạc, mỹ thuật được Bộ Văn hóa, Thể thao và Du lịch công nhận. Giải nhất, nhì, ba tại các kỳ thi tay nghề khu vực ASEAN và thế giới. - Xét tuyển thẳng các môn năng khiếu nghệ thuật: Thí sinh đoạt giải cuộc thi năng khiếu (ca, múa, nhạc cụ, diễn kịch, nhiếp ảnh...) cấp tỉnh và tương đương trở lên có thể được xét tuyển thẳng vào chuyên ngành Tổ chức, dàn dựng chương trình văn hóa nghệ thuật. 3.2 CHỈ TIÊU 3% chỉ tiêu tuyển sinh của từng ngành.",
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7220112",
+          "program_name": "Văn hóa các dân tộc thiểu số Việt Nam",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7320201",
+          "program_name": "Thông tin - Thư viện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7320402",
+          "program_name": "Kinh doanh xuất bản phẩm",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7810101",
+          "program_name": "Du lịch",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7220112",
+          "program_name": "Văn hóa các dân tộc thiểu số Việt Nam",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7220112",
+          "program_name": "Văn hóa các dân tộc thiểu số Việt Nam",
+          "subject_groups": [
+            "A06",
+            "A07",
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "D04",
+            "D10",
+            "D14",
+            "D15",
+            "X01",
+            "X17",
+            "X21",
+            "X22",
+            "X25",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7320201",
+          "program_name": "Thông tin - Thư viện",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7320201",
+          "program_name": "Thông tin - Thư viện",
+          "subject_groups": [
+            "A07",
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "D10",
+            "D14",
+            "D15",
+            "X01",
+            "X17",
+            "X21",
+            "X22",
+            "X25",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "10"
+        },
+        {
+          "program_code": "7320402",
+          "program_name": "Kinh doanh xuất bản phẩm",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7320402",
+          "program_name": "Kinh doanh xuất bản phẩm",
+          "subject_groups": [
+            "A07",
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "D10",
+            "D14",
+            "D15",
+            "X01",
+            "X17",
+            "X21",
+            "X22",
+            "X25",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "11"
+        },
+        {
+          "program_code": "7810101",
+          "program_name": "Du lịch",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "12"
+        },
+        {
+          "program_code": "7810101",
+          "program_name": "Du lịch",
+          "subject_groups": [
+            "C00",
+            "C03",
+            "C04",
+            "D01",
+            "D04",
+            "D10",
+            "D14",
+            "D15",
+            "X01",
+            "X17",
+            "X21",
+            "X22",
+            "X25",
+            "X78"
+          ],
+          "program_type": "chuẩn",
+          "note": "12"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm chuẩn của trường Đại học Văn hóa TPHCM các năm Tại đây.",
+  "tuition_text": "Học phí (dự kiến) Năm học 2026-2027: 19.910.000 đồng/Sinh viên. Ghi chú: Thu theo tín chỉ; thực hiện theo Nghị định số 238/2025/NĐ-CP của Chính phủ.",
+  "timeline_text": "1. Tổ chức tuyển sinh 1.1. Thời gian và hình thức tuyển sinh - Xét tuyển đợt 1 và “lọc ảo” chung trên Hệ thống của Bộ Giáo dục và Đào tạo: Theo kế hoạch tuyển sinh của Bộ Giáo dục và Đào tạo. - Hình thức tuyển sinh: + Xét tuyển từ kết quả thi tốt nghiệp THPT, xét tuyển từ kết quả học bạ THPT, xét tuyển thẳng, dự bị đại học: Trực tuyến (online), theo quy định chung của Bộ Giáo dục và Đào tạo; + Thi tuyển các môn năng khiếu nghệ thuật: Trực tiếp. Thí sinh nộp hồ sơ đăng ký dự thi theo thông báo của Trường. 1.2. Thi tuyển các môn thi năng khiếu nghệ thuật Kết quả thi năng khiếu nghệ thuật được dùng để xét tuyển cùng với tổ hợp các môn văn hóa theo các phương thức xét tuyển của Trường (Thí sinh đăng ký dự thi năng khiếu nghệ thuật, đồng thời cần phải thực hiện thủ tục đăng ký xét tuyển trong 4 tổ hợp: R01, R02, R03, R04). Thí sinh thực hiện những quy định về thi năng khiếu nghệ thuật chuyên ngành Tổ chức, dàn dựng chương trình văn hóa nghệ thuật, ngành Quản lý văn hóa như sau: 1.3. Thời gian nộp hồ sơ đăng ký dự thi: Từ ngày 01/05/2026 đến hết ngày 30/05/2026 (hoặc theo Quy định của Bộ Giáo dục và Đào tạo). - Hồ sơ đăng ký dự thi gồm có: · + 01 Phiếu đăng ký dự thi - Phiếu số 1 (theo mẫu của Trường); · + 01 Đơn đăng ký dự thi - Phiếu số 2 (theo mẫu của Trường); · + 01 bản photo chứng minh nhân dân/căn cước công dân; · + Ảnh 4 x 6cm (ghi rõ tên, ngày sinh, chuyên ngành đăng ký dự thi sau ảnh); · + Phong bì thư có dán tem và ghi đầy đủ họ và tên, địa chỉ người nhận. Lệ phí thi năng khiếu nghệ thuật: 200.000 đồng/hồ sơ (quy định tại Thông tư liên tịch số 40/2015/TTLT-BTC-BGDĐT). Nội dung nộp lệ phí: Thí sinh ghi rõ nội dung “đóng lệ phí thi tuyển chuyên ngành Tổ chức, dàn dựng chương trình văn hóa nghệ thuật”. Thời gian thi: Từ ngày 15/06/2026 đến ngày 16/06/2026 (Ngày 17/06/2026: dự phòng). Địa điểm thi: Cơ sở 1, Trường Đại học Văn hóa Thành phố Hồ Chí Minh, số 51 đường Quốc Hương, phường An Khánh, Thành phố Hồ Chí Minh. Môn thi: Năng khiếu nghệ thuật. Yêu cầu đối với thí sinh: Trang phục khi dự thi phải lịch sự, phù hợp với tiết mục biểu diễn. Nếu có người trợ diễn thì thí sinh phải đăng ký với Ban coi thi vào ngày tập trung làm thủ tục dự thi.",
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/dai-hoc-van-hoa-tphcm-VHS.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220112",
+            "program_name": "Văn hóa các dân tộc thiểu số Việt Nam",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "D01",
+              "D10",
+              "D15"
+            ],
+            "score": 24.5,
+            "note": null
+          },
+          {
+            "program_code": "7229040A",
+            "program_name": "Văn hóa học, chuyên ngành Văn hóa Việt Nam",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "C14",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 25.8,
+            "note": null
+          },
+          {
+            "program_code": "7229040B",
+            "program_name": "Văn hóa học, chuyên ngành Công nghiệp Văn hóa",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "C14",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 25.95,
+            "note": null
+          },
+          {
+            "program_code": "7229040C",
+            "program_name": "Văn hóa học, chuyên ngành Truyền thông Văn hóa",
+            "subject_groups": [
+              "C00",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 26.75,
+            "note": null
+          },
+          {
+            "program_code": "7229042A",
+            "program_name": "Quản lý văn hóa, chuyên ngành Quản lý hoạt động văn hóa xã hội",
+            "subject_groups": [
+              "C00",
+              "C14",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 25.95,
+            "note": null
+          },
+          {
+            "program_code": "7229042C",
+            "program_name": "Quản lý văn hóa",
+            "subject_groups": [
+              "R01",
+              "R02",
+              "R03",
+              "R04"
+            ],
+            "score": 24.1,
+            "note": null
+          },
+          {
+            "program_code": "7229042D",
+            "program_name": "Quản lý văn hóa, chuyên ngành Tổ chức sự kiện văn hóa, thể thao, du lịch",
+            "subject_groups": [
+              "C00",
+              "C14",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 26.55,
+            "note": null
+          },
+          {
+            "program_code": "7229047A",
+            "program_name": "Di sản học, chuyên ngành Di sản và phát triển du lịch",
+            "subject_groups": [
+              "C00",
+              "C14",
+              "D01",
+              "D04",
+              "D14",
+              "D15"
+            ],
+            "score": 24.8,
+            "note": null
+          },
+          {
+            "program_code": "7229047B",
+            "program_name": "Di sản học, chuyên ngành Di sản và bảo tàng",
+            "subject_groups": [
+              "C00",
+              "C14",
+              "D01",
+              "D04",
+              "D14",
+              "D15"
+            ],
+            "score": 25,
+            "note": null
+          },
+          {
+            "program_code": "7320201",
+            "program_name": "Thông tin - Thư viện",
+            "subject_groups": [
+              "C00",
+              "D01",
+              "D09",
+              "D15"
+            ],
+            "score": 24.8,
+            "note": null
+          },
+          {
+            "program_code": "7320402",
+            "program_name": "Kinh doanh xuất bản phẩm",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C14",
+              "D01",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 24.95,
+            "note": null
+          },
+          {
+            "program_code": "7810101",
+            "program_name": "Du lịch",
+            "subject_groups": [
+              "C00",
+              "C14",
+              "D01",
+              "D04"
+            ],
+            "score": 26,
+            "note": null
+          },
+          {
+            "program_code": "7810103A",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành, chuyên ngành Quản trị lữ hành",
+            "subject_groups": [
+              "C00",
+              "C14",
+              "D01",
+              "D04"
+            ],
+            "score": 26.05,
+            "note": null
+          },
+          {
+            "program_code": "7810103B",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành, chuyên ngành Hướng dẫn du lịch",
+            "subject_groups": [
+              "C00",
+              "C14",
+              "D01",
+              "D04"
+            ],
+            "score": 25.85,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-hoc-ba",
+        "method_name": "Điểm chuẩn theo phương thức Điểm học bạ năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7220112",
+            "program_name": "Văn hóa các dân tộc thiểu số Việt Nam",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "D01",
+              "D10",
+              "D15"
+            ],
+            "score": 25.5,
+            "note": null
+          },
+          {
+            "program_code": "7229040A",
+            "program_name": "Văn hóa học, chuyên ngành Văn hóa Việt Nam",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "C14",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 26.8,
+            "note": null
+          },
+          {
+            "program_code": "7229040B",
+            "program_name": "Văn hóa học, chuyên ngành Công nghiệp Văn hóa",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C04",
+              "C14",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 26.95,
+            "note": null
+          },
+          {
+            "program_code": "7229040C",
+            "program_name": "Văn hóa học, chuyên ngành Truyền thông Văn hóa",
+            "subject_groups": [
+              "C00",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 27.75,
+            "note": null
+          },
+          {
+            "program_code": "7229042A",
+            "program_name": "Quản lý văn hóa, chuyên ngành Quản lý hoạt động văn hóa xã hội",
+            "subject_groups": [
+              "C00",
+              "C14",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 26.95,
+            "note": null
+          },
+          {
+            "program_code": "7229042C",
+            "program_name": "Quản lý văn hóa",
+            "subject_groups": [
+              "R01",
+              "R02",
+              "R03",
+              "R04"
+            ],
+            "score": 25.1,
+            "note": null
+          },
+          {
+            "program_code": "7229042D",
+            "program_name": "Quản lý văn hóa, chuyên ngành Tổ chức sự kiện văn hóa, thể thao, du lịch",
+            "subject_groups": [
+              "C00",
+              "C14",
+              "D01",
+              "D14",
+              "D15"
+            ],
+            "score": 27.55,
+            "note": null
+          },
+          {
+            "program_code": "7229047A",
+            "program_name": "Di sản học, chuyên ngành Di sản và phát triển du lịch",
+            "subject_groups": [
+              "C00",
+              "C14",
+              "D01",
+              "D04",
+              "D14",
+              "D15"
+            ],
+            "score": 25.8,
+            "note": null
+          },
+          {
+            "program_code": "7229047B",
+            "program_name": "Di sản học, chuyên ngành Di sản và bảo tàng",
+            "subject_groups": [
+              "C00",
+              "C14",
+              "D01",
+              "D04",
+              "D14",
+              "D15"
+            ],
+            "score": 26,
+            "note": null
+          },
+          {
+            "program_code": "7320201",
+            "program_name": "Thông tin - Thư viện",
+            "subject_groups": [
+              "C00",
+              "D01",
+              "D09",
+              "D15"
+            ],
+            "score": 25.8,
+            "note": null
+          },
+          {
+            "program_code": "7320402",
+            "program_name": "Kinh doanh xuất bản phẩm",
+            "subject_groups": [
+              "C00",
+              "C03",
+              "C14",
+              "D01",
+              "D10",
+              "D14",
+              "D15"
+            ],
+            "score": 26,
+            "note": null
+          },
+          {
+            "program_code": "7810101",
+            "program_name": "Du lịch",
+            "subject_groups": [
+              "C00",
+              "C14",
+              "D01",
+              "D04"
+            ],
+            "score": 27,
+            "note": null
+          },
+          {
+            "program_code": "7810103A",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành, chuyên ngành Quản trị lữ hành",
+            "subject_groups": [
+              "C00",
+              "C14",
+              "D01",
+              "D04"
+            ],
+            "score": 27.05,
+            "note": null
+          },
+          {
+            "program_code": "7810103B",
+            "program_name": "Quản trị dịch vụ du lịch và lữ hành, chuyên ngành Hướng dẫn du lịch",
+            "subject_groups": [
+              "C00",
+              "C14",
+              "D01",
+              "D04"
+            ],
+            "score": 26.85,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}

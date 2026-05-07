@@ -1,0 +1,357 @@
+{
+  "university": {
+    "code": "PKH",
+    "name": "Học viện Phòng không - Không quân",
+    "short_name": "PKH",
+    "location": [
+      "Hà Nội"
+    ],
+    "address": "Xã Kim Sơn, Sơn Tây, Hà Nội",
+    "website": "http://www.hocvienpkkq.com",
+    "type": null,
+    "description": null
+  },
+  "admission_year": 2026,
+  "total_quota": null,
+  "source_url": "https://diemthi.tuyensinh247.com/de-an-tuyen-sinh/hoc-vien-phong-khong-khong-quan-PKH.html",
+  "pdf_url": "https://images.tuyensinh247.com/picture/2026/0311/thong-tin-tuyen-sinh-hoc-vien-phong-khong-khong-quan-2026.pdf",
+  "admission_overview": "ĐỀ ÁN TUYỂN SINH HỌC VIỆN PHÒNG KHÔNG – KHÔNG QUÂN 2026 Thông tin tuyển sinh Học Viện Phòng Không – Không Quân năm 2026 Phương thức 1 (PT1): Xét tuyển thẳng, ưu tiên xét tuyển theo quy chế tuyển sinh đại học của Bộ GD&ĐT, quy định của Bộ Quốc phòng. Phương thức 2 (PT2): Xét tuyển từ kết quả kỳ thi đánh giá năng lực do các trường đại học trong nước tổ chức năm 2026 (Đại học Quốc gia Hà Nội và Đại học Quốc gia TP Hồ Chí Minh). - Phương thức 3 (PT3): Xét tuyển từ kết quả kỳ thi đánh giá năng lực do Bộ Quốc phòng; - Phương thức 4 (PT4): Xét tuyển dựa vào kết quả kỳ thi tốt nghiệp THPT năm 2026.",
+  "admission_methods": [
+    {
+      "method_id": "1-utxt-xt-thang",
+      "method_name": "1 ƯTXT, XT THẲNG",
+      "description": "1.1 QUY CHẾ Xét tuyển thẳng, ưu tiên xét tuyển theo quy chế tuyển sinh đại học của Bộ GD&ĐT, quy định của Bộ Quốc phòng. DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ƯTXT, XT THẲNG STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7860226 Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử (Thí sinh miền Bắc) 2 7860226 Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử (Thí sinh miền Nam)",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét tuyển thẳng, ưu tiên xét tuyển theo quy chế tuyển sinh đại học của Bộ GD&ĐT, quy định của Bộ Quốc phòng.",
+      "programs": [
+        {
+          "program_code": "7860226",
+          "program_name": "Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử (Thí sinh miền Bắc)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7860226",
+          "program_name": "Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử (Thí sinh miền Nam)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    },
+    {
+      "method_id": "2-iem-gnl-hn",
+      "method_name": "2 ĐIỂM ĐGNL HN",
+      "description": "2.1 QUY CHẾ Xét tuyển từ kết quả kỳ thi đánh giá năng lực do các trường đại học trong nước tổ chức năm 2026 (Đại học Quốc gia Hà Nội và Đại học Quốc gia TP Hồ Chí Minh). DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐGNL HN STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7860226 Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử (Thí sinh miền Bắc) Q00 2 7860226 Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử (Thí sinh miền Nam) Q00",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét tuyển từ kết quả kỳ thi đánh giá năng lực do các trường đại học trong nước tổ chức năm 2026 (Đại học Quốc gia Hà Nội và Đại học Quốc gia TP Hồ Chí Minh).",
+      "programs": [
+        {
+          "program_code": "7860226",
+          "program_name": "Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử (Thí sinh miền Bắc)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7860226",
+          "program_name": "Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử (Thí sinh miền Nam)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    },
+    {
+      "method_id": "3-iem-gnl-hcm",
+      "method_name": "3 ĐIỂM ĐGNL HCM",
+      "description": "3.1 QUY CHẾ Xét tuyển từ kết quả kỳ thi đánh giá năng lực do các trường đại học trong nước tổ chức năm 2026 (Đại học Quốc gia Hà Nội và Đại học Quốc gia TP Hồ Chí Minh). DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM ĐGNL HCM STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7860226 Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử (Thí sinh miền Bắc) 2 7860226 Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử (Thí sinh miền Nam)",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét tuyển từ kết quả kỳ thi đánh giá năng lực do các trường đại học trong nước tổ chức năm 2026 (Đại học Quốc gia Hà Nội và Đại học Quốc gia TP Hồ Chí Minh).",
+      "programs": [
+        {
+          "program_code": "7860226",
+          "program_name": "Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử (Thí sinh miền Bắc)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7860226",
+          "program_name": "Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử (Thí sinh miền Nam)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    },
+    {
+      "method_id": "4-iem-thi-thpt",
+      "method_name": "4 ĐIỂM THI THPT",
+      "description": "4.1 QUY CHẾ Xét tuyển dựa vào kết quả kỳ thi tốt nghiệp THPT năm 2026 với 3 tổ hợp môn A00; A01; C01 DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC ĐIỂM THI THPT STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7860226 Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử (Thí sinh miền Bắc) A00; A01; C01 2 7860226 Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử (Thí sinh miền Nam) A00; A01; C01",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét tuyển dựa vào kết quả kỳ thi tốt nghiệp THPT năm 2026 với 3 tổ hợp môn A00; A01; C01",
+      "programs": [
+        {
+          "program_code": "7860226",
+          "program_name": "Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử (Thí sinh miền Bắc)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7860226",
+          "program_name": "Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử (Thí sinh miền Nam)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    },
+    {
+      "method_id": "5",
+      "method_name": "5",
+      "description": "5.1 QUY CHẾ Xét tuyển từ kết quả kỳ thi đánh giá năng lực do Bộ Quốc phòng DANH SÁCH NGÀNH ĐÀO TẠO THEO PHƯƠNG THỨC STT Mã ngành Tên ngành Tổ hợp Ghi chú 1 7860226 Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử (Thí sinh miền Bắc) 2 7860226 Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử (Thí sinh miền Nam)",
+      "eligibility": null,
+      "rules": "QUY CHẾ Xét tuyển từ kết quả kỳ thi đánh giá năng lực do Bộ Quốc phòng",
+      "programs": [
+        {
+          "program_code": "7860226",
+          "program_name": "Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử (Thí sinh miền Bắc)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7860226",
+          "program_name": "Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử (Thí sinh miền Nam)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    },
+    {
+      "method_id": "danh-sach-nganh-dao-tao",
+      "method_name": "Danh sách ngành đào tạo",
+      "description": null,
+      "eligibility": null,
+      "rules": null,
+      "programs": [
+        {
+          "program_code": "7860226",
+          "program_name": "Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử (Thí sinh miền Bắc)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7860226",
+          "program_name": "Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử (Thí sinh miền Bắc)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7860226",
+          "program_name": "Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử (Thí sinh miền Bắc)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "1"
+        },
+        {
+          "program_code": "7860226",
+          "program_name": "Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử (Thí sinh miền Nam)",
+          "subject_groups": [],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7860226",
+          "program_name": "Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử (Thí sinh miền Nam)",
+          "subject_groups": [
+            "A00",
+            "A01",
+            "C01"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        },
+        {
+          "program_code": "7860226",
+          "program_name": "Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử (Thí sinh miền Nam)",
+          "subject_groups": [
+            "Q00"
+          ],
+          "program_type": "chuẩn",
+          "note": "2"
+        }
+      ]
+    }
+  ],
+  "cutoff_scores_text": "Xem điểm của Học viện Phòng không - Không quân các năm Tại đây",
+  "tuition_text": null,
+  "timeline_text": null,
+  "cutoff_scores": {
+    "year": 2025,
+    "source_url": "https://diemthi.tuyensinh247.com/diem-chuan/hoc-vien-phong-khong-khong-quan-PKH.html",
+    "methods": [
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-thi-thpt",
+        "method_name": "Điểm chuẩn theo phương thức Điểm thi THPT năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7520120",
+            "program_name": "Ngành Kỹ thuật Hàng không (Thí sinh miền Bắc)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01"
+            ],
+            "score": 26.5,
+            "note": null
+          },
+          {
+            "program_code": "7520120",
+            "program_name": "Ngành Kỹ thuật Hàng không (Thí sinh miền Nam)",
+            "subject_groups": [
+              "A00",
+              "A01",
+              "C01"
+            ],
+            "score": 25.17,
+            "note": null
+          },
+          {
+            "program_code": "7860226",
+            "program_name": "Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử (Thí sinh miền Bắc)",
+            "subject_groups": [
+              "A00",
+              "A01"
+            ],
+            "score": 24.73,
+            "note": null
+          },
+          {
+            "program_code": "7860226",
+            "program_name": "Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử (Thí sinh miền Bắc)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 24.73,
+            "note": null
+          },
+          {
+            "program_code": "7860226",
+            "program_name": "Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử (Thí sinh miền Nam)",
+            "subject_groups": [
+              "A00",
+              "A01"
+            ],
+            "score": 23.25,
+            "note": null
+          },
+          {
+            "program_code": "7860226",
+            "program_name": "Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử (Thí sinh miền Nam)",
+            "subject_groups": [
+              "C01"
+            ],
+            "score": 23.25,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hn",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HN năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7520120",
+            "program_name": "Ngành Kỹ thuật Hàng không (Thí sinh miền Bắc)",
+            "subject_groups": [],
+            "score": 103,
+            "note": null
+          },
+          {
+            "program_code": "7520120",
+            "program_name": "Ngành Kỹ thuật Hàng không (Thí sinh miền Nam)",
+            "subject_groups": [],
+            "score": 97,
+            "note": null
+          },
+          {
+            "program_code": "7860226",
+            "program_name": "Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử (Thí sinh miền Bắc)",
+            "subject_groups": [],
+            "score": 96,
+            "note": null
+          },
+          {
+            "program_code": "7860226",
+            "program_name": "Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử (Thí sinh miền Nam)",
+            "subject_groups": [],
+            "score": 91,
+            "note": null
+          }
+        ]
+      },
+      {
+        "method_id": "iem-chuan-theo-phuong-thuc-iem-gnl-hcm",
+        "method_name": "Điểm chuẩn theo phương thức Điểm ĐGNL HCM năm 2025",
+        "year": 2025,
+        "entries": [
+          {
+            "program_code": "7520120",
+            "program_name": "Ngành Kỹ thuật Hàng không (Thí sinh miền Bắc)",
+            "subject_groups": [],
+            "score": 933,
+            "note": "Trên 100 điểm"
+          },
+          {
+            "program_code": "7520120",
+            "program_name": "Ngành Kỹ thuật Hàng không (Thí sinh miền Nam)",
+            "subject_groups": [],
+            "score": 878,
+            "note": null
+          },
+          {
+            "program_code": "7860226",
+            "program_name": "Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử (Thí sinh miền Bắc)",
+            "subject_groups": [],
+            "score": 865,
+            "note": null
+          },
+          {
+            "program_code": "7860226",
+            "program_name": "Ngành Chỉ huy Tham mưu Phòng không, Không quân và Tác chiến điện tử (Thí sinh miền Nam)",
+            "subject_groups": [],
+            "score": 805,
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+}
